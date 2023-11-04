@@ -33,13 +33,8 @@ Benvenuti nel mio Digital Garden. Qui condivido alcune delle mie note, principal
 
 { .block-language-dataview}
 
+# ❤️ Buy me a coffe
+Clicca [qui](https://ko-fi.com/matteomeloni) o scannerizza il codice QR.
+Dona qui: https://ko-fi.com/matteomeloni
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('matteomeloni', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#ff5f5f',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+![qrcode.png](/img/user/allegati/qrcode.png)
