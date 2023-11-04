@@ -34,7 +34,16 @@ Benvenuti nel mio Digital Garden. Qui condivido alcune delle mie note, principal
 { .block-language-dataview}
 
 # ❤️ Buy me a coffe
+
+```button
+name ❤️ Offrimi un caffè 
+type link
+action https://ko-fi.com/matteomeloni
+color yellow
+```{ #button-u0kx}
+
+
 Se hai trovato utile questo sito puoi fare una donazione cliccando [qui](https://ko-fi.com/matteomeloni) o scannerizzando il codice QR.
-Dona qui: https://ko-fi.com/matteomeloni
+
 
 ![qrcode.png](/img/user/allegati/qrcode.png)
