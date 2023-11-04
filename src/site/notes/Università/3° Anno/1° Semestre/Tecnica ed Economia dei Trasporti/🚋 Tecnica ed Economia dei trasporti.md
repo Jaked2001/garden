@@ -52,11 +52,11 @@ Dei 3 argomenti c'è sempre la possibilità di sceglierne uno. **1 argomento a p
 
 
 ## 💯 Voto
-| Parte       | Data           | Voto |
-| ----------- | -------------- | ---- |
-| Orale       |  |     |
+| Parte | Data | Voto |
+| ----- | ---- | ---- |
+| Orale |      |      |
 
- 
+
 
 # ✔️ To-Do
 - [x] Recupera appunti del 🛫 [[_Giornaliera/2023-09-29\|2023-09-29]] ⏫ 📅 2023-10-13 ✅ 2023-10-13
