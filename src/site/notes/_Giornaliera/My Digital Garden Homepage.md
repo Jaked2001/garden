@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/giornaliera/my-digital-garden-homepage/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/_Giornaliera/My Digital Garden Homepage/","tags":["gardenEntry"]}
 ---
 
 
