@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/_Giornaliera/My Digital Garden Homepage/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/giornaliera/my-digital-garden-homepage/","tags":["gardenEntry"]}
 ---
 
 
 This is the homepage for my voult.
+
+Ma che gigo
 
 | File                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
