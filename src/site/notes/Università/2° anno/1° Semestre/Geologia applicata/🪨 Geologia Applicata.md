@@ -81,16 +81,7 @@ title: Esami
 
 
 # ✔️ Promemoria
-- [x] Finire di scrivere [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/02. I Minerali\|2. I Minerali]] ([[_Giornaliera/2023-01-04\|2023-01-04]])
-- [x] In [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/02. I Minerali\|2. I Minerali]] aggiungere parte T-O, T-O-T...
-- [x] Scrivere (🗓 2023-01-19):
-	- [x] Finire (?) [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/07. Proprietà Fisiche delle Rocce\|07. Proprietà Fisiche delle Rocce]]
-	- [x] Scrivere qualcos'altro su [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/04. Le Rocce Ignee#Diagrammi di Streckeisen\|04. Le Rocce Ignee#Diagrammi di Streckeisen]]
-- [x] Scrivere (🗓 2023-01-20):
-	- [x] [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/05. Le Rocce Sedimentarie\|5. Le rocce Sedimentarie]]
-- [x] Scrivere (🗓 2023-01-27):
-	- [x] [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/05. Le Rocce Sedimentarie\|05. Le Rocce Sedimentarie]]
-	- [x] Iniziare [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/10. Elementi di rilevamento geologico\|10. Elementi di rilevamento geologico]]
+
 
 # Quaderno
 
