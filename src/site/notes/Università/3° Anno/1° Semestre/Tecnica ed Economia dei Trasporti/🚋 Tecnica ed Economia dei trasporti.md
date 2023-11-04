@@ -3,7 +3,6 @@
 ---
 
 
-
 # 🚋 Tecnica ed Economia dei trasporti
 🧑🏻‍🏫 Prof: 
 - [[Personale/Contatti/Stefano Ricci\|Stefano Ricci]]
@@ -14,9 +13,9 @@
 🅿️ Programma: [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Programma - Tecnica ed economia dei trasporti\|Programma - Tecnica ed economia dei trasporti]]
 📖 Libri:
 - "Ricci S. - Tecnica ed Economia dei Trasporti - Hoepli, Milano, 2014"
-- [[Tecnica ed economia dei trasporti (S. Ricci).pdf\|Ricci S. - Tecnica ed Economia dei Trasporti - Hoepli, Milano, 2014]]
+- [[Tecnica ed economia dei trasporti (S. Ricci).pdf|Ricci S. - Tecnica ed Economia dei Trasporti - Hoepli, Milano, 2014]]
 - https://www.egaf.it/
-🖼 Slide: [[Slide TET.pdf\|Slide TET.pdf]]
+🖼 Slide: [[Slide TET.pdf]]
 
 Lunedì: 1 pausa intorno alle 18:00/18:15
 Venerdì: no pausa.
@@ -87,7 +86,7 @@ ___
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/01. Terminologia fondamentale\|01. Terminologia fondamentale]]                                                                             | 🪶🟡 Scrivere | \-                                                                                                                                                                                                                                                              |
 | [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/02. Compendio statistico dei sistemi di trasporto\|02. Compendio statistico dei sistemi di trasporto]]                                     | 🪶🟡 Scrivere | \-                                                                                                                                                                                                                                                              |
-| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/03. Sostentazione e locomozione\|03. Sostentazione e locomozione]]                                                                         | 🪶🟡 Scrivere | <ul><li>[[3. Sostentazione e Locomozione - Slide - TET.pdf\\|3. Sostentazione e Locomozione - Slide - TET.pdf]]</li></ul>                                                                                                                                       |
+| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/03. Sostentazione e locomozione\|03. Sostentazione e locomozione]]                                                                         | 🪶🟡 Scrivere | <ul><li>[[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/allegati/3. Sostentazione e Locomozione - Slide - TET.pdf\\|3. Sostentazione e Locomozione - Slide - TET.pdf]]</li></ul>                                                     |
 | [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/04. Diagramma Elementare del Moto e Prestazioni del Veicolo Isolato\|04. Diagramma Elementare del Moto e Prestazioni del Veicolo Isolato]] | 🟠 Studiare   | <ul><li>[[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/allegati/4. Diagramma Elementare del Moto - Slide - TET.pdf\\|4. Diagramma Elementare del Moto - Slide - TET.pdf]]</li></ul>                                                 |
 | [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/05. Teoria del Deflusso\|05. Teoria del Deflusso]]                                                                                         | 🟠 Studiare   | <ul><li>[[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/allegati/5. Teoria del Deflusso negli impianti lineari e puntuali - Slide - TET.pdf\\|5. Teoria del Deflusso negli impianti lineari e puntuali - Slide - TET.pdf]]</li></ul> |
 | [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/06. Teoria Elementare della domanda e dell'offerta\|06. Teoria Elementare della domanda e dell'offerta]]                                   | 🪶🟡 Scrivere | <ul><li>[[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/allegati/6. Teoria Elementare della Domanda e dell'Offerta - Slide - TET.pdf\\|6. Teoria Elementare della Domanda e dell'Offerta - Slide - TET.pdf]]</li></ul>               |
