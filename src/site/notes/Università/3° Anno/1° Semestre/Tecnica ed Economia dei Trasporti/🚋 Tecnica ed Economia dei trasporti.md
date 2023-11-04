@@ -42,6 +42,7 @@ Data 2: II appello
 Data 3: III appello
 
 ```
+
 ## Struttura esame
 
 Solo [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/🚋 Tecnica ed Economia dei trasporti#🗣 Orale\|#🗣 Orale]]
