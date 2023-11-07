@@ -22,15 +22,7 @@ Benvenuti nel mio Digital Garden. Qui condivido alcune delle mie note, principal
 - [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/🚲 Veicoli e impianti di trasporto\|🚲 Veicoli e impianti di trasporto]]
 
 
-# ❤️ Buy me a coffe
-
-```button
-name ❤️ Offrimi un caffè 
-type link
-action https://ko-fi.com/matteomeloni
-color yellow
-```{ #button-u0kx}
-
+# ❤️ Buy me a coffee 
 
 Se hai trovato utile questo sito puoi fare una donazione cliccando [qui](https://ko-fi.com/matteomeloni) o scannerizzando il codice QR.
 
