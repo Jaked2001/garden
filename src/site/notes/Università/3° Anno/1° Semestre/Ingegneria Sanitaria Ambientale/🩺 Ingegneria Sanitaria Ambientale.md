@@ -12,7 +12,7 @@
 - [Classroom](https://classroom.google.com/c/NjIyOTUwODk3ODc5)
 🅿️ Programma: [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Programma - Ingegneria Sanitaria Ambientale\|Programma - Ingegneria Sanitaria Ambientale]]
 📖 Libri:
-- Sirini P., Ingegneria Sanitaria-Ambientale. Principi, teorie e metodi di rappresentazione, McGraw-Hill, Milano, 2002
+- [[Ingegneria Sanitaria Ambientale - Sirini.pdf|Sirini P., Ingegneria Sanitaria-Ambientale. Principi, teorie e metodi di rappresentazione, McGraw-Hill, Milano, 2002]]
 	- Copisteria via Cavour
 - Misiti A., Fondamenti di Ingegneria Ambientale, Nuova Italia Scientifica, Firenze 1994  
 - Metcalf & Eddy, Inc., Ingegneria delle Acque Reflue. Trattamento e Riuso, 5a ed., McGraw-Hill, Milano, 2006
@@ -85,7 +85,8 @@ Solitamente una delle 3 domande si basa sulla relazione.
 - [x] Studiare e Ricopiare appunti del 🛫 2023-09-29 di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]]  - 🔼 📅 2023-10-01 ✅ 2023-10-17
 - [x] Studiare e Ricopiare appunti del 🛫 2023-10-03 di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]]  - 🔼 📅 2023-10-15
 - [x] Studiare e Ricopiare appunti del 🛫 2023-10-06 di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]]  - 📅 2023-10-15 🔼
-- [x] Finire relazione [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 01 - Determinazione dell'ordine di una reazione chimica - ISA\|Es 1 - Determinazione dell'ordine di una reazione chimica - ISA]] del 🛫 2023-10-05 - 📅 2023-10-15 🔽
+- [ ] Finire relazione [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 01 - Determinazione dell'ordine di una reazione chimica - ISA\|Es 1 - Determinazione dell'ordine di una reazione chimica - ISA]] del 🛫 2023-10-05 - 🔽 📅 2023-10-15
+	- [ ] Scrivere equazione per caso integrale - 📅 2023-10-15
 - [x] Studiare e Ricopiare appunti del 🛫 2023-10-17 su [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali\|3. Reattori ideali]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 🔼 📅 2023-10-19 ✅ 2023-10-24
 - [x] Individua errori libro su lezione 🛫 2023-10-17 di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - ⏫ 📅 2023-10-19 ✅ 2023-10-19
 - [x] Finire [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali\|3. Reattori ideali]] per casi $\alpha = 2$ e saturazione del 🛫 2023-10-17 di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 📅 2023-10-19 ⏫
@@ -94,24 +95,24 @@ Solitamente una delle 3 domande si basa sulla relazione.
 - [x] Studiare e ricopiare appunti del 🛫 2023-10-20 su [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali\|3. Reattori ideali]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 🔼 📅 2023-10-24 ✅ 2023-10-28
 - [x] Studiare e ricopiare appunti del 🛫 2023-10-24 su [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali\|3. Reattori ideali]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 📅 2023-10-26 🔼
 - [ ] Studiare e Ricopiare appunti del 🛫 2023-10-26 su [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali\|3. Reattori ideali]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 📅 2023-10-27 🔼
-- [ ] Studiare e ricopiare appunti del 🛫 2023-10-27 su [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali\|3. Reattori ideali]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 📅 2023-10-31 🔼 
+- [ ] Studiare e ricopiare appunti del 🛫 2023-10-27 su [[03. Reattori Ideali|3. Reattori ideali]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 📅 2023-10-31 🔼 
 - [ ] Modificare relazione [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 01 - Determinazione dell'ordine di una reazione chimica - ISA\|Es 01 - Determinazione dell'ordine di una reazione chimica - ISA]]: rendere la relazione impersonale. 🔽 
 - [ ] Scrivere relazione [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 03 - Analisi di reazione - ISA\|Es 03 - Analisi di reazione - ISA]] del 🛫 2023-11-02 di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 📅 2023-11-09 🔽
 - [ ] Studiare e ricopiare appunti del 🛫 2023-10-31 su [[03. Reattori Ideali|3. Reattori ideali]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 📅 2023-11-02 🔼
-- [ ] Studiare e ricopiare appunti del 🛫 2023-11-03 su [[03. Reattori Ideali|3. Reattori ideali]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 📅 2023-11-07 🔼 
+- [x] Studiare e ricopiare appunti del 🛫 2023-10-31 su [[04. Parametri di caratterizzazione delle acque\|4. Parametri di caratterizzazione delle acque]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 🔼 📅 2023-11-03 ✅ 2023-11-07
+- [ ] Studiare e ricopiare appunti del 🛫 2023-11-03 su [[04. Parametri di caratterizzazione delle acque\|4. Parametri di caratterizzazione delle acque]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 📅 2023-11-07 🔼 
 
 
 
 ___
 
-| File                                                                                                                                                                                                                   | Tipo | Stato         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------- |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 01 - Determinazione dell'ordine di una reazione chimica - ISA\|Es 01 - Determinazione dell'ordine di una reazione chimica - ISA]] | Es   | 🟡 Finire     |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 02 - Cinetica chimica - ISA\|Es 02 - Cinetica chimica - ISA]]                                                                     | Es   | 🟡 Finire     |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 03 - Analisi di reazione - ISA\|Es 03 - Analisi di reazione - ISA]]                                                               | Es   | 🟡 Finire     |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/02. Cinetica delle reazioni chimiche\|02. Cinetica delle reazioni chimiche]]                                                               | T    | 🟠 Studiare   |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali\|03. Reattori Ideali]]                                                                                                 | T    | 🪶🟡 Scrivere |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/04. Parametri di caratterizzazione delle acque\|04. Parametri di caratterizzazione delle acque]]                                           | T    | 🪶 Scrivere   |
+| File                                                                                                                                                                                                                   | Tipo | Stato       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 01 - Determinazione dell'ordine di una reazione chimica - ISA\|Es 01 - Determinazione dell'ordine di una reazione chimica - ISA]] | Es   | 🟡 Finire   |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 02 - Cinetica chimica - ISA\|Es 02 - Cinetica chimica - ISA]]                                                                     | Es   | 🟡 Finire   |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 03 - Analisi di reazione - ISA\|Es 03 - Analisi di reazione - ISA]]                                                               | Es   | 🟡 Finire   |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/02. Cinetica delle reazioni chimiche\|02. Cinetica delle reazioni chimiche]]                                                               | T    | 🟠 Studiare |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali\|03. Reattori Ideali]]                                                                                                 | T    | 🟡 Finire   |
 
 { .block-language-dataview}
 
@@ -121,11 +122,10 @@ ___
 # 👉🏻 Indice del corso
 
 
-| File                                                                                                                                                                         | PDF |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/02. Cinetica delle reazioni chimiche\|02. Cinetica delle reazioni chimiche]]                     | \-  |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali\|03. Reattori Ideali]]                                                       | \-  |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/04. Parametri di caratterizzazione delle acque\|04. Parametri di caratterizzazione delle acque]] | \-  |
+| File                                                                                                                                                     | PDF |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/02. Cinetica delle reazioni chimiche\|02. Cinetica delle reazioni chimiche]] | \-  |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali\|03. Reattori Ideali]]                                   | \-  |
 
 { .block-language-dataview}
 
