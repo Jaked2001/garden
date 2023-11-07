@@ -13,9 +13,9 @@
 🅿️ Programma: [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Programma - Tecnica ed economia dei trasporti\|Programma - Tecnica ed economia dei trasporti]]
 📖 Libri:
 - "Ricci S. - Tecnica ed Economia dei Trasporti - Hoepli, Milano, 2014"
-- [[Tecnica ed economia dei trasporti (S. Ricci).pdf|Ricci S. - Tecnica ed Economia dei Trasporti - Hoepli, Milano, 2014]]
+- [[Tecnica ed economia dei trasporti (S. Ricci).pdf\|Ricci S. - Tecnica ed Economia dei Trasporti - Hoepli, Milano, 2014]]
 - https://www.egaf.it/
-🖼 Slide: [[Slide TET.pdf]]
+🖼 Slide: [[Slide TET.pdf\|Slide TET.pdf]]
 
 Lunedì: 1 pausa intorno alle 18:00/18:15
 Venerdì: no pausa.
