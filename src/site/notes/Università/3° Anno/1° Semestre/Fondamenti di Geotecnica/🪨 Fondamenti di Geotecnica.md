@@ -12,10 +12,10 @@
 🌐 Sito Web: [Classroom](https://classroom.google.com/c/NjI2Mzg5MTgzNTU4)
 🅿️ Programma: [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Programma - Fondamenti di Geotecnica\|Programma - Fondamenti di Geotecnica]]
 📚 Libri: 
-- [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/toaz.info-lancellotta-geotecnica-1987pdf-pr_d524a0b21aaa5a835f0380136a046aeb (1).pdf\|Lancellotta R. - Geotecnica, ed. Zanichelli; ed. 1987]] (capitoli 1, 2 e 3)
+- [[toaz.info-lancellotta-geotecnica-1987pdf-pr_d524a0b21aaa5a835f0380136a046aeb (1).pdf|Lancellotta R. - Geotecnica, ed. Zanichelli; ed. 1987]] (capitoli 1, 2 e 3)
 	- Solo la prima parte riguardante le prime lezioni
 - Dispense
-	- [[Comportamento meccanico delle terre - Miliziano.pdf\|Comportamento meccanico delle terre - Miliziano.pdf]]
+	- [[Comportamento meccanico delle terre - Miliziano.pdf]]
 - Miliziano S. - Moti di filtrazione, ed. Hevelius (pdf)
 
 
@@ -93,8 +93,10 @@ ___
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/Es 01 - Classificazione Terre\|Es 01 - Classificazione Terre]]                 | Es   | 🟢 Fatto      |
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/Es 02 - Stati di sforzo\|Es 02 - Stati di sforzo]]                             | Es   | 🟢 Fatto      |
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/Es 03 - Tensioni Litostatiche\|Es 03 - Tensioni Litostatiche]]                 | Es   | 🟢 Fatto      |
-| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/Es 04 - Moti di Filtrazione 1D\|Es 04 - Moti di Filtrazione 1D]]               | Es   | 🟡 Finire     |
-| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/Es 05 - Moti di filtrazione 2D\|Es 05 - Moti di filtrazione 2D]]               | Es   | 🔴 Fare       |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/Es 04 - Moti di Filtrazione 1D\|Es 04 - Moti di Filtrazione 1D]]               | Es   | 🟢 Fatto      |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/Es 05 - Moti di filtrazione 2D\|Es 05 - Moti di filtrazione 2D]]               | Es   | 🟡 Finire     |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/Es 06 - Prova Edometrica\|Es 06 - Prova Edometrica]]                           | Es   | 🔴 Fare       |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/Es 07 - Prova di taglio diretto\|Es 07 - Prova di taglio diretto]]             | Es   | 🟢 Fatto      |
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/00. Caratteristiche generali delle terre\|00. Caratteristiche generali delle terre]] | T    | 🟠 Studiare   |
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/01. Meccanica del continuo\|01. Meccanica del continuo]]                             | T    | 🪶🟡 Scrivere |
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/Moti di filtrazione/01. Moti di Filtrazione\|01. Moti di Filtrazione]]               | T    | 🪶 Scrivere   |
@@ -106,11 +108,11 @@ ___
 
 # 👉🏻 Indice del corso
 
-| File                                                                                                                                                      | Stato         | PDF                                                                                                                             |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/00. Caratteristiche generali delle terre\|00. Caratteristiche generali delle terre]] | 🟠 Studiare   | \-                                                                                                                              |
-| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/01. Meccanica del continuo\|01. Meccanica del continuo]]                             | 🪶🟡 Scrivere | <ul><li>[[Comportamento meccanico delle terre - Miliziano.pdf\\|Comportamento meccanico delle terre - Miliziano.pdf]]</li></ul> |
-| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/Moti di filtrazione/01. Moti di Filtrazione\|01. Moti di Filtrazione]]               | 🪶 Scrivere   | \-                                                                                                                              |
+| File                                                                                                                                                      | Stato         | PDF                                                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/00. Caratteristiche generali delle terre\|00. Caratteristiche generali delle terre]] | 🟠 Studiare   | \-                                                                                                                                                                                                       |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/01. Meccanica del continuo\|01. Meccanica del continuo]]                             | 🪶🟡 Scrivere | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/allegati/Comportamento meccanico delle terre - Miliziano.pdf\\|Comportamento meccanico delle terre - Miliziano.pdf]]</li></ul> |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/Moti di filtrazione/01. Moti di Filtrazione\|01. Moti di Filtrazione]]               | 🪶 Scrivere   | \-                                                                                                                                                                                                       |
 
 { .block-language-dataview}
 
@@ -118,13 +120,15 @@ ___
 
 ## ✍️ Esercitazioni
 
-| File                                                                                                                                        | Stato     | PDF                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/Es 01 - Classificazione Terre\|Es 01 - Classificazione Terre]]   | 🟢 Fatto  | <ul><li>[[Esercitazione 1 - classificazione terre.pdf\\|Esercitazione 1 - classificazione terre.pdf]]</li></ul>                                                                                    |
-| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/Es 02 - Stati di sforzo\|Es 02 - Stati di sforzo]]               | 🟢 Fatto  | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/allegati/Es 2 - Stati di sforzo - Geotecnia.pdf\\|Es 2 - Stati di sforzo - Geotecnia.pdf]]</li></ul>               |
-| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/Es 03 - Tensioni Litostatiche\|Es 03 - Tensioni Litostatiche]]   | 🟢 Fatto  | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/allegati/Es 3 - Tensioni litostatiche - Geotecnica.pdf\\|Es 3 - Tensioni litostatiche - Geotecnica.pdf]]</li></ul> |
-| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/Es 04 - Moti di Filtrazione 1D\|Es 04 - Moti di Filtrazione 1D]] | 🟡 Finire | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/allegati/Es4 - Moti di filtrazione 1D - Geotecnica.pdf\\|Es4 - Moti di filtrazione 1D - Geotecnica.pdf]]</li></ul> |
-| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/Es 05 - Moti di filtrazione 2D\|Es 05 - Moti di filtrazione 2D]] | 🔴 Fare   | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/allegati/Es5 - Moti di filtrazione 2D - Geotecnica.pdf\\|Es5 - Moti di filtrazione 2D - Geotecnica.pdf]]</li></ul> |
+| File                                                                                                                                          | Stato     | PDF                                                                                                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/Es 01 - Classificazione Terre\|Es 01 - Classificazione Terre]]     | 🟢 Fatto  | <ul><li>[[Università/2° anno/1° Semestre/Geologia applicata/Esercitazioni/allegati/Esercitazione 1 - classificazione terre.pdf\\|Esercitazione 1 - classificazione terre.pdf]]</li></ul>             |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/Es 02 - Stati di sforzo\|Es 02 - Stati di sforzo]]                 | 🟢 Fatto  | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/allegati/Es 2 - Stati di sforzo - Geotecnia.pdf\\|Es 2 - Stati di sforzo - Geotecnia.pdf]]</li></ul>                 |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/Es 03 - Tensioni Litostatiche\|Es 03 - Tensioni Litostatiche]]     | 🟢 Fatto  | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/allegati/Es 3 - Tensioni litostatiche - Geotecnica.pdf\\|Es 3 - Tensioni litostatiche - Geotecnica.pdf]]</li></ul>   |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/Es 04 - Moti di Filtrazione 1D\|Es 04 - Moti di Filtrazione 1D]]   | 🟢 Fatto  | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/allegati/Es4 - Moti di filtrazione 1D - Geotecnica.pdf\\|Es4 - Moti di filtrazione 1D - Geotecnica.pdf]]</li></ul>   |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/Es 05 - Moti di filtrazione 2D\|Es 05 - Moti di filtrazione 2D]]   | 🟡 Finire | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/allegati/Es5 - Moti di filtrazione 2D - Geotecnica.pdf\\|Es5 - Moti di filtrazione 2D - Geotecnica.pdf]]</li></ul>   |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/Es 06 - Prova Edometrica\|Es 06 - Prova Edometrica]]               | 🔴 Fare   | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/allegati/Es6 - Prova Edomentrica - Geotecnica.pdf\\|Es6 - Prova Edomentrica - Geotecnica.pdf]]</li></ul>             |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/Es 07 - Prova di taglio diretto\|Es 07 - Prova di taglio diretto]] | 🟢 Fatto  | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/allegati/Es7 - Prova di taglio diretto - Geotecnica.pdf\\|Es7 - Prova di taglio diretto - Geotecnica.pdf]]</li></ul> |
 
 { .block-language-dataview}
 
