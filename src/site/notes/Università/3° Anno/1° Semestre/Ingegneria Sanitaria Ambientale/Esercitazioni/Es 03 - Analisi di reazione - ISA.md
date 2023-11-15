@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/universita/3-anno/1-semestre/ingegneria-sanitaria-ambientale/esercitazioni/es-03-analisi-di-reazione-isa/"}
 ---
 
-Es2
 # Es3 - Analisi di reazione - ISA
 
 ### Grado di conversione
