@@ -19,6 +19,9 @@
 	- [Dispense](https://drive.google.com/drive/folders/0B9YbM1jwvC20fjFTU09PQzd1WlF6S3RabTdIMXdmOWtYS2djUWpWamZNcUkyR1Z2ZldZVGs?resourcekey=0-IJhykxULcCpLnpTG0pmHLg)
 
 
+Cose random utili:
+- https://www.segnalifs.it/sfi/it/sa/N_velmax.htm
+
 # ❗️Esame❗️
 
 ```ad-attention
@@ -63,6 +66,7 @@ Tenuto dai due professori.
 | [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione VIT\|01. Introduzione VIT]]                                                 | T    | 🪶🟡 Scrivere |
 | [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02. L'architettura del veicolo stradale\|02. L'architettura del veicolo stradale]]           | T    | 🪶🟡 Scrivere |
 | [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03. Architettura dei veicoli ferroviari\|03. Architettura dei veicoli ferroviari]]           | T    | 🪶 Scrivere   |
+| [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/04. Dinamica dei veicoli\|04. Dinamica dei veicoli]]                                         | T    | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
@@ -74,9 +78,10 @@ ___
 
 | File                                                                                                                                                           | Stato         | PDF                                                                                                                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione VIT\|01. Introduzione VIT]]                                       | 🪶🟡 Scrivere | <ul><li>[[1. Introduzione - VIT.pdf\\|1. Introduzione - VIT.pdf]]</li></ul>                                                                                                                               |
-| [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02. L'architettura del veicolo stradale\|02. L'architettura del veicolo stradale]] | 🪶🟡 Scrivere | <ul><li>[[2. Architettura Veicoli Stradali - VIT.pdf\\|2. Architettura Veicoli Stradali - VIT.pdf]]</li></ul>                                                                                             |
+| [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione VIT\|01. Introduzione VIT]]                                       | 🪶🟡 Scrivere | <ul><li>[[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/allegati/1. Introduzione - VIT.pdf\\|1. Introduzione - VIT.pdf]]</li></ul>                                               |
+| [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02. L'architettura del veicolo stradale\|02. L'architettura del veicolo stradale]] | 🪶🟡 Scrivere | <ul><li>[[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/allegati/2. Architettura Veicoli Stradali - VIT.pdf\\|2. Architettura Veicoli Stradali - VIT.pdf]]</li></ul>             |
 | [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03. Architettura dei veicoli ferroviari\|03. Architettura dei veicoli ferroviari]] | 🪶 Scrivere   | <ul><li>[[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/allegati/3. Architettura Veicoli Ferroviari - VIT.pdf.pdf\\|3. Architettura Veicoli Ferroviari - VIT.pdf.pdf]]</li></ul> |
+| [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/04. Dinamica dei veicoli\|04. Dinamica dei veicoli]]                               | 🪶 Scrivere   | <ul><li>[[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/allegati/4. Dinamica dei Veicoli - VIT.pdf\\|4. Dinamica dei Veicoli - VIT.pdf]]</li></ul>                               |
 
 { .block-language-dataview}
 
