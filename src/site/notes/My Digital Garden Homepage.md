@@ -3,11 +3,19 @@
 ---
 
 Benvenuti nel mio Digital Garden. Qui condivido alcune delle mie note, principalmente appunti universitari. Spero lo riteniate utile.
+
+```ad-attention
+title: Attenzione
+
+I contenuti di questo sito potrebbero essere incompleti o incorretti.
+
+```
+
 ## II Anno
 
 ### I Semestre
 - [[Università/2° anno/1° Semestre/Geologia applicata/🪨 Geologia Applicata\|🪨 Geologia Applicata]]
-- - [[Università/2° anno/1° Semestre/Scienza delle costruzioni/🧱 Scienza delle Costruzioni\|🧱 Scienza delle Costruzioni]]
+- [[Università/2° anno/1° Semestre/Scienza delle costruzioni/🧱 Scienza delle Costruzioni\|🧱 Scienza delle Costruzioni]]
 
 ### II Semestre
 - [[Università/2° anno/2° Semestre/Probabilità e statistica/📊 Probabilità e Statistica\|📊 Probabilità e Statistica]]
@@ -22,9 +30,8 @@ Benvenuti nel mio Digital Garden. Qui condivido alcune delle mie note, principal
 - [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/🚲 Veicoli e impianti di trasporto\|🚲 Veicoli e impianti di trasporto]]
 
 
-# ❤️ Buy me a coffee 
+# ❤️ Offrimi un Caffè
 
 Se hai trovato utile questo sito puoi fare una donazione cliccando [qui](https://ko-fi.com/matteomeloni) o scannerizzando il codice QR.
-
 
 ![qrcode.png](/img/user/allegati/qrcode.png)
