@@ -63,6 +63,7 @@ Tenuto dai due professori.
 | [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Esercitazioni/Es 01 - Sospensioni\|Es 01 - Sospensioni]]                                             | Es   | 🟢 Fatto      |
 | [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Esercitazioni/Es 02 - Ingombro di un autoarticolato\|Es 02 - Ingombro di un autoarticolato]]         | Es   | 🟢 Fatto      |
 | [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Esercitazioni/Es 03 - Assetto di un Veicolo Ferroviario\|Es 03 - Assetto di un Veicolo Ferroviario]] | Es   | 🟡 Finire     |
+| [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Esercitazioni/Es 04 - Aderenza locomotiva\|Es 04 - Aderenza locomotiva]]                             | Es   | 🔴 Fare       |
 | [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione VIT\|01. Introduzione VIT]]                                                 | T    | 🪶🟡 Scrivere |
 | [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02. L'architettura del veicolo stradale\|02. L'architettura del veicolo stradale]]           | T    | 🪶🟡 Scrivere |
 | [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03. Architettura dei veicoli ferroviari\|03. Architettura dei veicoli ferroviari]]           | T    | 🪶 Scrivere   |
@@ -93,6 +94,7 @@ ___
 | [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Esercitazioni/Es 01 - Sospensioni\|Es 01 - Sospensioni]]                                             | 🟢 Fatto  | <ul><li>[[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Esercitazioni/allegati/Es 1 - Sospensioni - VIT.pdf\\|Es 1 - Sospensioni - VIT.pdf]]</li></ul>                                 |
 | [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Esercitazioni/Es 02 - Ingombro di un autoarticolato\|Es 02 - Ingombro di un autoarticolato]]         | 🟢 Fatto  | <ul><li>[[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Esercitazioni/allegati/Es 2 - Ingombro autoarticolato - VIT.pdf\\|Es 2 - Ingombro autoarticolato - VIT.pdf]]</li></ul>         |
 | [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Esercitazioni/Es 03 - Assetto di un Veicolo Ferroviario\|Es 03 - Assetto di un Veicolo Ferroviario]] | 🟡 Finire | <ul><li>[[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Esercitazioni/allegati/Es 3 - Assetto veicolo ferroviario - VIT.pdf\\|Es 3 - Assetto veicolo ferroviario - VIT.pdf]]</li></ul> |
+| [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Esercitazioni/Es 04 - Aderenza locomotiva\|Es 04 - Aderenza locomotiva]]                             | 🔴 Fare   | <ul><li>[[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Esercitazioni/allegati/Es 4 - Aderenza in trazione - VIT.pdf\\|Es 4 - Aderenza in trazione - VIT.pdf]]</li></ul>               |
 
 { .block-language-dataview}
 
