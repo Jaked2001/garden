@@ -26,7 +26,7 @@ Sarà giusto?
 
 
 
-PDF: [[Esercitazione 1 - classificazione terre.pdf]]
+PDF: [[Esercitazione 1 - classificazione terre.pdf\|Esercitazione 1 - classificazione terre.pdf]]
 
 
 # Teoria
