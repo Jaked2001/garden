@@ -51,7 +51,9 @@ Solo [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/🚋 
 
 ### 🗣 Orale 
 Colloquio articolato di solito su 3 argomenti. applicazioni numeriche o domande di teoria.
-Dei 3 argomenti c'è sempre la possibilità di sceglierne uno. **1 argomento a piacere**. Raccontare in 5min, no 3 ore: Scegliere una cosa molto circostcritta.
+Dei 3 argomenti c'è sempre la possibilità di sceglierne uno.
+
+**1 argomento a piacere**. Raccontare in 5min, no 3 ore: Scegliere una cosa molto circostcritta.
 
 
 ## 💯 Voto
@@ -62,28 +64,40 @@ Dei 3 argomenti c'è sempre la possibilità di sceglierne uno. **1 argomento a p
 
 
 # ✔️ To-Do
+
 - [x] Recupera appunti del 🛫 [[_Giornaliera/2023-09-29\|2023-09-29]] ⏫ 📅 2023-10-13 ✅ 2023-10-13
 - [ ] Fare [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Esercitazioni/Es 03 - Sostentazione e locomozione\|Es 3 - Sostentazione e locomozione]] 📅 2023-10-13 🔽 
 - [x] Studiare e ricopiare [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/05. Teoria del Deflusso\|5. Teoria del Deflusso]] del 🛫 2023-10-20 di [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/🚋 Tecnica ed Economia dei trasporti\|TET]] - 🔼 📅 2023-10-23 ✅ 2023-10-27
 - [x] Studiare e ricopiare [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/06. Teoria Elementare della domanda e dell'offerta\|6. Teoria Elementare della domanda e dell'offerta]] del 🛫 2023-10-28 di [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/🚋 Tecnica ed Economia dei trasporti\|TET]] - 📅 2023-11-03 ✅ 2023-11-04
 - [ ] Studiare e ricopiare [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/06. Teoria Elementare della domanda e dell'offerta\|6. Teoria Elementare della domanda e dell'offerta]] del 🛫 2023-11-03 di [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/🚋 Tecnica ed Economia dei trasporti\|TET]] - 📅 2023-11-06
+- [x] Studiare e ricopiare [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/07. Schematizzazione dell'offerta di trasporto\|7. Schematizzazione dell'offerta di trasporto]] del 🛫 2023-11-06 di [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/🚋 Tecnica ed Economia dei trasporti\|TET]] - 📅 2023-11-10 ✅ 2023-11-26
+- [ ] Studiare e ricopiare [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/08. Studio della domanda di trasporto\|8. Studio della domanda di trasporto]] del 🛫 2023-11-06 di [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/🚋 Tecnica ed Economia dei trasporti\|TET]] - 📅 2023-11-10
+- [ ] Studiare e ricopiare [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/08. Studio della domanda di trasporto\|8. Studio della domanda di trasporto]] del 🛫 2023-11-10 di [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/🚋 Tecnica ed Economia dei trasporti\|TET]] - 📅 2023-11-13
+- [ ] Studiare e ricopiare [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/09. Definizione e quantificazione dei costi nei sistemi di trasporto\|9. Definizione e quantificazione dei costi nei sistemi di trasporto]] del 🛫 2023-11-13 di [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/🚋 Tecnica ed Economia dei trasporti\|TET]] - 📅 2023-11-17
+- [ ] Studiare e ricopiare [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/10. Fasi di progettazione e realizzazione degli interventi sui sistemi di trasporto\|10. Fasi di progettazione e realizzazione degli interventi sui sistemi di trasporto]] del 🛫 2023-11-17 di [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/🚋 Tecnica ed Economia dei trasporti\|TET]] - 📅 2023-11-20
+
 
 ___
+
 | File                                                                                                                                                                                                                                                     | Tipo | Stato         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------- |
 | [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Esercitazioni/Es 03 - Sostentazione e locomozione\|Es 03 - Sostentazione e locomozione]]                                                                                           | Es   | 🟡 Finire     |
 | [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Esercitazioni/Es 04 - Diagramma elementare del moto - TET\|Es 04 - Diagramma elementare del moto - TET]]                                                                           | Es   | 🔴 Fare       |
-| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Esercitazioni/Es 05 - Teoria del deflusso\|Es 05 - Teoria del deflusso]]                                                                                                           | Es   | 🔴 Fare       |
+| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Esercitazioni/Es 05 - Teoria del deflusso - TET\|Es 05 - Teoria del deflusso - TET]]                                                                                               | Es   | 🟢 Fatto      |
+| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Esercitazioni/Es 07 - Rappresentazione di un grafo - TET\|Es 07 - Rappresentazione di un grafo - TET]]                                                                             | Es   | 🟢 Fatto      |
+| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Esercitazioni/Es 09 - Costi nei sistemi di trasporto - TET\|Es 09 - Costi nei sistemi di trasporto - TET]]                                                                         | Es   | 🟢 Fatto      |
+| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Esercitazioni/Es 11 - Analisi costi-benefici per progetti alternativi - TET\|Es 11 - Analisi costi-benefici per progetti alternativi - TET]]                                       | Es   | 🟢 Fatto      |
 | [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/01. Terminologia fondamentale\|01. Terminologia fondamentale]]                                                                                                             | T    | 🪶🟡 Scrivere |
 | [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/02. Compendio statistico dei sistemi di trasporto\|02. Compendio statistico dei sistemi di trasporto]]                                                                     | T    | 🪶🟡 Scrivere |
 | [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/03. Sostentazione e locomozione\|03. Sostentazione e locomozione]]                                                                                                         | T    | 🪶🟡 Scrivere |
 | [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/04. Diagramma Elementare del Moto e Prestazioni del Veicolo Isolato\|04. Diagramma Elementare del Moto e Prestazioni del Veicolo Isolato]]                                 | T    | 🟠 Studiare   |
 | [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/05. Teoria del Deflusso\|05. Teoria del Deflusso]]                                                                                                                         | T    | 🟠 Studiare   |
 | [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/06. Teoria Elementare della domanda e dell'offerta\|06. Teoria Elementare della domanda e dell'offerta]]                                                                   | T    | 🟡 Finire     |
-| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/07. Schematizzazione dell'offerta di trasporto\|07. Schematizzazione dell'offerta di trasporto]]                                                                           | T    | 🪶🟡 Scrivere |
-| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/08. Studio della domanda di trasporto\|08. Studio della domanda di trasporto]]                                                                                             | T    | 🪶🟡 Scrivere |
-| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/09. Definizione e quantificazione dei costi nei sistemi di trasporto\|09. Definizione e quantificazione dei costi nei sistemi di trasporto]]                               | T    | 🪶🟡 Scrivere |
-| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/10. Fasi di progettazione e realizzazione degli interventi sui sistemi di trasporto\|10. Fasi di progettazione e realizzazione degli interventi sui sistemi di trasporto]] | T    | 🪶 Scrivere   |
+| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/07. Schematizzazione dell'offerta di trasporto\|07. Schematizzazione dell'offerta di trasporto]]                                                                           | T    | 🟠 Studiare   |
+| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/08. Studio della domanda di trasporto\|08. Studio della domanda di trasporto]]                                                                                             | T    | 🟡 Finire     |
+| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/09. Definizione e quantificazione dei costi nei sistemi di trasporto\|09. Definizione e quantificazione dei costi nei sistemi di trasporto]]                               | T    | 🟡 Finire     |
+| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/10. Fasi di progettazione e realizzazione degli interventi sui sistemi di trasporto\|10. Fasi di progettazione e realizzazione degli interventi sui sistemi di trasporto]] | T    | 🪶🟡 Scrivere |
+| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/11. Valutazione degli interventi sui sistemi di trasporto\|11. Valutazione degli interventi sui sistemi di trasporto]]                                                     | T    | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
@@ -104,6 +118,7 @@ ___
 | [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/08. Studio della domanda di trasporto\|08. Studio della domanda di trasporto]]                                                                                             | <ul><li>[[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/allegati/8. Studio della domanda di trasporto - TET.pdf\\|8. Studio della domanda di trasporto - TET.pdf]]</li></ul>                                                                                               |
 | [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/09. Definizione e quantificazione dei costi nei sistemi di trasporto\|09. Definizione e quantificazione dei costi nei sistemi di trasporto]]                               | \-                                                                                                                                                                                                                                                                                                    |
 | [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/10. Fasi di progettazione e realizzazione degli interventi sui sistemi di trasporto\|10. Fasi di progettazione e realizzazione degli interventi sui sistemi di trasporto]] | <ul><li>[[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/allegati/10. Fasi di progettazione e realizzazione degli interventi sui sistemi di trasporto - TET.pdf\\|10. Fasi di progettazione e realizzazione degli interventi sui sistemi di trasporto - TET.pdf]]</li></ul> |
+| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/11. Valutazione degli interventi sui sistemi di trasporto\|11. Valutazione degli interventi sui sistemi di trasporto]]                                                     | \-                                                                                                                                                                                                                                                                                                    |
 
 { .block-language-dataview}
 
@@ -113,11 +128,14 @@ ___
 
 ## ✍️ Esercitazioni
 
-| File                                                                                                                                                                           | Stato     | PDF |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | --- |
-| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Esercitazioni/Es 03 - Sostentazione e locomozione\|Es 03 - Sostentazione e locomozione]]                 | 🟡 Finire | \-  |
-| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Esercitazioni/Es 04 - Diagramma elementare del moto - TET\|Es 04 - Diagramma elementare del moto - TET]] | 🔴 Fare   | \-  |
-| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Esercitazioni/Es 05 - Teoria del deflusso\|Es 05 - Teoria del deflusso]]                                 | 🔴 Fare   | \-  |
+| File                                                                                                                                                                                                               | Stato     | PDF |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | --- |
+| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Esercitazioni/Es 03 - Sostentazione e locomozione\|Es 03 - Sostentazione e locomozione]]                                                     | 🟡 Finire | \-  |
+| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Esercitazioni/Es 04 - Diagramma elementare del moto - TET\|Es 04 - Diagramma elementare del moto - TET]]                                     | 🔴 Fare   | \-  |
+| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Esercitazioni/Es 05 - Teoria del deflusso - TET\|Es 05 - Teoria del deflusso - TET]]                                                         | 🟢 Fatto  | \-  |
+| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Esercitazioni/Es 07 - Rappresentazione di un grafo - TET\|Es 07 - Rappresentazione di un grafo - TET]]                                       | 🟢 Fatto  | \-  |
+| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Esercitazioni/Es 09 - Costi nei sistemi di trasporto - TET\|Es 09 - Costi nei sistemi di trasporto - TET]]                                   | 🟢 Fatto  | \-  |
+| [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Esercitazioni/Es 11 - Analisi costi-benefici per progetti alternativi - TET\|Es 11 - Analisi costi-benefici per progetti alternativi - TET]] | 🟢 Fatto  | \-  |
 
 { .block-language-dataview}
 
