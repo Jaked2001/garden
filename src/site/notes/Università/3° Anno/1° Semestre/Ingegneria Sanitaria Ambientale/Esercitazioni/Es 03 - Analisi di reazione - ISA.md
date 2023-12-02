@@ -20,7 +20,7 @@ $$
 
 L'obiettivo è trovare il volume del [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali#Reattore PFR\|reattore PFR]]. Usiamo qualche relazione che faccia uso del [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali#Tempo di residenza idraulica\|tempo di residenza idraulica]].
 $$
-\theta_{H} = \frac{Q}{V}
+\theta_{H} = \frac{V}{Q}
 $$
 Ci serve il bilancio di massa che se integrata ci fornisce il $\theta_{H}$
 Ci serve il [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali#Bilancio di materia - PFR\|bilancio di materia]] per il reattore PFR:
