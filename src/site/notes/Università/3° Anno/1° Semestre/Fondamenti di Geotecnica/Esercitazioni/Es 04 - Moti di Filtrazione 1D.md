@@ -7,6 +7,7 @@
 
 
 ### Esercizio 1
+
 ### Esercizio 2
 - [?] Come si fa il terzo punto? Come trovo l'andamento della tensione interstiziale?
 
