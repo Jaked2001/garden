@@ -6,9 +6,7 @@
 
 # Es 2 - Stati di sforzo
 
-
-
-
+[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/01. Meccanica del continuo#Cerchi di mohr\|01. Meccanica del continuo#Cerchi di mohr]]
 
 
 - [x] Esercizio 1 ✅ 2023-10-15
@@ -27,7 +25,3 @@ Sarà giusto l'esercizio 3??
 
 ![[Es 2 - Stati di sforzo - Geotecnia.pdf]]
 
-
-
-___
-[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/🪨 Fondamenti di Geotecnica\|🪨 Fondamenti di Geotecnica]]
