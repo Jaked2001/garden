@@ -8,7 +8,7 @@
 
 
 
-![[Recording 20231002152747.webm]]
+![[Recording 20231002152747.webm\|Recording 20231002152747.webm]]
 
 
 # Esercitazione
@@ -277,6 +277,7 @@ dove $CF$ è il Clay Factor (la $\%$ di argilla)
 
 
 ##### Peso specifico dei granuli
+
 ```ad-Teo
 title: Peso specifico del granulo
 
@@ -348,7 +349,7 @@ $
 </div></div>
 
 
-Esistono materiali con con indici dei vuoti molto alto, come 10 ecc.
+Esistono materiali con indici dei vuoti molto alto, come 10 ecc.
 
 Questi materiali necessitano di una speciale struttura della parte solida.
 I granuli sono come delle carte disposte in modo da occupare il più spazio possibile:
@@ -400,6 +401,45 @@ Campione:
 
 
 
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/universita/2-anno/1-semestre/geologia-applicata/lezioni/07-proprieta-fisiche-delle-rocce/#contenuto-d-acqua" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+### Contenuto d'acqua
+
+```ad-Teo
+title: Contenuto d'acqua ($w$)
+
+$
+w = \frac{P_{w}}{P_{s}}
+$
+
+```
+
+Per un'[[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/05. Le Rocce Sedimentarie#Argille\|argilla]], si può avere $w = 300\%$. o anche fino al 600 nei casi più estremi.
+
+Per misurare il contenuto d'acqua peso il campione naturale, poi lo asciugo e lo peso di nuovo. 
+
+```ad-Teo
+title: Gamma Sommerso
+
+$
+\gamma' = \gamma_{\text{sat}} - \gamma_{w}
+$
+
+dove $\gamma_{w} = 1 \, \mathrm{\frac{g}{cm^{3}}}$
+
+```
+
+
+
+
+</div></div>
+
+
+L'acqua che è capace di "legarsi" ai granuli è detta acqua **adsorbita**.
 
 </div></div>
 
