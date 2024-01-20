@@ -56,7 +56,7 @@ $$
 
 
 
-[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/01. Meccanica del continuo#Condizioni drenate\|01. Meccanica del continuo#Condizioni drenate]]
+[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Esercitazioni/01- Meccanica del continuo#Condizioni drenate\|01- Meccanica del continuo#Condizioni drenate]]
 
 ## Esercizi
 
@@ -72,7 +72,3 @@ $$
 
 
 
-
-
----
-[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/🪨 Fondamenti di Geotecnica\|🪨 Fondamenti di Geotecnica]]
