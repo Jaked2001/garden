@@ -2,11 +2,14 @@
 {"dg-publish":true,"permalink":"/universita/3-anno/1-semestre/ingegneria-sanitaria-ambientale/esercitazioni/es-05-analisi-dei-reattori-boh-isa/"}
 ---
 
-
 # Es 5 - Analisi dei reattori boh
+
+- [ ] Fare confronto con CFSTR
+
 
 ## Riferimenti teorici
 
+### PFR senza ricircolo
 Per determinare il volume possiamo passare dal [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali#Tempo di residenza idraulica\|Tempo di residenza]] che possiamo ricavare dall'equazione di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali#Bilancio di materia - PFR\|bilancio di materia]]
 
 Velocità di reazione PFR senza ricircolo:
@@ -17,6 +20,7 @@ che integrata diventa
 $$
 \theta_{\rm TOT} = \int_{C_{A_{u}}}^{C_{A_{0}}} - \frac{1}{r_{A}} \, dC_{A}
 $$
+### PFR con ricircolo
 
 Velocità di reazione PFR con ricircolo:
 $$
@@ -56,12 +60,14 @@ Per $\alpha \to \infty$, $C_{A_{i}} \to C_{A_{u}}$ ossia un reattore in cui appe
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
 
 
+
+
 #### Riferimenti utili
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/universita/3-anno/1-semestre/ingegneria-sanitaria-ambientale/appunti/03-reattori-ideali/#confronto-efficienza-tra-cfstr-e-pfr" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-$<div class="markdown-embed-title">
+<div class="markdown-embed-title">
 
 # Confronto tra CFSTR e PFR
 
@@ -86,7 +92,7 @@ QC_{A_{0}} - Q C_{A_{u}} + r_{A}V = 0 && \frac{dC_{A}}{d \theta_{H}} \\
 $
 Quindi per il CFSTR, $\theta_{h}$ è l'area del rettangolo blu, mentre per il PFR è l'area sottesa dalla curva, evidenziata in rosso
 
-![03. Reattori Ideali 2023-11-06 13.11.06.excalidraw.png](/img/user/Excalidraw/03.%20Reattori%20Ideali%202023-11-06%2013.11.06.excalidraw.png)
+![03. Reattori Ideali 2023-11-06 13.11.06.excalidraw.png|500](/img/user/Excalidraw/03.%20Reattori%20Ideali%202023-11-06%2013.11.06.excalidraw.png)
 
 
 Quindi, nel caso ci sia una relazione monotona tra $r_{A}$ e $C_{A}$ nei due reattori, il [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 05 - Analisi dei reattori boh - ISA#Reattore PFR\|#Reattore PFR]] risulta essere più efficiente - ha [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 05 - Analisi dei reattori boh - ISA#Tempo di residenza idraulica\|#Tempo di residenza idraulica]] minore.
