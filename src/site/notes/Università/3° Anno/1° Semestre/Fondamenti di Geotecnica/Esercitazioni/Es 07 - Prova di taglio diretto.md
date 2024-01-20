@@ -3,10 +3,10 @@
 ---
 
 
-	
 
 
 # Es 7 - Prova di Taglio Diretto
+
 È la prova più frequente essendo economica.
 - come è fatta l'attrezzatura
 - come eseguiamo le prove
@@ -16,7 +16,8 @@
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗ 
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
-Riscrivi perché nel caso duttile c'è picco e poi stazionario invece di solo stazionario
+
+Riscrivi perché nel caso fragile c'è picco e poi stazionario invece di solo stazionario
 
 
 
