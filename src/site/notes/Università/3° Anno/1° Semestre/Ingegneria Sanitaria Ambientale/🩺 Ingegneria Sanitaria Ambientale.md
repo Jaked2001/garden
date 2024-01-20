@@ -4,6 +4,7 @@
 
 
 # 🩺 Ingegneria Sanitaria Ambientale
+
 🧑🏻‍🏫 Prof: [[Personale/Contatti/Alessandra Polettini\|Alessandra Polettini]]
 📔 Diario del corso: [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺📔 Diario Ingegneria Sanitaria Ambientale\|🩺📔 Diario Ingegneria Sanitaria Ambientale]]
 🌐 Sito Web:
@@ -25,7 +26,7 @@ Quando abbiamo 3h facciamo sicuro una pausa in mezzo.
 ```ad-attention
 title: Errori libro
 - [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali\|3. Reattori ideali]]: Nella funzione $C_{A_{u}}(t)$ nelle cinetiche $\alpha = 1$ c'è un errore di segno. Il segno - è a tutto l'esponente dell'esponenziale!!
-- [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali\|3. Reattori ideali]]: PEr la cinetiche successivie c'è qualche errore, fai Attenzione!!
+- [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali\|3. Reattori ideali]]: Per la cinetiche successivie c'è qualche errore, fai Attenzione!!
 
 
 ```
@@ -36,11 +37,11 @@ title: Errori libro
 ```ad-attention
 title: Date esami
 
-Data 1: I appello
+[[2024-01-08]]: I appello
 
-Data 2: II appello
+[[2024-02-01\|2024-02-01]]: II appello
 
-Data 3: III appello
+[[2024-02-20]]: III appello
 
 ```
 
@@ -74,10 +75,15 @@ Solitamente una delle 3 domande si basa sulla relazione.
 
 ## 💯 Voto
 
-| Parte   | Data | Voto |
-| ------- | ---- | ---- |
-| Esonero |      |      |
-| Orale   |      |      |
+Bonus da 26.5 in su.
+
+| Parte | Data | Voto |
+| ---- | ---- | ---- |
+| Esonero | [[_Giornaliera/2023-12-05\|2023-12-05]] | 27.5 |
+| Orale | [[2024-02-01]] |  |
+
+
+
 
 
 # ✔️ To-Do
@@ -101,15 +107,15 @@ Solitamente una delle 3 domande si basa sulla relazione.
 - [x] Studiare e ricopiare appunti del 🛫 2023-10-31 su [[03. Reattori Ideali|3. Reattori ideali]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 🔼 📅 2023-11-02 ✅ 2023-11-19
 - [x] Studiare e ricopiare appunti del 🛫 2023-10-31 su [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/05. Parametri di caratterizzazione delle acque\|4. Parametri di caratterizzazione delle acque]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 🔼 📅 2023-11-03 ✅ 2023-11-07
 - [x] Studiare e ricopiare appunti del 🛫 2023-11-03 su [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/05. Parametri di caratterizzazione delle acque\|4. Parametri di caratterizzazione delle acque]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 🔼 📅 2023-11-07 ✅ 2023-11-29
-- [ ] Studiare e ricopiare appunti del 🛫 2023-11-07 su [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/05. Parametri di caratterizzazione delle acque\|5. Parametri di caratterizzazione delle acque]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 📅 2023-11-09
+- [x] Studiare e ricopiare appunti del 🛫 2023-11-07 su [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/05. Parametri di caratterizzazione delle acque\|5. Parametri di caratterizzazione delle acque]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 📅 2023-11-09 ✅ 2023-12-08
 	- [ ] Cercare [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/05. Parametri di caratterizzazione delle acque#Azoto ammoniacale\|Grafico azoto ammoniacale]] sul libro
-	- [ ] Scrivere equazione [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/05. Parametri di caratterizzazione delle acque#Nitrosazione\|nitrosazione]]
-	- [ ] Scrivere equazione [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/05. Parametri di caratterizzazione delle acque#Nitrificazione\|nitrificazione]]
-	- [ ] Scrivere equazione [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/05. Parametri di caratterizzazione delle acque#Nitrificazione finale\|nitrificazione funale]]
+	- [x] Scrivere equazione [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/05. Parametri di caratterizzazione delle acque#Nitrosazione\|nitrosazione]] ✅ 2023-12-08
+	- [x] Scrivere equazione [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/05. Parametri di caratterizzazione delle acque#Nitrificazione\|nitrificazione]] ✅ 2023-12-08
+	- [x] Scrivere equazione [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/05. Parametri di caratterizzazione delle acque#Nitrificazione finale\|nitrificazione funale]] ✅ 2023-12-08
 - [ ] Finire relazione [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 05 - Analisi dei reattori boh - ISA\|Es 05 - Analisi dei reattori boh - ISA]] del 🛫 2023-11-09 di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 📅 2023-11-12
 - [ ] Finire relazione [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 06 - Reattore reale - ISA\|Es 06 - Reattore reale - ISA]] del 🛫 2023-11-09 di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 📅 2023-11-12
-- [ ] Studiare e ricopiare appunti del 🛫 2023-11-10 su [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/05. Parametri di caratterizzazione delle acque\|5. Parametri di caratterizzazione delle acque]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 📅 2023-11-14
-- [ ] Studiare e ricopiare appunti del 🛫 2023-11-10 su [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/06. Sedimentazione\|6. Sedimentazione]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 📅 2023-11-14
+- [x] Studiare e ricopiare appunti del 🛫 2023-11-10 su [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/05. Parametri di caratterizzazione delle acque\|5. Parametri di caratterizzazione delle acque]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 📅 2023-11-14 ✅ 2023-12-10
+- [x] Studiare e ricopiare appunti del 🛫 2023-11-10 su [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/06. Sedimentazione\|6. Sedimentazione]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 📅 2023-11-14 ✅ 2023-12-10
 - [ ] Studiare e ricopiare appunti del 🛫 2023-11-14 su [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/06. Sedimentazione\|6. Sedimentazione]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 📅 2023-11-16
 - [ ] Studiare e ricopiare appunti del 🛫 2023-11-16 su [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/06. Sedimentazione\|6. Sedimentazione]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 📅 2023-11-17
 - [ ] Studiare e ricopiare appunti del 🛫 2023-11-17 su [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/07. Coagulazione e Flocculazione\|07. Coagulazione e Flocculazione]] di [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|ISA]] - 📅 2023-11-21
@@ -121,24 +127,23 @@ Solitamente una delle 3 domande si basa sulla relazione.
 
 ___
 
-| File                                                                                                                                                                                                                   | Tipo  | Stato       |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ----------- |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 01 - Determinazione dell'ordine di una reazione chimica - ISA\|Es 01 - Determinazione dell'ordine di una reazione chimica - ISA]] | Es    | 🟢 Fatto    |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 02 - Cinetica chimica - ISA\|Es 02 - Cinetica chimica - ISA]]                                                                     | Es    | 🟡 Finire   |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 03 - Analisi di reazione - ISA\|Es 03 - Analisi di reazione - ISA]]                                                               | Es    | 🟡 Finire   |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 04 - Analisi dei reattori con ricircolo - ISA\|Es 04 - Analisi dei reattori con ricircolo - ISA]]                                 | Es    | 🔴 Fare     |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 05 - Analisi dei reattori boh - ISA\|Es 05 - Analisi dei reattori boh - ISA]]                                                     | Es    | 🟡 Finire   |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 06 - Reattore reale - ISA\|Es 06 - Reattore reale - ISA]]                                                                         | Es    | 🟡 Finire   |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 07 - Equalizzazione - ISA\|Es 07 - Equalizzazione - ISA]]                                                                         | Es    | 🔴 Fare     |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Temi d'esame/Esonero 2017 - ISA\|Esonero 2017 - ISA]]                                                                                              | Esame | 🔴 Fare     |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Temi d'esame/Esonero 2018 - ISA\|Esonero 2018 - ISA]]                                                                                              | Esame | 🔴 Fare     |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Temi d'esame/Esonero 2020 - ISA\|Esonero 2020 - ISA]]                                                                                              | Esame | 🟡 Finire   |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/02. Cinetica delle reazioni chimiche\|02. Cinetica delle reazioni chimiche]]                                                               | T     | 🟠 Studiare |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali\|03. Reattori Ideali]]                                                                                                 | T     | 🟠 Studiare |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/05. Parametri di caratterizzazione delle acque\|05. Parametri di caratterizzazione delle acque]]                                           | T     | 🟡 Finire   |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/06. Sedimentazione\|06. Sedimentazione]]                                                                                                   | T     | 🪶 Scrivere |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/07. Coagulazione e Flocculazione\|07. Coagulazione e Flocculazione]]                                                                       | T     | 🪶 Scrivere |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/10. Processi Biologici\|10. Processi Biologici]]                                                                                           | T     | 🪶 Scrivere |
+| File                                                                                                                                                                                   | Tipo | Stato       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 04 - Analisi dei reattori con ricircolo - ISA\|Es 04 - Analisi dei reattori con ricircolo - ISA]] | Es   | 🔴 Fare     |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 05 - Analisi dei reattori boh - ISA\|Es 05 - Analisi dei reattori boh - ISA]]                     | Es   | 🟡 Finire   |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 06 - Reattore reale - ISA\|Es 06 - Reattore reale - ISA]]                                         | Es   | 🟡 Finire   |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 07 - Equalizzazione - ISA\|Es 07 - Equalizzazione - ISA]]                                         | Es   | 🟡 Finire   |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 08 - Sedimentazione libera - ISA\|Es 08 - Sedimentazione libera - ISA]]                           | Es   | 🔴 Fare     |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 09 - Sedimentazione per Flocculazione - ISA\|Es 09 - Sedimentazione per Flocculazione - ISA]]     | Es   | 🔴 Fare     |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 10 - Sistema fanghi attivi - ISA\|Es 10 - Sistema fanghi attivi - ISA]]                           | Es   | 🔴 Fare     |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/02. Cinetica delle reazioni chimiche\|02. Cinetica delle reazioni chimiche]]                               | T    | 🟠 Studiare |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali\|03. Reattori Ideali]]                                                                 | T    | 🟠 Studiare |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/05. Parametri di caratterizzazione delle acque\|05. Parametri di caratterizzazione delle acque]]           | T    | 🟠 Studiare |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/06. Sedimentazione\|06. Sedimentazione]]                                                                   | T    | 🟡 Finire   |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/07. Coagulazione e Flocculazione\|07. Coagulazione e Flocculazione]]                                       | T    | 🔴 Fare     |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/10. Processi Biologici\|10. Processi Biologici]]                                                           | T    | 🔴 Fare     |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/11. Disinfezione delle acque\|11. Disinfezione delle acque]]                                               | T    | 🔴 Fare     |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/12. Fanghi\|12. Fanghi]]                                                                                   | T    | 🔴 Fare     |
 
 { .block-language-dataview}
 
@@ -150,18 +155,20 @@ ___
 # 👉🏻 Indice del corso
 
 
-| File                                                                                                                                                                         | PDF |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/02. Cinetica delle reazioni chimiche\|02. Cinetica delle reazioni chimiche]]                     | \-  |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali\|03. Reattori Ideali]]                                                       | \-  |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/05. Parametri di caratterizzazione delle acque\|05. Parametri di caratterizzazione delle acque]] | \-  |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/06. Sedimentazione\|06. Sedimentazione]]                                                         | \-  |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/07. Coagulazione e Flocculazione\|07. Coagulazione e Flocculazione]]                             | \-  |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/10. Processi Biologici\|10. Processi Biologici]]                                                 | \-  |
+| File                                                                                                                                                                         | Stato       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/02. Cinetica delle reazioni chimiche\|02. Cinetica delle reazioni chimiche]]                     | 🟠 Studiare |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali\|03. Reattori Ideali]]                                                       | 🟠 Studiare |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/05. Parametri di caratterizzazione delle acque\|05. Parametri di caratterizzazione delle acque]] | 🟠 Studiare |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/06. Sedimentazione\|06. Sedimentazione]]                                                         | 🟡 Finire   |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/07. Coagulazione e Flocculazione\|07. Coagulazione e Flocculazione]]                             | 🔴 Fare     |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/10. Processi Biologici\|10. Processi Biologici]]                                                 | 🔴 Fare     |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/11. Disinfezione delle acque\|11. Disinfezione delle acque]]                                     | 🔴 Fare     |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/12. Fanghi\|12. Fanghi]]                                                                         | 🔴 Fare     |
 
 { .block-language-dataview}
 
-
+ 
 ___
 
 
@@ -170,12 +177,15 @@ ___
 | File                                                                                                                                                                                                                   | Stato     | PDF                                                                                                                                                                                                                                                   | Data              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 01 - Determinazione dell'ordine di una reazione chimica - ISA\|Es 01 - Determinazione dell'ordine di una reazione chimica - ISA]] | 🟢 Fatto  | <ul><li>[[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/allegati/Es 1 - Determinazione dell'ordine di una reazione chimica - ISA.pdf\\|Es 1 - Determinazione dell'ordine di una reazione chimica - ISA.pdf]]</li></ul> | October 05, 2023  |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 02 - Cinetica chimica - ISA\|Es 02 - Cinetica chimica - ISA]]                                                                     | 🟡 Finire | <ul><li>[[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/allegati/Es 2 - Cinetica Chimica - ISA.pdf\\|Es 2 - Cinetica Chimica - ISA.pdf]]</li></ul>                                                                     | October 24, 2023  |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 03 - Analisi di reazione - ISA\|Es 03 - Analisi di reazione - ISA]]                                                               | 🟡 Finire | <ul><li>[[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/allegati/Es 3 - Analisi dei reattori 1 - ISA.pdf\\|Es 3 - Analisi dei reattori 1 - ISA.pdf]]</li></ul>                                                         | November 02, 2023 |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 02 - Cinetica chimica - ISA\|Es 02 - Cinetica chimica - ISA]]                                                                     | 🟢 Fatto  | <ul><li>[[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/allegati/Es 2 - Cinetica Chimica - ISA.pdf\\|Es 2 - Cinetica Chimica - ISA.pdf]]</li></ul>                                                                     | October 24, 2023  |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 03 - Analisi di reazione - ISA\|Es 03 - Analisi di reazione - ISA]]                                                               | 🟢 Fatto  | <ul><li>[[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/allegati/Es 3 - Analisi dei reattori 1 - ISA.pdf\\|Es 3 - Analisi dei reattori 1 - ISA.pdf]]</li></ul>                                                         | November 02, 2023 |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 04 - Analisi dei reattori con ricircolo - ISA\|Es 04 - Analisi dei reattori con ricircolo - ISA]]                                 | 🔴 Fare   | <ul><li>[[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/allegati/Es4 - Analisi dei reattori PFR ricircolo - ISA.pdf\\|Es4 - Analisi dei reattori PFR ricircolo - ISA.pdf]]</li></ul>                                   | November 09, 2023 |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 05 - Analisi dei reattori boh - ISA\|Es 05 - Analisi dei reattori boh - ISA]]                                                     | 🟡 Finire | <ul><li>[[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/allegati/Es5 - Analisi dei reattori 3 - ISA.pdf\\|Es5 - Analisi dei reattori 3 - ISA.pdf]]</li></ul>                                                           | November 09, 2023 |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 06 - Reattore reale - ISA\|Es 06 - Reattore reale - ISA]]                                                                         | 🟡 Finire | <ul><li>[[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/allegati/Es6 - Reattore reale - ISA.pdf\\|Es6 - Reattore reale - ISA.pdf]]</li></ul>                                                                           | November 09, 2023 |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 07 - Equalizzazione - ISA\|Es 07 - Equalizzazione - ISA]]                                                                         | 🔴 Fare   | <ul><li>[[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/allegati/Es7 - Equalizzazione - ISA.pdf\\|Es7 - Equalizzazione - ISA.pdf]]</li></ul>                                                                           | November 21, 2023 |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 07 - Equalizzazione - ISA\|Es 07 - Equalizzazione - ISA]]                                                                         | 🟡 Finire | <ul><li>[[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/allegati/Es7 - Equalizzazione - ISA.pdf\\|Es7 - Equalizzazione - ISA.pdf]]</li></ul>                                                                           | November 21, 2023 |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 08 - Sedimentazione libera - ISA\|Es 08 - Sedimentazione libera - ISA]]                                                           | 🔴 Fare   | <ul><li>[[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/allegati/Es8 - Sedimentazione libera - ISA.pdf\\|Es8 - Sedimentazione libera - ISA.pdf]]</li></ul>                                                             | December 12, 2023 |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 09 - Sedimentazione per Flocculazione - ISA\|Es 09 - Sedimentazione per Flocculazione - ISA]]                                     | 🔴 Fare   | <ul><li>[[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/allegati/Es 9 - Sedimentazione per Flocculazione - ISA.pdf\\|Es 9 - Sedimentazione per Flocculazione - ISA.pdf]]</li></ul>                                     | December 12, 2023 |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 10 - Sistema fanghi attivi - ISA\|Es 10 - Sistema fanghi attivi - ISA]]                                                           | 🔴 Fare   | <ul><li>[[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/allegati/Es 10 - Sistemi a fanghi attivati - ISA.pdf\\|Es 10 - Sistemi a fanghi attivati - ISA.pdf]]</li></ul>                                                 | December 15, 2023 |
 
 { .block-language-dataview}
 
@@ -185,15 +195,15 @@ ___
 
 ## Temi d'esame
 
+| File                                                                                                               | Stato    | PDF                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------ | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2017 - ISA\|Esonero 2017 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2017.pdf\\|testi prova esonero ISA 2017.pdf]]</li></ul> |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2020 - ISA\|Esonero 2020 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2020.pdf\\|testi prova esonero ISA 2020.pdf]]</li></ul> |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2018 - ISA\|Esonero 2018 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2018.pdf\\|testi prova esonero ISA 2018.pdf]]</li></ul> |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2022 - ISA\|Esonero 2022 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2022.pdf\\|testi prova esonero ISA 2022.pdf]]</li></ul> |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2021 - ISA\|Esonero 2021 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2021.pdf\\|testi prova esonero ISA 2021.pdf]]</li></ul> |
 
-
-
-<iframe 
-		width = 700
-		height = 800
-		src = ""
-> </iframe>
-
+{ .block-language-dataview}
 
 
 ___
