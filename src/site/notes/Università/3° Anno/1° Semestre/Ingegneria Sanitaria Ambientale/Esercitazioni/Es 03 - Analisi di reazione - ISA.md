@@ -65,7 +65,7 @@ $$
 $$
 da cui possiamo ricavare $\theta_{H}$
 $$
-- \frac{1}{r_{A}} (C_{A_{0}}-C_{A_{u}})
+\theta_{H} = - \frac{1}{r_{A}} (C_{A_{0}}-C_{A_{u}})
 $$
 
 Nel caso di CFSTR il volume non sarebbe area sottesa dalla curva ma come area di un rettangolo. che ha per base la $X_{A}$ e come altezza la $- \frac{1}{r_{A}}$ calcolata in $X_{A}$.
@@ -83,6 +83,3 @@ $$
 X_{A} = \frac{C_{A_{0}} - C_{A_{u}}}{C_{A_{0}}}
 $$
 Si nota che il volume richiesto per un reattore CFSTR rispetto a un PFR a parità di condizione è molto maggiore.
-
-___
-[[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/🩺 Ingegneria Sanitaria Ambientale\|🩺 Ingegneria Sanitaria Ambientale]]
