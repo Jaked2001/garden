@@ -168,7 +168,7 @@ ___
 
 { .block-language-dataview}
 
- 
+
 ___
 
 
@@ -198,10 +198,10 @@ ___
 | File                                                                                                               | Stato    | PDF                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------ | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2017 - ISA\|Esonero 2017 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2017.pdf\\|testi prova esonero ISA 2017.pdf]]</li></ul> |
-| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2020 - ISA\|Esonero 2020 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2020.pdf\\|testi prova esonero ISA 2020.pdf]]</li></ul> |
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2018 - ISA\|Esonero 2018 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2018.pdf\\|testi prova esonero ISA 2018.pdf]]</li></ul> |
-| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2022 - ISA\|Esonero 2022 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2022.pdf\\|testi prova esonero ISA 2022.pdf]]</li></ul> |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2020 - ISA\|Esonero 2020 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2020.pdf\\|testi prova esonero ISA 2020.pdf]]</li></ul> |
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2021 - ISA\|Esonero 2021 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2021.pdf\\|testi prova esonero ISA 2021.pdf]]</li></ul> |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2022 - ISA\|Esonero 2022 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2022.pdf\\|testi prova esonero ISA 2022.pdf]]</li></ul> |
 
 { .block-language-dataview}
 
