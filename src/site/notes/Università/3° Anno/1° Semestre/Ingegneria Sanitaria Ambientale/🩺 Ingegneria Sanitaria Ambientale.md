@@ -140,7 +140,7 @@ ___
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali\|03. Reattori Ideali]]                                                                 | T    | 🟠 Studiare |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/05. Parametri di caratterizzazione delle acque\|05. Parametri di caratterizzazione delle acque]]           | T    | 🟠 Studiare |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/06. Sedimentazione\|06. Sedimentazione]]                                                                   | T    | 🟡 Finire   |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/07. Coagulazione e Flocculazione\|07. Coagulazione e Flocculazione]]                                       | T    | 🔴 Fare     |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/07. Coagulazione e Flocculazione\|07. Coagulazione e Flocculazione]]                                       | T    | 🟡 Finire   |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/10. Processi Biologici\|10. Processi Biologici]]                                                           | T    | 🔴 Fare     |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/11. Disinfezione delle acque\|11. Disinfezione delle acque]]                                               | T    | 🔴 Fare     |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/12. Fanghi\|12. Fanghi]]                                                                                   | T    | 🔴 Fare     |
@@ -161,7 +161,7 @@ ___
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali\|03. Reattori Ideali]]                                                       | 🟠 Studiare |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/05. Parametri di caratterizzazione delle acque\|05. Parametri di caratterizzazione delle acque]] | 🟠 Studiare |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/06. Sedimentazione\|06. Sedimentazione]]                                                         | 🟡 Finire   |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/07. Coagulazione e Flocculazione\|07. Coagulazione e Flocculazione]]                             | 🔴 Fare     |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/07. Coagulazione e Flocculazione\|07. Coagulazione e Flocculazione]]                             | 🟡 Finire   |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/10. Processi Biologici\|10. Processi Biologici]]                                                 | 🔴 Fare     |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/11. Disinfezione delle acque\|11. Disinfezione delle acque]]                                     | 🔴 Fare     |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/12. Fanghi\|12. Fanghi]]                                                                         | 🔴 Fare     |
