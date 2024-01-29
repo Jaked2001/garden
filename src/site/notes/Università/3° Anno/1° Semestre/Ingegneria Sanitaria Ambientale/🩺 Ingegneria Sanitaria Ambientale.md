@@ -136,10 +136,11 @@ ___
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 10 - Sistema fanghi attivi - ISA\|Es 10 - Sistema fanghi attivi - ISA]]                           | Es   | 🔴 Fare     |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/02. Cinetica delle reazioni chimiche\|02. Cinetica delle reazioni chimiche]]                               | T    | 🟠 Studiare |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali\|03. Reattori Ideali]]                                                                 | T    | 🟠 Studiare |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/04. Principi di trattamento delle acque reflue\|04. Principi di trattamento delle acque reflue]]           | T    | 🟠 Studiare |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/05. Parametri di caratterizzazione delle acque\|05. Parametri di caratterizzazione delle acque]]           | T    | 🟠 Studiare |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/06. Sedimentazione\|06. Sedimentazione]]                                                                   | T    | 🟡 Finire   |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/07. Coagulazione e Flocculazione\|07. Coagulazione e Flocculazione]]                                       | T    | 🟠 Studiare |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/10. Processi Biologici\|10. Processi Biologici]]                                                           | T    | 🟡 Finire   |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/10. Processi Biologici\|10. Processi Biologici]]                                                           | T    | 🟠 Studiare |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/11. Disinfezione delle acque\|11. Disinfezione delle acque]]                                               | T    | 🟠 Studiare |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/12. Fanghi\|12. Fanghi]]                                                                                   | T    | 🔴 Fare     |
 
@@ -157,10 +158,11 @@ ___
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/02. Cinetica delle reazioni chimiche\|02. Cinetica delle reazioni chimiche]]                     | 🟠 Studiare |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/03. Reattori Ideali\|03. Reattori Ideali]]                                                       | 🟠 Studiare |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/04. Principi di trattamento delle acque reflue\|04. Principi di trattamento delle acque reflue]] | 🟠 Studiare |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/05. Parametri di caratterizzazione delle acque\|05. Parametri di caratterizzazione delle acque]] | 🟠 Studiare |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/06. Sedimentazione\|06. Sedimentazione]]                                                         | 🟡 Finire   |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/07. Coagulazione e Flocculazione\|07. Coagulazione e Flocculazione]]                             | 🟠 Studiare |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/10. Processi Biologici\|10. Processi Biologici]]                                                 | 🟡 Finire   |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/10. Processi Biologici\|10. Processi Biologici]]                                                 | 🟠 Studiare |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/11. Disinfezione delle acque\|11. Disinfezione delle acque]]                                     | 🟠 Studiare |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/12. Fanghi\|12. Fanghi]]                                                                         | 🔴 Fare     |
 
@@ -197,9 +199,9 @@ ___
 | ------------------------------------------------------------------------------------------------------------------ | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2017 - ISA\|Esonero 2017 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2017.pdf\\|testi prova esonero ISA 2017.pdf]]</li></ul> |
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2020 - ISA\|Esonero 2020 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2020.pdf\\|testi prova esonero ISA 2020.pdf]]</li></ul> |
-| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2018 - ISA\|Esonero 2018 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2018.pdf\\|testi prova esonero ISA 2018.pdf]]</li></ul> |
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2021 - ISA\|Esonero 2021 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2021.pdf\\|testi prova esonero ISA 2021.pdf]]</li></ul> |
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2022 - ISA\|Esonero 2022 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2022.pdf\\|testi prova esonero ISA 2022.pdf]]</li></ul> |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2018 - ISA\|Esonero 2018 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2018.pdf\\|testi prova esonero ISA 2018.pdf]]</li></ul> |
 
 { .block-language-dataview}
 
