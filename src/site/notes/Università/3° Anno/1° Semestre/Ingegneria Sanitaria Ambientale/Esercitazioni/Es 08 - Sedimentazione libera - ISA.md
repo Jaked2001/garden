@@ -40,3 +40,5 @@ Efficienza di rimozione è
 $$
 E = 100 - P_{OR} + \frac{1}{v_{OR}} \int_{0}^{P_{OR}} v_{S}  \, dP
 $$
+
+- [ ] Finire di scrivere esercitazione in latex
