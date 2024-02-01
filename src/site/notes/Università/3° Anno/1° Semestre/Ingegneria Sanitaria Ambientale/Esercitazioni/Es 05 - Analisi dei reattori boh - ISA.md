@@ -90,7 +90,7 @@ QC_{A_{0}} - Q C_{A_{u}} + r_{A}V = 0 && \frac{dC_{A}}{d \theta_{H}} \\
 \theta_{H} = - \frac{1}{r_{A}}(C_{A_{0}} - C_{A_{u}}) && \int_{C_{A_{u}}}^{C_{A_{0}}}- \frac{1}{r_{A}} \, dC_{A} = \int_{0}^{\theta_{H}} \, d\theta_{H}
 \end{matrix}
 $
-Quindi per il CFSTR, $\theta_{h}$ è l'area del rettangolo blu, mentre per il PFR è l'area sottesa dalla curva, evidenziata in rosso
+Quindi per il CFSTR, $\theta_{H}$ è l'area del rettangolo blu, mentre per il PFR è l'area sottesa dalla curva, evidenziata in rosso
 
 ![03. Reattori Ideali 2023-11-06 13.11.06.excalidraw.png|500](/img/user/Excalidraw/03.%20Reattori%20Ideali%202023-11-06%2013.11.06.excalidraw.png)
 
