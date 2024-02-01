@@ -5,6 +5,9 @@
 
 # Es 10 - Sistema fanghi attivi
 
+- [ ] Scrivere riferimenti teorici per volume richiesto
+- [ ] Aggiungere diagrammi
+
 ### Equazioni di progetto
 $$
 S = \dfrac{K_{S}(1+k_{d}\theta_{H})}{(\mu_{\rm MAX}-k_{d})\theta_{H} - 1}
