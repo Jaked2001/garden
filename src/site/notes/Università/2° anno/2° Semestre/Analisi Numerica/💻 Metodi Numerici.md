@@ -210,8 +210,8 @@ $$
 
 | File                                                                                                                                                  | Scadenza                                   | Stato    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | -------- |
-| [[Università/2° anno/2° Semestre/Analisi Numerica/Autovalutazioni/Autovalutazione 04 - 2023-06-01 - ANEP\|Autovalutazione 04 - 2023-06-01 - ANEP]] | [[_Giornaliera/2023-06-06\|2023-06-06]] | 🟢 Fatto |
 | [[Università/2° anno/2° Semestre/Analisi Numerica/Autovalutazioni/Autovalutazione 03 - 2023-05-15\|Autovalutazione 03 - 2023-05-15]]               | [[_Giornaliera/2023-05-15\|2023-05-15]] | 🟢 Fatto |
+| [[Università/2° anno/2° Semestre/Analisi Numerica/Autovalutazioni/Autovalutazione 04 - 2023-06-01 - ANEP\|Autovalutazione 04 - 2023-06-01 - ANEP]] | [[_Giornaliera/2023-06-06\|2023-06-06]] | 🟢 Fatto |
 
 { .block-language-dataview}
 
@@ -222,17 +222,17 @@ $$
 
 ## Tutoraggi
 
-| File                                                                                                                      | Stato    | PDF                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/01. Tutoraggio - 20-03-2023\|01. Tutoraggio - 20-03-2023]]     | 🟢 Fatto | [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/1. Tutoraggio ANEP - 20-03-2023.pdf\|1. Tutoraggio ANEP - 20-03-2023.pdf]] |
-| [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/02. Tutoraggio - 27-03-2023\|02. Tutoraggio - 27-03-2023]]     | 🟢 Fatto | [[2. Tutoraggio ANEP - 27-03-2023.pdf\|2. Tutoraggio ANEP - 27-03-2023.pdf]]                                                          |
-| [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/03. Tutoraggio - 03-04-2023\|03. Tutoraggio - 03-04-2023]]     | 🟢 Fatto | [[3. Tutoraggio ANEP - 03-04-2023.pdf\|3. Tutoraggio ANEP - 03-04-2023.pdf]]                                                          |
-| [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/04. Tutoraggio - 11-04-2023\|04. Tutoraggio - 11-04-2023]]     | 🟡Finire | <ul><li>[[4. Tutoraggio ANEP - 11-04-2023.pdf\\|4. Tutoraggio ANEP - 11-04-2023.pdf]]</li></ul>                                       |
-| [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/05. Tutoraggio - 17-04-2023\|05. Tutoraggio - 17-04-2023]]     | 🟢 Fatto | [[5. Tutoraggio ANEP - 17-04-2023.pdf\|5. Tutoraggio ANEP - 17-04-2023.pdf]]                                                          |
-| [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/07. Tutoraggio - 08-05-2023\|07. Tutoraggio - 08-05-2023]]     | 🟢 Fatto | [[7. Tutraggio ANEP - 08-05-2023.pdf\|7. Tutraggio ANEP - 08-05-2023.pdf]]                                                            |
-| [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/08. Tutoraggio - 15-05-2023\|08. Tutoraggio - 15-05-2023]]     | 🟢 Fatto | [[8. Tutraggio ANEP - 15-05-2023.pdf\|8. Tutraggio ANEP - 15-05-2023.pdf]]                                                            |
-| [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/09. Tutoraggio - 22-05-2023 1\|09. Tutoraggio - 22-05-2023 1]] | 🟢 Fatto | [[9. Tutraggio ANEP - 22-05-2023.pdf\|9. Tutraggio ANEP - 22-05-2023.pdf]]                                                            |
-| [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/10. Tutoraggio - 29-05-2023\|10. Tutoraggio - 29-05-2023]]     | 🔴 Fare  | [[10. Tutraggio ANEP - 29-05-2023.pdf\|10. Tutraggio ANEP - 29-05-2023.pdf]]                                                          |
+| File                                                                                                                      | Stato    | PDF                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/01. Tutoraggio - 20-03-2023\|01. Tutoraggio - 20-03-2023]]     | 🟢 Fatto | [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/allegati/1. Tutoraggio ANEP - 20-03-2023.pdf\|1. Tutoraggio ANEP - 20-03-2023.pdf]]              |
+| [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/02. Tutoraggio - 27-03-2023\|02. Tutoraggio - 27-03-2023]]     | 🟢 Fatto | [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/allegati/2. Tutoraggio ANEP - 27-03-2023.pdf\|2. Tutoraggio ANEP - 27-03-2023.pdf]]              |
+| [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/03. Tutoraggio - 03-04-2023\|03. Tutoraggio - 03-04-2023]]     | 🟢 Fatto | [[Università/2° anno/2° Semestre/Analisi Numerica/allegati/3. Tutoraggio ANEP - 03-04-2023.pdf\|3. Tutoraggio ANEP - 03-04-2023.pdf]]                    |
+| [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/04. Tutoraggio - 11-04-2023\|04. Tutoraggio - 11-04-2023]]     | 🟡Finire | <ul><li>[[Università/2° anno/2° Semestre/Analisi Numerica/allegati/4. Tutoraggio ANEP - 11-04-2023.pdf\\|4. Tutoraggio ANEP - 11-04-2023.pdf]]</li></ul> |
+| [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/05. Tutoraggio - 17-04-2023\|05. Tutoraggio - 17-04-2023]]     | 🟢 Fatto | [[Università/2° anno/2° Semestre/Analisi Numerica/allegati/5. Tutoraggio ANEP - 17-04-2023.pdf\|5. Tutoraggio ANEP - 17-04-2023.pdf]]                    |
+| [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/07. Tutoraggio - 08-05-2023\|07. Tutoraggio - 08-05-2023]]     | 🟢 Fatto | [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/allegati/7. Tutraggio ANEP - 08-05-2023.pdf\|7. Tutraggio ANEP - 08-05-2023.pdf]]                |
+| [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/08. Tutoraggio - 15-05-2023\|08. Tutoraggio - 15-05-2023]]     | 🟢 Fatto | [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/allegati/8. Tutraggio ANEP - 15-05-2023.pdf\|8. Tutraggio ANEP - 15-05-2023.pdf]]                |
+| [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/09. Tutoraggio - 22-05-2023 1\|09. Tutoraggio - 22-05-2023 1]] | 🟢 Fatto | [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/allegati/9. Tutraggio ANEP - 22-05-2023.pdf\|9. Tutraggio ANEP - 22-05-2023.pdf]]                |
+| [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/10. Tutoraggio - 29-05-2023\|10. Tutoraggio - 29-05-2023]]     | 🔴 Fare  | [[Università/2° anno/2° Semestre/Analisi Numerica/Tutor/allegati/10. Tutraggio ANEP - 29-05-2023.pdf\|10. Tutraggio ANEP - 29-05-2023.pdf]]              |
 
 { .block-language-dataview}
 
