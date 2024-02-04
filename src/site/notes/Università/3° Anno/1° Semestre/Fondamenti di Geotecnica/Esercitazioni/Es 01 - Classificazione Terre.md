@@ -8,7 +8,7 @@
 
 
 
-![[Recording 20231002152747.webm\|Recording 20231002152747.webm]]
+![[Recording 20231002152747.webm]]
 
 
 # Esercitazione
@@ -26,7 +26,7 @@ Sarà giusto?
 
 
 
-PDF: [[Esercitazione 1 - classificazione terre.pdf\|Esercitazione 1 - classificazione terre.pdf]]
+PDF: [[Esercitazione 1 - classificazione terre.pdf]]
 
 
 # Teoria
