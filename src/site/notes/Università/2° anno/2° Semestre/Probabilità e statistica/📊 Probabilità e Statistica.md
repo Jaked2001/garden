@@ -10,8 +10,8 @@
 🌐 Sito Web: https://www.sbai.uniroma1.it/~mirko.dovidio/PGS/probStat.html
 🅿️ Programma: [[Università/2° anno/2° Semestre/Probabilità e statistica/Programma - Probabilità e Statistica - D'Ovidio\|Programma - Probabilità e Statistica - D'Ovidio]]
 📚 Libri:
-- [[Appunti di probabilità e statistica - Mirko D'Ovidio.pdf\|Appunti di probabilità e statistica - Mirko D'Ovidio.pdf]]
-- [[Introduction to probability and statistics for engineers and scientists - Sheldon M. Ross.pdf\|Introduction to probability and statistics for engineers and scientists - Sheldon M. Ross.pdf]]
+- [[Appunti di probabilità e statistica - Mirko D'Ovidio.pdf]]
+- [[Introduction to probability and statistics for engineers and scientists - Sheldon M. Ross.pdf]]
 Tutor: [[Fausto Colantoni\|Fausto Colantoni]]
 
 
