@@ -16,7 +16,7 @@
 
 # Es 1 - Determinazione dell'ordine di una reazione chimica
 
-🎤 [[Recording 20231005171516.webm\|Recording 20231005171516.webm]]
+🎤 [[Recording 20231005171516.webm]]
 
 È venuta di ordine 2.
 
