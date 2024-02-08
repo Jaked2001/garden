@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/universita/3-anno/1-semestre/veicoli-e-impianti-di-trasporto/lezioni/05-la-via-ferrata-vit/"}
 ---
 
-
+leggere dispense
 
 ![[Recording 20231122172708.webm]]
 
