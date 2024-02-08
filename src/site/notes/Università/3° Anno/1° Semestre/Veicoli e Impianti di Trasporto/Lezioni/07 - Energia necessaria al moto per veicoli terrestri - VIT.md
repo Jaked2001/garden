@@ -237,13 +237,13 @@ La caratteristica di trazione ideale è quella che consente il **pieno sfruttame
 
 ![Schermata 2024-02-08 alle 11.08.51.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202024-02-08%20alle%2011.08.51.png)
 
-In realtà non esistono motori con questa caratteristica di trazione a potenza costante. Al più, il [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10. Motori ed equipaggiamenti per la trazione elettrica - VIT#Motore in Corrente Continua\|motore in CC]] si avvicina abbastanza a questa condizione.
+In realtà non esistono motori con questa caratteristica di trazione a potenza costante. Al più, il [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Motore in Corrente Continua\|motore in CC]] si avvicina abbastanza a questa condizione.
 
 Per ovviare a questo problema gli organi di regolazione cercano di approssimare per punti la caratteristica ideale generando una **caratteristica artificiale** variando con continuità le variabili di esercizio del motore.
 
 ### Caratteristica di trazione artificiale
 
-Nei [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/08. Motori - VIT\|motori endotermici]] la [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/07 - Energia necessaria al moto per veicoli terrestri - VIT#Caratteristica di trazione ideale\|#Caratteristica di trazione ideale]] è ottenuta mediante l'utilizzo del **cambio di velocità**, il quale consente di modificare il rapporto di riduzione tra il motore e le ruote.
+Nei [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/08 - Motori - VIT\|motori endotermici]] la [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/07 - Energia necessaria al moto per veicoli terrestri - VIT#Caratteristica di trazione ideale\|#Caratteristica di trazione ideale]] è ottenuta mediante l'utilizzo del **cambio di velocità**, il quale consente di modificare il rapporto di riduzione tra il motore e le ruote.
 
 In figura, è riportato l'andamento di una caratteristica di trazione per un veicolo con cambio a 4 marce:
 
