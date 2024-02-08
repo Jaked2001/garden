@@ -9,6 +9,7 @@
 # [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/05 - La via ferrata - VIT\|05 - La via ferrata - VIT]]
 
 ### Corpo stradale
+
 ```ad-Definizione
 title: 
 
