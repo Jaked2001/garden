@@ -137,6 +137,7 @@ La traiettoria è imposta dal conducente (es. automobile)
 Ad esempio l'auto ha 2 gradi di libertà.
 
 #### Guida vincolata
+
 La traiettoria è imposta dall'infrastruttura (ferrovia).
 Ha 1 solo grado di libertà
 ### Classificazione per controllo di marcia
@@ -144,9 +145,9 @@ Ha 1 solo grado di libertà
 Controlla sia la locomozione che la guida.
 
 Di 3 tipi:
-- [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione - VIT#Manuale\|#Manuale]]
-- [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione - VIT#Automatico\|#Automatico]]
-- [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione - VIT#Semi-automatico\|#Semi-automatico]]
+- [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Manuale\|manuale]]
+- [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Automatico\|#Automatico]]
+- [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Semi-automatico\|#Semi-automatico]]
 
 #### Manuale
 
@@ -190,7 +191,7 @@ Gli **Impianti di trasporto** sono l'interfaccia fra il veicolo e le funzioni co
 
 ## La ruota
 
-Che la guida sia [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione - VIT#Guida libera\|#Guida libera]] o [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione - VIT#Guida vincolata\|#Guida vincolata]], l'elemento essenziale a trasmettere gli sforzi di [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione - VIT#Classificazione per sostentazione\|sostentazione]], [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione - VIT#Classificazione per guida\|guida]] e [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione - VIT#Classificazione per locomozione\|locomozione]] è la **ruota**. 
+Che la guida sia [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Guida libera\|#Guida libera]] o [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Guida vincolata\|#Guida vincolata]], l'elemento essenziale a trasmettere gli sforzi di [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#sostentazione\|#sostentazione]], [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Classificazione per guida\|#Classificazione per guida]] e [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione - VIT#Classificazione per locomozione\|locomozione]] è la **ruota**. 
 
 ### Cinematica della ruota indeformabile
 
@@ -198,13 +199,13 @@ In prima approssimazione si considera la ruota come un cerchio rigido di diametr
 
 ![01. Introduzione - VIT 2023-12-06 12.06.18.excalidraw.png](/img/user/Excalidraw/01.%20Introduzione%20-%20VIT%202023-12-06%2012.06.18.excalidraw.png)
 
-
 Rotazione intorno al centro $O$ a **velocità angolare** $\omega$ e traslazione a velocità $V$
 
 3 casi possibili:
-- [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione - VIT#Puro rotolamento\|#Puro rotolamento]]
-- [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione - VIT#Strisciamento retrogrado\|#Strisciamento retrogrado]]
-- [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione - VIT#Strisciamento diretto\|#Strisciamento diretto]]
+- [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Puro rotolamento\|#Puro rotolamento]]
+- [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Strisciamento retrogrado\|#Strisciamento retrogrado]]
+- [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Strisciamento diretto\|#Strisciamento diretto]]
+
 #### Puro rotolamento
 
 Ciascun punto $P$ all'interno della ruota, ruota con velocità angolare $\omega$ e trasla nello spazio rispetto a O a velocità $V = \omega \overline{OP}$ parallelamente alla via.
