@@ -259,7 +259,7 @@ $$
 s = \frac{\text{Spazio percorso in assenza di strisciamento - Spazio effettivo percorso in presenza di strisciamento}}{\text{Spazio percorso in assenza di strisciamento}}
 $$
 $$
-s = \frac{2 \pi n\frac{D}{2} - 2 \pi nOI t}{2 \pi n\frac{D}{2}t} = \frac{\frac{D}{2} - OI}{D} = 1 - \frac{2\overline{OI}}{D}
+s = \frac{2 \pi n\frac{D}{2}t - 2 \pi nOI t}{2 \pi n\frac{D}{2}t} = \frac{\frac{D}{2} - OI}{D} = 1 - \frac{2\overline{OI}}{D}
 $$
 - $\frac{D}{2} = OI \Longrightarrow s= 0$: assenza di strisciamento ([[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione - VIT#Puro rotolamento\|#Puro rotolamento]])
 - $\frac{D}{2} > OI \Longrightarrow s>0$: arrivando al valore massimo di 1 quando $I == O$ (ruota che rotola su se stessa senza anvanzare e quindi $V = 0$: [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione - VIT#Strisciamento retrogrado\|#Strisciamento retrogrado]] o slittamento) 
