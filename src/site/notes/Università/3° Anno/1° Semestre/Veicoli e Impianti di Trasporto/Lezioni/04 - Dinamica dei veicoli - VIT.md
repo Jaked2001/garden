@@ -129,7 +129,6 @@ $$
 ### Stabilità al ribaltamento - con sovralzo
 
 
-
 ![Schermata 2024-02-06 alle 16.13.36.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202024-02-06%20alle%2016.13.36.png)
 
 ```ad-Teo
@@ -146,10 +145,9 @@ $$
 ```ad-Definizione
 title: Sovralzo
 
-Il sovralzo è una sopraelevazione della rotaia esterna rispetto a quella interna. In curva si realizza elevando la quota della rotaia esterna in mood che la forza peso possa compensare la forza centrifuga.
+Il **sovralzo** è una sopraelevazione della rotaia esterna rispetto a quella interna. In curva si realizza elevando la quota della rotaia esterna in modo che la forza peso possa compensare la forza centrifuga.
 
 ```
-
 
 Il sovralzo ha delle limitazioni dovute a:
 - differenze di velocità tra i treni che percorrono la linea
