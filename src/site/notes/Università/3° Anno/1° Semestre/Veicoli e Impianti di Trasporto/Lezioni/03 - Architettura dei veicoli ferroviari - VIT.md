@@ -575,6 +575,11 @@ In realtà la freccia del carrello si trova su una direzione diversa da quella d
 
 Agli scostamenti geometrici, vanno aggiunti scostamenti dovuti al gioco ruota-rotaia, alla deformazione delle sospensioni. In generale, vanno contati quindi anche gli **scostamenti dinamici interni**.
 
+In particolare si avranno:
+- [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Gioco rotaia-bordino\|#Gioco rotaia-bordino]]
+- [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Scostamento sistema assale-boccola\|#Scostamento sistema assale-boccola]]
+- [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Scostamento cassa-carrello\|#Scostamento cassa-carrello]]
+
 In definitiva si avrà come altri scostamenti interni
 $$
 g = \frac{2s-d}{2} + q + w
@@ -618,12 +623,21 @@ $$
 E_{a} = \frac{am+m^{2}}{2R} - \frac{p^{2}}{8R}
 $$
 
+#### Altri scostamenti esterni
 
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗ altri scostamenti esterni
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-- [?] Non ho capito gli altri scostamenti esterni
+- Annullamento dei giochi verso l'esterno della curva
+	- Bordino-rotaia
+- Spostamento delle sospensioni
+- Inclinazione del veicolo in curva
 
+#### Scostamenti complessivi
+
+$$
+\begin{align}
+E_{i} &= \frac{a^{2}+p^{2}}{8R} + \frac{2s-d}{2} + q + w \\
+E_{a} &= \frac{m(a+m)}{2R}- \frac{p^{2}}{8R} + \left(  \frac{2s-d}{2}+q+w  \right) \cdot \frac{a+2m}{a}
+\end{align} 
+$$
 
 ## Sagoma limite
 
