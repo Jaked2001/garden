@@ -73,6 +73,7 @@ Le masse dei veicoli ferroviari sono legate al carico trasferibile sul binario a
 
 
 ### Marcatura uniforme (facoltativo)
+
 I treni hanno di solito una marcatura uniforme a 12 cifre
 
 - prime 2 cifre
@@ -111,8 +112,6 @@ Treni a scartamento variabile:
 - [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Centro ruota\|#Centro ruota]]
 - [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Cerchione\|#Cerchione]]
 Anche se sempre più spesso vengono realizzate in **monoblocco**.
-
-
 
 Nonostante le ruote siano tipicamente abbastanza rigide, a volte si possono avere **ruote elastiche**
 Queste hanno un elemento in gomma o poliuretano interposto fra il [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Cerchione\|#Cerchione]] e il disco [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Centro ruota\|#Centro ruota]], che serve a ridurre le masse non sospese e quindi la trasmissione al veicolo dei carichi dinamici.
