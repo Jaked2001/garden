@@ -16,7 +16,6 @@ title: Motore a combustione interna
 Il **motore a combustione interna** o **motore endotermico** è un particolare motore termico nel quale avviene combustione tramite reazione tra un **carburante** (o **combustibile**: benzina, gasolio, metano, GPL, cherosene...) e un **comburente** (aria).
 ```
 
-
 Possono essere classificati a seconda della modalità con cui la miscela viene apportata all'interno del motore:
 - Motori **volumetrici** - il fluido motore agisce in maniera intermittente
 	- Motori a movimento **alternativo dei pistoni**
