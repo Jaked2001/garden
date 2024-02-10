@@ -257,13 +257,3 @@ I tratti decrescenti della caratteristica di coppia o di forza di trazione sono 
 Se c'è un aumento di velocità, alla fine della perturbazione il sistema torna alla precedente condizione di equilibrio autonomamente. 
 
 
-
-
-
-
-
-
-
-
-
-
