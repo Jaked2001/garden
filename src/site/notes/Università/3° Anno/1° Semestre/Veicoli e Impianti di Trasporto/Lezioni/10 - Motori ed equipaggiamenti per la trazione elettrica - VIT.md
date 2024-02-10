@@ -122,11 +122,6 @@ Si noti che l'andamento della curva deve essere limitato sia superiormente che i
 - È necessario un meccanismo di **regolazione**: spostare la caratteristica nel piano $C,n$ in relazione alle varie condizioni di moto.
 
 
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗ Problema di avviamento e reostato
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-
-
 ### Rotore
 
 Il **rotore**, o indotto, è costituito da **lamierini di ferro** e da **conduttori di rame** all'interno dei quali circola la corrente.
@@ -250,7 +245,6 @@ Questo è capace di regolare la velocità in modo continuo, eliminando gli strap
 Inoltre, questo tipo di azionamento migliora il rendimento energetico, non essendoci energia dissipata in resistenze.
 
 
-
 Vantaggi del chopper
 - Regolazione **continua**
 - Risparmio di **ingombro**, **peso** e **usura**
@@ -258,6 +252,8 @@ Vantaggi del chopper
 
 
 ##### Principio di funzionamento del chopper
+
+![Schermata 2024-02-10 alle 16.33.14.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/allegati/Schermata%202024-02-10%20alle%2016.33.14.png)
 
 Si hanno a disposizione:
 - Una **sorgente di tensione continua** $V_{1}$
@@ -276,6 +272,8 @@ L'intervallo $T_{ON} + T_{OFF}$ è detto **periodo**.
 
 Il chopper, a seconda che la tensione in uscita sia superiore o inferiore a quella in ingresso può essere **elevatore** o **abbassatore**.
 
+
+
 ### Azionamenti in corrente alternata
 
 Il [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Motore Asincrono in corrente Alternata Trifase\|#Motore Asincrono in corrente Alternata Trifase]] presenta alcune problematiche
@@ -287,14 +285,33 @@ La regolazione di questo motore si effettua mediante un dispositivo chiamato [[U
 
 #### Inverter
 
+Ha lo scopo di aggirare gli aspetti negativi del [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Motore Asincrono in corrente Alternata Trifase\|#Motore Asincrono in corrente Alternata Trifase]]:
+- Caratteristica meccanica stabile solo in un campo ristretto
+- Coppia di avviamento **molto minore** di quella massima
+- Coppia variabile con il quadrato della tensione e quindi sensibilmente soggetta alle variazioni di tensioni in linea
 
+L'**inverter** (o **convertitore statico**) è in grado, usando i tiristori, di convertire una tensione continua in alternata.
 
+##### Principio di funzionamento dell'inverter
 
+![Schermata 2024-02-10 alle 16.39.27.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/allegati/Schermata%202024-02-10%20alle%2016.39.27.png)
 
+L'**inverter monofase** funziona accendendo e spegnendo opportunamente dei tiristori in un circuito tipo quello mostrato in figura in modo da variare i valori di tensione e il verso della corrente a seconda della configurazione.
 
+![Schermata 2024-02-10 alle 16.41.18.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/allegati/Schermata%202024-02-10%20alle%2016.41.18.png)
 
+Si noti che a seconda delle configurazioni di tiristori (accesi o spenti) cambia il verso della corrente sul carico $R$.
 
+$t_{0}\to t_{1}$
+Sono spenti i tiristori $T_{1}$ e $T_{4}$. Si hanno le tensioni $V_{T_{1}} = V_{T_{2}} = V_{R}$
 
+$t_{1}\to t_{2}$
+Sono spenti i tiristori $T_{3}$ e $T_{4}$. Non si ha passaggio di corrente attraverso il carico $R$.
 
+$t_{2}\to t_{3}$
+Sono spenti i tiristori $T_{2}$ e $T_{4}$. Si ha tensione opposta a prima sul carico e quindi corrente che scorre nel verso opposto.
 
+$t_{3} \to t_{4}$
+Sono spenti i tiristori $T_{3}$ e $T_{4}$. Non si ha passaggio di corrente attraverso il carico $R$.
 
+Ripetendo il processo sopra descritto in modo ciclico e con opportuni intervalli temporali si può ottenere un andamento di corrente alternata. 
