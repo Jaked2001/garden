@@ -267,6 +267,7 @@ ___
 
 ## Appendici
 ### A. [[Geometria delle aree\|Geometria delle aree]]
+
 ___
 
 
