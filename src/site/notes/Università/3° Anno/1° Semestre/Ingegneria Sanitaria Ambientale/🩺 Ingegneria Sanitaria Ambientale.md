@@ -80,7 +80,8 @@ Bonus da 26.5 in su.
 | Parte | Data | Voto |
 | ---- | ---- | ---- |
 | Esonero | [[_Giornaliera/2023-12-05\|2023-12-05]] | 27.5 |
-| Orale | [[2024-02-01]] |  |
+| Orale | [[2024-02-01]] | 30 e lode |
+
 
 
 
