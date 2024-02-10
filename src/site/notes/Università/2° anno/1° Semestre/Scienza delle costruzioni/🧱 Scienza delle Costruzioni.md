@@ -10,6 +10,7 @@
 🅿️ Programma: [[Programma - SDC - Casini.pdf]]
 
 # ❗Esame❗️
+
 ```ad-attention
 title: Esami
 
@@ -20,8 +21,11 @@ title: Esami
 23/02/2023: II appello (scritto) + orale
 
 ```
+
 ## Struttura
+
 ### ✍️ Scritto
+
 🕒 Tempo: 4h
 3 esercizi
 1. Trave rigida isostatica: reazioni e CdS
@@ -35,7 +39,8 @@ All’esonero si può usare qualsiasi materiale cartaceo e calcolatrice scientif
 Per l’esame è obbligatoria l’iscrizione su Infostud.
 Chi non supera la prova di esonero farà una prova scritta e questo scritto è valido per L’orale solo dell’appello corrispondente 
 
-### 🗣 Orale 
+### 🗣 Orale
+
 Ci sono *argomenti fondamentali*: da sapere bene
 Chiede anche qualche esercizio.
 *Indice delle lezioni svolte*: sulla teoria chiede unicamente le cose fatte a lezione! Sull’indice ci sono tutte
@@ -47,12 +52,15 @@ Dà una ventina di minuti per preparare una scaletta con titoletti e diagrammi e
 La data su Infostud è per TUTTI. Anche chi deve solo fare l’orale.
 
 #### Tesina
+
 Facoltativa!
 Guardare argomenti possibili su sito.
 ##### Argomento scelto
+
 - [[Università/2° anno/1° Semestre/Scienza delle costruzioni/Tesina/Il Daly's Bridge\|Il Daly's Bridge]]
 
 ## 💯 Voto
+
 | Parte       | Data           | Voto |
 | ----------- | -------------- | ---- |
 | Pre-appello | [[_Giornaliera/2022-12-21\|2022-12-21]] | Discreto + |
@@ -94,6 +102,7 @@ Guardare argomenti possibili su sito.
 
 
 ___
+
 | File                                                                                                                                                                                                                                                                    | Tipo     | Stato         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------- |
 | [[Università/2° anno/1° Semestre/Scienza delle costruzioni/Tesina/"Fall of the Broughton suspension bridge, near Manchester"\|"Fall of the Broughton suspension bridge, near Manchester"]]                                                                           | Articolo | ✅             |
