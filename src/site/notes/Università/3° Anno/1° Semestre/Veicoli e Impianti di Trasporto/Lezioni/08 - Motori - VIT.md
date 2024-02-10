@@ -66,6 +66,7 @@ Il consumo specifico $q$ è la quantità di combustibile consumato in un'ora di 
 - Sia $n_{m}$ il rendimento meccanico del motore
 
 Possiamo definire:
+
 **COMBUSTIBILE CONSUMATO**
 $$
 qN_{u}T
