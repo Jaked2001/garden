@@ -18,7 +18,7 @@
 - Misiti A., Fondamenti di Ingegneria Ambientale, Nuova Italia Scientifica, Firenze 1994  
 - Metcalf & Eddy, Inc., Ingegneria delle Acque Reflue. Trattamento e Riuso, 5a ed., McGraw-Hill, Milano, 2006
 
-password dispense: studente_ISA
+password dispense: studente_ISA.
 
 Quando abbiamo 2h facciamo di seguito.
 Quando abbiamo 3h facciamo sicuro una pausa in mezzo.
