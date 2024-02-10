@@ -4,10 +4,6 @@
 
 # [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT\|10 - Motori ed equipaggiamenti per la trazione elettrica - VIT]]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7O_dxw1RXxg?si=a5iFr6C0SbpUsD41" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://youtu.be/7O_dxw1RXxg?si=X-v7FChN0vhAdfu8
-
 Nel caso di trazione elettrica, la corrente è captata dalla linea aerea di alimentazione e raggiunge i motori attraverso opportuni equipaggiamenti di trazione.
 Il circuito di trazione si chiude attraverso le rotaie che consentono il ritorno di corrente alla sottostazione che alimenta la linea.
 
@@ -154,7 +150,12 @@ I circuiti delle spire dello statore e del rotore possono essere lo stesso circu
 
 ## Motore Asincrono in corrente Alternata Trifase
 
-Si tratta di un tipo diverso dal [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Motore in Corrente Continua\|#Motore in Corrente Continua]]. Uno dei vantaggi principali è quello di non avere contatti elettrici fisici tra elementi fissi e in movimento (non ha spazzole) e questo garantisce una maggiore durabilità.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7O_dxw1RXxg?si=a5iFr6C0SbpUsD41" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+https://youtu.be/7O_dxw1RXxg?si=X-v7FChN0vhAdfu8
+
+Si tratta di un tipo diverso di motore dal [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Motore in Corrente Continua\|#Motore in Corrente Continua]]. Uno dei vantaggi principali è quello di non avere contatti elettrici fisici tra elementi fissi e in movimento (non ha spazzole) e questo garantisce una maggiore durabilità.
 
 Si tratta di un motore **asincrono** alimentato in **corrente alternata trifase**.
 
