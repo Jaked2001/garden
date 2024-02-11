@@ -5,10 +5,8 @@
 
 # Es 2 - Ingombro autoarticolato
 
-![[Recording 20231011182831.webm]]
 
 
-![[Recording 20231012183341.webm]]
 
 
 [[Es 2 - Ingombro autoarticolato - VIT.pdf]]
