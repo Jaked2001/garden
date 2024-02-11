@@ -4,7 +4,7 @@
 
 leggere dispense
 
-![[Recording 20231122172708.webm]]
+
 
 # [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/05 - La via ferrata - VIT\|05 - La via ferrata - VIT]]
 
