@@ -32,6 +32,7 @@ Si può avere:
 	- Risolve il problema dell'aderenza limitato tra ogni ruota e binario
 
 ## Classificazione dei sistemi di trasporto
+
 - [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione - VIT#Classificazione per sostentazione\|#Classificazione per sostentazione]]
 - [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione - VIT#Classificazione per locomozione\|#Classificazione per locomozione]]
 - [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione - VIT#Classificazione per guida\|#Classificazione per guida]]
@@ -222,6 +223,7 @@ che risulta nel diagramma triangolare a destra.
 ![Schermata 2023-09-28 alle 17.33.43.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202023-09-28%20alle%2017.33.43.png)
 
 $I$ è il [[centro di istantanea rotazione\|centro di istantanea rotazione]] e risulta fermo rispetto al suolo 
+
 #### Strisciamento retrogrado
 
 È il caso in cui $V < \omega \frac{D}{2}$
