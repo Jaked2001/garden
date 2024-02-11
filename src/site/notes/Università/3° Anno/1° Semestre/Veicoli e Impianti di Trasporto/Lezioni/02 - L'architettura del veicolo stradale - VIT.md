@@ -237,8 +237,6 @@ I principali tipi di sospensione sono:
 
 
 
-![[Recording 20231011171814.webm]]
-
 La traiettoria di un veicolo è definita dall'orientamento delle ruote. Per variare la direzione è necessario variare l'assetto delle ruote tramite **sterzatura**.
 
 ```ad-Definizione
