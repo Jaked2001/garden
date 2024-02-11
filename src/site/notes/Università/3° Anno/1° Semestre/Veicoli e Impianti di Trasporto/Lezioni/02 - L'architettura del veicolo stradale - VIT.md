@@ -78,7 +78,7 @@ Le tele dello [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasport
 Questa struttura presenta
 - Resistenza maggiore lungo i fianchi
 - Maggiore rigidezza flessionale
-- A parità di pressione, c'è minore suoerficie di contatto
+- A parità di pressione, c'è minore superficie di contatto
 Minore aderenza
 
 ##### Pneumatico radiale
@@ -174,6 +174,7 @@ Quello che risponde in modo instabile, tendendo a diminuire il raggio di curvatu
 ## Sospensioni
 
 [[2. Architettura Veicoli Stradali - VIT.pdf#page=11&selection=42,0,42,18|Dispensa: Le sospensioni]]
+
 
 
 ```ad-Definizione
