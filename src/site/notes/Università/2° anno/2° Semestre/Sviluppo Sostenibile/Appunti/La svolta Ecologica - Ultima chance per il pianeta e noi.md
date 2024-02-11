@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/universita/2-anno/2-semestre/sviluppo-sostenibile/appunti/la-svolta-ecologica-ultima-chance-per-il-pianeta-e-noi/"}
 ---
 
+
 Relatore: [[Enzo Scandurra\|Enzo Scandurra]]
 Con: [[Personale/Contatti/Giovanni Attili\|Giovanni Attili]], [[Eros Manzo\|Eros Manzo]]
 Data: [[_Giornaliera/2023-03-30\|2023-03-30]]
@@ -124,7 +125,7 @@ Ogni volta che bruciamo i fossili, questi producono CO2, la stessa CO2 che si è
 
 --> Non dobbiamo usare i fossili. Altrimenti torniamo alle condizioni precedenti alla vita. 
 
-	Biometano, e-fuel: la tecnologia risolve qualsiasi problema: ma cambiare modoalità no?
+	Biometano, e-fuel: la tecnologia risolve qualsiasi problema: ma cambiare modalità no?
 
 vedi DDT: risolveva problema insetti, ma causava problemi più grossi: Cancro
 
