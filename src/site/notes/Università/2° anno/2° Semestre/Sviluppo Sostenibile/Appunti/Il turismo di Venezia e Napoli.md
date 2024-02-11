@@ -26,6 +26,7 @@ Gondole, carnevale -- Uso turistico
 Come Venezia è diventata la città turistica per eccellenza?
 
 ### Continuità
+
 ```ad-quote
 title:
 
@@ -48,6 +49,7 @@ Fenomeno che porta giovani dell'aristocrazia a fare viaggio in Italia per formaz
 
 
 ### Discontinuità
+
 "Most of the foreigners before 1600 (or, indeed, before 1800) were not there just to see the sights" (Davis e Marvin 2005)
 
 C'erano altre cose che spingevano le persone a visitare la città di Venezia. 
