@@ -241,7 +241,7 @@ Le resistenze addizionali sono quelle:
 
 ### Inerzia
 
-Ogni variazione dello stato di moto fa nascere una forza che si oppone a tale variazione: la **forza di interzia**.
+Ogni variazione dello stato di moto fa nascere una forza che si oppone a tale variazione: la **forza di inerzia**.
 
 È richiesta una quantità di energia extra ad esempio per accelerare la massa del veicolo, nonché tutte le masse rotanti
 
