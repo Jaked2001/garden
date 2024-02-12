@@ -145,9 +145,9 @@ $$
 | [[Università/2° anno/2° Semestre/Analisi Numerica/Esami/2022-07-21 - Esame ANEP\|2022-07-21 - Esame ANEP]]                                         | Es              | 🟢 Fatto      |
 | [[Università/2° anno/2° Semestre/Analisi Numerica/Esami/2023-06-15 - Esame ANEP\|2023-06-15 - Esame ANEP]]                                         | Es              | 🟢 Fatto      |
 | [[Università/2° anno/2° Semestre/Analisi Numerica/Appunti/Matlab/0. Guida Matlab\|0. Guida Matlab]]                                                | T               | 🪶 Scrivere   |
-| [[Università/2° anno/2° Semestre/Analisi Numerica/Appunti/01. Introduzione ai metodi numerici\|01. Introduzione ai metodi numerici]]               | T               | 🟠 Studiare   |
+| [[Università/2° anno/2° Semestre/Analisi Numerica/Appunti/01. Introduzione ai metodi numerici\|01. Introduzione ai metodi numerici]]               | T               | 🟢 Fatto      |
 | [[Università/2° anno/2° Semestre/Analisi Numerica/Appunti/02. Richiami di algebra lineare\|02. Richiami di algebra lineare]]                       | T               | 🪶 Scrivere   |
-| [[Università/2° anno/2° Semestre/Analisi Numerica/Appunti/03. Equazioni non lineari\|03. Equazioni non lineari]]                                   | T               | 🟠 Studiare   |
+| [[Università/2° anno/2° Semestre/Analisi Numerica/Appunti/03. Equazioni non lineari\|03. Equazioni non lineari]]                                   | T               | 🟢 Fatto      |
 | [[Università/2° anno/2° Semestre/Analisi Numerica/Appunti/03.1 Metodo di Bisezione\|03.1 Metodo di Bisezione]]                                     | T               | 🟠 Studiare   |
 | [[Università/2° anno/2° Semestre/Analisi Numerica/Appunti/03.2 Il metodo delle Tangenti\|03.2 Il metodo delle Tangenti]]                           | T               | 🪶🟡 Scrivere |
 | [[Università/2° anno/2° Semestre/Analisi Numerica/Appunti/03.3 Il metodo delle Secanti\|03.3 Il metodo delle Secanti]]                             | T               | 🟠 Studiare   |
