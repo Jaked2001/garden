@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/my-digital-melons-homepage/","tags":["gardenEntry"]}
 ---
 
+# [[My Digital Melons Homepage\|My Digital Melons Homepage]]
+
 Benvenuto nel mio Digital Garden. Qui condivido alcune delle mie note, principalmente appunti universitari. Spero tu lo ritenga utile.
 
 ```ad-attention
