@@ -5,7 +5,6 @@
 
 # Esercitazione
 
-![[Recording 20231204144908.webm]]
 
 Vd. iPad
 
