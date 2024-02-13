@@ -39,7 +39,7 @@ title: Esami
 - Parlami delle Arenarie
 - Classificazione Ammassi rocciosi... ... per classificare ci sono una serie di classifiche (RMR, GSI...)
 - Classificazione ammassi rocciosi
-- Cos'è il martello di schmidt
+- Cos'è il martello di Schmidt
 - Cosa sono i Fillosilicati
 - Picnometro ad elio. Come funziona, a cosa serve...
 - Classificazione ammassi rocciosi
