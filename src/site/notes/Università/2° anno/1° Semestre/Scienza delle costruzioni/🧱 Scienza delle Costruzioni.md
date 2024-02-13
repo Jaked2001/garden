@@ -9,6 +9,7 @@
 🌐 Sito Web: https://www.pcasini.it/scienza-delle-costruzioni/
 🅿️ Programma: [[Programma - SDC - Casini.pdf]]
 
+
 # ❗Esame❗️
 
 ```ad-attention
