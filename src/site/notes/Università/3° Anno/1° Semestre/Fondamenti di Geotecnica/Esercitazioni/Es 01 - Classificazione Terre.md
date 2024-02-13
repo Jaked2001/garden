@@ -33,7 +33,7 @@ PDF: [[Esercitazione 1 - classificazione terre.pdf]]
 ## Classificazione granulometrica
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/universita/2-anno/1-semestre/geologia-applicata/lezioni/07-proprieta-fisiche-delle-rocce/#granulometria" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -140,7 +140,7 @@ $$
 ## Classificazione sui Limiti di Atterberg
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/universita/2-anno/1-semestre/geologia-applicata/lezioni/05-le-rocce-sedimentarie/#argille" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -151,7 +151,7 @@ $$
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/universita/2-anno/1-semestre/geologia-applicata/lezioni/07-proprieta-fisiche-delle-rocce/#contenuto-d-acqua" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -328,7 +328,7 @@ Altre grandezze utili all'esercitazione:
 ##### Indice dei vuoti
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/universita/2-anno/1-semestre/geologia-applicata/lezioni/07-proprieta-fisiche-delle-rocce/#indice-dei-vuoti" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -376,7 +376,7 @@ $e_{max}$
 
 ##### Grado di saturazione
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/universita/2-anno/1-semestre/geologia-applicata/lezioni/07-proprieta-fisiche-delle-rocce/#grado-di-saturazione" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -403,7 +403,7 @@ Campione:
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/universita/2-anno/1-semestre/geologia-applicata/lezioni/07-proprieta-fisiche-delle-rocce/#contenuto-d-acqua" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
