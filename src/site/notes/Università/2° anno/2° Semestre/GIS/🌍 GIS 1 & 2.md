@@ -20,7 +20,6 @@ Esame: Orale
 title: To-do
 
 ```
-{ #da1db0}
 
 
 ```ad-question
@@ -29,7 +28,6 @@ title: Domande
 2. [[2. Cartografia e GIS#Sistema UTM]]: Se lo zero delle coordinate dipende dall'emisfero in cui si trova il punto che vogliamo definire, come distinguo due punti in emisferi opposti che abbiano la stessa distanza dall'equatore o dal polo Sud?
 3. Perchè usiamo MMU di 25ha anche per l'immagine satellitare? Non permetterebbe una MMU maggiore? È solo per rispettare le caratteristiche del Corine Land Cover o ha anche altre ragioni: ad esempio per errore di posizionamento
 ```
-{ #6c231a}
 
 
 
