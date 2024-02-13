@@ -484,6 +484,7 @@ $$
 
 ### Area di contatto ruota-rotaia
 
+
 La superficie di contatto tra ruota ferroviaria e rotaia è relativamente limitata. È infatti nell'ordine dei $\rm mm^{2}$. Varia a seconda del peso, ma in genereale assume valori $200 \div 300 \, \rm mm^{2}$ per carichi di $5\div 10 \, \rm \frac{ton}{ruota}$.
 
 
