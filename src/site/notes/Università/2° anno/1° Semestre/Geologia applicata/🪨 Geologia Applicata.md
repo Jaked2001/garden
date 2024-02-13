@@ -19,7 +19,7 @@ title: Esami
 2/02/2023: II appello (scritto) + orale
 21/02/2023: III appello (scritto) + orale
 ```
-{ #a9a609}
+
 
 
 ## 🗣 Orale
