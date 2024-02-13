@@ -21,7 +21,7 @@
 	- [x] Domanda 4 ✅ 2023-10-15
 - [x] Esercizio 3 ✅ 2023-10-15
 
-Sarà giusto l'esercizio 3??
+
 
 ![[Es 2 - Stati di sforzo - Geotecnia.pdf]]
 
