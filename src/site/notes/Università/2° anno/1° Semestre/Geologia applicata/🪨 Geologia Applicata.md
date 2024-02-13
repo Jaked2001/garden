@@ -24,37 +24,31 @@ title: Esami
 
 ## 🗣 Orale
 ### Domande orale
-#### 1
+
 - Diagrammi di fase (con diagramma davanti). 
 - RQD
 - Voglio una curva che sia: argilla con limo debolmente sabbiosa (il prof ha disegnato al volo uno schema di diagramma granulometrico)
-#### 2
 - diagramma triangolare: cosa sono i tre minerali ai vertici.
 	- Che composizione ha un punto (il prof segna un punto a caso nel triangolo)
 - Classificazione ammassi rocciosi fratturati (in generale): quali sono i parametri? L'immersione è uno di quelli, altri? [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/10. Elementi di rilevamento geologico#Apertura e riempimento\|Apertura]], [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/10. Elementi di rilevamento geologico#Scabrezza\|Scabrezza]]
 - Coefficiente di uniformità in curva granulometrica da cosa è dato?
-#### 3
 - Parlami dei Nesosilicati
 	- da cosa sono costituite le Olivine 
 - Test a rottura
 	- Come funziona il diagramma di rottura di un test a compressione monoassiale. Come funziona la prova di compressione 
 - Parlami delle Arenarie
 - Classificazione Ammassi rocciosi... ... per classificare ci sono una serie di classifiche (RMR, GSI...)
-#### 4
 - Classificazione ammassi rocciosi
 - Cos'è il martello di schmidt
 - Cosa sono i Fillosilicati
-#### 5
 - Picnometro ad elio. Come funziona, a cosa serve...
 - Classificazione ammassi rocciosi
 	- nella rappresentazione a rosa perdi l'inclinazione ma cosa guadagni?
-#### 6
 - Secondo te una roccia che contiene Anortite è una roccia che sta al di sopra o al di sotto del diagramma di Streikesen
 - Fillosilicati: discorso generale
 	- quali sono i terreni col maggior contenuto di Fillosilicati?
 		- Argilla alta plasticità che significa?
 - Metti in fila i pesi specifici che sai in ordine (...Peso di volume a secco, peso di volume Naturale, Peso di Volume Saturo, Peso Specifico)
-#### 7
 - Discorso generale su diagramma di fase con peritettico + esempio con un valore di partenza a caso
 	- Quando arriviamo a questo punto qui (indica qualcosa sul diagramma di fase) dove ci troviamo nel diagramma di Strekeisen
 	- Secondo te in che punto il magma è più viscoso? cosa fa aumentare la viscosità...
