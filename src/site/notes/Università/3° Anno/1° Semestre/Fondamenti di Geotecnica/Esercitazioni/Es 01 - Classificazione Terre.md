@@ -447,5 +447,3 @@ L'acqua che è capace di "legarsi" ai granuli è detta acqua **adsorbita**.
 $$
 \gamma_{d} = \frac{P_{s}}{V_{tot}} \qquad \text{Gamma dry}
 $$
-
-[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/🪨 Fondamenti di Geotecnica\|🪨 Fondamenti di Geotecnica]]
