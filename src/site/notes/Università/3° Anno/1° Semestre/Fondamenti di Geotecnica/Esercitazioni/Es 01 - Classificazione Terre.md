@@ -188,6 +188,7 @@ dove $\gamma_{w} = 1 \, \mathrm{\frac{g}{cm^{3}}}$
 
 
 ### Limiti di Atterberg
+
 ![Drawing 2023-01-27 12.47.16.excalidraw.png](/img/user/Excalidraw/Drawing%202023-01-27%2012.47.16.excalidraw.png)
 
 #### Limite di ritiro o di liquidità
@@ -254,6 +255,7 @@ Un terreno si dice argilloso anche se c'è un $20 \div 30 \%$ di argilla.
 La maggior parte dei materiali si trova intorno alla linea diagonale-
 
 ### Attività
+
 ```ad-Definizione
 title: Attività $A$
 
