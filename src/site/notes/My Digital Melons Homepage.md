@@ -39,8 +39,11 @@ NON DISPONIBILE
 - [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/🚋 Tecnica ed Economia dei trasporti\|🚋 Tecnica ed Economia dei trasporti]]
 - [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/🚲 Veicoli e impianti di trasporto\|🚲 Veicoli e impianti di trasporto]]
 ### II Semestre
+- [[Università/3° Anno/2° Semestre/Idrologia/💧 Idrologia\|💧 Idrologia]]
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/🧭 Topografia e Positioning\|🧭 Topografia e Positioning]]
+- [[Università/3° Anno/2° Semestre/🔌 Elettrotecnica\|🔌 Elettrotecnica]]
+- [[Università/3° Anno/2° Semestre/Analisi ambientale dei sistemi urbani e territoriali\|Analisi ambientale dei sistemi urbani e territoriali]]
 
-In arrivo...
 
 
 
