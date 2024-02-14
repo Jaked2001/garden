@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/universita/2-anno/1-semestre/geologia-applicata/geologia-applicata/"}
 ---
 
-
+ 
 👨‍🏫  Professore: [[Personale/Contatti/Gerardo Grelle\|Gerardo Grelle]]
 📔 Diario del corso: [[Università/2° anno/1° Semestre/Geologia applicata/🪨📔 Diario Geologia applicata\|🪨📔 Diario Geologia applicata]]
 
@@ -84,22 +84,22 @@ title: Esami
 
 # 👉🏻 Indice del corso
 
-## 1. [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/01. Richiami di Geologia\|Richiami di geologia]]
-## 2. [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/02. I Minerali\|I minerali]]
-## 3. Le rocce
-## 4. [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/04. Le Rocce Ignee\|Le Rocce Ignee]]
-## 5. [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/05. Le Rocce Sedimentarie\|Le Rocce Sedimentarie]]
-## 6. [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/06. Le Rocce Metamorfiche\|Le Rocce Metamorfiche]]
-## 7. [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/07. Proprietà Fisiche delle Rocce\|Proprietà Fisiche delle Rocce]]
-## 8. [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/08. Le Strutture Geologiche\|Le Strutture Geologiche]]
-## 9. [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/09. Elementi di idrogeologia\|Elementi di idrogeologia]]
-## 10. [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/10. Elementi di rilevamento geologico\|Elementi di rilevamento geologico]]
-## 11. [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/11. Le carte geologiche\|Le carte geologiche]]
-### 11.1 Le sezioni
-### 11.2 [[Università/2° anno/1° Semestre/Geologia applicata/🗺 Lavoro carte geologiche\|🗺 Lavoro carte geologiche]]
-## 12. [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/12. Classificazione degli ammassi rocciosi\|Classificazione degli ammassi rocciosi]]
-### 12.1 Proiezioni
-## 13. Frane e movimenti franosi
+## 1 - [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/01. Richiami di Geologia\|Richiami di geologia]]
+## 2 - [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/02. I Minerali\|I minerali]]
+## 3 - Le rocce
+## 4 - [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/04. Le Rocce Ignee\|Le Rocce Ignee]]
+## 5 - [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/05. Le Rocce Sedimentarie\|Le Rocce Sedimentarie]]
+## 6 - [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/06. Le Rocce Metamorfiche\|Le Rocce Metamorfiche]]
+## 7 - [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/07. Proprietà Fisiche delle Rocce\|Proprietà Fisiche delle Rocce]]
+## 8 - [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/08. Le Strutture Geologiche\|Le Strutture Geologiche]]
+## 9 - [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/09. Elementi di idrogeologia\|Elementi di idrogeologia]]
+## 10 - [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/10. Elementi di rilevamento geologico\|Elementi di rilevamento geologico]]
+## 11 - [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/11. Le carte geologiche\|Le carte geologiche]]
+### 11.1 - Le sezioni
+### 11.2 - [[Università/2° anno/1° Semestre/Geologia applicata/🗺 Lavoro carte geologiche\|🗺 Lavoro carte geologiche]]
+## 12 - [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/12. Classificazione degli ammassi rocciosi\|Classificazione degli ammassi rocciosi]]
+### 12.1 - Proiezioni
+## 13. - Frane e movimenti franosi
 
  
 # ✍️ Esercitazioni
