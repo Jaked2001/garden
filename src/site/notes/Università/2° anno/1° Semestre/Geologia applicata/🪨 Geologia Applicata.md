@@ -7,6 +7,7 @@
 📔 Diario del corso: [[Università/2° anno/1° Semestre/Geologia applicata/🪨📔 Diario Geologia applicata\|🪨📔 Diario Geologia applicata]]
 
 # ❗️Esame❗️
+
 ```ad-attention
 title: Esami
 
