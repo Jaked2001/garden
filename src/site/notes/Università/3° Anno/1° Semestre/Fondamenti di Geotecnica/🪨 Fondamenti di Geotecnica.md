@@ -101,7 +101,6 @@ ___
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/04. Evidenze sperimentali del comportamento meccanico delle terre\|04. Evidenze sperimentali del comportamento meccanico delle terre]]                 | T    | 🟡 Finire         |
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/05. Comportamento meccanico delle terre a piccoli livelli di deformazione\|05. Comportamento meccanico delle terre a piccoli livelli di deformazione]] | T    | 🟢 Fatto/scrivere |
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/05. Risoluzione di problemi al finito\|05. Risoluzione di problemi al finito]]                                                                         | T    | 🪶🟡 Scrivere     |
-| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/Atterberg Limits - Liquid Limit.mp4\|Atterberg Limits - Liquid Limit.mp4]]                                                                             | T    | 🟠 Studiare       |
 
 { .block-language-dataview}
 
@@ -124,7 +123,6 @@ ___
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/04.3 - Prova di Compressione Triassiale\|04.3 - Prova di Compressione Triassiale]]                                                                     | 🟢 Fatto          | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/allegati/Prove di Laboratorio - Dispensa - Geotecnica 1.pdf#page 31 selection 2 0 4 10\\|Prove di Laboratorio - Dispensa - Geotecnica 1, page 31]]</li></ul>             |
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/05. Comportamento meccanico delle terre a piccoli livelli di deformazione\|05. Comportamento meccanico delle terre a piccoli livelli di deformazione]] | 🟢 Fatto/scrivere | \-                                                                                                                                                                                                                                         |
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/05. Risoluzione di problemi al finito\|05. Risoluzione di problemi al finito]]                                                                         | 🪶🟡 Scrivere     | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/allegati/Comportamento meccanico delle terre - Miliziano.pdf#page 104 selection 2 0 5 13\\|Comportamento meccanico delle terre - Miliziano, page 104]]</li></ul> |
-| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/Atterberg Limits - Liquid Limit.mp4\|Atterberg Limits - Liquid Limit.mp4]]                                                                             | 🟠 Studiare       | \-                                                                                                                                                                                                                                         |
 
 { .block-language-dataview}
 
