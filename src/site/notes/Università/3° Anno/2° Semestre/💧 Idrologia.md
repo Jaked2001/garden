@@ -6,7 +6,7 @@
 # 💧 Idrologia
 🧑🏻‍🏫 Prof: [[Personale/Contatti/Francesco Napolitano\|Francesco Napolitano]]
 📔 Diario del corso: 
-🌐 Sito Web: 
+🌐 Sito Web: https://sites.google.com/a/uniroma1.it/mattiacrespi-eng/teaching/topografia-positioning
 🅿️ Programma: 
 
 # ❗️Esame❗️
