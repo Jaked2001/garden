@@ -131,7 +131,6 @@ ___
 | File                                                                                                                                                                                   | Tipo | Stato   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------- |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 04 - Analisi dei reattori con ricircolo - ISA\|Es 04 - Analisi dei reattori con ricircolo - ISA]] | Es   | 🔴 Fare |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/12. Fanghi\|12. Fanghi]]                                                                                   | T    | 🔴 Fare |
 
 { .block-language-dataview}
 
@@ -153,7 +152,7 @@ ___
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/07. Coagulazione e Flocculazione\|07. Coagulazione e Flocculazione]]                             | 🟢 Fatto |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/10. Processi Biologici\|10. Processi Biologici]]                                                 | 🟢 Fatto |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/11. Disinfezione delle acque\|11. Disinfezione delle acque]]                                     | 🟢 Fatto |
-| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/12. Fanghi\|12. Fanghi]]                                                                         | 🔴 Fare  |
+| [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Appunti/12. Fanghi\|12. Fanghi]]                                                                         | 🟢 Fatto |
 
 { .block-language-dataview}
 
@@ -162,7 +161,7 @@ ___
 
 
 ## ✍️ Esercitazioni
- 
+
 | File                                                                                                                                                                                                                   | Stato    | PDF                                                                                                                                                                                                                                                   | Data              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 01 - Determinazione dell'ordine di una reazione chimica - ISA\|Es 01 - Determinazione dell'ordine di una reazione chimica - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/allegati/Es 1 - Determinazione dell'ordine di una reazione chimica - ISA.pdf\\|Es 1 - Determinazione dell'ordine di una reazione chimica - ISA.pdf]]</li></ul> | October 05, 2023  |
@@ -178,7 +177,7 @@ ___
 
 { .block-language-dataview}
 
-
+[[Relazione ISA - Matteo Meloni.pdf]]
 
 
 
