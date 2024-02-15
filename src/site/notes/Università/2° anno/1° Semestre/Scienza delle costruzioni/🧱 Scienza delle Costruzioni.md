@@ -167,6 +167,7 @@ ___
 - Definizioni, notazioni, limiti del modello
 - Sistemi corpi rigidi
 ### 2. [[Università/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/02. Cinematica dei corpi rigidi\|Cinematica dei corpi rigidi]]
+
 - Obiettivi
 - Spostamento Rigido
 	- traslazione
@@ -178,6 +179,7 @@ ___
 - Classificazione cinematica
 - esercizi
 ### 3. [[Università/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/03. Statica dei corpi rigidi\|Statica dei corpi rigidi]]
+ 
 - Obiettivi
 - modello forze esterne
 	- Forza Concentrata, momento di una forza
@@ -206,6 +208,7 @@ ___
 - Equazioni implicite di congruenza
 - Problema cinematico
 - Esercizi
+
 ### 6. [[Università/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/06. Statica della Trave 1D\|Statica della trave]]
 - Obiettivi
 - Modello forze interne
