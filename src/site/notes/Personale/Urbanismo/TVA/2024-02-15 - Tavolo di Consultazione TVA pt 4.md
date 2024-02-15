@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/personale/urbanismo/tva/2024-02-15-consultazione-tva-pt-4/"}
+{"dg-publish":true,"permalink":"/personale/urbanismo/tva/2024-02-15-tavolo-di-consultazione-tva-pt-4/"}
 ---
 
-# [[Personale/Urbanismo/TVA/2024-02-15 - Consultazione TVA pt 4\|2024-02-15 - Consultazione TVA pt 4]]
+# [[Personale/Urbanismo/TVA/2024-02-15 - Tavolo di Consultazione TVA pt 4\|2024-02-15 - Tavolo di Consultazione TVA pt 4]]
 Data: [[_Giornaliera/2024-02-15\|2024-02-15]]
 Con: 
 📍 Luogo: 
