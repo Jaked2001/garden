@@ -22,6 +22,7 @@ Data 3: III appello
 ```
 ## Struttura esame
 ### ✍️ Scritto
+
 🕒 Tempo:
 Esercizi: 
 
