@@ -5,7 +5,7 @@
 # 2023-12-11 - I SUMP in Europoa
 Data: [[_Giornaliera/2023-12-11\|2023-12-11]]
 Con:
-- [[Marìa Eugenia López-Lampas\|Marìa Eugenia López-Lampas]] - Deputy Director TRANSyT-UPM
+- [[Personale/Contatti/Marìa Eugenia López-Lampas\|Marìa Eugenia López-Lampas]] - Deputy Director TRANSyT-UPM
 - [[Personale/Contatti/Stefano Ricci\|Stefano Ricci]]
 
 
