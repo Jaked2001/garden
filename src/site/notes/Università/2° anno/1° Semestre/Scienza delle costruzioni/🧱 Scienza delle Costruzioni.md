@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/universita/2-anno/1-semestre/scienza-delle-costruzioni/scienza-delle-costruzioni/"}
 ---
 
-
+ 
 # 🧱 Scienza delle Costruzioni
 🧑🏻‍🏫 Prof: [[Università/2° anno/1° Semestre/Scienza delle costruzioni/Paolo Casini\|Paolo Casini]]
 📔 Diario del corso: [[Università/2° anno/1° Semestre/Scienza delle costruzioni/🧱📔 Diario Scienza delle Costruzioni\|Diario SDC]]
