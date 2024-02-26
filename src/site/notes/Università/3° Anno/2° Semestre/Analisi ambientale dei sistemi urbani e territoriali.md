@@ -4,10 +4,16 @@
 
 
 # Analisi ambientale dei sistemi urbani e territoriali
-🧑🏻‍🏫 Prof: 
+
+🧑🏻‍🏫 Prof: [[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]
 📔 Diario del corso: 
 🌐 Sito Web: 
 🅿️ Programma: 
+
+🕰 Orario:
+- **Martedì:** 12:00-15:00 - RM034 Aula 36
+- **Giovedì:** 13:00-15:00 - RM034 Aula 36
+
 
 # ❗️Esame❗️
 ```ad-attention
@@ -41,6 +47,7 @@ Esercizi:
 
 
 ___
+
 | File | Tipo | Stato |
 | ---- | ---- | ----- |
 
