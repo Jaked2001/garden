@@ -41,7 +41,7 @@ NON DISPONIBILE
 ### II Semestre
 - [[Università/3° Anno/2° Semestre/Idrologia/💧 Idrologia\|💧 Idrologia]]
 - [[Università/3° Anno/2° Semestre/Topografia e Positioning/🧭 Topografia e Positioning\|🧭 Topografia e Positioning]]
-- [[Università/3° Anno/2° Semestre/🔌 Elettrotecnica\|🔌 Elettrotecnica]]
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/🔌 Elettrotecnica\|🔌 Elettrotecnica]]
 - [[Università/3° Anno/2° Semestre/Analisi ambientale dei sistemi urbani e territoriali\|Analisi ambientale dei sistemi urbani e territoriali]]
 
 
