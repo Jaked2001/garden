@@ -162,6 +162,7 @@ ___
 
 ## ✍️ Esercitazioni
 
+
 | File                                                                                                                                                                                                                   | Stato    | PDF                                                                                                                                                                                                                                                   | Data              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 01 - Determinazione dell'ordine di una reazione chimica - ISA\|Es 01 - Determinazione dell'ordine di una reazione chimica - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/allegati/Es 1 - Determinazione dell'ordine di una reazione chimica - ISA.pdf\\|Es 1 - Determinazione dell'ordine di una reazione chimica - ISA.pdf]]</li></ul> | October 05, 2023  |
@@ -176,6 +177,8 @@ ___
 | [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/Es 10 - Sistema fanghi attivi - ISA\|Es 10 - Sistema fanghi attivi - ISA]]                                                           | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Esercitazioni/allegati/Es 10 - Sistemi a fanghi attivati - ISA.pdf\\|Es 10 - Sistemi a fanghi attivati - ISA.pdf]]</li></ul>                                                 | December 15, 2023 |
 
 { .block-language-dataview}
+
+
 
 [[Relazione ISA - Matteo Meloni.pdf]]
 
