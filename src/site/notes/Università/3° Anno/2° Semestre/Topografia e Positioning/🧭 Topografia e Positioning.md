@@ -4,7 +4,7 @@
 
 
 # 🧭 Topografia e Positioning
-🧑🏻‍🏫 Prof: 
+🧑🏻‍🏫 Prof:
 - Prof. [[Mattia Crespi\|Mattia Crespi]] - [mattia.crespi@uniroma1.it](mailto:mattia.crespi@uniroma1.it)
 - Dott. [[Alessandra Maria De Pace\|Alessandra Maria De Pace]] - [alessandramaria.depace@uniroma1.it](mailto:alessandramaria.depace@uniroma1.it)
 - Dott. [[Filippo Bocchino\|Filippo Bocchino]] - [filippo.bocchino@uniroma1.it](mailto:filippo.bocchino@uniroma1.it)
@@ -15,6 +15,12 @@
 - https://sites.google.com/a/uniroma1.it/mattiacrespi-eng/teaching/topografia-positioning
 - https://drive.google.com/drive/folders/1xH34Oxegybqq1cvwTlKVKfsBk3h5JIv5XJHFW77bm4BqO82TYmuMG38IKcB48jvGt_Nx-1zQ
 🅿️ Programma: [[Università/3° Anno/2° Semestre/Topografia e Positioning/Programma - Topografia e Positioning\|Programma - Topografia e Positioning]]
+
+🕰 Orario:
+- **Mercoledì:** 08:00-11:00 - RM031 Aula 21
+- **Giovedì:** 11:00-13:00 - RM034 Aula 36
+- **Venerdì:** 08:00-11:00 - RM031 Aula 21
+
 
 # ❗️Esame❗️
 ```ad-attention
@@ -29,6 +35,7 @@ Data 3: III appello
 ```
 ## Struttura esame
 ### ✍️ Scritto
+
 🕒 Tempo:
 Esercizi: 
 
@@ -38,6 +45,7 @@ Esercizi:
 
 
 ## 💯 Voto
+
 | Parte       | Data           | Voto |
 | ----------- | -------------- | ---- |
 | Scritto |  |  |
@@ -48,6 +56,7 @@ Esercizi:
 
 
 ___
+
 | File | Tipo | Stato |
 | ---- | ---- | ----- |
 
