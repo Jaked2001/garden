@@ -1,0 +1,142 @@
+---
+{"dg-publish":true,"permalink":"/universita/3-anno/2-semestre/elettrotecnica/elettrotecnica/"}
+---
+
+
+# 🔌 Elettrotecnica
+
+**🧑🏻‍🏫 Prof:** [[Giovanni De Bellis\|Giovanni De Bellis]]
+**📔 Diario del corso:** [[Università/3° Anno/2° Semestre/Elettrotecnica/🔌📔 Diario di Elettrotecnica\|🔌📔 Diario di Elettrotecnica]]
+**🌐 Sito Web:** https://giovannidebellis.site.uniroma1.it/elettrotecnica
+**🅿️ Programma:** 
+**📧 e-mail:** giovanni.debellis@uniroma1.it
+**🔑 Classroom:** cwmzzmo
+**📚 Libri:** 
+- G. Chitarin, F. Gnesotto, M. Guarnieri, A. Maschio, A. Stella *Elettrotecnica* **Vol I** (principi) e **Vol II** (Applicazioni) - i più consigliati
+- Giulio Fabricatore, *Elettrotecnica e applicazioni. Reti, macchine, misure, impianti*, Liguori - se ce lo ritroviamo
+- Materiale didattico su pag google Slide e pag classroom
+
+
+🕰 Orario:
+- **Lunedì:** 15:00-17:00 - RM006 Aula 15
+- **Martedì:** 16:00-19:00 - RM006 Aula 15
+
+Non solo circuiti. Anche macchine elettriche
+Macchine statiche (trasformatori) e macchine dinamiche (motori)
+
+Esercitatore 1h a settimana (tutor). Forse: mercoledì 13:00-14:00 (max 97 posti) oppure Venerdì 18:00-19:00
+
+Prerequisiti:
+- [[Numeri complessi\|Numeri complessi]]
+	- Notazione in coordinate rettangolari o polari: parte reale, parte immaginaria, modulo e fase o argomento del numero complesso
+	- Le 4 operazioni
+	- Unità immaginaria: proprietà
+	- [[Formula di Eulero\|Formula di Eulero]]
+	- Rappresentazione vettoriale di un numero complesso sul piano cartesiano
+- Matrici
+- Elettrostatica
+	- Campo elettrico
+	- Potenziale elettrico. Tensione elettrica. Relazione tra potenziale elettrico in un mezzo conduttore
+	- Resistenza elettrica
+	- Potenza elettrica
+	- Legge di continuità della corrente
+- Magnetostatica
+	- Campo magnetico
+	- Campo di induzione magnetica
+	- Flusso di campo magnetico
+	- Legge di Ampere
+	- Legge di induzione elettromagnetica: legge di Neumamn Faraday Lenz
+	- Riluttanza elettrica
+	- ???
+
+Ricevimento:
+- Su richiesta per mail.
+# ❗️Esame❗️
+
+```ad-attention
+title: Date esami
+
+Data 1: I appello
+
+Data 2: II appello
+
+Data 3: III appello
+
+```
+
+2 prove [[Università/3° Anno/2° Semestre/Elettrotecnica/🔌 Elettrotecnica#✍️ Scritto\|#✍️ Scritto]]:
+
+Eventuale prova [[Università/3° Anno/2° Semestre/Elettrotecnica/🔌 Elettrotecnica#🗣 Orale\|#🗣 Orale]]
+
+## Struttura esame
+
+### ✍️ Scritto
+
+🕒 Tempo: 90' + 60'
+Esercizi: 
+1. **1 esercizio** (90') in regime sinuosodale. Monofase o trifase
+2. **2 domande** di teoria (60') su tutto il programma
+
+
+### 🗣 Orale 
+
+Facoltativo
+
+
+## 💯 Voto
+
+| Parte       | Data           | Voto |
+| ----------- | -------------- | ---- |
+| Scritto |  |  |
+| Orale       |  |     |
+
+
+# ✔️ To-Do
+
+
+___
+
+| File                                                                                                                            | Tipo | Stato       |
+| ------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]] | T    | 🪶 Scrivere |
+
+{ .block-language-dataview}
+
+
+___
+
+
+# 👉🏻 Indice del corso
+
+
+| File                                                                                                                            | Stato       |
+| ------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]] | 🪶 Scrivere |
+
+{ .block-language-dataview}
+
+
+___
+
+
+## ✍️ Esercitazioni
+
+| File | Stato | PDF | Data |
+| ---- | ----- | --- | ---- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Temi d'esame
+
+| File | Stato | PDF |
+| ---- | ----- | --- |
+
+{ .block-language-dataview}
+
+
+
+
