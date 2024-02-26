@@ -30,10 +30,14 @@ https://youtu.be/ntT-XdB6jew?si=CKx3zLCoVQ45uG5D
 
 x 3 pizze
 
+**Impasto**
 - [ ] $500\,\rm g$ Farina
 - [ ] $350\,\rm ml$ Acqua
 - [ ] $12\,\rm g$ Sale
 - [ ] $1\,\rm g$ Lievito **fresco** OPPURE $0.5\,\rm g$ Lievito **secco** 
+
+**Pizze (generico)**
+- [ ] $175 \, \rm g$ Mozzarella
 
 ### Procedimento
 
