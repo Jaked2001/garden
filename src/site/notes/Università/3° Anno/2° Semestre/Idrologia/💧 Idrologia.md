@@ -39,7 +39,7 @@ Data 3: III appello
 
 ## Struttura esame
 
-Soltanto [[Università/3° Anno/2° Semestre/Idrologia/💧 Idrologia#🗣 Orale\|#🗣 Orale]]. 3 domande sul corso e discussione su una relazione a supporto delle esercitazioni che facciamo. Relazione di sintesi. Non servono i conti o le tabelle.
+Soltanto [[Università/3° Anno/2° Semestre/Idrologia/💧 Idrologia#🗣 Orale\|🗣 Orale]]. 3 domande sul corso e discussione su una relazione a supporto delle esercitazioni che facciamo. Relazione di sintesi. Non servono i conti o le tabelle.
 
 Generalmente si fa un test di fine corso. Test di autovalutazione. Quesiti a risposta multipla + risposta aperta (con righe limitate). Chi supera il test ha diritto all'esame smart. Si portano esercitazioni, viene fatta 1 domanda sulle esercitazioni. L'esame ha un voto che farà media con quello del test.
 Il voto del test si conserva anche dopo bocciatura all'orale per la durata dell'anno accademico.
@@ -68,9 +68,10 @@ Esercizi:
 
 ___
 
-| File                                                                                                                   | Tipo | Stato       |
-| ---------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
-| [[Università/3° Anno/2° Semestre/Idrologia/00 - Presentazione corso idrologia\|00 - Presentazione corso idrologia]] | T    | 🪶 Scrivere |
+| File                                                                                                                           | Tipo | Stato         |
+| ------------------------------------------------------------------------------------------------------------------------------ | ---- | ------------- |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/00 - Presentazione corso idrologia\|00 - Presentazione corso idrologia]] | T    | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Fisica dei processi biologici\|01 - Fisica dei processi biologici]] | T    | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
