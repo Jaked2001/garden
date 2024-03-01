@@ -7,6 +7,7 @@
 
 ## Dipolo
 
+Il dipolo è un componente accessibile da due poli
 I dipoli sono lineari
 
 Un dipolo è ad esempio un [[Resistore\|Resistore]]
