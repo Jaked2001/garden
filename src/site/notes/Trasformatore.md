@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/trasformatore/"}
 ---
 
+
 # [[Trasformatore\|Trasformatore]]
 
 ```ad-Definizione
@@ -18,3 +19,4 @@ $$
 
 Viene usato per variare i livelli di tensione e corrente.
 ```
+
