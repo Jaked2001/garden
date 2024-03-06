@@ -35,3 +35,33 @@ Introduzione corso
 ### ✏️ Esercizi
 - Esercizi su resistori in serie e parallelo: calcolo resistenza equivalente
 
+
+# 📆  04-03-2024 - Mon
+
+[[Giovanni De Bellis\|Giovanni De Bellis]]
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]]
+	- Resistori a stella
+	- Resistori a triangolo
+	- Trasformazioni stella <--> triangolo
+	- Legge di Kirchhoff per le correnti (LKC)
+	- Legge di Kirchhoff per le tensioni (LKT)
+
+### ✏️ Esercizi
+- Esercizio trasformazione circuito da stella a triangolo
+
+
+# 📆  05-03-2024 - Tue
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]]
+	- Risoluzione di un circuito con LKC e LKN
+	- Generatori di tensione in serie e in parallelo
+	- Generatori di corrente in serie e in parallelo
+	- Potenze nelle convenzioni di Utilizzatore e Generatore
+	- Metodo Generale di analisi dei circuiti
+
+### ✏️ Esercizi
+
