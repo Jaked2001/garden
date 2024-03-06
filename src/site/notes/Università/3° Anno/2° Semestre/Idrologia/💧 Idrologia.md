@@ -39,21 +39,22 @@ Data 3: III appello
 
 ## Struttura esame
 
-Soltanto [[Università/3° Anno/2° Semestre/Idrologia/💧 Idrologia#🗣 Orale\|🗣 Orale]]. 3 domande sul corso e discussione su una relazione a supporto delle esercitazioni che facciamo. Relazione di sintesi. Non servono i conti o le tabelle.
+Il corso prevede esclusivamente un esame [[Università/3° Anno/2° Semestre/Idrologia/💧 Idrologia#🗣 Orale\|#🗣 Orale]]
 
-Generalmente si fa un test di fine corso. Test di autovalutazione. Quesiti a risposta multipla + risposta aperta (con righe limitate). Chi supera il test ha diritto all'esame smart. Si portano esercitazioni, viene fatta 1 domanda sulle esercitazioni. L'esame ha un voto che farà media con quello del test.
+Generalmente si fa anche un test di fine corso. Test di autovalutazione: quesiti a risposta multipla + risposta aperta (con righe limitate). Chi supera il test ha diritto all'esame smart. Si portano esercitazioni, viene fatta 1 domanda sulle esercitazioni. L'esame ha un voto che farà media con quello del test.
 Il voto del test si conserva anche dopo bocciatura all'orale per la durata dell'anno accademico.
 
 
 
 ### ✍️ Scritto
 
-🕒 Tempo:
-Esercizi: 
-
+NON PREVISTO (a parte il test finale)
 
 ### 🗣 Orale 
 
+- 3 domande di teoria
+- Discussione su una relazione a supporto delle [[Università/3° Anno/2° Semestre/Idrologia/💧 Idrologia#✍️ Esercitazioni\|#✍️ Esercitazioni]] svolte in classe
+	- Relazione di sintesi. Non servono i conti o le tabelle.
 
 
 ## 💯 Voto
@@ -66,12 +67,12 @@ Esercizi:
 # ✔️ To-Do
 
 
-___
-
 | File                                                                                                                           | Tipo | Stato         |
 | ------------------------------------------------------------------------------------------------------------------------------ | ---- | ------------- |
+| [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 01 - Idrostatica - Idro\|Es 01 - Idrostatica - Idro]]           | Es   | 🟡 Finire     |
+| [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 02 - Foronomia - Idro\|Es 02 - Foronomia - Idro]]               | Es   | 🟡 Finire     |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/00 - Presentazione corso idrologia\|00 - Presentazione corso idrologia]] | T    | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Fisica dei processi biologici\|01 - Fisica dei processi biologici]] | T    | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera\|01 - Atmosfera]]                                         | T    | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
@@ -80,13 +81,33 @@ ___
 
 # 👉🏻 Indice del corso
 
+
+| File                                                                                                                           | Stato         |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------- |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/00 - Presentazione corso idrologia\|00 - Presentazione corso idrologia]] | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera\|01 - Atmosfera]]                                         | 🪶 Scrivere   |
+
+{ .block-language-dataview}
+
+
 ___
 
 
 ## ✍️ Esercitazioni
 
 
+| File                                                                                                                 | Stato     | PDF                                                                                                                                                                                               | Data           |
+| -------------------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 01 - Idrostatica - Idro\|Es 01 - Idrostatica - Idro]] | 🟡 Finire | <ul><li>[[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/allegati/Es 1 - Idrostatica e Calcolo delle Spinte - Idro.pdf\\|Es 1 - Idrostatica e Calcolo delle Spinte - Idro.pdf]]</li></ul> | March 04, 2024 |
+| [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 02 - Foronomia - Idro\|Es 02 - Foronomia - Idro]]     | 🟡 Finire | <ul><li>[[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/allegati/Es 2 - Foronomia - Idro.pdf\\|Es 2 - Foronomia - Idro.pdf]]</li></ul>                                                   | March 04, 2024 |
+
+{ .block-language-dataview}
+
+
 ## Temi d'esame
 
+| File | Stato | PDF |
+| ---- | ----- | --- |
 
+{ .block-language-dataview}
 
