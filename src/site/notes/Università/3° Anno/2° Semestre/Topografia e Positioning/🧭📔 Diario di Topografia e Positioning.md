@@ -26,3 +26,15 @@
 	- Sistema di coordinate
 	- Trasformazione di coordinate
 	- Funzione $\arctan2$
+
+
+# 📆  06-03-2024 - Wed
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP\|01 - Sistemi di riferimento e di coordinate - TP]]
+	- Trasformazioni da un sistema di riferimento a un altro
+		- Caso 2D
+		- Caso 3D
+		- Caso 1D
+
