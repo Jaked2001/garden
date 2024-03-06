@@ -190,6 +190,14 @@ Facciamo 2 ipotesi:
 
 Processo **ergodico**. Ergodicità è un'ipotesi non dimostrabile. 
 
+```ad-Definizione
+title: Ergodico
+
+Che si riferisce a un sistema o a un processo i cui valori medi calcolati nel tempo coincido­no statisticamente con i valori medi calcolati su un grande numero di sistemi o processi uguali.
+
+```
+
+
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗ esempio esperimento. Riascolta
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
@@ -221,6 +229,44 @@ Precursore = l'evento che innesca. Un terremoto non si può prevedere. L'esondaz
 Quel è l'evento precursore di un fiume?
 
 ![Schermata 2024-02-27 alle 11.37.45.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-02-27%20alle%2011.37.45.png)
+
+
+## Scale spazio-temporali
+
+Processi eterogenei nello spazio e variabili nel tempo
+
+Una grandezza che varia nel tempo la vediamo con sicrezione
+
+
+Ci sono 2 modi di misurare grandezze che variano con continuità:
+- Per **Campionamento:** per ogni $\Delta t$ misuriamo la grandezza
+	- $\Delta t$ scelto in modo che non vi sia una variazione sottogriglia (si perde valore puntuale)
+- Per **Integrazione:** Si fa l'integrale di quella misura per quel $\Delta t$
+	- Si perde info su come varia (come si distribuisce nell'intervallo di $t$)
+	- es: utile a misurare le piogge ("è piovuto un tot di millimetri in 24h")
+
+Se osservo un fenomeno e salgo di scala ??????
+
+es. Misuro una grandezza per 365gg --> so come varia nei mesi e in un anno
+
+Il problema è per scale più piccole. Rischio una volta scelta la scala di perdere delle info. Cerchiamo grandezze che non variano nel modo in cui la campioniamo (**invarianza di scala**) cerco grandezze che non variano con scala scelta.
+
+Una volta scelta la scala di tempo anche quella di spazio è bene o male determinata.
+
+### Metodo delle caratteristiche
+
+Immaginiamo di avere una grandezza che varia nel tempo e nello spazio:
+
+![00 - Presentazione corso idrologia 2024-03-06 16.21.15.excalidraw.png](/img/user/Excalidraw/00%20-%20Presentazione%20corso%20idrologia%202024-03-06%2016.21.15.excalidraw.png)
+
+
+Devo scegliere delle scale temporali e spaziali.
+
+❗❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗ Ma che è sta roba???
+❗❗❗❗❗❗❗❗❗❗❗❗❗
+
+
 
 
 
