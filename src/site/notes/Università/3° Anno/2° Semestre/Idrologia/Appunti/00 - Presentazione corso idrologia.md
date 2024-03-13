@@ -4,7 +4,6 @@
 
 # [[Università/3° Anno/2° Semestre/Idrologia/Appunti/00 - Presentazione corso idrologia\|00 - Presentazione corso idrologia]]
 
-
 Obiettivi corso. Fornire:
 - Modelli concettuali e procedure pratiche ed operative per affrontare lo studio dei flussi di acqua sulla superficie terrestre a scala di bacino idrografico al fine di giugnere al dimensionamento delle opere dei diversi Sistemi Idraulici - definizioni delle **forzanti di progetto** (grandezze iniziali su cui basare il progetto)
 - Definizione dei diversi Sistemi Idraulici, descrizione del loro funzionamento, valutazione degli impatti, criteri di dimensionamento
