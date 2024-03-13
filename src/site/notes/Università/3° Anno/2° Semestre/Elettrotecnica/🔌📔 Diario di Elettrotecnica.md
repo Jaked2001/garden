@@ -63,5 +63,24 @@ Introduzione corso
 	- Potenze nelle convenzioni di Utilizzatore e Generatore
 	- Metodo Generale di analisi dei circuiti
 
+
+
+# 📆  11-03-2024 - Mon
+
+❗❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗❗ ASSENTE ❗❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗❗
+
+
+# 📆  12-03-2024 - Tue
+
+### 📝 Teoria
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]]
+	- Metodo dei nodi
+	- Partitore di tensione
+	- Partitore di corrente
+
 ### ✏️ Esercizi
+- Esercizio di applicazione del metodo dei nodi
+
 
