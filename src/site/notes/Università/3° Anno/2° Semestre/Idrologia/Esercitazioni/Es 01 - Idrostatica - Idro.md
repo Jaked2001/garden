@@ -45,6 +45,3 @@ $$
 G = 2 S \frac{b_{S}}{b_{G}}
 $$
 ## Esercizio 3
-
-
-
