@@ -32,10 +32,23 @@ Sezione II - Ingegneria dei sistemi idraulici
 - (Sistemi di protezione idraulica del territorio)
 - (Sistemi di monitoraggio e di controllo remoto)
 
+## Idrologia
+
+```ad-Definizione
+title: Idrologia
+
+L'**idrologia** è la scienza che studia la circolazione idrica terrestre, ossia quella fase del ciclo dell'acqua che inizia dall'atmosfera con le precipitazioni e termina nel mare.
+
+```
+
+L'idrologia è quindi *complementare* alla [[Metereologia\|Metereologia]] ed alla [[Oceonografia\|Oceonografia]] che studiano rispettivamente l'atmosfera e gli oceani.
+
+
+
+
 # Costruzioni idrauliche
 
 ## Uso dell'acqua
-
 
 
 ### Potabile
