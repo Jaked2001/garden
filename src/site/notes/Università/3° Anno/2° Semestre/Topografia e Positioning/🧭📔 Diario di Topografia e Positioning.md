@@ -70,5 +70,28 @@
 	- Caso 3D
 	- Caso 1D
 
-### ✏️ Esercizi
+
+
+# 📆  15-03-2024 - Fri
+
+[[Mattia Crespi\|Mattia Crespi]]
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP\|02 - Campo gravitazionale - TP]]
+	- Campo gravitazionale
+	- Potenziale newtoniano
+	- Campo centrifugo
+	- Potenziale centrifugo
+	- Potenziale del campo della gravità terrestre
+	- Densità terrestre
+	- Equazione di Laplace
+	- Potenziale come serie Armonica
+		- Funzioni sferiche
+		- Coefficienti delle funzioni sferiche
+	- Superficie terrestre:
+		- Ellissoide
+		- Geoide
+		- Superficie reale
+
 
