@@ -168,6 +168,10 @@ Dove si noti che i primi tre casi sono tali che il codominio è comunque incluso
 
 # Trasformazioni sistemi di riferimento
 
+
+## Trasformazioni SR 1D
+
+
 ## Trasformazioni SR 2D
 
 ![01 - Sistemi di riferimento e di coordinate - TP 2024-03-13 11.42.30.excalidraw.png](/img/user/Excalidraw/01%20-%20Sistemi%20di%20riferimento%20e%20di%20coordinate%20-%20TP%202024-03-13%2011.42.30.excalidraw.png)
@@ -180,6 +184,37 @@ $\vec{P}$ e $\vec{P'}$ sono i VETTORI POSIZIONE del punto $P$
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗ lezione del [[_Giornaliera/2024-03-06\|2024-03-06]]
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
+
+
+
+
+
+
+Immaginiamo di trovarci in una dimensione e di avere a disposizione 2 sistemi di riferimento. Saranno valide le seguenti relazioni:
+$$
+\begin{cases}
+z' = z - t_{z} \\
+z' = z + t_{z'}
+\end{cases}
+\Longrightarrow
+z' = z-t
+$$
+Siamo interessati a passare dall'uno all'altro sistema di riferimento. In ogni caso devo chiaramente conoscere il parametro $t = z-z'$.
+
+Al fine di trovare questo parametro è richiesta la conoscenza di almeno un punto e delle sue coordinate in **entrambi** i sistemi di riferimento.
+Questo punto è detto [[punto doppio\|punto doppio]].
+
+Noto il punto doppio posso ricavare il parametro $t$ che posso successivamente utilizzare per trasformare tutti gli altri punti.
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -272,6 +307,10 @@ SR(\mathcal{S}): \left\{ \Delta x_{PQ}, \Delta y_{PQ}, \Delta z_{PQ} \right\} \\
 SR(\mathcal{S'}): \left\{ \Delta x'_{PQ}, \Delta y'_{PQ}, \Delta z'_{PQ} \right\}
 \end{align}
 $$
+
+![01 - Sistemi di riferimento e di coordinate - TP 2024-03-13 21.47.12.excalidraw.png](/img/user/Excalidraw/01%20-%20Sistemi%20di%20riferimento%20e%20di%20coordinate%20-%20TP%202024-03-13%2021.47.12.excalidraw.png)
+
+
 - Essendo interessato a conoscere le direzioni, posso anche lavorare con i **versori** invece che con i vettori.
 - Le informazioni strettamente necessarie a calcolare i parametri sono effettivamente 6
 
@@ -279,7 +318,7 @@ Il calcolo della trasformazione tra SR è possibile solo conoscendo i punti dopp
 
 Ogni punto doppio genera una equazione vettoriale di rototraslazione equivalente a tre equazioni scalari del tipo:
 $$
-\begin{bmatrix}
+(1)\begin{bmatrix}
 x' \\
 y' \\
 z'
@@ -287,14 +326,151 @@ z'
 = R
 \left[
 \begin{bmatrix}
-
+x \\
+y \\
+z
+\end{bmatrix}
+-
+\begin{bmatrix}
+T_{x} \\
+T_{y} \\
+T_{z}
 \end{bmatrix}
 \right]
+\quad \text{oppure} \quad 
+(2)
+\begin{bmatrix}
+x' \\
+y' \\
+z'
+\end{bmatrix}
+= R
+\begin{bmatrix}
+x \\
+y \\
+z
+\end{bmatrix}
+-
+\begin{bmatrix}
+T'_{x} \\
+T'_{y} \\
+T'_{z}
+\end{bmatrix}
 $$
+Che, riscritte in forma vettoriale compatta diventano:
+$$
+(1) \quad \vec{P'} = \boldsymbol{R} \left[\vec{P} - \vec{T}\right] \qquad (2) \quad \vec{P'} = \boldsymbol{R}\vec{P} - \vec{T}
+$$
+dalle quali devono essere calcolate 6 incognite ($\boldsymbol{R}$ e $\vec{T}$)
+1 punto doppio è insufficiente. Considero pertanto 2 punti doppi nella forma $(2)$.
+
+Considero quindi 2 punti, $P_{1}$ e $P_{2}$ e le loro coordinate nei due sistemi di riferimento. Potremo scrivere:
+$$
+\begin{align}
+(2.1) \quad \vec{P'_{1}} = R \vec{P_{1}} - \vec{T} \\
+(2.2) \quad \vec{P'_{2}} = R \vec{P_{2}} - \vec{T}
+\end{align}
+\quad \Longrightarrow \quad
+\left(\vec{P'_{2}}-\vec{P'_{1}} \right) = R \left(\vec{P_{2}}-\vec{P_{1}} \right) \qquad(2.3)
+$$
+dove le due differenze sono il vettore $\overrightarrow{P_{1}P_{2}}$. Si avrà che
+$$
+\left| \vec{P'_{2}}-\vec{P'_{1}} \right| = \left| \vec{P_{2}}-\vec{P_{1}} \right| = \Delta P_{12}
+$$
+Possiamo dire che il modulo di questo vettore da $P_{1}$ a $P_{2}$ è indipendente dal sistema di riferimento in cui lo si guarda.
+Quindi
+$$
+\frac{\left(\vec{P'_{2}}-\vec{P'_{1}} \right)}{\Delta P_{12} } = R \frac{\left(\vec{P_{2}}-\vec{P_{1}} \right)}{\Delta P_{12} }
+$$
+Introduciamo ora i versori corrispondenti:
+$$
+\hat{e}_{12}' = R \hat{e}_{1} \qquad (2.4)
+$$
+Queste 3 equazioni scalari NON sono indipendenti poiché sussiste la condizione tra le componenti dei versori: 
+$$
+\left| \hat{e}_{12}' \right| = \left| \hat{e}_{12} \right| = 1
+$$
+Le equazioni trovate fino ad ora, $(2.1), (2.2), (2.3), (2.4)$ equivalgono solo a 2 equazioni scalari indipendenti in 3 incognite.
+- Non sono sufficienti 2 punti doppi per calcolare $R$ e quindi per calcolare la rototraslazione ($R,\vec{T}$) tra $\mathcal{S}$ e $\mathcal{S'}$
+- È necessario un terzo punto doppio non allineato con $P_{1}$ e $P_{2}$ altrimenti l'equazione vettoriale competente a $P_{3}$ risulterebbe identica alla $(2.4)$
+
+
+
+❗❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗❗
 
 
 
 
+
+
+## Materializzazione di un Sistema di Riferimento
+
+- [?] Cosa significa materializzare un sistema di riferimento?
+
+Al fine di Materializzare un [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Sistema di riferimento\|#Sistema di riferimento]] occorre fornire opportune coordinate per opportuni punti
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Materializzazione di un Sistema di Riferimento 2D\|#Materializzazione di un Sistema di Riferimento 2D]]
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Materializzazione di un Sistema di Riferimento 1D\|#Materializzazione di un Sistema di Riferimento 1D]]
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Materializzazione di un Sistema di Riferimento 3D\|#Materializzazione di un Sistema di Riferimento 3D]]
+
+### Materializzazione di un Sistema di Riferimento 2D
+
+Cominciamo con il bloccare un'origine $O$:
+$$
+O(0,0)
+$$
+Per l'origine scelgo convenzionalmente le coordinate $(0,0)$. Questa è una scelta arbitraria, dettata dalla convenienza del caso specifico in esame.
+
+Notiamo che per avere un [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Sistema di riferimento 2D\|#Sistema di riferimento 2D]], abbiamo bisogno anche di un asse in modo da bloccare la rotazione del sistema di riferimento. Grazie all'origine infatti abbiamo bloccato solo le due traslazioni.
+
+Posso farlo andando a definire un secondo punto, $P$, con l'unica condizione che sia diverso da $O$. Di questo punto fisso una delle due coordinate, ad esempio $y$, e la impongo $y=0$. Lascio l'altra coordinata libera:
+$$
+P(x_{P},0) \ne O
+$$
+$x_{P}$ può assumere qualsiasi valore purché sia diversa dalla $x_{O}$ (che in questo caso è 0).
+
+![01 - Sistemi di riferimento e di coordinate - TP 2024-03-14 21.35.40.excalidraw.png](/img/user/Excalidraw/01%20-%20Sistemi%20di%20riferimento%20e%20di%20coordinate%20-%20TP%202024-03-14%2021.35.40.excalidraw.png)
+
+
+Nel caso 2D occorrono:
+- Opportuni punti: 2 punti distinti
+- Opportune coordinate:
+	- Per uno dei due punti entrambe le coordinate
+	- Per l'altro solo una delle due coordinate
+In questo modo vengono bloccati **tutti e soli** i gradi di libertà che mi interessa bloccare.
+
+
+
+### Materializzazione di un Sistema di Riferimento 1D
+
+
+Nel caso monodimensionale è sufficiente definire l'origine con una coordinata:
+$$
+O(0)
+$$
+- 1 punto
+- 1 coordinata bloccata
+
+![01 - Sistemi di riferimento e di coordinate - TP 2024-03-14 21.40.34.excalidraw.png](/img/user/Excalidraw/01%20-%20Sistemi%20di%20riferimento%20e%20di%20coordinate%20-%20TP%202024-03-14%2021.40.34.excalidraw.png)
+
+
+
+
+### Materializzazione di un Sistema di Riferimento 3D
+
+
+Nel caso tridimensionale, per la [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Materializzazione di un Sistema di Riferimento\|#Materializzazione di un Sistema di Riferimento]], occorre bloccare 6 gradi di libertà: 3T+3R.
+
+Comincio fissando un'origine:
+$$
+O(0,0,0)
+$$
+Blocco così i 3 g.d.l. alla traslazione.
+
+❗❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗❗
 
 
 
