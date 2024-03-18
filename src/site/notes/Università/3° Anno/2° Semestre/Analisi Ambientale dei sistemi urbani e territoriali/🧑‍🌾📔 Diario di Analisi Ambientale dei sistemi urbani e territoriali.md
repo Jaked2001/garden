@@ -55,3 +55,17 @@
 	- Copertura di suolo
 	- Uso del suolo
 
+
+# 📆  14-03-2024 - Thu
+
+
+
+
+🗺 Mappa: [[2024-03-14 - Il suolo Minacciato - Mappa ANASUT.excalidraw.png]]
+### 📝 Teoria
+
+- Impermeabilizzazione suolo
+- Degradazione qualità del suolo
+	- Land Degradation Neutrality
+- Effetti dell'impatto del consumo di suolo
+	- Video: [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Il suolo minacciato\|Il suolo minacciato]]
