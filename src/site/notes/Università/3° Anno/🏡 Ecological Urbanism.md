@@ -9,7 +9,7 @@
 **📔 Diario del corso:** [[🏡📔 Diario Ecological Urbanism\|🏡📔 Diario Ecological Urbanism]]
 **🌐 Sito Web:** 
 **🅿️ Programma:** [[Programma Urbanistico Ecologico 2024.pdf]]
-**🔑 Classroom:**2n26pm7
+**🔑 Classroom:** 2n26pm7
 
 **🕰 Orario:**
 - Mercoledì: 16:00-19:00
@@ -44,19 +44,22 @@ Data 3: III appello
 ## Struttura esame
 
 Solo [[Università/3° Anno/🏡 Ecological Urbanism#🗣 Orale\|#🗣 Orale]]
-Oral presentation on research done.
-Work presented also by written report.
+
 
 ### 🗣 Orale 
 
+Oral presentation on research done.
+Work presented also by written report.
 
+If work is excellent, teacher gives chance to an oral examination to assign 1 or 2 extra points on graduation grade.
 
 ## 💯 Voto
 
-| Parte       | Data           | Voto |
-| ----------- | -------------- | ---- |
-| Scritto |  |  |
-| Orale       |  |     |
+| Parte         | Peso | Data | Voto |
+| ------------- | ---- | ---- | ---- |
+| Presentazione | 50%  |      |      |
+| Tesina        | 40%  |      |      |
+| (Oral Exam)   | 10%  |      |      |
 
 
 # ✔️ To-Do
@@ -74,12 +77,18 @@ ___
 
 # 👉🏻 Indice del corso
 
+
+
+| File                                                                         | Stato    |
+| ---------------------------------------------------------------------------- | -------- |
+| [[Università/3° Anno/Presentazione corso - EU\|Presentazione corso - EU]] | 🟢 Fatto |
+
+{ .block-language-dataview}
+
+
+
 ___
 
 
 ## ✍️ Esercitazioni
-
-
-## Temi d'esame
-
 
