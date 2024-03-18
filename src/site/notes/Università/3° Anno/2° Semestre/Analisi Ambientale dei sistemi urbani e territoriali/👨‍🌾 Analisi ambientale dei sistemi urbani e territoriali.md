@@ -39,7 +39,8 @@ Data 3: III appello
 
 
 Prova intermedia: esonero. (individuale)
-Mappe contettuali
+- [?] La prova intermedia ha a che fare con i lavori di gruppo? O sono cose puramente di teoria? 
+Mappe concettuali
 Esercitazione (di gruppo)
 Orale su esercitazione e sulla seconda parte del programma
 
@@ -58,6 +59,7 @@ Esercizi:
 
 
 ## 💯 Voto
+
 | Parte       | Data           | Voto |
 | ----------- | -------------- | ---- |
 | Scritto |  |  |
@@ -109,4 +111,5 @@ ___
 # 🗺 Mappe
 - [[2024-03-05 - Conoscenza e Orti urbani - Mappa ANASUT.excalidraw.png]]
 - [[2024-03-12 - Urbanistica Territorio e Suolo.excalidraw.png]]
+- [[2024-03-14 - Il suolo Minacciato - Mappa ANASUT.excalidraw.png]]
 
