@@ -55,3 +55,7 @@ NON DISPONIBILE
 Se hai trovato utile questo sito puoi fare una donazione cliccando [qui](https://ko-fi.com/matteomeloni) o scannerizzando il codice QR.
 
 ![qrcode.png](/img/user/allegati/qrcode.png)
+
+## Grazie del supporto! 🫶
+
+- montegabry02
