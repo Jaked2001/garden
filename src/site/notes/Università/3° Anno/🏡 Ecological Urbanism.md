@@ -6,7 +6,7 @@
 # [[Università/3° Anno/🏡 Ecological Urbanism\|🏡 Ecological Urbanism]]
 
 **🧑🏻‍🏫 Prof:** [[Tom Rankin\|Tom Rankin]]
-**📔 Diario del corso:** [[🏡📔 Diario Ecological Urbanism\|🏡📔 Diario Ecological Urbanism]]
+**📔 Diario del corso:** [[Università/3° Anno/🏡📔 Diario Ecological Urbanism\|🏡📔 Diario Ecological Urbanism]]
 **🌐 Sito Web:** 
 **🅿️ Programma:** [[Programma Urbanistico Ecologico 2024.pdf]]
 **🔑 Classroom:** 2n26pm7
@@ -79,9 +79,11 @@ ___
 
 
 
-| File                                                                         | Stato    |
-| ---------------------------------------------------------------------------- | -------- |
-| [[Università/3° Anno/Presentazione corso - EU\|Presentazione corso - EU]] | 🟢 Fatto |
+| File                                                                         | Stato       |
+| ---------------------------------------------------------------------------- | ----------- |
+| [[Università/3° Anno/01 - Water - EU\|01 - Water - EU]]                   | 🪶 Scrivere |
+| [[Università/3° Anno/02 - Green Spaces - EU\|02 - Green Spaces - EU]]     | 🪶 Scrivere |
+| [[Università/3° Anno/Presentazione corso - EU\|Presentazione corso - EU]] | 🟢 Fatto    |
 
 { .block-language-dataview}
 
@@ -91,4 +93,30 @@ ___
 
 
 ## ✍️ Esercitazioni
+
+Options
+- A city from scratch. Should have a vision of green sustainable cities.
+	- A real case study
+- Urban regeneration proposals
+
+
+1 group: Same case study, different themes
+
+Possible case studies.
+- Forest Cities, Singapore
+- Eco-City Tianjin, China
+- Dongtan Eco-City
+- Oceanix Busan
+- The Line, Saudi Arabia
+- Lantau Tomorrow Vision
+- Lusail, Qatar
+- Solar City
+- The Venus Project
+
+
+The themes in the group should be connected somehow. It should not be 4 different presentations.
+
+
+
+
 
