@@ -75,6 +75,7 @@ ___
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT\|00 - Inizio ANASUT]]                                                                                                 | T    | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale\|01 - Ruolo dell'analisi nella pianificazione urbana e territoriale]] | T    | 🪶 Scrivere |
+| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Gli orti urbani - ANASUT\|02 - Gli orti urbani - ANASUT]]                                                                           | T    | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Il consumo di suolo\|Il consumo di suolo]]                                                                                               | T    | 🪶 Scrivere |
 
 { .block-language-dataview}
@@ -89,6 +90,7 @@ ___
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT\|00 - Inizio ANASUT]]                                                                                                 | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale\|01 - Ruolo dell'analisi nella pianificazione urbana e territoriale]] | 🪶 Scrivere |
+| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Gli orti urbani - ANASUT\|02 - Gli orti urbani - ANASUT]]                                                                           | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Il consumo di suolo\|Il consumo di suolo]]                                                                                               | 🪶 Scrivere |
 
 { .block-language-dataview}
@@ -105,11 +107,23 @@ ___
 
 { .block-language-dataview}
 
+- [ ] Proporre casi studio per orti urbani - 📅 2024-04-04
 
-
+- Scartare orti urbani che non abbiano interesse collettivo.
+- Quali sono le potenziali dimensioni di analisi?
+	- Quali sono le motivazioni? Quali sono le ragioni sociali che quell'orto esprime?
+	- Nella progettazione, tenere conto della sfera anagrafica e sociale che si vuole intercettare
+- Che tipo di accordo legale esiste tra gli ortisti e i proprietari del terreno? Concessione, affitto...
+- Spazio in cui nasce? Spazio bonificato, abbandonato, salvato dall'edilizia, spazi industriali dismessi
+- Ci sono sensibilità virtuose rispetto alle questioni ambientali? Se ci sono le sensibilità ma ci sono difficoltà/problemi che non consentono agli ortisti di realizzare questi impianti.
+- Dimensione economica
 
 # 🗺 Mappe
 - [[2024-03-05 - Conoscenza e Orti urbani - Mappa ANASUT.excalidraw.png]]
+- 7 marzo: assente
 - [[2024-03-12 - Urbanistica Territorio e Suolo.excalidraw.png]]
 - [[2024-03-14 - Il suolo Minacciato - Mappa ANASUT.excalidraw.png]]
+- 
+- [[2024-03-21 - Gli orti urbani - Mappa ANASUT.excalidraw.png]]
+
 
