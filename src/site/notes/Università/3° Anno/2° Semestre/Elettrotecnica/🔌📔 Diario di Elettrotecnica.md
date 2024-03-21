@@ -84,3 +84,21 @@ Introduzione corso
 - Esercizio di applicazione del metodo dei nodi
 
 
+
+# 📆  18-03-2024 - Mon
+
+### 📝 Teoria
+
+### ✏️ Esercizi
+
+
+# 📆  19-03-2024 - Tue
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]]
+	- Teorema di Thevenin
+	- Applicazione del teorema di Thevenin
+	- Cenni sul teorema di Norton
+
+### ✏️ Esercizi
