@@ -95,3 +95,28 @@
 		- Superficie reale
 
 
+
+# 📆  20-03-2024 - Wed
+
+[[Mattia Crespi\|Mattia Crespi]]
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP\|02 - Campo gravitazionale - TP]]
+	- Quota ellissoidica
+	- Quota ortometrica
+	- Ondulazione del geoide
+	- Discostamento tra $\vec{n}$ e $\vec{\nu}$
+
+
+# 📆  21-03-2024 - Thu
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP\|02 - Campo gravitazionale - TP]]
+	- Coordinate ellissoidiche
+		- Quota ellissoidica
+		- Latitudine
+		- Longitudine
+
+### ✏️ Esercizi
