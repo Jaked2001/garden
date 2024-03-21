@@ -82,6 +82,7 @@ NON PREVISTO (a parte il test finale)
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera\|01 - Atmosfera]]                                         | T    | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro\|02 - Piogge Intense - Idro]]                 | T    | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro\|03 - Afflussi - Idro]]                             | T    | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Misure Radar - Idro\|04 - Misure Radar - Idro]]                     | T    | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
@@ -97,6 +98,7 @@ ___
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera\|01 - Atmosfera]]                                         | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro\|02 - Piogge Intense - Idro]]                 | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro\|03 - Afflussi - Idro]]                             | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Misure Radar - Idro\|04 - Misure Radar - Idro]]                     | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
