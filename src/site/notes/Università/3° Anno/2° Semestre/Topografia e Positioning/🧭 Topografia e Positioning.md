@@ -87,10 +87,11 @@ Riguarda **strumenti e metodi di misura** e le **esercitazioni**.
 voto finale è media dello [[Università/3° Anno/2° Semestre/Topografia e Positioning/🧭 Topografia e Positioning#✍️ Scritto\|#✍️ Scritto]] e dell'[[Università/3° Anno/2° Semestre/Topografia e Positioning/🧭 Topografia e Positioning#🗣 Orale\|#🗣 Orale]]
 
 
-| Parte       | Data           | Voto |
-| ----------- | -------------- | ---- |
-| Scritto |  |  |
-| Orale       |  |     |
+| Parte   | Data | Voto |
+| ------- | ---- | ---- |
+| Scritto |      |      |
+| Orale   |      |      |
+|         |      |      |
 
 
 # ✔️ To-Do
@@ -98,12 +99,12 @@ voto finale è media dello [[Università/3° Anno/2° Semestre/Topografia e Posi
 
 ___
 
-| File                                                                                                                                                                        | Tipo    | Stato       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------- |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/CERN-LNGS distance computation for the OPERA Project\|CERN-LNGS distance computation for the OPERA Project]]   | Meeting | 🟢 Fatto    |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/00 - Presentazione corso Topografia e Positioning\|00 - Presentazione corso Topografia e Positioning]] | T       | 🪶 Scrivere |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP\|01 - Sistemi di riferimento e di coordinate - TP]]   | T       | 🪶 Scrivere |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP\|02 - Campo gravitazionale - TP]]                                       | T       | 🪶 Scrivere |
+| File                                                                                                                                                                        | Tipo    | Stato         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------- |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/CERN-LNGS distance computation for the OPERA Project\|CERN-LNGS distance computation for the OPERA Project]]   | Meeting | 🟢 Fatto      |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/00 - Presentazione corso Topografia e Positioning\|00 - Presentazione corso Topografia e Positioning]] | T       | 🟢 Fatto      |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP\|01 - Sistemi di riferimento e di coordinate - TP]]   | T       | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP\|02 - Campo gravitazionale - TP]]                                       | T       | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
