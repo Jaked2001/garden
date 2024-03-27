@@ -51,6 +51,8 @@ Prerequisiti:
 
 Ricevimento:
 - Su richiesta per mail.
+
+
 # ❗️Esame❗️
 
 ```ad-attention
@@ -96,9 +98,12 @@ Facoltativo
 
 ___
 
-| File                                                                                                                            | Tipo | Stato       |
-| ------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]] | T    | 🪶 Scrivere |
+| File                                                                                                                                                                            | Tipo | Stato       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]]                                                 | T    | 🪶 Scrivere |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET\|03 - Introduzione allo studio delle reti elettriche - ET]] | T    | 🟠 Studiare |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori\|04 - Fenomeni di conduzione e resistori]]                                   | T    | 🟠 Studiare |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/05 - Generatori elettrici - ET\|05 - Generatori elettrici - ET]]                                                     | T    | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -108,10 +113,18 @@ ___
 
 # 👉🏻 Indice del corso
 
+```ad-note
+La numerazione dei capitoli fa riferimento alla numerazione del libro di testo "Esculapio, *Elettrotecnica 1 - Principi*, G.Chitarin, F. Gnesotto, M. Guarnieri, A. Maschio, A. Stella"
 
-| File                                                                                                                            | Stato       |
-| ------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]] | 🪶 Scrivere |
+```
+
+
+| File                                                                                                                                                                            | Stato       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]]                                                 | 🪶 Scrivere |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET\|03 - Introduzione allo studio delle reti elettriche - ET]] | 🟠 Studiare |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori\|04 - Fenomeni di conduzione e resistori]]                                   | 🟠 Studiare |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/05 - Generatori elettrici - ET\|05 - Generatori elettrici - ET]]                                                     | 🪶 Scrivere |
 
 { .block-language-dataview}
 
