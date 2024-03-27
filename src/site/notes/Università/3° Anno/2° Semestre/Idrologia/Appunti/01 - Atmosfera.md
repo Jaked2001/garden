@@ -167,10 +167,10 @@ dove:
 - $T$: temperatura
 ```
 
-Il gradiente termico viene considerato positivo se la temperatura diminuisce con la quota.
+Il gradiente termico viene considerato positivo se la temperatura diminuisce con l'aumentare della quota.
 
 L'atmosfera può essere suddivisa in quattro zone principali:
-- [[Troposfera]]
+- [[Troposfera\|Troposfera]]
 - [[Stratosfera\|Stratosfera]]
 - [[Mesosfera\|Mesosfera]]
 - [[Termosfera\|Termosfera]]
@@ -278,11 +278,21 @@ La distribuzione delle temperatura risente anche delle **correnti marine**.
 Per ovviare allo squilibrio del bilancio energetico nelle diverse zone della terra esistono fenomeni di compenso che operano il trasporto dell'energia dalle zone con bilancio energetico positivo a quelle con bilancio energetico negativo.
 
 Gran parte di questo trasporto è dovuto alle correnti atmosferiche il cui moto è legato alla distribuzione della **pressione** dell'aria atmosferica.
+Definiamo quindi:
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Pressione atmosferica\|#Pressione atmosferica]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Vapor d'acqua\|#Vapor d'acqua]]
+
+Definiremo dell'aria alcune proprietà:
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Tensione del vapor d'acqua\|#Tensione del vapor d'acqua]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Umidità assoluta\|#Umidità assoluta]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Tensione di saturazione\|#Tensione di saturazione]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Umidità relativa\|#Umidità relativa]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Deficit igrometrico\|#Deficit igrometrico]]
 
 ### Pressione atmosferica
 
 ```ad-Definizione
-title: Pressione atmosferica
+title: Pressione atmosferica ($p$)
 
 Si definisce pressione atmosferica la forza esercitata dall'aria libera in quiete sull'unità di area di una superficie con cui è a contatto.
 
@@ -297,15 +307,239 @@ $$
 \end{align}
 $$
 
-Si definisce **pressione atmosferica NORMALE** al libello del suolo la pressione di $760 \,\rm mmHg = 1013.25 \,\rm mb = 1.033323 \,\rm \frac{kg}{cm^{2}}$.
+Si definisce **pressione atmosferica NORMALE** al livello del suolo la pressione di $760 \,\rm mmHg = 1013.25 \,\rm mb = 1.033323 \,\rm \frac{kg}{cm^{2}}$.
 
 La pressione atmosferica normale è assunta come unità di misura della pressione e si dice *atmosfera* ($\rm atm$).
 
-La pressione, anche in una data quota, varia nello spazio e nel tempo.
-
+La pressione, anche in una data quota, varia nello spazio e nel tempo. Si definisce pertanto una [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Superficie isobarica\|#Superficie isobarica]].
 #### Superficie isobarica
 
+```ad-Definizione
+title: Superficie isobarica
+
 La **superficie isobarica** è il luogo dei punti dell'atmosfera che hanno la stessa [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Pressione atmosferica\|#Pressione atmosferica]]. 
+
+```
+
+##### Isobara
+
+```ad-Definizione
+title: Isobara
+
+L'**isobara** è una linea, intersezione di una [[#Superficie isobarica]] con una altitudine assegnata.
+
+```
+
+Le isobare relative ad una determinata altitudine sono quindi le linee luogo dei punti di ugual pressione a quell'altitudine.
+
+### Vapor d'acqua
+
+#### Tensione del vapor d'acqua
+
+```ad-Definizione
+title: Tensione del vapor d'acqua ($\tau$)
+
+La **tensione del vapor d'acqua** o più semplicemente **vapor d'acqua** è la pressione parziale del vapor d'acqua nell'atmosfera.
+
+```
+
+Se si indica con $P_{d}$ la pressione dell'aria secca, la [[#Pressione atmosferica]] $p$ è data da:
+$$
+p = P_{d} + \tau
+$$
+##### Umidità assoluta
+
+```ad-Definizione
+title: Umidità assoluta ($\rho_{v}$)
+L'**umidità assoluta** è la densità del [[#Vapor d'acqua]] nell'atmosfera.
+```
+
+Indicata con $\rho_{d}$ la densità dell'aria secca, la densità dell'aria umida risulta
+$$
+\rho = \rho_{d} + \rho_{v}
+$$
+Umidità assoluta e [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Tensione del vapor d'acqua\|#Tensione del vapor d'acqua]] sono legate dalla relazione
+$$
+\rho_{v} = 216.46 \frac{\tau}{T}
+$$
+dove:
+- $\rho_{v}$ è espresso in $\left[ \rm \frac{g}{m^{3}} \right]$
+- $\tau$ è espresso in $[\rm mb]$
+- $T$ è espresso in $[\rm k]$
+
+
+### Volume d'aria saturo
+
+Quando l'aria ad una determinata temperatura contiene la massima quantità di vapore d'acqua, il volume d'aria si dice **saturo**. La [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Tensione del vapor d'acqua\|#Tensione del vapor d'acqua]] in questa condizione è detta [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Tensione di saturazione\|#Tensione di saturazione]].
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Punto di rugiada\|#Punto di rugiada]]
+
+#### Tensione di saturazione
+
+```ad-Definizione
+title: Tensione di saturazione ($\tau_{s}$)
+
+La **tensione di saturazione** è la [[#Tensione del vapor d'acqua]] quando si guarda ad un [[#Volume d'aria saturo]].
+
+```
+
+#### Punto di rugiada
+
+```ad-Definizione
+title: Punto di rugiada ($T_{u}$)
+
+Il punto di rugiada o temperatura di rugiada è la temperatura $T_{u}$, per una data [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Umidità assoluta\|#Umidità assoluta]], per cui si ha la saturazione.
+
+```
+
+Quando la temperatura scende sotto il punto di rugiada si ha la condensazione del vapor d'acqua in eccesso, in modo da riportare l'[[#Umidità assoluta]] a quella di saturazione con la nuova temperatura.
+
+La condensazione di un grammo di vapor d'acqua fa aumentare la temperatura di un metro cubo d'aria di circa $1.5\degree C$.
+
+
+### Umidità relativa
+
+```ad-Definizione
+title: Umidità relativa ($u$)
+
+L'**umidità relativa** è il rapporto tra la [[#Tensione del vapor d'acqua]] di un volume d'aria e la [[#Tensione di saturazione]] dello stesso volume d'aria.
+$$
+u = \frac{\tau}{\tau_{s}}
+$$
+
+```
+
+### Deficit igrometrico
+
+```ad-Definizione
+title: Deficit igrometrico
+
+Il **deficit igrometrico** è definito come
+$$
+\tau_{d} = \tau_{s}-\tau
+$$
+
+```
+
+## Correnti atmosferiche
+
+
+Possiamo distinguere tra
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Correnti verticali\|#Correnti verticali]] (convettive)
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Correnti orizzontali\|#Correnti orizzontali]] (avvettive)
+
+### Correnti verticali
+
+Quando l’aria sale, incontra temperature più basse, si espande e si raffredda. Raffreddandosi può dare luogo alla condensazione. Abbassandosi invece si comprime e si riscalda.
+
+Nella [[Troposfera]] il [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Gradiente termico verticale\|#Gradiente termico verticale]] è generalmente positivo (la temperatura diminuisce all'aumentare della quota).
+
+Può avvenire in determinate circostanze che questo risulti negativo. 
+
+Quando un volume d'aria aumenta di quota, è soggetta a **pressioni minori**. Questo la porta ad **espandersi** e a **raffreddarsi**.
+
+Il processo delle correnti verticali, in assenza di precipitazioni, può essere considerato adiabatico (senza scambi di calore con l'esterno).
+Alla luce di ciò andiamo a definire
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Gradiente adiabatico secco\|#Gradiente adiabatico secco]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Gradiente adiabatico umido\|#Gradiente adiabatico umido]]
+
+Poiché la condensazione comporta la trasformazione del [[calore latente\|calore latente]] del vapor d'acqua in calore sensibile dell'aria è vera la relazione
+$$
+\Gamma_{u} < \Gamma_{s}
+$$
+
+#### Gradiente adiabatico
+
+
+##### Gradiente adiabatico secco
+
+```ad-Definizione
+title: Gradiente adiabatico secco ($\Gamma_{s}$)
+Il gradiente adiabatico secco è il decremento della temperatura per unità di altitudine ([[#Gradiente termico verticale]]) che l'aria subisce innalzandosi adiabaticamente, senza che abbia luogo la condensazione.
+
+```
+
+##### Gradiente adiabatico umido
+
+```ad-Definizione
+title: Gradiente adiabatico umido ($\Gamma_{u}$)
+Il **gradiente adiabatico umido** è il decremento della temperatura per unità di altitudine ([[#Gradiente termico verticale]]) che l'aria subisce innalzandosi adiabaticamente, quando il processo è accompagnato dalla condensazione del vapor d'acqua.
+
+```
+
+#### Stabilità dell'atmosfera
+
+![Schermata 2024-03-23 alle 18.50.15.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/Schermata%202024-03-23%20alle%2018.50.15.png)
+
+A seconda che un volume d'aria, spostato in senso verticale, tenda o meno a tornare nella sua posizione di origine, distinguiamo fra:
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Atmosfera stabile\|#Atmosfera stabile]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Atmosfera instabile\|#Atmosfera instabile]]
+
+##### Atmosfera stabile
+
+```ad-Definizione
+title: Atmosfera stabile
+L'atmosfera si dice **stabile** quando un volume elementare d'aria, spostato in senso verticale, tende a tornare nella posizione d'origine.
+
+```
+
+A sua volta l'atmosfera stabile può essere
+
+###### Atmosfera assolutamente stabile
+
+```ad-Definizione
+title: Atmosfera assolutamente stabile
+
+L'atmosfera si dice **assolutamente stabile** se il [[#Gradiente termico verticale]] $\gamma$ è minore (anche, quindi, se si è in presenza di un'[[#inversione]]) sia di $\Gamma_{s}$ sia di $\Gamma_{u}$.
+Se si solleva una massa d'aria la sua temperatura risulta minore e la sua densità maggiore di quella dell'aria che la circonda ed essa tende a scendere e a riassumere la sua posizione iniziale.
+
+```
+
+###### Atmosfera condizionalmente stabile
+
+
+```ad-Definizione
+title: Atmosfera condizionalmente stabile
+
+L'atmosfera si dice **condizionalmente stabile** se il [[#Gradiente termico verticale]] $\gamma$ è minore di $\Gamma_{s}$ ma **NON** di $\Gamma_{u}$.
+
+In questo caso l'aria è stabile finché non vi è condensazione. Se ha luogo la condensazione, l'aria, spostandosi verticalmente, cambia temperatura secondo la curva U e, venendo a trovarsi ad una temperatura superiore a quella dell'aria che la circonda, tende ad innalzarsi ulteriormente, allontanandosi ancora dalla sua posizione originaria.
+```
+
+
+##### Atmosfera instabile
+
+```ad-Definizione
+title: Atmosfera instabile
+
+L'atmosfera si dice **stabile** quando un volume elementare d'aria, spostato in senso verticale, tende ad allontanarsi ulteriormente.
+
+```
+
+###### Atmosfera assolutamente instabile
+
+```ad-Definizione
+title: Atmosfera assolutamente instabile
+
+L'atmosfera si dice **assolutamente instabile** se il [[#Gradiente termico verticale]] $\gamma$ è maggiore sia di $\Gamma_{s}$, sia di $\Gamma_{u}$.
+
+In questo caso l'aria non è mai in equilibrio stabile, sia che avvenga, sia che non avvenga la condensazine del vapor d'acqua durante l'ascesa.
+
+```
+
+
+### Correnti orizzontali
+
+❗❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗❗
+
+
+
+
+
+
+
+
 
 
 
