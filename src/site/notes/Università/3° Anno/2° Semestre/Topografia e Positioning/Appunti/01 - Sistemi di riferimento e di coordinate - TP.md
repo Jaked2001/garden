@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/universita/3-anno/2-semestre/topografia-e-positioning/appunti/01-sistemi-di-riferimento-e-di-coordinate-tp/"}
 ---
 
+
 # [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP\|01 - Sistemi di riferimento e di coordinate - TP]]
 
 # Sistema di riferimento
