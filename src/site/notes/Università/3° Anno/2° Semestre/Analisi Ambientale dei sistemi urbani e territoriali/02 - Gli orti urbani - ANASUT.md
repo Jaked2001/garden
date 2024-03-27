@@ -166,12 +166,58 @@ In Francia c'è una politica nazionale "[[Carta del pollice verde\|Carta del pol
 
 ![2024-03-21 - Gli orti urbani - Mappa ANASUT.excalidraw.png](/img/user/Excalidraw/2024-03-21%20-%20Gli%20orti%20urbani%20-%20Mappa%20ANASUT.excalidraw.png)
 
+# Orti urbani a Roma
 
 
 
 
+Dal 2010 in poi si passa da orto individuale a collettivo.
+
+Gli orti collettivi sono esito progettuale di progetti che decidono di convertire un appezzamento di terra ad uso agricolo e coltivarlo collettivamente.
+
+All'interno di un orto esistono appezzamenti per la coltivazione individuale (35/40mq) e quelli per coltivazione collettiva (70/80 mq).
+
+Parla il Dipartimento Ambiente con la responsabile per gli orti urbani. In quegli anni nasce il regolamento per gli orti urbani.
+
+- App [[Smarticipate\|Smarticipate]]
+
+Gli orti urbani intrattengono delle relazioni con il contesto circostante.
+
+Gli orti urbani a volte esprimono una vocazione sociale particolarmente spinta: si rivolgono come assistenza per persone in difficoltà.
+Orti sociali.
+Si basano sul principio dell'Orthicoltural therapy.
+- Sono coinvolto in un'attività che riempie il mio tempo di un'attività sensata
+
+## Orti urbani tre fontane
+
+https://youtu.be/StfmoiDR8To?si=D5BLwWUPMNCbyPRU
+
+Associazione costituita nel 2013. 
+
+Recuperare un terreno usato come discarica.
+
+Richiesta permesso al comune per bonifica anche con uso di mezzi pesanti.
 
 
+
+Non è solo un discorso di fermare il cemento: è un processo di riappropriazione del territorio.
+
+Comunità educante:
+gli orti urbani sono pratiche che non esauriscono la loro utilità nella coltivazione. Mettono insieme:
+- potenzialità di topo sociale
+- consapevolezza ambientale ed ecologica
+L'agricoltura è il mezzo con coi le persone danno luogo a una pluralità di bisogni.
+
+
+
+- Reinserimento sociale di detenuti con "pena alternativa"
+- Acquisizione di competenze in uscita dal carcere
+
+
+- Coinvolgimento di persone con disagio psichico
+
+
+I progetti di espansione sono molto ricorrenti all'interno di queste pratiche.
 
 
 
