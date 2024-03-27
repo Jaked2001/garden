@@ -26,6 +26,7 @@ Non esiste un libro esatto del corso.
 - **Giovedì:** 11:00-13:00 - RM034 Aula 36
 - **Venerdì:** 08:00-11:00 - RM031 Aula 21
 
+[[Università/3° Anno/2° Semestre/Topografia e Positioning/Ricevimento TP\|Ricevimento TP]]
 
 # ❗️Esame❗️
 
@@ -105,6 +106,7 @@ ___
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/00 - Presentazione corso Topografia e Positioning\|00 - Presentazione corso Topografia e Positioning]] | T       | 🟢 Fatto      |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP\|01 - Sistemi di riferimento e di coordinate - TP]]   | T       | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP\|02 - Campo gravitazionale - TP]]                                       | T       | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/Livellazione Geometrica\|Livellazione Geometrica]]                                                     | T       | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
