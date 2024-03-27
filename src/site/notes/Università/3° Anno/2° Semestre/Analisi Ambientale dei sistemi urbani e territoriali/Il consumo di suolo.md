@@ -380,7 +380,7 @@ Non sono soddisfatto di come viene descritta la realtà delle città contemporan
 Sento sempre la stessa descrizione: degrado crescente, città diventano invivibili.
 È vero, le città sono di questa natura.
 
-La vedo come il primo passo di un sistema lineare. Si vedono le cose che non vanno, costruisce un progetto e poi realizza [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale#Analytical Problem Solving\|analytical problem solving]]
+La vedo come il primo passo di un sistema lineare. Si vedono le cose che non vanno, costruisce un progetto e poi realizza [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT#Analytical Problem Solving\|analytical problem solving]]
 
 
 
