@@ -119,4 +119,39 @@
 		- Latitudine
 		- Longitudine
 
+
+# 📆  22-03-2024 - Fri
+Professore assente. 
+Fanno lezione
+- [[Laura Giaccio\|Laura Giaccio]]
+- [[Rachele Fratini\|Rachele Fratini]]
+
+### 📝 Teoria
+- [[Strumenti - TP\|Strumenti - TP]]
+	- Livellazione geometrica
+	- Dislivello
+	- Quota
+	- Quota ortometrica
+	- Livellazione idrostatica
+	- Livellazione geometrica con cannocchiale
+		- Livellazione dal mezzo
+			- Principio di funzionamento
+			- Fonti di errori
+				- Non verticalità della stadia
+				- Non orizzontalità del cannocchiale
+				- Rifrazione atmosferica
+				- Scorretta materializzazione del punto M (Punto M non perfettamente centrato)
+			- Precisione
+		- Livellazione reciproca
+		- Principio di funzionamento
+		- Errore di srettifica
+	- Linea di livellazione
+
+
+# 📆  27-03-2024 - Wed
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/Livellazione Geometrica\|Livellazione Geometrica]]
+
 ### ✏️ Esercizi
