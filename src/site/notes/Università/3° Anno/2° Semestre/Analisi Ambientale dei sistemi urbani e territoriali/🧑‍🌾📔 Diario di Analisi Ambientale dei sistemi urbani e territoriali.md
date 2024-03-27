@@ -43,7 +43,7 @@
 		- Patrizia Gabellini
 		- Giovanni Gaudo
 	- Differenza tra urbanistica e architettura
-- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale\|01 - Ruolo dell'analisi nella pianificazione urbana e territoriale]]
+- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT\|01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT]]
 	- Analytical Problem Solving
 	- Interactive Problem Solving
 	- Territorio
@@ -69,3 +69,30 @@
 	- Land Degradation Neutrality
 - Effetti dell'impatto del consumo di suolo
 	- Video: [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Il suolo minacciato\|Il suolo minacciato]]
+
+
+# 📆  19-03-2024 - Tue
+
+### 📝 Teoria
+- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Oltre il catastrofismo\|Oltre il catastrofismo]] - video
+	- Pensiero di Giancarlo Paba
+- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Gli orti urbani - ANASUT\|02 - Gli orti urbani - ANASUT]]
+
+# 📆  21-03-2024 - Thu
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Gli orti urbani - ANASUT\|02 - Gli orti urbani - ANASUT]] - Video di testimonianze
+	- Relazioni esterne agli orti urbani
+	- Relazioni interne agli orti urbani
+	- Sostentazione economica
+	- Aspetti generali degli orti urbani
+
+
+# 📆  26-03-2024 - Tue
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Gli orti urbani - ANASUT\|02 - Gli orti urbani - ANASUT]]
+
+### ✏️ Esercizi
