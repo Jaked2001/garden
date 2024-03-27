@@ -10,6 +10,51 @@
 
 
 
+## Misura dell'altezza di pioggia
+
+Si misura in maniera integrale individuando una scala di tempo (1h, 6h, 1gg) e calcolando il volume di acqua precipitata a partire da un'altezza.
+
+In alcuni punti di interesse sono posti degli strumenti di misura per la rilevazione delle precipitazioni. 
+
+Lo strumento di misurazione delle piogge è il [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro\|#Pluviometro]]
+
+Oggi, la rete di misurazione è di competenza regionale (un tempo era nazionale).
+Le osservazioni di ogni stazione di misura vengono raccolte in una tabella in cui si registra il valore giornaliero di precipitazione, il totale mensile e annuale.
+### Pluviometro
+
+![Schermata 2024-03-23 alle 19.06.18.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-03-23%20alle%2019.06.18.png)
+
+Il pluviometro è un recipiente di dimensione assegnata che raccoglie l'acqua in un tempo determinato. L'apertura è solitamente un decimo di $\rm m^{2}$.
+
+Deve essere posizionato in un punto in cui non sia affetto da vegetazione o edifici circostanti.
+
+Il pluviometro permette di calcolare:
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Altezza di pioggia\|#Altezza di pioggia]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Intensità di pioggia\|#Intensità di pioggia]]
+
+
+#### Altezza di pioggia
+
+```ad-Definizione
+title: Altezza di precipitazione
+
+$$
+h_{t} = \frac{W_{t}}{A}
+$$
+dove:
+- $W_{t}:$ Volume d'acqua precipitato sull'area $A$
+- $A:$ Area della bocca dello strumento
+
+```
+
+
+#### Intensità di pioggia
+
+$$
+i_{t} = \frac{h_{t}}{t}
+$$
+
+
 ### Registrazione di un pluviometro a bilanciere
 
 ![Schermata 2023-01-01 alle 01.07.34.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202023-01-01%20alle%2001.07.34.png)
@@ -18,7 +63,7 @@ Si può realizzare quindi uno **ietogramma** o **pluviogramma**.
 
 Tramite lo studio delle piogge possiamo valutare una delle forzanti di progetto.
 
-La poioggia la possiamo usare per valutare o cosa è già successo o perché dobbiamo progettare qualcosa.
+La pioggia la possiamo usare per valutare o cosa è già successo o perché dobbiamo progettare qualcosa.
 
 Della pioggia, non ha tanto interesse sapere quanto piove, ma sapere cosa succede sul territorio se piove in un certo modo.
 
