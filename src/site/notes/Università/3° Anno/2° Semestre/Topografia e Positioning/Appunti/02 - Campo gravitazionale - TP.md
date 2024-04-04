@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/universita/3-anno/2-semestre/topografia-e-positioning/appunti/02-campo-gravitazionale-tp/"}
 ---
 
-!
+
 # [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP\|02 - Campo gravitazionale - TP]]
 
 
@@ -148,6 +148,7 @@ e quindi, il [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunt
 $$
 V = G \int_{z}\int_{y}\int_{x} \frac{\rho_{Q}(x,y,z)}{r_{PQ}} \underbrace{dxdydz}_{= dV}
 $$
+
 ```ad-note
 title: Osservazione
 Si noti che
@@ -248,6 +249,7 @@ Paragoniamo a queste dimensioni gli ordini di grandezza dei termini della serie:
 | $n=1$     | 0                          |
 | $n=2$     | $10^{-3}$                  |
 | $n \ge 2$ | $10^{-6}\div 10^{-7}$      |
+
 Se considero soltanto i termini con maggior peso, ossia $A_{00}$ e $A_{20}$ si ottiene che la superficie equipotenziale è un **ellissoide di rotazione**
 $$
 \frac{x^{2}+y^{2}}{a^{2}} + \frac{z^{2}}{b_{2}} = 1
@@ -299,14 +301,89 @@ Ad oggi la descrizione del geoide è fatta in termini **perturbativi**: si prend
 
 Quale ellissoide?
 
+
+## Descrizione pratica del geoide
+
+Allo stato attuale, la descrizione del geoide è fatta in termini **perturbativi**. Si rappresenta il geoide sotto forma di quanto questo si discosta dall'ellissoide.
+
 L'ellissoide usato oggi maggiormente e preso come riferimento è il [[WGS84\|WGS84]]. Quando parlo di $(a,b)$ o di $(a,e^{2})$ sto implicitamente facendo riferimento all'ellissoide [[WGS84\|WGS84]].
 
 Nei nostri telefoni è in uso una descrizione semplificata del geoide: il [[EGM2008\|EGM2008]].
 
+```ad-example
+title: Esempio
+
+Le correnti del mare dipendono dalla superficie oceanica stazionaria ($\ne$ dal geoide). Ad esempio la [[Corrente del Golfo]] eiste perché c'è un piccolo dislivello ($\sim 2 \,\rm m$) tra l'America e l'Europa.
+```
+
+
+## Quota
+
+Definito il [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP#Geoide\|#Geoide]] si può iniziare a parlare di quota. In particolare vedremo:
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP#Quota ellissoidica\|#Quota ellissoidica]]
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP#Quota Ortometrica\|#Quota Ortometrica]]
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP#Ondulazione del geoide\|#Ondulazione del geoide]]
+Le grandezze elencate sopra fanno tutte riferimento al seguente diagramma:
+
+![02 - Campo gravitazionale - TP 2024-03-27 14.37.08.excalidraw.png](/img/user/Excalidraw/02%20-%20Campo%20gravitazionale%20-%20TP%202024-03-27%2014.37.08.excalidraw.png)
 
 
 
+### Quota ellissoidica
+
+```ad-Definizione
+title: Quota/Altezza ellissoidica ($h$)
+
+La **quota ellissoidica** è la distanza del punto $P$ dall'ellissoide. 
+
+```
+
+La si ottiene proiettando il punto $P$ sull'ellissoide, ottenendo così $P_{e}$. È quindi uguale alla lunghezza del segmento $\overline{PP_{e}}$
 
 
+### Quota Ortometrica
+
+```ad-Definizione
+title: Quota/Altezza ortometrica ($H$)
+
+La **quota ortometrica** è la distanza del punto $P$ dal geoide, calcolata seguendo la linea di forza del campo di gravità (che arriverà poi perpendicolare al geoide)
+
+```
+
+Questa è di fatto quella che noi comunemente chiamiamo quota sul livello del mare.
+
+### Ondulazione del geoide
+
+```ad-Definizione
+title: Ondulazione del geoide ($N$)
+
+L'**ondulazione del geoide** è la distanza di ogni punto del geoide dall'ellissoide ($\overline{P_{g}P_{eg}}$)
+
+```
+
+
+## Discostamento tra geoide ed ellissoide
+
+Abbiamo detto che l'ellissoide di rotazione che prendiamo in considerazione ha i seguenti semi-assi:
+$$
+\begin{align}
+a = 6371 \,\rm km \\
+b = 6357 \,\rm km
+\end{align}
+$$
+L'ellissoide e il geoide si discostano al massimo di $\pm 100\,\rm m$.
+
+È chiaro che questa distanza è trascurabile nella maggior parte delle applicazioni pratiche. 
+
+Questo significa inoltre che l'angolo tra i versori $\vec{n}$ e $\vec{\nu}$ è molto piccolo. Infatti questo misura al massimo 1 primo sessagesimale (1').
+
+In generale vale la relazione
+$$
+N \simeq h-H
+$$
+Per quanto ci riguarda possiamo dire che
+$$
+N = h-H
+$$
 
 
