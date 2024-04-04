@@ -74,7 +74,7 @@
 
 # 📆  15-03-2024 - Fri
 
-[[Mattia Crespi\|Mattia Crespi]]
+[[Università/3° Anno/2° Semestre/Topografia e Positioning/Mattia Crespi\|Mattia Crespi]]
 
 ### 📝 Teoria
 
@@ -98,7 +98,7 @@
 
 # 📆  20-03-2024 - Wed
 
-[[Mattia Crespi\|Mattia Crespi]]
+[[Università/3° Anno/2° Semestre/Topografia e Positioning/Mattia Crespi\|Mattia Crespi]]
 
 ### 📝 Teoria
 
@@ -152,6 +152,32 @@ Fanno lezione
 
 ### 📝 Teoria
 
-- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/Livellazione Geometrica\|Livellazione Geometrica]]
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Livellazione Geometrica - TP\|03 - Livellazione Geometrica - TP]]
+	- Ripasso su livellazione geometrica con cannocchiale
+	- Limiti della livellazione geometrica su grandi distanze
+
+
+# 📆  03-04-2024 - Wed
+
+❗❗❗❗❗❗❗❗❗❗
+❗❗❗ ASSENTE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP\|01 - Sistemi di riferimento e di coordinate - TP]]
+	- Coordinate cartesiane locali (L)
+	- Coordinate cartesiane del livello locale (LL)
+### ✏️ Esercizi
+
+
+
+# 📆  04-04-2024 - Thu
+
+### 📝 Teoria
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP\|01 - Sistemi di riferimento e di coordinate - TP]]
+	- Conversione da G a L
+	- Conversione  da E a G
+	- Conversione da G a E
 
 ### ✏️ Esercizi
