@@ -25,6 +25,16 @@
 	- Consumo di suolo
 	- Presentazione Orti urbani
 
+# 📆  07-03-2024 - Thu
+
+[[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT\|00 - Inizio ANASUT]]
+
+🗺 Mappa: [[2024-03-07 - ASSENTE.excalidraw.png]]
+
+❗❗❗❗❗❗❗❗❗❗
+❗❗❗ ASSENTE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗
+
 
 # 📆  12-03-2024 - Tue
 
@@ -94,5 +104,3 @@
 ### 📝 Teoria
 
 - [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Gli orti urbani - ANASUT\|02 - Gli orti urbani - ANASUT]]
-
-### ✏️ Esercizi
