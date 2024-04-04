@@ -5,7 +5,7 @@
 
 # 🔌 Elettrotecnica
 
-**🧑🏻‍🏫 Prof:** [[Giovanni De Bellis\|Giovanni De Bellis]]
+**🧑🏻‍🏫 Prof:** [[Personale/Contatti/Giovanni De Bellis\|Giovanni De Bellis]]
 **📔 Diario del corso:** [[Università/3° Anno/2° Semestre/Elettrotecnica/🔌📔 Diario di Elettrotecnica\|🔌📔 Diario di Elettrotecnica]]
 **🌐 Sito Web:** https://giovannidebellis.site.uniroma1.it/elettrotecnica
 **🅿️ Programma:** 
