@@ -3,9 +3,9 @@
 ---
 
 
-# 🧭 Topografia e Positioning
+# [[Università/3° Anno/2° Semestre/Topografia e Positioning/🧭 Topografia e Positioning\|🧭 Topografia e Positioning]]
 🧑🏻‍🏫 Prof:
-- Prof. [[Mattia Crespi\|Mattia Crespi]] - [mattia.crespi@uniroma1.it](mailto:mattia.crespi@uniroma1.it)
+- Prof. [[Università/3° Anno/2° Semestre/Topografia e Positioning/Mattia Crespi\|Mattia Crespi]] - [mattia.crespi@uniroma1.it](mailto:mattia.crespi@uniroma1.it)
 - Prof. [[Michela Ravanelli\|Michela Ravanelli]]
 - Dott. [[Alessandra Maria De Pace\|Alessandra Maria De Pace]] - [alessandramaria.depace@uniroma1.it](mailto:alessandramaria.depace@uniroma1.it)
 - Dott. [[Filippo Bocchino\|Filippo Bocchino]] - [filippo.bocchino@uniroma1.it](mailto:filippo.bocchino@uniroma1.it)
@@ -95,6 +95,8 @@ voto finale è media dello [[Università/3° Anno/2° Semestre/Topografia e Posi
 |         |      |      |
 
 
+
+
 # ✔️ To-Do
 
 
@@ -105,8 +107,8 @@ ___
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/CERN-LNGS distance computation for the OPERA Project\|CERN-LNGS distance computation for the OPERA Project]]   | Meeting | 🟢 Fatto      |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/00 - Presentazione corso Topografia e Positioning\|00 - Presentazione corso Topografia e Positioning]] | T       | 🟢 Fatto      |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP\|01 - Sistemi di riferimento e di coordinate - TP]]   | T       | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP\|02 - Campo gravitazionale - TP]]                                       | T       | 🪶 Scrivere   |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/Livellazione Geometrica\|Livellazione Geometrica]]                                                     | T       | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP\|02 - Campo gravitazionale - TP]]                                       | T       | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Livellazione Geometrica - TP\|03 - Livellazione Geometrica - TP]]                                 | T       | 🪶🟡 Scrivere |
 
 { .block-language-dataview}
 
