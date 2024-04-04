@@ -62,6 +62,94 @@ We had the ideal country-side of the 1800s. Cities are useful but ugly. country 
 
 
 
+Caroline Ste??
+[[Hungry city\|Hungry city]]
+
+Emerald Necklace. A system of interconnected parks.
+
+## Rome Master Plan
+
+[[Piano regolatore di Roma\|Piano regolatore di Roma]]
+
+Rome is the greenest city in Europe. It is very big and includes a lot of countryside.
+
+Rome has 220 mq green/person vs New York that has only 13.5 mq green/person
+
+## Role of vegetation
+
+[[Università/Scienze della Sostenibilità/00. Giornata della sostenibilità 2023#Servizi ecosistemici\|00. Giornata della sostenibilità 2023#Servizi ecosistemici]] - [[Università/Scienze della Sostenibilità/02. Etica, Responsabilità, Equità Sociale#Forestazione urbana e servizi ecosistemici valutazione\|02. Etica, Responsabilità, Equità Sociale#Forestazione urbana e servizi ecosistemici valutazione]]
+
+
+- Photosynthesis
+- Purification of water
+- Food
+- Shade
+- Habitat
+- Material
+	- wood, timber (to burn), lumber (to build)
+- Pleasure
+
+
+
+
+## Types of green
+
+There's different type of green:
+- Spontaneous
+- Farms
+- Parks
+- Gardens ([[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Gli orti urbani - ANASUT\|Orti urbani]])
+- Vertical
+- Tree-cover
+- Green roofs
+
+### Urban agricolture
+
+[[Rome Sustainable Food Project\|Rome Sustainable Food Project]]. Association which operates in the American Academy of Rome's gardens.
+They use what they grow in the kitchen.
+
+[[Zappata romana\|Zappata romana]]
+
+
+
+### Green Walls
+
+Sometimes the equivalent of green-washing. 
+Often mostly there as eye-candy.
+
+This was a french idea ([[Patrick Blanc\|Patrick Blanc]]).
+
+### Green roofs
+
+Use the roof better.
+
+Rome has tonnes of opportunities for this. You can produce a lot of food and energy for that building.
+
+[[New York\|New York]] [[High Line\|High Line]].
+
+### Urban Forestry
+
+Tipo [[Bosco verticale\|Bosco verticale]] di [[Milano\|Milano]] by [[Stefano Boeri\|Stefano Boeri]]
+
+Vertical forest is a model for sustainable residential building, a project for metropolitan reforestation...
+
+examples:
+
+
+If you wanna build a city from scratch and you want it to be a green city could you build a forest city?
+
+
+
+
+
+
+
+
+ 
+
+
+
+
 
 
 
