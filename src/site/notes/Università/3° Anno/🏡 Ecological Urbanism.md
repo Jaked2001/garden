@@ -67,6 +67,7 @@ If work is excellent, teacher gives chance to an oral examination to assign 1 or
 
 ___
 
+
 | File | Tipo | Stato |
 | ---- | ---- | ----- |
 
@@ -79,11 +80,13 @@ ___
 
 
 
-| File                                                                         | Stato       |
-| ---------------------------------------------------------------------------- | ----------- |
-| [[Università/3° Anno/01 - Water - EU\|01 - Water - EU]]                   | 🪶 Scrivere |
-| [[Università/3° Anno/02 - Green Spaces - EU\|02 - Green Spaces - EU]]     | 🪶 Scrivere |
-| [[Università/3° Anno/Presentazione corso - EU\|Presentazione corso - EU]] | 🟢 Fatto    |
+| File                                                                                   | Stato       |
+| -------------------------------------------------------------------------------------- | ----------- |
+| [[Università/3° Anno/00 - Presentazione corso - EU\|00 - Presentazione corso - EU]] | 🟢 Fatto    |
+| [[Università/3° Anno/01 - Water - EU\|01 - Water - EU]]                             | 🟠 Studiare |
+| [[Università/3° Anno/02 - Green Spaces - EU\|02 - Green Spaces - EU]]               | 🟠 Studiare |
+| [[Università/3° Anno/03 - Urban Fabric - EU\|03 - Urban Fabric - EU]]               | 🟠 Studiare |
+| [[Università/3° Anno/04 - Energy - EU\|04 - Energy - EU]]                           | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -112,6 +115,37 @@ Possible case studies.
 - Lusail, Qatar
 - Solar City
 - The Venus Project
+
+Urban regeneration
+- [[Daniel Libeskind\|Daniel Libeskind]] - [[Tor di Valle Stadium Proposal\|Tor di Valle Stadium Proposal]], 2015
+- [[Rem Koolhaas\|Rem Koolhaas]] and [[OMA\|OMA]], [[Mercati Generali Proposal\|Mercati Generali Proposal]], 2004
+- [[Hammarby Sjöstad\|Hammarby Sjöstad]] a compact, sustainable city about 5km south of the historic center of [[Stockholm\|Stockholm]]
+- [[Borneo Sporenberg\|Borneo Sporenberg]] in [[Amsterdam\|Amsterdam]] 1993-1996, [[West 8 architects\|West 8 architects]]
+- [[Sabarmati river\|Sabarmati river]] in [[Ahmedabad India\|Ahmedabad India]], 2019
+- [[Porta Nuova\|Porta Nuova]], [[Milano\|Milano]]
+- [[Roma Tre new Rettorato\|Roma Tre new Rettorato]], [[Mario Cucinella\|Mario Cucinella]], 2016
+
+Google Urban Regeneration projects.
+
+![Schermata 2024-04-03 alle 17.17.16.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/allegati/Schermata%202024-04-03%20alle%2017.17.16.png)
+
+- [[GRAB\|GRAB]], Roma - A multi-use path around the center of Rome, traversing archeological areas and natural parks
+- Bradford Metropolitan District Council UK
+- Glasgow, UK - regeneration for the city
+- Manchester, UK - Manchester millenium project
+- [[Barcelona Superblocks\|Barcelona Superblocks]], [[Barcellona\|Barcellona]], [[Spagna\|Spagna]]
+- [[Parco Dora\|Parco Dora]], [[Torino\|Torino]]
+- [[Between Bridges\|Between Bridges]], [[Vancouver\|Vancouver]]
+- [[Point Fraser\|Point Fraser]], [[Australia\|Australia]]
+- [[High Line Park\|High Line Park]], [[New York\|New York]]
+- [[Chemin des Carrièse\|Chemin des Carrièse]], [[Alsace\|Alsace]]
+- [[Tegel Airport\|Tegel Airport]], [[Berlino\|Berlino]]
+- [[Fori Imperiali\|Fori Imperiali]] - Look at the agency
+- Copenhagen: Fælledby
+
+
+
+
 
 
 The themes in the group should be connected somehow. It should not be 4 different presentations.
