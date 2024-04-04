@@ -107,6 +107,8 @@ C'è spesso una fase iniziale di occupazione e poi una richiesta di legittimazio
 
 
 
+![2024-03-07 - ASSENTE.excalidraw.png](/img/user/Excalidraw/2024-03-07%20-%20ASSENTE.excalidraw.png)
+
 # Urbanistica
 
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
