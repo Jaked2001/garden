@@ -38,7 +38,7 @@ Introduzione corso
 
 # 📆  04-03-2024 - Mon
 
-[[Giovanni De Bellis\|Giovanni De Bellis]]
+[[Personale/Contatti/Giovanni De Bellis\|Giovanni De Bellis]]
 ### 📝 Teoria
 
 - [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]]
@@ -67,9 +67,9 @@ Introduzione corso
 
 # 📆  11-03-2024 - Mon
 
-❗❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗❗ ASSENTE ❗❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗
 
 
 # 📆  12-03-2024 - Tue
@@ -101,4 +101,25 @@ Introduzione corso
 	- Applicazione del teorema di Thevenin
 	- Cenni sul teorema di Norton
 
+
+
+
+# 📆  25-03-2024 - Mon
+
+❗❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗❗
+### 📝 Teoria
+
 ### ✏️ Esercizi
+# 📆  26-03-2024 - Tue
+❗❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗❗
+### 📝 Teoria
+
+### ✏️ Esercizi
+# 📆  28-03-2024 - Thu
+❗❗❗❗❗❗❗❗❗❗
+❗❗❗ ASSENTE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗
