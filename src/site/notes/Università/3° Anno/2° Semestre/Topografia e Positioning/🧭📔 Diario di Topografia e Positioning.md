@@ -174,10 +174,13 @@ Fanno lezione
 
 # 📆  04-04-2024 - Thu
 
+
+
 ### 📝 Teoria
 - [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP\|01 - Sistemi di riferimento e di coordinate - TP]]
 	- Conversione da G a L
 	- Conversione  da E a G
 	- Conversione da G a E
+		- Metodo iterativo
 
 ### ✏️ Esercizi
