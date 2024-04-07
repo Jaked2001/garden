@@ -104,3 +104,18 @@
 ### 📝 Teoria
 
 - [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Gli orti urbani - ANASUT\|02 - Gli orti urbani - ANASUT]]
+
+### ✏️ Esercizi
+
+
+# 📆  04-04-2024 - Thu
+
+
+### ✏️ Esercizi
+
+- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Progetto Orti urbani - (P)orto felicità\|Progetto Orti urbani - (P)orto felicità]]
+	- Presentazione ipotesi orti urbani
+	- Assegnazione orti ai gruppi
+	- Esposizione ambiti di analisi da attraversare nel lavoro di gruppo
+	- Fissata data esonero al [[2024-04-30\|2024-04-30]] (sono possibili variazioni)
+
