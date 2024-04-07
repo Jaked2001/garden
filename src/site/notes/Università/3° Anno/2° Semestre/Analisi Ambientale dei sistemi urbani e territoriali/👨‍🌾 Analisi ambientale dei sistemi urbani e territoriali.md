@@ -38,7 +38,7 @@ Data 3: III appello
 ```
 
 
-Prova intermedia: esonero. (individuale)
+Prova intermedia: esonero scritto. (individuale)
 - [?] La prova intermedia ha a che fare con i lavori di gruppo? O sono cose puramente di teoria? 
 Mappe concettuali
 Esercitazione (di gruppo)
@@ -73,6 +73,7 @@ ___
 
 | File                                                                                                                                                                                                                                                | Tipo | Stato       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
+| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Progetto Orti urbani - (P)orto felicità\|Progetto Orti urbani - (P)orto felicità]]                                                                         | Es   | 🔴 Fare     |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT\|00 - Inizio ANASUT]]                                                                                                                   | T    | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT\|01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT]] | T    | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Gli orti urbani - ANASUT\|02 - Gli orti urbani - ANASUT]]                                                                                             | T    | 🪶 Scrivere |
@@ -102,12 +103,13 @@ ___
 ## ✍️ Esercitazioni
 
 
-| File | Stato | PDF | Data |
-| ---- | ----- | --- | ---- |
+| File                                                                                                                                                                        | Stato   | PDF | Data |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --- | ---- |
+| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Progetto Orti urbani - (P)orto felicità\|Progetto Orti urbani - (P)orto felicità]] | 🔴 Fare | \-  | \-   |
 
 { .block-language-dataview}
 
-- [ ] Proporre almen 3 casi studio per orti urbani - 📅 2024-04-04
+- [x] Proporre almeno 3 casi studio per orti urbani - 📅 2024-04-04 ✅ 2024-04-04
 
 
 
