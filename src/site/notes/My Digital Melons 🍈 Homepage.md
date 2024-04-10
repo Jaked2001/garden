@@ -59,3 +59,5 @@ Se hai trovato utile questo sito puoi fare una donazione cliccando [qui](https:/
 ## Grazie del supporto! 🫶
 
 - montegabry02
+- Ionut
+
