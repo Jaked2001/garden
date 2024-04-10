@@ -87,6 +87,7 @@ ___
 | [[Università/3° Anno/02 - Green Spaces - EU\|02 - Green Spaces - EU]]               | 🟠 Studiare |
 | [[Università/3° Anno/03 - Urban Fabric - EU\|03 - Urban Fabric - EU]]               | 🟠 Studiare |
 | [[Università/3° Anno/04 - Energy - EU\|04 - Energy - EU]]                           | 🪶 Scrivere |
+| [[Università/3° Anno/05 - Waste - EU\|05 - Waste - EU]]                             | 🪶 Scrivere |
 
 { .block-language-dataview}
 
