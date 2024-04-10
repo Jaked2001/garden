@@ -106,20 +106,97 @@ Introduzione corso
 
 # 📆  25-03-2024 - Mon
 
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗❗
+[[Personale/Contatti/Giovanni De Bellis\|Giovanni De Bellis]]
+
 ### 📝 Teoria
+- Generatori??
+	- Teorema del massimo trasferimento di potenza
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/?? - Regime periodico sinusoidale - ET\|?? - Regime periodico sinusoidale - ET]]
+	- Definizione di funzione periodica
+	- Grandezze alternate
+	- Parametri necessari a identificare una funzione periodica
+		- Ampiezza
+		- Pulsazione
+		- Costante di fase o fase iniziale
+	- Paragone tra funzione periodica e circonferenza unitaria
+
+
 
 ### ✏️ Esercizi
+- Esercizio su ripartizione generatori di corrente
+
+
 # 📆  26-03-2024 - Tue
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗❗
+
+[[Personale/Contatti/Giovanni De Bellis\|Giovanni De Bellis]]
+
 ### 📝 Teoria
 
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/?? - Regime periodico sinusoidale - ET\|?? - Regime periodico sinusoidale - ET]]
+	- Soluzione ha la stessa forma dello stimolo
+	- Ipotesi che tutte le grandezze abbiano la stessa pulsazione - isofrequenziali
+	- Generatore di f.e.m. in regime periodico
+	- Generatore di corrente in regime periodico
+	- Resistore in regime periodico
+	- Induttore
+		- Legge di Faraday Neumann-Lenz
+		- Legge costitutiva dell'induttore
+	- Condensatore
+		- Corrente di spostamento
+	- Circuito RL
+	- Circuito RC
+	- Metodo simbolico o trasformazione di Kennedy-Steinnetz
+		- Uso dei fasori
+		- Trasformazioni da sinusoidi a fasori e operazioni
+
 ### ✏️ Esercizi
+
+- Esercizio sui fasori
+- 3 esercizi per casa: trasforma da fasore in sinusoide
+
+
 # 📆  28-03-2024 - Thu
+
 ❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ ASSENTE ❗❗❗
 ❗❗❗❗❗❗❗❗❗❗
+
+TUTORAGGIO
+
+
+
+# 📆  08-04-2024 - Mon
+
+[[Personale/Contatti/Giovanni De Bellis\|Giovanni De Bellis]]
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/?? - Regime periodico sinusoidale - ET\|?? - Regime periodico sinusoidale - ET]]
+	- Resistore in fasori
+		- Impedenza
+	- Induttore
+		- Impedenza
+		- Reattanza
+		- Ammettenza
+		- Suscettanza
+	- Condensatore
+		- Impedenza capacitiva
+		- Reattanza capacitiva
+		- Suscettanza capacitiva
+	- Bipoli RL in serie
+
+
+# 📆  09-04-2024 - Tue
+
+[[Personale/Contatti/Giovanni De Bellis\|Giovanni De Bellis]]
+
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/?? - Regime periodico sinusoidale - ET\|?? - Regime periodico sinusoidale - ET]]
+	- Bipoli RC in serie
+	- Circuiti risonanti
+	- Circuiti antirisonanti o risonanti in parallelo
+### ✏️ Esercizi
+
+- Circuito in corrente alternata con fasori
