@@ -7,7 +7,7 @@
 
 **🧑🏻‍🏫 Prof:**
 - [[Personale/Contatti/Francesco Napolitano\|Francesco Napolitano]]
-- [[Lanciotti\|Lanciotti]]
+- [[Personale/Contatti/Sabrina Lanciotti\|Sabrina Lanciotti]]
 **📔 Diario del corso:** [[Università/3° Anno/2° Semestre/Idrologia/💧📔 Diario di Idrologia\|💧📔 Diario di Idrologia]]
 **🌐 Sito Web:** 
 **🅿️ Programma:** 
@@ -78,12 +78,14 @@ NON PREVISTO (a parte il test finale)
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 03 - Correnti a superficie libera - Idro\|Es 03 - Correnti a superficie libera - Idro]] | Es   | 🔴 Fare       |
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 04 - Correnti in pressione - Idro\|Es 04 - Correnti in pressione - Idro]]               | Es   | 🔴 Fare       |
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 05 - Dati Idrologici - Idro\|Es 05 - Dati Idrologici - Idro]]                           | Es   | 🔴 Fare       |
+| [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 06 - Statistica per l'idrologia - Idro\|Es 06 - Statistica per l'idrologia - Idro]]     | Es   | 🟡 Finire     |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/00 - Presentazione corso idrologia\|00 - Presentazione corso idrologia]]                         | T    | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera\|01 - Atmosfera]]                                                                 | T    | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro\|02 - Piogge Intense - Idro]]                                         | T    | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro\|03 - Afflussi - Idro]]                                                     | T    | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03a - Misure Radar - Idro\|03a - Misure Radar - Idro]]                                           | T    | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro\|04 - Statistica - Idro]]                                                 | T    | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04b - Statistica e Tempo di Ritorno - Idro\|04b - Statistica e Tempo di Ritorno - Idro]]         | T    | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
@@ -93,14 +95,15 @@ ___
 # 👉🏻 Indice del corso
 
 
-| File                                                                                                                           | Stato         |
-| ------------------------------------------------------------------------------------------------------------------------------ | ------------- |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/00 - Presentazione corso idrologia\|00 - Presentazione corso idrologia]] | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera\|01 - Atmosfera]]                                         | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro\|02 - Piogge Intense - Idro]]                 | 🪶 Scrivere   |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro\|03 - Afflussi - Idro]]                             | 🪶 Scrivere   |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03a - Misure Radar - Idro\|03a - Misure Radar - Idro]]                   | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro\|04 - Statistica - Idro]]                         | 🪶 Scrivere   |
+| File                                                                                                                                           | Stato         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/00 - Presentazione corso idrologia\|00 - Presentazione corso idrologia]]                 | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera\|01 - Atmosfera]]                                                         | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro\|02 - Piogge Intense - Idro]]                                 | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro\|03 - Afflussi - Idro]]                                             | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03a - Misure Radar - Idro\|03a - Misure Radar - Idro]]                                   | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro\|04 - Statistica - Idro]]                                         | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04b - Statistica e Tempo di Ritorno - Idro\|04b - Statistica e Tempo di Ritorno - Idro]] | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
@@ -118,6 +121,7 @@ ___
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 03 - Correnti a superficie libera - Idro\|Es 03 - Correnti a superficie libera - Idro]] | 🔴 Fare   | \-                                                                                                                                                                                                | March 12, 2024 |
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 04 - Correnti in pressione - Idro\|Es 04 - Correnti in pressione - Idro]]               | 🔴 Fare   | \-                                                                                                                                                                                                | March 12, 2024 |
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 05 - Dati Idrologici - Idro\|Es 05 - Dati Idrologici - Idro]]                           | 🔴 Fare   | <ul><li>[[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/allegati/Es 5 - Dati Idrologici - Idro.pdf\\|Es 5 - Dati Idrologici - Idro.pdf]]</li></ul>                                       | March 19, 2024 |
+| [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 06 - Statistica per l'idrologia - Idro\|Es 06 - Statistica per l'idrologia - Idro]]     | 🟡 Finire | <ul><li>[[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/allegati/Es 6 - Statistica per l'idrologia - Idro.pdf\\|Es 6 - Statistica per l'idrologia - Idro.pdf]]</li></ul>                 | April 08, 2024 |
 
 { .block-language-dataview}
 
