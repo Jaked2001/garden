@@ -184,3 +184,23 @@ Fanno lezione
 		- Metodo iterativo
 
 ### ✏️ Esercizi
+
+
+# 📆  10-04-2024 - Wed
+
+[[Laura Giaccio\|Laura Giaccio]] e 
+
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Livellazione Geometrica - TP\|03 - Livellazione Geometrica - TP]]
+	- Misura diretta di distanze
+	- Distanziometro/stazione totale
+	- Misure indirette di distanze
+		- Angolo fisso, stadia variabile
+		- Angolo variabile, stadio fisso
+	- Misure di fase di distanze
+	- Misure di angoli
+		- Teodolite e componenti
+
+### ✏️ Esercizi
