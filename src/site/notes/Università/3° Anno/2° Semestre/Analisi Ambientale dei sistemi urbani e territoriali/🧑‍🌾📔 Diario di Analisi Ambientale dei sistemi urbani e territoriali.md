@@ -119,3 +119,30 @@
 	- Esposizione ambiti di analisi da attraversare nel lavoro di gruppo
 	- Fissata data esonero al [[2024-04-30\|2024-04-30]] (sono possibili variazioni)
 
+
+# 📆  09-04-2024 - Tue
+
+[[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Rappresentazione\|Rappresentazione]]
+	- Impossibilità di una rappresentazione oggettiva e universale
+	- Rappresentazione è soggettiva
+	- Rappresentazione è incompleta
+
+
+### ✏️ Esercizi
+
+- Prima ora passata nel Parco di Colle Oppio ad osservare.
+- Produzione in aula di una rappresentazione del parco (per disegno, testo, schema...)
+- Discussione sui lavori prodotti
+
+
+
+Invarianti territoriali: tipo il Colosseo: una presenza radicata che viene integrata in una rappresentazione perché è radicata nella percezione che le persone hanno di quel territorio.
+
+
+
+
+
