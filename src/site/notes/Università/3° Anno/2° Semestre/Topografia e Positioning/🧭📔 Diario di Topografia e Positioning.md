@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/universita/3-anno/2-semestre/topografia-e-positioning/diario-di-topografia-e-positioning/"}
 ---
 
+
 # [[Università/3° Anno/2° Semestre/Topografia e Positioning/🧭📔 Diario di Topografia e Positioning\|🧭📔 Diario di Topografia e Positioning]]
 
 
@@ -152,7 +153,7 @@ Fanno lezione
 
 ### 📝 Teoria
 
-- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Livellazione Geometrica - TP\|03 - Livellazione Geometrica - TP]]
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]
 	- Ripasso su livellazione geometrica con cannocchiale
 	- Limiti della livellazione geometrica su grandi distanze
 
@@ -193,7 +194,7 @@ Fanno lezione
 
 ### 📝 Teoria
 
-- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Livellazione Geometrica - TP\|03 - Livellazione Geometrica - TP]]
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]
 	- Misura diretta di distanze
 	- Distanziometro/stazione totale
 	- Misure indirette di distanze
@@ -204,3 +205,38 @@ Fanno lezione
 		- Teodolite e componenti
 
 ### ✏️ Esercizi
+
+
+
+# 📆  11-04-2024 - Thu
+
+2 dottorandi
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]
+	- Teodolite
+
+
+
+
+
+# 📆  12-04-2024 - Fri
+
+### 📝 Teoria
+
+- Chiacchierata iniziale
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|3 - Livellazione Geometrica]]
+	- Cause di errori di misura
+	- Errori di misura
+- Centro
+	- Media aritmetica
+	- Robustezza
+	- Mediana
+	- Frequenza relativa e assoluta
+	- Distribuzione
+		- Varianza
+		- Deviazione standard
+		- MAD (Median Absolute Deviation)
+		- NMAD (normalized MAD)
+
