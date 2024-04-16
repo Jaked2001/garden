@@ -5,10 +5,17 @@
 
 # [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 06 - Statistica per l'idrologia - Idro\|Es 06 - Statistica per l'idrologia - Idro]]
 
-
 # Riferimenti teorici
 
 Vd. slide: [[Es 6 - Statistica per l'idrologia - Slide - Idro.pdf]]
+
+**Variabile Casuale:** Variabile i cui valori sono incerti e imprevedibili
+
+
+
+
+
+
 
 
 # Svolgimento
