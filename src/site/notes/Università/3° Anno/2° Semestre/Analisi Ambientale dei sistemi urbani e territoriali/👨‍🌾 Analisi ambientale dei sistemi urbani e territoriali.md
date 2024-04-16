@@ -77,8 +77,9 @@ ___
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT\|00 - Inizio ANASUT]]                                                                                                                   | T    | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT\|01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT]] | T    | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Gli orti urbani - ANASUT\|02 - Gli orti urbani - ANASUT]]                                                                                             | T    | 🪶 Scrivere |
+| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/03 - Rappresentazione - ANASUT\|03 - Rappresentazione - ANASUT]]                                                                                           | T    | 🪶 Scrivere |
+| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/04 - Società\|04 - Società]]                                                                                                                               | T    | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Il consumo di suolo\|Il consumo di suolo]]                                                                                                                 | T    | 🪶 Scrivere |
-| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Rappresentazione\|Rappresentazione]]                                                                                                                       | T    | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -93,8 +94,9 @@ ___
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT\|00 - Inizio ANASUT]]                                                                                                                   | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT\|01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT]] | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Gli orti urbani - ANASUT\|02 - Gli orti urbani - ANASUT]]                                                                                             | 🪶 Scrivere |
+| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/03 - Rappresentazione - ANASUT\|03 - Rappresentazione - ANASUT]]                                                                                           | 🪶 Scrivere |
+| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/04 - Società\|04 - Società]]                                                                                                                               | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Il consumo di suolo\|Il consumo di suolo]]                                                                                                                 | 🪶 Scrivere |
-| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Rappresentazione\|Rappresentazione]]                                                                                                                       | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -122,5 +124,5 @@ ___
 - [[2024-03-14 - Il suolo Minacciato - Mappa ANASUT.excalidraw.png]]
 - [[2024-03-19 - Oltre il Catastrofismo - Mappa ANASUT.excalidraw.png]]
 - [[2024-03-21 - Gli orti urbani - Mappa ANASUT.excalidraw.png]]
-
+- [[2024-04-11 - Questa non è una mappa - Mappa ANASUT.excalidraw.png]]
 
