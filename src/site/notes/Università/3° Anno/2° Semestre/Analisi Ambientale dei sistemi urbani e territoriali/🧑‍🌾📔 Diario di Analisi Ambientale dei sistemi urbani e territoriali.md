@@ -126,7 +126,7 @@
 
 ### 📝 Teoria
 
-- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Rappresentazione\|Rappresentazione]]
+- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/03 - Rappresentazione - ANASUT\|03 - Rappresentazione - ANASUT]]
 	- Impossibilità di una rappresentazione oggettiva e universale
 	- Rappresentazione è soggettiva
 	- Rappresentazione è incompleta
@@ -140,9 +140,30 @@
 
 
 
+
+
 Invarianti territoriali: tipo il Colosseo: una presenza radicata che viene integrata in una rappresentazione perché è radicata nella percezione che le persone hanno di quel territorio.
 
 
 
 
 
+
+# 📆  11-04-2024 - Thu
+
+[[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]
+
+
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/03 - Rappresentazione - ANASUT\|03 - Rappresentazione - ANASUT]]
+	- Carattere performativo della rappresentazione
+	- Dimensione transitiva e dimensione riflessiva
+	- Importanza di conoscere le deformazioni di una rappresentazione
+	- Ontologia ed epistemologia
+	- Capire come una rappresentazione è stata deformata
+	- Inconoscibilità del territorio
+	- Utilità di una rappresentazione filtrata
+	- Obiettivi necessari alla costruzione di una rappresentazione
+	- Mito di Medea
