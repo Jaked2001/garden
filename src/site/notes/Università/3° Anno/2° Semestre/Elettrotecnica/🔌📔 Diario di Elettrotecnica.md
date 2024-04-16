@@ -200,3 +200,28 @@ TUTORAGGIO
 ### ✏️ Esercizi
 
 - Circuito in corrente alternata con fasori
+
+
+# 📆  12-04-2024 - Fri
+### ✏️ Esercizi
+
+ - Tutoraggio
+
+# 📆  15-04-2024 - Mon
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/?? - Regime periodico sinusoidale - ET\|?? - Regime periodico sinusoidale - ET]]
+	- Potenze in AC
+		- Potenza Istantanea
+			- Fattore di potenza
+			- Potenza fluttuante
+		- Potenza Attiva
+		- Potenza Reattiva
+		- Potenza Complessa
+		- Potenza Apparente
+		- Teo di Boucherot
+	- Flussi di potenza
+	- 
+### ✏️ Esercizi
+
