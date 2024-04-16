@@ -147,6 +147,46 @@ Google Urban Regeneration projects.
 
 
 
+Opzioni al [[_Giornaliera/2024-04-10\|2024-04-10]]
+
+Cities from scratch:
+- [[Forest City\|Forest City]] - Singapore
+- [[eco-City tianjin\|eco-City tianjin]] - China
+- [[Dongtan Eco-City\|Dongtan Eco-City]] - China
+- [[Oceanix Busan\|Oceanix Busan]] - South Korea
+- [[The Line\|The Line]] - Saudi Arabia
+- [[Arcosanti\|Arcosanti]] - USA
+- [[The Parks\|The Parks]] - South Africa
+- [[The Venus Project\|The Venus Project]] - USA
+- [[Net City\|Net City]] in [[Shenzhen\|Shenzhen]] - China
+- [[Hope City\|Hope City]] - Accra Ghana
+- [[Telosa\|Telosa]] - USA
+- [[Toyota Woven City\|Toyota Woven City]] - Japan
+- [[Vision City\|Vision City]] - Rwanda
+- [[Seaside\|Seaside]] - Florida, USA
+- [[Maldives Floating City\|Maldives Floating City]] - Maldives
+- [[Eko Atlantic\|Eko Atlantic]] - Nigeria
+
+Urban Regeneration projects:
+- [[Hudson River Park\|Hudson River Park]]
+- [[The Highline\|The Highline]] - New Yor, USA
+- [[clichy-Batignolles ecodistrict\|clichy-Batignolles ecodistrict]] - Paris, France
+- [[Talbot-Norkfolk Triangle Eco-Innovation District\|Talbot-Norkfolk Triangle Eco-Innovation District]] - Boston, USA
+- [[London Docklands\|London Docklands]] - [[canary Wharf\|canary Wharf]] - UK
+- [[Barcelona Waterfront\|Barcelona Waterfront]] - [[🇪🇸 Spagna\|🇪🇸 Spagna]]
+- [[Barcelona El Poblenou\|Barcelona El Poblenou]], [[Barcelona Superilles\|Barcelona Superilles]]
+- [[École-Évangile\|École-Évangile]] - [[Parigi\|Parigi]], [[🇫🇷 Francia\|🇫🇷 Francia]]
+-  [[Mediaspree\|Mediaspree]] - [[Berlin\|Berlin]]
+- [[London - 2012 Olympic\|London - 2012 Olympic]] - UK
+- [[Nordhavn\|Nordhavn]] - [[Copenhagen\|Copenhagen]], [[🇩🇰 Danimarca\|🇩🇰 Danimarca]]
+- [[Borneo Sporenberg\|Borneo Sporenberg]]
+- [[Manchester Millennium\|Manchester Millennium]] - [[Manchester\|Manchester]], UK
+- [[Porta Nuova\|Porta Nuova]] - [[Milano\|Milano]], Italy
+- [[Tegel Airport\|Tegel Airport]], [[Berlino\|Berlino]]
+- [[Fælledby\|Fælledby]] - [[Copenhagen\|Copenhagen]], [[🇩🇰 Danimarca\|🇩🇰 Danimarca]]
+
+
+
 
 
 The themes in the group should be connected somehow. It should not be 4 different presentations.
