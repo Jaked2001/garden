@@ -12,10 +12,11 @@
 **📧 e-mail:** giovanni.debellis@uniroma1.it
 **🔑 Classroom:** cwmzzmo
 **📚 Libri:** 
-- G. Chitarin, F. Gnesotto, M. Guarnieri, A. Maschio, A. Stella *Elettrotecnica* **Vol I** (principi) e **Vol II** (Applicazioni) - i più consigliati
+- G. Chitarin, F. Gnesotto, M. Guarnieri, A. Maschio, A. Stella *Elettrotecnica* [Vol I](<Elettrotecnica 1 - Principi - G. Chitarin.pdf>) (principi) e **Vol II** (Applicazioni) - i più consigliati
 - Giulio Fabricatore, *Elettrotecnica e applicazioni. Reti, macchine, misure, impianti*, Liguori - se ce lo ritroviamo
 - Materiale didattico su pag google Slide e pag classroom
 
+[[Università/3° Anno/2° Semestre/Elettrotecnica/allegati/Elettrotecnica 1 - Principi - G. Chitarin.pdf]]
 
 🕰 Orario:
 - **Lunedì:** 15:00-17:00 - RM006 Aula 15
