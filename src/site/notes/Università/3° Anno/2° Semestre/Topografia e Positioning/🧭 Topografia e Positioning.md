@@ -4,6 +4,7 @@
 
 
 # [[Università/3° Anno/2° Semestre/Topografia e Positioning/🧭 Topografia e Positioning\|🧭 Topografia e Positioning]]
+
 🧑🏻‍🏫 Prof:
 - Prof. [[Università/3° Anno/2° Semestre/Topografia e Positioning/Mattia Crespi\|Mattia Crespi]] - [mattia.crespi@uniroma1.it](mailto:mattia.crespi@uniroma1.it)
 - Prof. [[Michela Ravanelli\|Michela Ravanelli]]
@@ -108,7 +109,8 @@ ___
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/00 - Presentazione corso Topografia e Positioning\|00 - Presentazione corso Topografia e Positioning]] | T       | 🟢 Fatto      |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP\|01 - Sistemi di riferimento e di coordinate - TP]]   | T       | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP\|02 - Campo gravitazionale - TP]]                                       | T       | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Livellazione Geometrica - TP\|03 - Livellazione Geometrica - TP]]                                 | T       | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Statistica in Topografia - TP\|03 - Statistica in Topografia - TP]]                               | T       | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]                                         | T       | 🪶🟡 Scrivere |
 
 { .block-language-dataview}
 
