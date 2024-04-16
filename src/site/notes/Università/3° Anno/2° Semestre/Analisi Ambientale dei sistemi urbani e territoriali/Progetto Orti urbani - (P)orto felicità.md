@@ -319,3 +319,5 @@ Motivazioni:
 
 Costruire analisi rigorose. Svilupperemo empatia per le persone con cui ci relazioneremo
 Un'analisi rigorosa mette in luce anche i luoghi d'ombra. Non costruire agiografie (vite dei santi). 
+
+- Inserire una sezione auto-riflessiva: che metta in evidenza quali filtri abbiamo utilizzato nella nostra [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/03 - Rappresentazione - ANASUT\|03 - Rappresentazione - ANASUT]]. 
