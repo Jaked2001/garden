@@ -4,6 +4,8 @@
 
 # [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/04 - Società\|04 - Società]]
 
+
+
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗ - Arrivo alle 12:25
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
@@ -72,7 +74,23 @@ Cartografia **isotropa** e **metrica**. Una cartografia che dà spazio a delle d
 
 
 
+## Particolare e Generale
 
+Idios - Nomos
+
+Esistono 2 tipi di approcci:
+- Approccio **idiografico** < Idios
+	- approccio analitico che punta sull'unicità e irripetibilità dell'oggetto di studio. 
+- Approccio **Nomotetico** < Nomos
+	- Legge di carattere generale rispetto a un certo fenomeno
+
+Dobbiamo tenere insieme i 2 tipi di approcci.
+
+
+
+❗❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗ Lefebvre: Che centra?? 
+❗❗❗❗❗❗❗❗❗❗❗❗❗
 
 
 
