@@ -260,3 +260,16 @@ Fanno lezione
 
 Esercizi su Corollario al Teo della media e Legge di propagazione della covarianza
 
+
+# 📆  18-04-2024 - Thu
+
+### 📝 Teoria
+
+- [[Global Positioning System\|Global Positioning System]]
+	- Principio di funzionamento
+	- Distanza tra Ricevitore e Satellite
+	- Numero di satelliti necessari e m,otivazioni
+	- Difetto di sincronizzazione
+	- Pseudo-range
+	- Base line
+### ✏️ Esercizi
