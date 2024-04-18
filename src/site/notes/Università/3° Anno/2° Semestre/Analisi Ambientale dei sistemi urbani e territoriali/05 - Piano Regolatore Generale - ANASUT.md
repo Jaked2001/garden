@@ -100,9 +100,6 @@ La perimetrazione è di tipo piuttosto irregolare.
 
 
 
-
-
-
 #### Norme tecniche di attuazione
 
 È un documento di testo.
