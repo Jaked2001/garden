@@ -223,10 +223,12 @@ Fanno lezione
 
 # 📆  12-04-2024 - Fri
 
+[[Università/3° Anno/2° Semestre/Topografia e Positioning/Mattia Crespi\|Mattia Crespi]]
+
 ### 📝 Teoria
 
 - Chiacchierata iniziale
-- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|3 - Livellazione Geometrica]]
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]
 	- Cause di errori di misura
 	- Errori di misura
 - Centro
@@ -239,4 +241,22 @@ Fanno lezione
 		- Deviazione standard
 		- MAD (Median Absolute Deviation)
 		- NMAD (normalized MAD)
+
+
+# 📆  17-04-2024 - Wed
+
+
+[[Università/3° Anno/2° Semestre/Topografia e Positioning/Mattia Crespi\|Mattia Crespi]]
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]
+	- Teo di Cebicev
+	- Teo della media
+		- Corollario al Teo della media
+		- Legge di propagazione della covarianza
+
+### ✏️ Esercizi
+
+Esercizi su Corollario al Teo della media e Legge di propagazione della covarianza
 
