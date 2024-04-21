@@ -113,13 +113,14 @@ ___
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]                                         | T       | 🪶🟡 Scrivere |
 
 { .block-language-dataview}
-
+ o
 
 ___
 
 # 👉🏻 Indice del corso
 
 ___
+
 
 
 ## ✍️ Esercitazioni
