@@ -167,3 +167,39 @@ Invarianti territoriali: tipo il Colosseo: una presenza radicata che viene integ
 	- Utilità di una rappresentazione filtrata
 	- Obiettivi necessari alla costruzione di una rappresentazione
 	- Mito di Medea
+
+
+
+# 📆  16-04-2024 - Tue
+
+[[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]
+
+
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT\|05 - Piano Regolatore Generale - ANASUT]]
+	- Istituzione del PRG
+	- Obiettivi
+	- Chi deve presentare il PRG
+	- Processo di Formazione del PRG
+
+
+# 📆  18-04-2024 - Thu
+
+[[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]
+
+
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT\|05 - Piano Regolatore Generale - ANASUT]]
+	- Suddivisione del PRG in
+		- Norme tecniche di attuazione (testo)
+		- Sistemi e regole (carte)
+	- Il PRG di Roma
+
+### ✏️ Esercizi
+
+- Esercizio sul PRG di Roma. Individuazione della possibilità o meno di eseguire un certo tipo di interventi in un'area specifica della città
+
