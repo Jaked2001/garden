@@ -222,6 +222,11 @@ TUTORAGGIO
 		- Potenza Apparente
 		- Teo di Boucherot
 	- Flussi di potenza
-	- 
+
+
+# 📆  19-04-2024 - Fri
+
+TUTORAGGIO
+
 ### ✏️ Esercizi
 
