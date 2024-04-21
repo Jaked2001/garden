@@ -3,7 +3,7 @@
 ---
 
 
-# Nome film
+# [[{{title}}\|{{title}}]]
 
 
 ## Cast
