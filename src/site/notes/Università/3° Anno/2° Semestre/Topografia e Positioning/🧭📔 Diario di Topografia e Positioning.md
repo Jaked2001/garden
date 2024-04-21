@@ -169,7 +169,6 @@ Fanno lezione
 - [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP\|01 - Sistemi di riferimento e di coordinate - TP]]
 	- Coordinate cartesiane locali (L)
 	- Coordinate cartesiane del livello locale (LL)
-### ✏️ Esercizi
 
 
 
@@ -268,8 +267,21 @@ Esercizi su Corollario al Teo della media e Legge di propagazione della covarian
 - [[Global Positioning System\|Global Positioning System]]
 	- Principio di funzionamento
 	- Distanza tra Ricevitore e Satellite
-	- Numero di satelliti necessari e m,otivazioni
+	- Numero di satelliti necessari e motivazioni
 	- Difetto di sincronizzazione
 	- Pseudo-range
 	- Base line
+
+- [?] Dove avvengono le elaborazioni per la posizione? Sul Ricevitore?
+- [?] Come fa il Ricevitore ad essere aggiornato sui $\delta T$ dei Satelliti se il GPS funziona anche senza connessione a internet?
+- [?] Il Ricevitore, da dove prende le informazioni sulla base line?
+
+
+# 📆  19-04-2024 - Fri
+
+[[Università/3° Anno/2° Semestre/Topografia e Positioning/Mattia Crespi\|Mattia Crespi]]
+
 ### ✏️ Esercizi
+
+- [[Es 01 - Coordinate - TP\|Es 01 - Coordinate - TP]]
+
