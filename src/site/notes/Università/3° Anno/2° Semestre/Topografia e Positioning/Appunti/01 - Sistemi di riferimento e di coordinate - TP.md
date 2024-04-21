@@ -32,6 +32,7 @@ Potremo parlare di:
 
 
 
+
 ## Sistema di riferimento 2D
 
 Immaginiamo di trovarci sul piano.
@@ -179,7 +180,109 @@ Dove si noti che i primi tre casi sono tali che il codominio è comunque incluso
 
 
 La rappresentazione del punto $P$ la faccio in coordinate cartesiane Ortogonali
-$\vec{P}$ e $\vec{P'}$ sono i VETTORI POSIZIONE del punto $P$
+- $\vec{P}$ e $\vec{P'}$ sono i VETTORI POSIZIONE del punto $P$
+- $\vec{T}$ è la traslazione tra le due origini $O$ e $O'$
+
+Si ha che:
+$$
+\vec{T}+\vec{P'} = \vec{P}
+$$
+e quindi
+$$
+\vec{P'} = \vec{P} - \vec{T}
+$$
+
+Le coordinate di $P$ in $S$ e $S'$ sono rispettivamente:
+$$
+\vec{P} =
+\begin{bmatrix}
+x \\
+y
+\end{bmatrix}_{S}
+\qquad
+\vec{P'} =
+\begin{bmatrix}
+x' \\
+y'
+\end{bmatrix}_{S'}
+$$
+Il vettore traslazione invece è
+$$
+\vec{T} =
+\begin{bmatrix}
+t_{x} \\ t_{y}
+\end{bmatrix}_{S} 
+=
+\begin{bmatrix}
+t'_{x} \\ t'_{y}
+\end{bmatrix}_{S'}
+$$
+
+```ad-attention
+title: Attenzione
+
+Potrei pensare di scrivere la seguente relazione:
+$$
+\begin{bmatrix}
+x' \\
+y'
+\end{bmatrix}_{S'}
+=
+\begin{bmatrix}
+x \\
+y
+\end{bmatrix}_{S}
+-
+\begin{bmatrix}
+t_{x} \\ t_{y}
+\end{bmatrix}_{S} 
+$$
+In questo modo però non sto tenendo conto della rotazione tra i due Sistemi di Riferimento
+
+```
+
+Bisogna quindi introdurre una rotazione.
+
+La relazione corretta è (traslazione + rotazione):
+$$
+\begin{bmatrix}
+x' \\
+y'
+\end{bmatrix}_{S'}
+=
+R
+\left(
+\begin{bmatrix}
+x \\
+y
+\end{bmatrix}_{S}
+-
+\begin{bmatrix}
+t_{x} \\ t_{y}
+\end{bmatrix}_{S}
+\right)
+$$
+oppure, in modo del tutto equivalente (rotazione + traslazione):
+$$
+\begin{bmatrix}
+x' \\ y'
+\end{bmatrix}_{S'}
+=
+R
+\begin{bmatrix}
+x \\ y
+\end{bmatrix}_{S}
+-
+\begin{bmatrix}
+t'_{x} \\ t'_{y}
+\end{bmatrix}_{S'}
+$$
+
+
+
+### Matrice di rotazione
+
+
 
 
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
