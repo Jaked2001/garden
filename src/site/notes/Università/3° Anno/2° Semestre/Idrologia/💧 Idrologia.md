@@ -38,6 +38,11 @@ Data 3: III appello
 
 ```
 
+ESONERO 1:
+Dall'inizio fino alle perdite
+
+
+
 ## Struttura esame
 
 Il corso prevede esclusivamente un esame [[Università/3° Anno/2° Semestre/Idrologia/💧 Idrologia#🗣 Orale\|#🗣 Orale]]
