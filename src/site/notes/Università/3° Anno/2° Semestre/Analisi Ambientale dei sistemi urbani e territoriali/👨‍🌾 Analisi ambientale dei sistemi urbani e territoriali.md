@@ -80,6 +80,8 @@ ___
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/03 - Rappresentazione - ANASUT\|03 - Rappresentazione - ANASUT]]                                                                                           | T    | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/04 - Società\|04 - Società]]                                                                                                                               | T    | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT\|05 - Piano Regolatore Generale - ANASUT]]                                                                         | T    | 🪶 Scrivere |
+| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/06 - Metodologie di analisi - ANASUT\|06 - Metodologie di analisi - ANASUT]]                                                                               | T    | 🪶 Scrivere |
+| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT\|07 - Interviste - ANASUT]]                                                                                                       | T    | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Il consumo di suolo\|Il consumo di suolo]]                                                                                                                 | T    | 🪶 Scrivere |
 
 { .block-language-dataview}
@@ -98,6 +100,8 @@ ___
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/03 - Rappresentazione - ANASUT\|03 - Rappresentazione - ANASUT]]                                                                                           | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/04 - Società\|04 - Società]]                                                                                                                               | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT\|05 - Piano Regolatore Generale - ANASUT]]                                                                         | 🪶 Scrivere |
+| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/06 - Metodologie di analisi - ANASUT\|06 - Metodologie di analisi - ANASUT]]                                                                               | 🪶 Scrivere |
+| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT\|07 - Interviste - ANASUT]]                                                                                                       | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Il consumo di suolo\|Il consumo di suolo]]                                                                                                                 | 🪶 Scrivere |
 
 { .block-language-dataview}
