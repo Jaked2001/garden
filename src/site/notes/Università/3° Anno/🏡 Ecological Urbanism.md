@@ -86,9 +86,10 @@ ___
 | [[Università/3° Anno/01 - Water - EU\|01 - Water - EU]]                             | 🟠 Studiare |
 | [[Università/3° Anno/02 - Green Spaces - EU\|02 - Green Spaces - EU]]               | 🟠 Studiare |
 | [[Università/3° Anno/03 - Urban Fabric - EU\|03 - Urban Fabric - EU]]               | 🟠 Studiare |
-| [[Università/3° Anno/04 - Energy - EU\|04 - Energy - EU]]                           | 🟡 Finire   |
-| [[Università/3° Anno/05 - Waste - EU\|05 - Waste - EU]]                             | 🪶 Scrivere |
+| [[Università/3° Anno/04 - Energy - EU\|04 - Energy - EU]]                           | 🟠 Studiare |
+| [[Università/3° Anno/05 - Waste - EU\|05 - Waste - EU]]                             | 🟠 Studiare |
 | [[Università/3° Anno/06 - Mobility - EU\|06 - Mobility - EU]]                       | 🟠 Studiare |
+| [[Università/3° Anno/07 - Community - EU\|07 - Community - EU]]                     | 🟡 Finire   |
 
 { .block-language-dataview}
 
@@ -188,6 +189,8 @@ Urban Regeneration projects:
 - [[Tegel Airport\|Tegel Airport]], [[Berlino\|Berlino]]
 - [[Fælledby\|Fælledby]] - [[Copenhagen\|Copenhagen]], [[🇩🇰 Danimarca\|🇩🇰 Danimarca]]
 
+- are people encouraged to be active?
+- Are they moving a lot or not?
 
 
 
@@ -197,4 +200,4 @@ The themes in the group should be connected somehow. It should not be 4 differen
 
 
 
-
+Terrain vague. Is it equal to Non luogo.
