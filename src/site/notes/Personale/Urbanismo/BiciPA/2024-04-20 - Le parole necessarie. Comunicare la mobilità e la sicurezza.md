@@ -256,7 +256,7 @@ Alta Italia da Attraversare
 - Rivista Ciclovia AIDA est - uscita nel 2020
 - Rivista Ciclovia AIDA ovest - in uscita a fine maggio 2024
 
-I diritti d'autore verranno versati a [[FIAB\|FIAB]] nazionale.
+I diritti d'autore verranno versati a [[_Giornaliera/FIAB\|FIAB]] nazionale.
 
 
 
