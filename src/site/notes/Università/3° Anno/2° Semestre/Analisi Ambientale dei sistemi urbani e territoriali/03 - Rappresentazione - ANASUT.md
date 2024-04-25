@@ -4,9 +4,9 @@
 
 # [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/03 - Rappresentazione - ANASUT\|03 - Rappresentazione - ANASUT]]
 
-Invarianti territoriali: tipo il Colosseo: una presenza radicata che viene integrata in una rappresentazione perché è radicata nella percezione che le persone hanno di quel territorio.
+Invarianti territoriali: tipo il [[Colosseo\|Colosseo]]: una presenza radicata che viene integrata in una rappresentazione perché è radicata nella percezione che le persone hanno di quel territorio.
 
-Le rappresentazioni che abbiao prodotto non sono sovrapponibili. Ognuna racconta un punto di vista.
+Le rappresentazioni che abbiamo prodotto non sono sovrapponibili. Ognuna racconta un punto di vista.
 
 Le rappresentazioni hanno un carattere inevitabilmente soggettivo.
 
@@ -50,7 +50,7 @@ Quando parliamo di rappresentazione parziale e soggettiva - non deve essere vist
 
 Perché parlare di rappresentazione è importante per chi si occupa di analisi territoriale?
 
-Galimberti - Gli uomini non hanno mai abitato il mondo ma sempre e solo la descrizione che di volta in volta, la religione, la filosofia, la scienza hanno dato al mondo
+[[Umberto Galimberti\|Umberto Galimberti]] - Gli uomini non hanno mai abitato il mondo ma sempre e solo la descrizione che di volta in volta, la religione, la filosofia, la scienza hanno dato al mondo
 
 De Matteis - Le rappresentazioni cambiano il territorio spesso più dei processi reali
 
@@ -103,7 +103,7 @@ Non c'è un mondo antistante al nostro sguardo ma solo il mondo che riusciamo a 
 
 ![Schermata 2024-04-11 alle 13.47.55.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Analisi%20Ambientale%20dei%20sistemi%20urbani%20e%20territoriali/allegati/Schermata%202024-04-11%20alle%2013.47.55.png)
 
-Il parco di colle oppio lo abbiamo rappresentato per come lo abbiamo conosciuto (epistemologia) non per come è (ontologia).
+Il parco di colle oppio lo abbiamo rappresentato per come lo abbiamo conosciuto (epistemologia) non per come è (ontologia).  
 
 ```ad-quote
 
