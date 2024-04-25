@@ -98,7 +98,7 @@ There's different type of green:
 - Spontaneous
 - Farms
 - Parks
-- Gardens ([[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Gli orti urbani - ANASUT\|Orti urbani]])
+- Gardens ([[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/04 - Gli orti urbani - ANASUT\|Orti urbani]])
 - Vertical
 - Tree-cover
 - Green roofs
