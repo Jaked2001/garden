@@ -26,3 +26,8 @@ and submitted digitally in pdf format at the time of the presentation.
 
 
 
+
+
+
+- are people encouraged to be active?
+- Are they moving a lot or not?
