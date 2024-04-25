@@ -82,7 +82,7 @@ On a regional scale, we can have a lot of compact cities connected by transit
 
 If there is a compact cluster of compact cities you get a metropolis: you get neighborhood, each with its own identity, but very close by
 
-[[Jeff Speck\|Jeff Speck]] - [[Theory of Walkable Cities\|Theory of Walkable Cities]] - To have walkability you need 4 things. Walk has to. be
+[[Università/3° Anno/Jeff Speck\|Jeff Speck]] - [[Theory of Walkable Cities\|Theory of Walkable Cities]] - To have walkability you need 4 things. Walk has to. be
 - Useful - meet some daily needs in daily life
 - Feel safe
 - Comfortable
