@@ -41,6 +41,7 @@
 
 
 🗺 Mappa: [[2024-03-12 - Urbanistica Territorio e Suolo.excalidraw.png]]
+
 ### 📝 Teoria
 
 - [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT\|00 - Inizio ANASUT]]
@@ -86,13 +87,13 @@
 ### 📝 Teoria
 - [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Oltre il catastrofismo\|Oltre il catastrofismo]] - video
 	- Pensiero di Giancarlo Paba
-- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Gli orti urbani - ANASUT\|02 - Gli orti urbani - ANASUT]]
+- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/04 - Gli orti urbani - ANASUT\|04 - Gli orti urbani - ANASUT]]
 
 # 📆  21-03-2024 - Thu
 
 ### 📝 Teoria
 
-- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Gli orti urbani - ANASUT\|02 - Gli orti urbani - ANASUT]] - Video di testimonianze
+- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/04 - Gli orti urbani - ANASUT\|04 - Gli orti urbani - ANASUT]] - Video di testimonianze
 	- Relazioni esterne agli orti urbani
 	- Relazioni interne agli orti urbani
 	- Sostentazione economica
@@ -103,7 +104,7 @@
 
 ### 📝 Teoria
 
-- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Gli orti urbani - ANASUT\|02 - Gli orti urbani - ANASUT]]
+- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/04 - Gli orti urbani - ANASUT\|04 - Gli orti urbani - ANASUT]]
 
 ### ✏️ Esercizi
 
@@ -203,3 +204,24 @@ Invarianti territoriali: tipo il Colosseo: una presenza radicata che viene integ
 
 - Esercizio sul PRG di Roma. Individuazione della possibilità o meno di eseguire un certo tipo di interventi in un'area specifica della città
 
+
+# 📆  24-04-2024 - Wed
+
+[[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/06 - Metodologie di analisi - ANASUT\|06 - Metodologie di analisi - ANASUT]]
+	- Metodologie qualitative
+	- Differenza tra metodologia quantitativa e qualitativa
+	- Rapporto tra metodologie quantitative e qualitative
+- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT\|07 - Interviste - ANASUT]]
+	- Obiettivo dell'intervista
+	- Tipi di interviste
+		- Intervista strutturata
+		- Intervista semi-strutturata
+		- Intervista non strutturata
+	- Campi di applicazione dei diversi tipi di intervista
+
+
+### ✏️ Esercizi
