@@ -105,6 +105,7 @@ ___
 
 | File                                                                                                                                                                        | Tipo    | Stato         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------- |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Es 01 - Coordinate - TP\|Es 01 - Coordinate - TP]]                                                             | Es      | 🟡 Finire     |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/CERN-LNGS distance computation for the OPERA Project\|CERN-LNGS distance computation for the OPERA Project]]   | Meeting | 🟢 Fatto      |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/00 - Presentazione corso Topografia e Positioning\|00 - Presentazione corso Topografia e Positioning]] | T       | 🟢 Fatto      |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP\|01 - Sistemi di riferimento e di coordinate - TP]]   | T       | 🪶🟡 Scrivere |
@@ -113,7 +114,7 @@ ___
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]                                         | T       | 🪶🟡 Scrivere |
 
 { .block-language-dataview}
- o
+ 
 
 ___
 
@@ -124,6 +125,10 @@ ___
 
 
 ## ✍️ Esercitazioni
+
+Su almeno 2 dei 3 esercizi dobbiamo prepare una relazione da portare all'orale.
+
+Dobbiamo pensare che chi legge la relazione, deve essere guidato a capire che noi abbiamo capito quali sono i punti salienti.
 
 
 ## Temi d'esame
