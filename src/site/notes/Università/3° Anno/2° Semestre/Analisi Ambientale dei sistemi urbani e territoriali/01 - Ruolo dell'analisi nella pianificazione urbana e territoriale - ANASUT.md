@@ -61,7 +61,6 @@ Si può considerare anche la derivazione da *terreo, terrere* (=atterrire, spave
 
 Territorializzazione.
 
-
 Il concetto di territorio è un concetto estremamente vago. Viene usato in maniera differente all'interno di diversi campi di sapere.
 
 Definizione di [[Alberto Magnaghi\|Alberto Magnaghi]]:
@@ -79,10 +78,9 @@ Il territorio:
 
 È il frutto di un **dialogo** tra culture e spazi geografici svolto in tempi lunghi: è una costruzione culturale, messa in forma storico-geografica.
 
-Il terrotirio:
+Il territorio:
 - è un luogo o è composto da più luoghi, e in quanto tale esprime identità, storia, carattere e strutture di lungo periodo; dà luogo a forme, configurazioni fisiognomiche (studio fisionomia, volti) e individualità terrotoriali
-
-TErritoiro è:
+Il territorio è:
 - Costruzione culturale - messa in forma storico-geografica
 - Organismo vivente ad alta complessità
 - Dispositivo costitutivamente locale
