@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/universita/3-anno/2-semestre/topografia-e-positioning/es-01-coordinate-tp/","tags":["UNI"]}
+---
+
+
+# [[Università/3° Anno/2° Semestre/Topografia e Positioning/Es 01 - Coordinate - TP\|Es 01 - Coordinate - TP]]
+
+
+
+### Direttiva INSPIRE
+
+[[INSPIRE\|INSPIRE]]
+
+[[ETRF2000\|ETRF2000]] - European 
+
+
+
