@@ -78,7 +78,7 @@ In generale un comune che voglia dotarsi di un [[PRG\|PRG]] può seguire 2 strad
 
 ## Come è fatto il PRG
 
-Il [[Piano Regolatore Generale|PRG]] contiene un misto di **elementi grafici** (carte) ed elementi **alfanumerici** (testo):
+Il [[Piano Regolatore Generale\|PRG]] contiene un misto di **elementi grafici** (carte) ed elementi **alfanumerici** (testo):
 - Cartografie
 - Testi
 
@@ -90,6 +90,12 @@ In particolare contiene:
 - [[Piano Regolatore Generale#Elaborati prescrittivi\|#Elaborati prescrittivi]]
 - [[Piano Regolatore Generale#Norme tecniche di attuazione\|#Norme tecniche di attuazione]]
 
+Per maggiori riferimenti sul [[Piano Regolatore Generale\|PRG]] di Roma, consultare [[Piano Regolatore di Roma\|Piano Regolatore di Roma]].
+
 ### Elaborati prescrittivi
 
+Si tratta della raccolta cartografica del [[Piano Regolatore Generale\|PRG]]
+
 ### Norme tecniche di attuazione
+
+Si tratta di un documento testuale che esplicita tutti i contenuti normativi del [[Piano Regolatore Generale|PRG]].
