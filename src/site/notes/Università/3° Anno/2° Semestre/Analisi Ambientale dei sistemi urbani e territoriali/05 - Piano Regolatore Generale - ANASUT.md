@@ -6,7 +6,9 @@
 
 
 
-[[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Legge 17 agosto 1942, n. 1150\|L. 1150/1942]]: Legge molto datata
+
+Il [[Piano Regolatore Generale\|Piano Regolatore Generale]]
+[[Legge 17 agosto 1942, n. 1150\|L. 1150/1942]]: Legge molto datata
 
 Legge urbanistica
 
@@ -17,54 +19,120 @@ Introduce come strumenti
 - Il piano regolatore comunale
 - Le norme sull'attività costruttiva
 
-Piano regolatore generale comunale.
 
-Deve indicare:
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/piano-regolatore-generale/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# PRG
+
+</div>
+
+
+
+# [[Piano Regolatore Generale\|Piano Regolatore Generale]]
+
+Il **Piano Regolatore Generale** (PRG) è uno strumento urbanistico di pianifiazione territoriale che regola l'attività edificatoria all'interno di un territorio comunale.
+
+Il PRG come lo conosciamo oggi è stato istituito con la [[Legge 17 agosto 1942, n. 1150\|Legge 17 agosto 1942, n. 1150]] durante il [[Fascismo\|ventennio fascista]].
+
+L'obiettivo del PRG è quello di disciplinare "l'assetto e l'incremento edilizio dei centri abitati e lo sviluppo urbanistico in genere nel territorio del Regno" ([[Legge 17 agosto 1942, n. 1150\|Art. 1 - L. 1150/1942]]).
+
+## Cosa contiene il PRG
+
+Il PRG deve essere esteso all'intero territorio comunale e deve indicare:
 - La rete delle principali vie di comunicazione
-- La divisione in zone del territorio comunale con la precisione delle zone destinate all'espansione dell'aggregato urbano e la determinazione dei vincoli e dei caratteri ad osservare in ciascuna zona, secondo quanto prescritto 
+- La divisione in zone del territorio comunale con la precisione delle zone destinate all'espansione dell'aggregato urbano e la determinazione dei vincoli e dei caratteri ad osservare in ciascuna zona, secondo quanto prescritto dall'Articolo 2 del [[Decreto ministeriale 2 aprile 1968, n. 1444\|Decreto ministeriale 2 aprile 1968, n. 1444]]
 	- La città viene divisa in zone. Ogni zona corrisponde a un contenuto normativo che ci dice cosa si può fare e cosa non si può fare
-- Aree destinate a spazi di uso pubblico o sottoposte a speciali servitù
-- Le aree da riservare ad esdifici pubblici o di uso pubblico, nonché ad  opere e impianti di interesse collettivo o sociale
-- I vincoli da osservare nelle zone a carattere storico amnbientale o pesistico
+- Le aree destinate a spazi di uso pubblico o sottoposte a speciali servitù
+- Le aree da riservare ad edifici pubblici o di uso pubblico, nonché ad  opere e impianti di interesse collettivo o sociale
+- I vincoli da osservare nelle zone a carattere storico, ambientale o paesistico
 - Le norme per l'attuazione del piano
 
-Tutti i comuni, di uno specifico elenco, sono **obbligati** a munirsi di questo strumento.
-Possono dotarsi di PRG anche gli altri comuni. Non è necessario. Ma devono dotarsi di un regolamento edilizio. Devono avere un impianto cartografico chiamato "Programma di fabbricazione".
+## Chi si dota del PRG
 
-In termini generali il PRG norma il territorio.
+Sono obbligati a dotarsi di PRG solo i [[Comune\|comuni]] presenti in un apposito elenco del [[Ministero dei Lavori Pubblici\|Ministero dei Lavori Pubblici]]. Tutti gli altri comuni ne hanno comunque facoltà.
 
-C'è anche il "Piano Particolareggiato" -- Dettaglia in maniera più specifica un intervento.
+Qualora un comune non sia tenuto a dotarsi di PRG, dovrà comunque dotarsi di un [[Regolamento edilizio\|Regolamento edilizio]] che contenga anche un allegato cartografico detto [[Programma di fabbricazione\|Programma di fabbricazione]].
 
-C'è un principio gerarchico nella pianificazione urbanistica. La scala territoriale di riferimento è il comune.
-La scala più ampia è quella della provincia o della regione.
+## Attuazione del PRG
 
-Il PRG (comune) non può contraddire quanto detto a una scala minore (provincia o regione).
+Il PRG è attuato secondo 2 strade:
+- Per **intervento diretto**: licenza edilizia, oggi concessione edilizia
+- Tramite il [[Piano Particolareggiato d'esecuzione\|Piano Particolareggiato d'esecuzione]] (PP)
+
+## Altri piani
+
+Oltre al PRG, esistono tutta una serie di altri strumenti a vari livelli. Ci sono infatti piani di livello territoriale (regionale) che sono [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT#Piani generali\|#Piani generali]] oppure [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT#Piani settoriali\|#Piani settoriali]]
+
+Un piano comunale non può contraddire un piano territoriale secondo un principio gerarchico.
+
+### Piani Generali
+
+Ad esempio
+- [[Piano Territoriale Regionale\|Piano Territoriale Regionale]]
+- [[Piano di coordinamento Provinciale\|Piano di coordinamento Provinciale]]
+- Lo stesso [[Piano Regolatore Generale\|PRG]]
+
+### Piani Settoriali
+
+A livello territoriale:
+- [[Piani Paesaggistico\|Piani Paesaggistico]]
+- [[Piano di Bacino\|Piano di Bacino]]
+- [[Piano del Parco\|Piano del Parco]]
+- ...
+A livello comunale:
+- [[Piano Comunale dei Trasporti\|Piano Comunale dei Trasporti]]
+- [[Piano Comunale del Traffico\|Piano Comunale del Traffico]]
+- [[Programma Urbano dei Parcheggi\|Programma Urbano dei Parcheggi]]
+
+## Formazione del PRG
+
+```ad-Definizione
+title: Formazione
+
+Si definisce **formazione** del [[Piano Regolatore Generale\|PRG]] l'intero procedimento nell'ambito del quale il piano, da intenzione e decisione, diventa un atto amministrativo vigente e operante (e non la mera redazione tecnica del piano)
+
+```
 
 
-FORMAZIONE del PRG: tutto il processo in cui il piano viene immaginato, concepito, elaborato e tradotto e diventa un piano amministrativo operante. 
+In generale un comune che voglia dotarsi di un [[PRG\|PRG]] può seguire 2 strade:
+- Affidarlo ad un ufficio tecnico interno (se disponibile) eventualmente affiancato da consulenti esterni
+- Affidarlo completamente a soggetti esterni
 
-Quando un comune decide di dotarsi o di aggiornare i lPRG hanno 2 strade:
-- Lo affidano a un ufficio tecnico interno (se disponibile)
-	- Eventualmente affiancato da consulenti esterni
-- Ci si affida completamente a dei soggetti esterni
+
+![Piano Regolatore Generale 2024-04-27 20.29.48.excalidraw.png](/img/user/Excalidraw/Piano%20Regolatore%20Generale%202024-04-27%2020.29.48.excalidraw.png)
+
+
+## Come è fatto il PRG
+
+Il [[Piano Regolatore Generale|PRG]] contiene un misto di **elementi grafici** (carte) ed elementi **alfanumerici** (testo):
+- Cartografie
+- Testi
+
+Le cartografie sono chiaramente essenziali: il PRG si riferisce a un territorio determinato.
+
+Allo stesso tempo però è necessario a supporto delle cartografie una forma testuale che detti i contenuti normativi relativamente alle aree individuate nella cartografia.
+
+In particolare contiene:
+- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT#Elaborati prescrittivi\|#Elaborati prescrittivi]]
+- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT#Norme tecniche di attuazione\|#Norme tecniche di attuazione]]
+
+### Elaborati prescrittivi
+
+### Norme tecniche di attuazione
+
+
+
+
+</div></div>
+
+
 
 Relazione tecnica --> viene votata dall'assemblea nella sua interezza.
 In questo passaggio, il PRG è l'esito di una relazione stretta tra un mondo tecnico e uno politico.
 - Volontà politica si manifesta nella visione del territorio
 - La volontà tecnica traduce la visione politica in strumento operativo
-
-Una volta adottato, il piano deve essere reso pubblico. È importante che ogni cittadino deve avere la possibilità di visionare il PRG adottato. I cittadini possono presentare delle osservazioni rispetto al piano redatto. Il comune deve rispondere alle osservazioni, attraverso le contro-deduzioni: possono accogliere o rigettare le osservazioni.
-
-Dopo le contro-deduzioni, il PRG potenzialmente modificato, deve avere un'accettazione definitiva da un organo sovrastante. Dopo l'**approvazione** il PRG è operativo e vigente.
-
-
-Decisione di formare il PRG --> redazione tecnica --< adozione --> pubblicazione --> osservazioni --> contro-deduzioni --> trasmissione --> Approvazione
-
-In termini generali contiene elementi grafici (disegni) e alfa-numerici (testi)
-- Cartografie
-- Testi
-
-Il prg non solo rappresenta, ma detta contenuti normativi. 
 
 Il prg si riferisce al soggetto pubblico e a quello privato.
 - per il Pubblico è una sorta di programma da realizzare
