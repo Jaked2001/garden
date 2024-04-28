@@ -127,13 +127,10 @@ Ce ne sono altri che esplicitamente tentano di intercettare i giovani.
 
 # Orti Urbani a Milano
 
-
-
 [[Andrea Boretti\|Andrea Boretti]]
 
 Orti formali: proprietà è di un soggetto privato. Ci fa quello che vuole compatibilmente con il Piano Regolatore.
 Mette a disposizione il terreno attraverso un contratto d'affitto.
-
 
 - Errore degli orti urbani (pubblici) è di farli solo per gli anziani
 	- Spesso i bandi pubblici, tra i criteri per l'assegnazione, pesano molto le età più avanzate
@@ -155,12 +152,9 @@ Non sarà redditizio come l'edificazione ma non possiamo pensare che ovunque si 
 
 La natura è qualcosa che è superiore. Riesce a riprodursi tra 2 strisce di asfalto. Ovunque ci sono possibilità i vegetali riescono a svilupparsi.
 
-
-
 # Orti Rimini
 
 Sito in mano al Comune. Orto formale.
-
 
 Vecchia palude **bonificata**
 - Pista allenamento ciclistico
@@ -170,7 +164,6 @@ Vecchia palude **bonificata**
 
 Molti orti nascono su terreni industriali di fabbriche dismesse. Il terreno potrebbe essere inquinato e può essere necessaria una bonifica.
 Alcune opere di bonifica si fanno anche attraverso alcune colture che rigenerano la terra.
-
 
 Comunità anziani.
 
@@ -220,13 +213,12 @@ Concessione a titolo gratuito
 
 Nel contesto bolognese sono molto avanti nel leggere nell'agricoltura urbana un progetto virtuoso.
 
-In [[🇫🇷 Francia\|🇫🇷 Francia]] c'è una politica nazionale "[[Carta del pollice verde\|Carta del pollice verde]]" politica di sostegno dell'agricoltura urbana.
+In [[🇫🇷 Francia\|🇫🇷 Francia]] c'è una politica nazionale "[[Carta del pollice verde\|Carta del pollice verde]]": politica di sostegno dell'agricoltura urbana.
 
 ![2024-03-21 - Gli orti urbani - Mappa ANASUT.excalidraw.png](/img/user/Excalidraw/2024-03-21%20-%20Gli%20orti%20urbani%20-%20Mappa%20ANASUT.excalidraw.png)
 
 
 # Orti urbani a Roma
-
 
 
 
@@ -277,10 +269,4 @@ L'agricoltura è il mezzo con coi le persone danno luogo a una pluralità di bis
 
 
 I progetti di espansione sono molto ricorrenti all'interno di queste pratiche.
-
-
-
-
-
-
 
