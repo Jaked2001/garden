@@ -69,7 +69,7 @@
 
 # 📆  14-03-2024 - Thu
 
-
+[[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]
 
 
 🗺 Mappa: [[2024-03-14 - Il suolo Minacciato - Mappa ANASUT.excalidraw.png]]
@@ -84,12 +84,18 @@
 
 # 📆  19-03-2024 - Tue
 
+[[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]
+🗺 Mappa: [[2024-03-19 - Oltre il Catastrofismo - Mappa ANASUT.excalidraw.png
+
 ### 📝 Teoria
 - [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Oltre il catastrofismo\|Oltre il catastrofismo]] - video
 	- Pensiero di Giancarlo Paba
 - [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/04 - Gli orti urbani - ANASUT\|04 - Gli orti urbani - ANASUT]]
 
 # 📆  21-03-2024 - Thu
+
+[[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]
+🗺 Mappa: [[2024-03-21 - Gli orti urbani - Mappa ANASUT.excalidraw.png
 
 ### 📝 Teoria
 
@@ -155,6 +161,7 @@ Invarianti territoriali: tipo il Colosseo: una presenza radicata che viene integ
 [[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]
 
 
+🗺 Mappa: [[2024-04-11 - Questa non è una mappa - Mappa ANASUT.excalidraw.png]]
 
 ### 📝 Teoria
 
@@ -191,7 +198,7 @@ Invarianti territoriali: tipo il Colosseo: una presenza radicata che viene integ
 [[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]
 
 
-
+🗺 Mappa: [[2024-04-18 - Il Piano Regolatore Generale - Mappa ANASUT.excalidraw.png]]
 ### 📝 Teoria
 
 - [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT\|05 - Piano Regolatore Generale - ANASUT]]
@@ -205,9 +212,10 @@ Invarianti territoriali: tipo il Colosseo: una presenza radicata che viene integ
 - Esercizio sul PRG di Roma. Individuazione della possibilità o meno di eseguire un certo tipo di interventi in un'area specifica della città
 
 
-# 📆  24-04-2024 - Wed
+# 📆  23-04-2024 - Tue
 
 [[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]
+🗺 Mappa: 
 
 ### 📝 Teoria
 
@@ -223,5 +231,3 @@ Invarianti territoriali: tipo il Colosseo: una presenza radicata che viene integ
 		- Intervista non strutturata
 	- Campi di applicazione dei diversi tipi di intervista
 
-
-### ✏️ Esercizi
