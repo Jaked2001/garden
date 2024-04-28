@@ -7,6 +7,7 @@
 
 
 
+
 Il [[Piano Regolatore Generale\|Piano Regolatore Generale]]
 [[Legge 17 agosto 1942, n. 1150\|L. 1150/1942]]: Legge molto datata
 
@@ -106,7 +107,7 @@ In generale un comune che voglia dotarsi di un [[PRG\|PRG]] può seguire 2 strad
 
 ## Come è fatto il PRG
 
-Il [[Piano Regolatore Generale|PRG]] contiene un misto di **elementi grafici** (carte) ed elementi **alfanumerici** (testo):
+Il [[Piano Regolatore Generale\|PRG]] contiene un misto di **elementi grafici** (carte) ed elementi **alfanumerici** (testo):
 - Cartografie
 - Testi
 
@@ -118,11 +119,15 @@ In particolare contiene:
 - [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT#Elaborati prescrittivi\|#Elaborati prescrittivi]]
 - [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT#Norme tecniche di attuazione\|#Norme tecniche di attuazione]]
 
+Per maggiori riferimenti sul [[Piano Regolatore Generale\|PRG]] di Roma, consultare [[Piano Regolatore di Roma\|Piano Regolatore di Roma]].
+
 ### Elaborati prescrittivi
+
+Si tratta della raccolta cartografica del [[Piano Regolatore Generale\|PRG]]
 
 ### Norme tecniche di attuazione
 
-
+Si tratta di un documento testuale che esplicita tutti i contenuti normativi del [[Piano Regolatore Generale|PRG]].
 
 
 </div></div>
@@ -185,6 +190,8 @@ In ognuna delle città (storica, consolidata...) ci sono delle norme generale ch
 
 Il segno grafico è da vedere sia in campitura che in perimetro e simboli.
 
+
+![2024-04-18 - Il Piano Regolatore Generale - Mappa ANASUT.excalidraw.png](/img/user/Excalidraw/2024-04-18%20-%20Il%20Piano%20Regolatore%20Generale%20-%20Mappa%20ANASUT.excalidraw.png)
 
 
 ___
