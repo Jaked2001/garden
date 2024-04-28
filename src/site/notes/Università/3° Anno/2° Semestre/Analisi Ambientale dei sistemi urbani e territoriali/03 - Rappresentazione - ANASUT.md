@@ -98,7 +98,7 @@ Ogni urbanista, ingegnere, geografo, ha il potere di veicolare **vincoli** che g
 
 ### Carattere performativo
 
-Le rappresentazioni hanno un carattere [[Performativo\|Performativo]]: esse non descrivono un'azione ne constatano un fatto. Invece, veicola vincoli e opportunità di trasformazione del [[01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT#Territorio|territorio]]
+Le rappresentazioni hanno un carattere [[Performativo\|Performativo]]: esse non descrivono un'azione ne constatano un fatto. Invece, veicola vincoli e opportunità di trasformazione del [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT#Territorio\|territorio]]
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -237,13 +237,7 @@ Medea (=colei che porta consiglio). Espressione di una società matriarcale (la 
 Per rendere conto della complessità del territorio è interessante costruire uno spazio di voci in cui rappresentazioni differenti possono entrare in conflitto.
 
 
-# [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/03 - Rappresentazione - ANASUT\|03 - Rappresentazione - ANASUT]]
-
-
-
 ![2024-04-11 - Questa non è una mappa - Mappa ANASUT.excalidraw.png](/img/user/Excalidraw/2024-04-11%20-%20Questa%20non%20%C3%A8%20una%20mappa%20-%20Mappa%20ANASUT.excalidraw.png)
-
-
 
 
 
@@ -253,9 +247,14 @@ Per rendere conto della complessità del territorio è interessante costruire un
 ❗❗❗ COMPLETARE ❗❗❗ - Arrivo alle 12:25
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
 
-Società statica vs società dinamica(?)
+[[Georg Simmel\|Georg Simmel]] cerca di distringuere le **società statiche** da quelle **conflittuali**.
 
-[[Simmel\|Simmel]] -???
+```ad-quote
+title: [[Georg Simmel]]
+Come l’universo, per conseguire una qualsiasi forma, ha bisogno di amore e odio, vale a dire, di forze di attrazione e di repulsione, così la società, per assumere una determinata configurazione, ha bisogno di quantitativi variabili di armonia e disarmonia, associazione e competizione, tendenze favorevoli e sfavorevoli.
+```
+
+Il [[01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT#Territorio|territorio]] è in costante movimento. Le rappresentazioni dovrebbero quindi cogliere questo aspetto.
 
 Gourdier: spazio dei punti di vista
 
@@ -267,49 +266,51 @@ Sospensione del giudizio.
 ## Critica alla razionalità cartografica
 
 
-Carte urbanistiche sono rappresentazioni che usano la cartografia.
+Carte urbanistiche sono rappresentazioni che usano la cartografia. La cartografia però mette in forma solamente la **forma fisica**.
 
-Che tipo di sguardo mette in forma? La **forma fisica**.
+Racconta esclusivamente la forma fisica dell'urbano. È una rappresentazione in cui il punto di vista è precisamente posizionato. Lo sguardo è **zenitale** (dall'alto). Il punto di vista è lo zenit.
 
-Racconta esclusivamente la forma fisica dell'urbano. È una rappresentazione in cui il punto di vista è precisamente posizionato. 
+Si tratto di uno sguardo [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Panottico\|Panottico]]
 
-Lo sguardo è **zenitale** (dall'alto). Il punto di vista è lo zenit.
-
-Sguardo **panottico**: < panottico: forma di carcere in cui il custode era posizionato da un punto da poteva vedere tutte le celle.
+panottico < forma di carcere in cui il custode era posizionato da un punto da cui poteva vedere tutte le celle.
 
 Sguardo restituito in forma dimensionale. Permette di rappresentare solo ciò che si può esprime in forma compiuta in forma bidimensionale.
 
-Sguardo che è maturato nella disciplina urbanistica. Sempre riferita a corpi soilidi nello spazio.
+Sguardo che è maturato nella disciplina urbanistica. Sempre riferita a corpi solidi nello spazio.
 
-Le carte sono molto meticolose a rappresentare queste forme fisiche della città
+Le carte sono molto meticolose a rappresentare queste forme fisiche della città.
 
-È una descrizione che, privilegiano la forma fisica della città, rimuove che la forma fisica sia l'insieme di strutture e di conflitti che danno forma alla dimensione fisica dell'urbano.
+È una descrizione che, privilegiando la forma fisica della città, rimuove l'insieme di strutture e di conflitti che danno forma alla dimensione fisica dell'urbano.
 
-Le cartografie riescono a raccontare in maniera anche molto precisa la forma fisica dell'urbano. non riescono a restituire il mondo sociale che anima l'urbano
+Le cartografie riescono a raccontare in maniera anche molto precisa la forma fisica dell'urbano. Non riescono a restituire il mondo sociale che anima l'urbano.
 
+```ad-quote
+title: Merleau - Ponty
+Come colui che dall’aereo guarda la schiuma del mare e la vede immobile, senza comprendere che da vicino essa è pulsione e movimento, il pianificatore moderno non si accorge che dietro il silenzio delle forme scoppia il brulicare della vita
+```
 
-Come colui che dall'aereo guarda la schiuma del mare e la vede immobile, senza comprendere che da vicino essa è pulsione e movimento, il pianificatore moderno non si accorge che dietro...???
-
-Dall'alto di una torre, rinchiuso in una stanza, il pian.-..????
 
 Non c'è una metodologia che in astratto sia migliore di un'altra rappresentazione. Stiamo mettendo in evidenza i limiti, ma non significa che le carte urbanistiche non siano valide rispetto ad alcuni obiettivi.
 
 C'è distanza tra osservatore e rappresentazione. 
 
+Le cartografie sono tutt'altro che dispositivi di rappresentazione. La distanza dal punto di vista zenitale e l'oggetto di studio, non garantisce oggettività, ma semplicemente legittima uno sguardo.
 
-Le cartografie sono tutt'altro che dispositivi di rappresentazione. La distanza dal punto di vista zenitale e l'oggetto di studio, non garantisce oggettività, ma semplicemente legittima uno sguardo
+Nella cartografia il punto di vista scompare. Questo ci induce a pensare che la rappresentazione è una rappresentazione oggettiva. Possiamo dire che il codice della visione zenitale è un **paradigma** resistente e prepotente, che tende ad annullare gli altri.
 
-Nella cartografia il punto di vista scompare. Questo ci induce a pensare che la rappresentazione è una rappresentazione oggettiva. 
+Le carte rappresentano lo stesso **inganno** dei numeri. Sembrano veicolare autorevolezza.
 
-Le carte rappresentano lo stesso inganno dei numeri. Sembrano veicolare autorevolezza.
+Utilizza codici semantici-linguistici riconosciuti che rendono leggibile lo spazio fisico della città. Queste convenzioni ci restituiscono una formalizzazione che sembrerebbe trasmettere uno statuto di veridicità alla rappresentazione. 
 
-Utilizza codici semantici-linguistici riconosciuti che leggono leggibile lo spazio fisico della città. Queste convenzioni ci restituiscono una formalizzazione che sembrerebbe trasmettere uno statuto di veridicità alla rappresentazione. 
-
-Questo è legato a questo punto di vista che scompare. La presa zenitale, lega il punto di vista orientato.
-
+```ad-quote
+title: [[Patrizia Gabellini]], 1996
+Questo è legato a questo punto di vista che scompare. La presa zenitale, nega il punto di vista orientato e simula una visione olistica di fatto impossibile per l'uomo: uno sguardo onnicomprensivo al quale è accessibile l'insieme, la mesas a fuoco simultanea del tutto, uno sguardo indifferente alla sequenza di singoli punti selezionati.
+```
 
 
 Rispetto a queste considerazioni, dobbiamo riflettere se la cartografia possa essere considerata l'esclusiva forma di rappresentazione. 
+
+
 "La forma di rappresentazione più adeguata dipende da ciò che si vuole rappresentare" (< [[Vettoretto\|Vettoretto]], 2001).
 
 Cartografia **isotropa** e **metrica**. Una cartografia che dà spazio a delle dimensioni che sono misurabili. 
@@ -323,18 +324,11 @@ Idios - Nomos
 
 Esistono 2 tipi di approcci:
 - Approccio **idiografico** < Idios
-	- approccio analitico che punta sull'unicità e irripetibilità dell'oggetto di studio. 
+	- *approccio analitico* che punta sull'unicità e irripetibilità dell'oggetto di studio
 - Approccio **Nomotetico** < Nomos
-	- Legge di carattere generale rispetto a un certo fenomeno
+	- Legge di carattere generale rispetto a un certo fenomeno che possono essere applicati a tutto
 
 Dobbiamo tenere insieme i 2 tipi di approcci.
-
-
-
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗ Lefebvre: Che centra?? 
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-
 
 
 
