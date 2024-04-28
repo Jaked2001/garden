@@ -59,7 +59,7 @@
 	- Interactive Problem Solving
 	- Territorio
 	- Territorio e Palinsesto
-- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Il consumo di suolo\|Il consumo di suolo]]
+- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Il consumo di suolo - ANASUT\|02 - Il consumo di suolo - ANASUT]]
 	- Cos’è il suolo
 	- Importanza del suolo
 	- Il suolo minacciato
@@ -79,7 +79,7 @@
 - Degradazione qualità del suolo
 	- Land Degradation Neutrality
 - Effetti dell'impatto del consumo di suolo
-	- Video: [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Il suolo minacciato\|Il suolo minacciato]]
+	- Video: [[Personale/Media/Youtube/Il suolo minacciato\|Il suolo minacciato]]
 
 
 # 📆  19-03-2024 - Tue
