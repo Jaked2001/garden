@@ -79,31 +79,11 @@ Il rapporto tra le due metodologie è qualcosa da investigare.
 Esistono diversi atteggiamenti rispetto alle due metodologie.
 - Un primo approccio è quello di ritenerle talmente distanti che non possono essere utilizzate contestualmente. 
 	- Un ricercatore sarebbe costretto ad una scelta di campo all'inizio della ricerca
-- Un altro approccio è quello di usare a seconda degli obiettivi diverse tipologie di indagine #OrtigianiDellaQualità Moltiplicare le metodologie in campo: 
-	- Lo stesso oggetto di studio può essere osservato attraverso delle metodologie differenti. Se io aumento il numero delle metodologie, alla fine mi accosterò ad una conoscenza più precisa o più oggettiva, oppure no? No. Ottengo un analisi più complessa, con più informazioni. Ma non diventa più oggettiva.
+- Un altro approccio è quello di usare, a seconda degli obiettivi, diverse tipologie di indagine #OrtigianiDellaQualità Moltiplicare le metodologie in campo: 
+	- Lo stesso oggetto di studio può essere osservato attraverso delle metodologie differenti. Se io aumento il numero delle metodologie, alla fine mi accosterò ad una conoscenza più precisa o più oggettiva, oppure no? No. Ottengo un'analisi più complessa, con più informazioni. Ma non diventa più oggettiva.
 - È una domanda mal posta. Da un punto di vista sostanziale non esiste differenza tra metodologie quantitative e qualitative
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT\|Successivo ➡]]
 
 
 
