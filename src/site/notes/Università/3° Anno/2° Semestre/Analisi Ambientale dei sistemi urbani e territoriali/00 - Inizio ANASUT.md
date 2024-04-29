@@ -17,7 +17,7 @@ Ci sono 2 tipologia di conoscenza differenti:
 
 ```ad-Definizione
 title: Conoscenza professionale
-Si basa sull'uso di metodoogie scientifiche. È prodotta da professionisti.
+La **conoscenza professionale** è una [[#Conoscenza]] che si basa sull'uso di metodoogie scientifiche. È prodotta da professionisti.
 ```
 
 Dal punto di vista sociale richiama un'*autorevolezza*.
@@ -30,7 +30,7 @@ Il linguaggio tecnico scientifico appare sempre un linguaggio portatore di una v
 
 ```ad-Definizione
 title: Conoscenza ordinaria
-È una conoscenza non prodotta attraverso metodologie scientifiche. Deriva dalla frequentazione quotidiana col luogo, dal senso comune, dalla riflessione e dalla meditazione attenta.
+La **conoscenza ordinaria** è una [[#Conoscenza]] non prodotta attraverso metodologie scientifiche. Deriva dalla frequentazione quotidiana col luogo, dal senso comune, dalla riflessione e dalla meditazione attenta.
 ```
 
 La conoscenza ordinaria è di tutti, anche i professionisti vi ricorrono.
@@ -124,3 +124,7 @@ C'è spesso una fase iniziale di occupazione e poi una richiesta di legittimazio
 
 
 ![2024-03-05 - Conoscenza e Orti urbani - Mappa ANASUT.excalidraw.png](/img/user/Excalidraw/2024-03-05%20-%20Conoscenza%20e%20Orti%20urbani%20-%20Mappa%20ANASUT.excalidraw.png)
+
+
+[[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT\|Successivo ➡]]
+
