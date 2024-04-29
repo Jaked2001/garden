@@ -270,3 +270,4 @@ L'agricoltura è il mezzo con coi le persone danno luogo a una pluralità di bis
 
 I progetti di espansione sono molto ricorrenti all'interno di queste pratiche.
 
+[[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT\|Successivo ➡]]
