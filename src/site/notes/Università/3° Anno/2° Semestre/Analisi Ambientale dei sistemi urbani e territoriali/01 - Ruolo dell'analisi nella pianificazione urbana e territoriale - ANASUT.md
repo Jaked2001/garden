@@ -136,3 +136,6 @@ Roma è un Palinsesto.
 
 
 ![[Recording 20240312134252.webm]]
+
+
+[[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Urbanistica - ANASUT\|Successivo ➡]]
