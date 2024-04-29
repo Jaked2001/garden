@@ -77,11 +77,13 @@ ___
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT\|00 - Inizio ANASUT]]                                                                                                                   | T    | 🟠 Studiare |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT\|01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT]] | T    | 🟠 Studiare |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Il consumo di suolo - ANASUT\|02 - Il consumo di suolo - ANASUT]]                                                                                     | T    | 🟠 Studiare |
+| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Urbanistica - ANASUT\|02 - Urbanistica - ANASUT]]                                                                                                     | T    | 🟠 Studiare |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/03 - Rappresentazione - ANASUT\|03 - Rappresentazione - ANASUT]]                                                                                           | T    | 🟠 Studiare |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/04 - Gli orti urbani - ANASUT\|04 - Gli orti urbani - ANASUT]]                                                                                             | T    | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT\|05 - Piano Regolatore Generale - ANASUT]]                                                                         | T    | 🟠 Studiare |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/06 - Metodologie di analisi - ANASUT\|06 - Metodologie di analisi - ANASUT]]                                                                               | T    | 🟠 Studiare |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT\|07 - Interviste - ANASUT]]                                                                                                       | T    | 🟠 Studiare |
+| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Oltre il catastrofismo\|Oltre il catastrofismo]]                                                                                                           | T    | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -96,11 +98,13 @@ ___
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT\|00 - Inizio ANASUT]]                                                                                                                   | 🟠 Studiare |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT\|01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT]] | 🟠 Studiare |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Il consumo di suolo - ANASUT\|02 - Il consumo di suolo - ANASUT]]                                                                                     | 🟠 Studiare |
+| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Urbanistica - ANASUT\|02 - Urbanistica - ANASUT]]                                                                                                     | 🟠 Studiare |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/03 - Rappresentazione - ANASUT\|03 - Rappresentazione - ANASUT]]                                                                                           | 🟠 Studiare |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/04 - Gli orti urbani - ANASUT\|04 - Gli orti urbani - ANASUT]]                                                                                             | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT\|05 - Piano Regolatore Generale - ANASUT]]                                                                         | 🟠 Studiare |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/06 - Metodologie di analisi - ANASUT\|06 - Metodologie di analisi - ANASUT]]                                                                               | 🟠 Studiare |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT\|07 - Interviste - ANASUT]]                                                                                                       | 🟠 Studiare |
+| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Oltre il catastrofismo\|Oltre il catastrofismo]]                                                                                                           | 🪶 Scrivere |
 
 { .block-language-dataview}
 
