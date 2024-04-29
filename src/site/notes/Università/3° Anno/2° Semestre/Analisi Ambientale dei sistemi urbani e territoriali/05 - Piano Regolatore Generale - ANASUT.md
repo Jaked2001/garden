@@ -235,3 +235,4 @@ Cos'è la SUL - Superficie Utile Lorda?
 
 https://geoportale.comune.roma.it/georoma/#/viewer/openlayers/10156
 
+[[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/06 - Metodologie di analisi - ANASUT\|Successivo ➡]]
