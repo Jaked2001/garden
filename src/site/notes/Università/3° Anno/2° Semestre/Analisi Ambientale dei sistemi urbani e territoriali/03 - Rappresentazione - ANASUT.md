@@ -59,7 +59,6 @@ title: Etimologia di Rappresentare
 **Rappresentare** deriva da *re praesentare* = rendere presente ciò che è assente
 ```
 
-
 La rappresentazione si compone di 2 dimensioni:
 - **Transitiva** e **trasparente** - l'atto di rappresentare si riferisce ad un oggetto; rappresentare qualche cosa
 - **Riflessiva** e **opaca** - la dimensione che si riferisce al *presentarsi* nel momento in cui rappresento qualche cosa
@@ -98,7 +97,8 @@ Ogni urbanista, ingegnere, geografo, ha il potere di veicolare **vincoli** che g
 
 ### Carattere performativo
 
-Le rappresentazioni hanno un carattere [[Performativo\|Performativo]]: esse non descrivono un'azione ne constatano un fatto. Invece, veicola vincoli e opportunità di trasformazione del [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT#Territorio\|territorio]]
+Le [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/03 - Rappresentazione - ANASUT#Rappresentare\|rappresentazioni]] hanno un carattere [[Performativo\|Performativo]]: esse non descrivono un'azione ne constatano un fatto. Invece, veicola vincoli e opportunità di trasformazione del [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT#Territorio\|territorio]].
+
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -323,7 +323,7 @@ Cartografia **isotropa** e **metrica**. Una cartografia che dà spazio a delle d
 Idios - Nomos
 
 Esistono 2 tipi di approcci:
-- Approccio **idiografico** < Idios
+- Approccio **idiografico** < Idios (particolare)
 	- *approccio analitico* che punta sull'unicità e irripetibilità dell'oggetto di studio
 - Approccio **Nomotetico** < Nomos
 	- Legge di carattere generale rispetto a un certo fenomeno che possono essere applicati a tutto
@@ -334,10 +334,6 @@ Dobbiamo tenere insieme i 2 tipi di approcci.
 
 
 
-
-
-
-
-
+[[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/04 - Gli orti urbani - ANASUT\|Successivo ➡]]
 
 
