@@ -293,3 +293,19 @@ Esercizi su Corollario al Teo della media e Legge di propagazione della covarian
 ### ✏️ Esercizi
 
 - Conclusa [[Università/3° Anno/2° Semestre/Topografia e Positioning/Es 01 - Coordinate - TP\|Es 01 - Coordinate - TP]]
+
+
+
+
+# 📆  02-05-2024 - Thu
+[[Università/3° Anno/2° Semestre/Topografia e Positioning/Mattia Crespi\|Mattia Crespi]]
+
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗ Sono arrivato alle 11:30
+❗❗❗❗❗❗❗❗❗❗❗❗
+
+### 📝 Teoria
+
+- Boh
+- 
+### ✏️ Esercizi
