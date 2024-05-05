@@ -13,11 +13,6 @@ Vd. slide: [[Es 6 - Statistica per l'idrologia - Slide - Idro.pdf]]
 
 
 
-
-
-
-
-
 # Svolgimento
 
 
