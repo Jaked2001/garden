@@ -174,10 +174,27 @@ $$
 ## Statistica della popolazione
 
 È utile definire degli indici prefissati per la grandezza che si sta osservando. 
+Ci sono in generale 3 tipi di indici:
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Indice di posizione\|#Indice di posizione]]
+	- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Valore atteso o media\|#Valore atteso o media]]
+	- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Mediana\|#Mediana]]
+	- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Moda\|#Moda]]
+	- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Quantili\|#Quantili]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Indice di dispersione\|#Indice di dispersione]]
+	- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Coefficiente di variazione\|#Coefficiente di variazione]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Indice di forma\|#Indice di forma]]
+	- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Coefficiente di asimmetria\|#Coefficiente di asimmetria]]
+	- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Coefficiente di Curtosi\|#Coefficiente di Curtosi]]
 
 ### Indice di posizione
 
 Valutano la tendenza ad assumere certi valori
+
+Gli indici di posizione si dividono in:
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Valore atteso o media\|#Valore atteso o media]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Mediana\|#Mediana]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Moda\|#Moda]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Quantili\|#Quantili]]
 
 #### Valore atteso o media
 
@@ -202,6 +219,8 @@ $$
 
 ```
 
+La mediana divide la popolazione in due parti.
+
 #### Moda
 
 ```ad-Definizione
@@ -210,13 +229,71 @@ title: Moda ($x_m$)
 La **moda** è il valore $x_{m}$ di $X$ cui corrisponde il massimo valore della probabilità (se la variabile è discreta)
 ```
 
+La moda è il valore della popolazione che ha più probabilità di "uscire".
+
+
 #### Quantili
 
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗❗
+```ad-Definizione
+title: Quantile
+
+Il **quantile** di ordine $\alpha$ rappresenta il valore che divide il campione *ordinato* in due parti di ampiezza $\alpha$ e $(1-\alpha)$
+
+```
+
+Alcuni dei quantili più utilizzati sono
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Mediana\|#Mediana]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Quartile\|#Quartile]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Percentile\|#Percentile]]
+
+##### Quartile
+
+```ad-Definizione
+title: Quartili
+
+I **quartili** sono i [[#Quantili]] di ordine:
+- $\alpha = \dfrac{1}{4}$
+- $\alpha = \dfrac{2}{4}$ ([[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Mediana\|#Mediana]])
+- $\alpha = \dfrac{3}{4}$
+
+
+```
+
+##### Percentile
+
+```ad-Definizione
+title: Percentili o centili
+
+I **percentili** sono i [[#Quantili]] di ordine $\dfrac{m}{100}$ e dividono la popolazione in 100 parti uguali. Vengono anche detti centili
+
+```
+
 
 ### Indice di dispersione
+
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Coefficiente di variazione\|#Coefficiente di variazione]]
+
+Per definirlo, occorre prima definire la [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Varianza\|#Varianza]] e la [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Deviazione Standard\|#Deviazione Standard]]
+#### Varianza
+
+```ad-Definizione
+title: Varianza ($\sigma^{2}$)
+
+La **varianza** di una [[#Variabile casuale]] discreta è
+$$
+\sigma^{2} = V(X) = \sum\limits_{k=-\infty}^{\infty} (x_{k}-\mu)^{2}p(x_{k})
+$$
+```
+
+##### Deviazione Standard
+
+```ad-Definizione
+title: Deviazione standard ($\sigma$)
+
+La deviazione standard è la radice quadrata della [[#Varianza]], $\sigma$
+
+```
+
 
 #### Coefficiente di variazione
 
@@ -228,30 +305,29 @@ Il **Coefficiente di variazione** fornisce una misura del grado di dispersione d
 $$
 VC = \frac{\sigma(x)}{\mu(x)}
 $$
-
-```
-
-
-### Varianza
-
-```ad-Definizione
-title: Varianza ($\sigma^{2}$)
-
-La **varianza** di una [[#Variabile casuale]] discreta è
-$$
-\sigma^{2} = V(X) = \sum\limits_{k=-\infty}^{\infty} (x_{k}-\mu)^{2}p(x_{k})
-$$
+essendo:
+- $\sigma(x):$ [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Deviazione Standard\|#Deviazione Standard]]
+- $\mu(x):$ [[#Valore atteso o media]]
 ```
 
 
 ### Indice di forma
+
+Gli **indici di forma** sono 2:
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Coefficiente di asimmetria\|#Coefficiente di asimmetria]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Coefficiente di Curtosi\|#Coefficiente di Curtosi]]
 
 #### Coefficiente di asimmetria
 
 ```ad-Definizione
 title: Coefficiente di asimmetria ($\gamma(x)$)
 Il **Coefficiente di asimmetria** o **skewness** fornisce l'asimmetria della distribuzione di probabilità rispetto alla distribuzione normale.
-
+$$
+\gamma(x) = \frac{\mu_{3}(x)}{\sigma^{3}(x)}
+$$
+dove:
+- $\mu_{3}:$ [[03. Variabili Aleatorie#Moment|momento di ordine 3]]
+- $\sigma(x):$ [[#Deviazione Standard]]
 ```
 
 #### Coefficiente di Curtosi
@@ -263,7 +339,9 @@ Il **coefficiente di curtosi** è il grado di appiattimento della [[#Funzione di
 $$
 CK = \frac{\mu_{4}(x)}{\mu_{2}^{2}(x)}
 $$
-
+dove:
+- $\mu_{4}:$ [[03. Variabili Aleatorie#Moment|momento di ordine 4]]
+- $\mu_{2}^{2}(x)=\sigma^{4}(x):$ Quadrato della [[#Varianza]]
 ```
 
 
@@ -284,17 +362,16 @@ $$
 > - Dell'errore nella misura di una quantità fisica
 
 
+
 ```ad-Definizione
 title: VA Normale o Gaussiana (Continua): $X \sim N(\mu, \sigma^{2})$
 
 $X \sim N(\mu, \sigma^{2})$ con $\mu \in \mathbb{R}, \sigma^{2} > 0$ 
 
 La [[#Densità continua]] è
-
 $
-f_{X}(x) = \frac{e^{\frac{(x-\mu)^{2}}{2 \sigma^{2}}}}{\sqrt{2 \pi \sigma^{2}}}
+f_{X}(x) = \frac{1}{\sqrt{2 \pi \sigma^{2}}}e^{\frac{(x-\mu)^{2}}{2 \sigma^{2}}}
 $
-
 con $x \in \mathbb{R}$.
 
 Il [[#Supporto]]:
@@ -415,7 +492,64 @@ $
 </div></div>
 
 
+
+| Simbolo       | Significato                |
+| ------------- | -------------------------- |
+| $\mu(x)$      | Media della popolazione    |
+| $m(x)$        | Media campionaria          |
+| $\sigma^2(x)$ | Varianza della popolazione |
+| $s^2(x)$      | Varianza campionaria       |
+Parametri della distribuzione:
+- $\mu = m$
+- $\sigma^{2} = s^{2}$
+
+Notare che:
+- La $p(x)$ è una curva simmetrica rispetto alla media $\mu(x)$
+- La [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Mediana\|#Mediana]] coincide con la [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Valore atteso o media\|media]]
+- La [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Moda\|#Moda]] coincide con [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Valore atteso o media\|media]] e [[#Mediana]]
+- Cambiando la [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Valore atteso o media\|media]] $\mu(x)$ il grafico trasla ma non si deforma; cambiando la [[#Deviazione Standard]] $\sigma(x)$ il grafico si deforma ma non trasla
+
+![Schermata 2024-05-02 alle 16.51.05.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Esercitazioni/allegati/allegati/Schermata%202024-05-02%20alle%2016.51.05.png)
+
+
 ### Distribuzione LogNormale (o di Galton)
+
+```ad-Definizione
+title: Distribuzione LogNormale o di Galton
+$$
+p(x) = \frac{1}{x \sqrt{2 \pi} \sigma(y)} e^{\dfrac{(\ln(x) - \mu(y))^{2}}{2 \sigma(y)^{2}}} \quad 0 \le x \le \infty
+$$
+
+![Schermata 2024-05-02 alle 16.58.52.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Esercitazioni/allegati/allegati/Schermata%202024-05-02%20alle%2016.58.52.png)
+
+```
+
+Funzione di ripartizione:
+
+$$
+P(x) = \frac{1}{\sqrt{2 \pi} \sigma(y)} \int_{-\infty}^{x} e^{\dfrac{(\ln(x) - \mu(y))^{2}}{2 \sigma(y)^{2}}}  \, dx 
+$$
+
+Siano:
+
+| Simbolo       | Significato                |
+| ------------- | -------------------------- |
+| $\mu(x)$      | Media della popolazione    |
+| $m(x)$        | Media campionaria          |
+| $\sigma^2(x)$ | Varianza della popolazione |
+| $s^2(x)$      | Varianza campionaria       |
+
+
+Parametri della distribuzione:
+- $y = \ln(x)$
+- $\mu = m(y)$
+- $\sigma^{2} = s^{2}(y)$
+
+Notare che:
+- La $p(x)$ è una curva *asimmetrica*, con asimmetria che cresce al crescere di $\sigma(x)$.
+
+
+
 
 
 ### Teoria dei valori estremi
