@@ -4,78 +4,147 @@
 
 # [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro\|02 - Piogge Intense - Idro]]
 
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗ slide 1--> 11
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-
 
 
 ## Misura dell'altezza di pioggia
 
-Si misura in maniera integrale individuando una scala di tempo (1h, 6h, 1gg) e calcolando il volume di acqua precipitata a partire da un'altezza.
 
-In alcuni punti di interesse sono posti degli strumenti di misura per la rilevazione delle precipitazioni. 
+Misurare l'altezza di pioggia consiste far si che piova all'interno di un contenitore attraverso una sezione $A$ per un tempo $t$. Si misura, nel tempo $t$, il volume del contenitore che è stato riempito e si calcola l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Altezza di pioggia\|#Altezza di pioggia]] dividendo per l'area della sezione.
 
-Lo strumento di misurazione delle piogge è il [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro\|#Pluviometro]]
+Bisogna necessariamente individuare una scala di tempo (1 h, 6 h, 1 gg).
+
+In alcuni punti di interesse sono posti degli strumenti di misura, detti [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro\|pluviometri]] per la rilevazione delle precipitazioni.
 
 Oggi, la rete di misurazione è di competenza regionale (un tempo era nazionale).
 Le osservazioni di ogni stazione di misura vengono raccolte in una tabella in cui si registra il valore giornaliero di precipitazione, il totale mensile e annuale.
+
 ### Pluviometro
 
 ![Schermata 2024-03-23 alle 19.06.18.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-03-23%20alle%2019.06.18.png)
 
-Il pluviometro è un recipiente di dimensione assegnata che raccoglie l'acqua in un tempo determinato. L'apertura è solitamente un decimo di $\rm m^{2}$.
+
+
+```ad-Definizione
+title: Pluviometro
+
+Il **pluviometro** è un recipiente di dimensione assegnata che raccoglie l'acqua in un tempo determinato. L'apertura è solitamente un decimo di $\rm m^{2}$.
+
+```
 
 Deve essere posizionato in un punto in cui non sia affetto da vegetazione o edifici circostanti.
+
 
 Il pluviometro permette di calcolare:
 - [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Altezza di pioggia\|#Altezza di pioggia]]
 - [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Intensità di pioggia\|#Intensità di pioggia]]
 
+Esistono diversi tipi di pluviometri:
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro ordinario\|#Pluviometro ordinario]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro a Sifone\|#Pluviometro a Sifone]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro a Bilanciere\|#Pluviometro a Bilanciere]]
 
-#### Altezza di pioggia
+#### Misure del pluviometro
+##### Altezza di pioggia
 
 ```ad-Definizione
-title: Altezza di precipitazione
+title: Altezza di pioggia
 
+L'**altezza di pioggia** è data dal rapporto
 $$
 h_{t} = \frac{W_{t}}{A}
 $$
 dove:
-- $W_{t}:$ Volume d'acqua precipitato sull'area $A$
-- $A:$ Area della bocca dello strumento
+- $W:$ Volume d'acqua precipitato su A
+- $A:$ area della bocca dello strumento
 
 ```
 
+Misurare l'altezza di pioggia consll'interno di un contenitore attraverso una sezione $A$ per un tempo $t$. Si misura, nel tempo $t$, il volume del contenitore che è stato riempito e si calcola l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Altezza di pioggia\|#Altezza di pioggia]] dividendo per l'area della sezione.
 
-#### Intensità di pioggia
+##### Intensità di pioggia
+
+Rapportando l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Altezza di pioggia\|#Altezza di pioggia]] al tempo $t$ in cui questa è stata misurata, possiamo ottenere l'intensità di pioggia:
+
+```ad-Definizione
+title: Intensità di pioggia
 
 $$
-i_{t} = \frac{h_{t}}{t}
+i_{t} = \frac{h_{t}}{t} \quad \rm \left[ \frac{mm}{h} \right]
 $$
 
+```
 
-### Registrazione di un pluviometro a bilanciere
+###### Intensità istantanea di pioggia
 
-![Schermata 2023-01-01 alle 01.07.34.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202023-01-01%20alle%2001.07.34.png)
+Possiamo anche guardare all'intensità istantanea di pioggia:
+$$
+i(t) = \frac{h(t)}{dt}
+$$
 
-Si può realizzare quindi uno **ietogramma** o **pluviogramma**.
+#### Tipi di pluviometro
+
+#### Pluviometro ordinario
+
+#### Pluviometro a Sifone
+
+Necessita di un tempo di scarico in cui si perde la misura.
+
+#### Pluviometro a Bilanciere
+
+Come i l[[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro a Sifone\|#Pluviometro a Sifone]] è una tipologia di [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro registratore\|#Pluviometro registratore]]. Permette di conoscere con continuità la distribuzione delle precipitazioni nell'arco delle 24 ore.
+
+È costituito da un bilanciere (B nel diagramma), formato da due vaschette triangolari (V) in cui affluisce l'acqua raccolta dall'imboccatura. Il bilanciere presenta alternativamente l'una o l'altra vaschetta. Quando una vaschetta si riempie, il peso dell'acqua fa basculare il bilanciere, che presenta all'imboccatura l'altra vaschetta, svuotando la prima in un imbuto I.
+
+Maggiore è l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Intensità di pioggia\|#Intensità di pioggia]], più veloce sarà il movimento del bilanciere. Una serie di meccanismi e ingranaggi permette di riportare questo movimento su di un foglio di carta servendosi di una puntina. Il numero di oscillazioni sarà direttamente proporzionale all'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Altezza di pioggia\|#Altezza di pioggia]] caduta nell'intervallo di tempo considerato.
+
+![Schermata 2023-01-01 alle 01.07.34.png|350](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202023-01-01%20alle%2001.07.34.png)
+
+🔗 Video: https://youtu.be/b8zAzC26tgU?si=dXcZfKkvnZJa35ka
+
+Non c'è tempo di svuotamento, per cui si perde solo la prima misura.
+
+![Schermata 2024-05-01 alle 16.51.10.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-05-01%20alle%2016.51.10.png)
+
+L'insieme delle misurazione del [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro\|#Pluviometro]] permette di realizzare lo [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Ietogramma\|#Ietogramma]].
+
+### Ietogramma
+
+Sulla base delle misurazioni del [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro\|#Pluviometro]], si può realizzare quindi uno **ietogramma** o **pluviogramma**.
+
+![02 - Piogge Intense - Idro 2024-05-01 17.08.51.excalidraw.png](/img/user/Excalidraw/02%20-%20Piogge%20Intense%20-%20Idro%202024-05-01%2017.08.51.excalidraw.png)
+
+
 
 Tramite lo studio delle piogge possiamo valutare una delle forzanti di progetto.
 
-La pioggia la possiamo usare per valutare o cosa è già successo o perché dobbiamo progettare qualcosa.
+L'andamento delle piogge è interessante per due fini:
+- Valutare cosa è già successo
+- Progettare un'opera di qualche tipo
 
-Della pioggia, non ha tanto interesse sapere quanto piove, ma sapere cosa succede sul territorio se piove in un certo modo.
+In realtà non siamo tanto interessati a sapere **quanto** piove, ma piuttosto a sapere **cosa succede** sul territorio quando piove in un certo modo.
+
+È pertanto utile studiare l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Idrogramma di piena\|#Idrogramma di piena]].
 
 ![Schermata 2023-01-01 alle 01.10.04.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202023-01-01%20alle%2001.10.04.png)
 
 Colmo di piena. Dipende da come è fatta la porzione di terreno che riceve la pioggia. Più è grande il territorio maggiore è il tempo. Minore è la superficie, minore è il tempo di risposta in cui si realizza il colmo di piena.
 
-Dobbiamo avere sempre a mente l'obiettivo per cui stiamo studiando perché ci dice la scala di tempo che dobbiamo usare.
+### Tempo di Corrivazione
 
-- Tempo di concentrazione: il tempo che impiega la particella a percorrere la porzione di territorio dal punto idraulicamente più lontano
-	- Intensità di pioggia
-	- Durata della pioggia
+```ad-Definizione
+title: Tempo di Corrivazione o di concentrazione
+
+Il tempo di corrivazione è il tempo che una goccia d'acqua impiega a raggiungere la [[#Sezione di chiusura]] di un [[#bacino]] dal punto **_idraulicamente_ più lontano**.
+
+È il massimo tempo che la pioggia impiega a defluire.
+
+```
+
+Lo scopo dello studio delle scale di tempo è quello di riuscire a trovare un modello che permetta di associare a qualunque scala di tempo una determinata pioggia.
+
+OBIETTIVO: abbiamo una porzione di territorio e la scala di tempo. Dobbiamo trovare la PIOGGIA DI PROGETTO (valore massimo CAUTELATIVO), ossia dobbiamo cercare una SOLLECITAZIONE MASSIMA A FAVORE DI SICUREZZA.
+
+Vi è un limite fisico per le precipitazioni pari al contento di acqua nell’atmosfera ossia 12900 km3 , ma ovviamente questa quantità a livello ingegneristico può essere considerata pari a infinito; ci chiediamo allora quale potrebbe essere in una certa zona la max quantità di acqua che può cadere, ossia voglio trovare il massimo in una scala di tempo.
 
 Piogge intense di breve durata: PIOGGE BREVI DI MASSIMA INTENSITÀ.
 
@@ -126,36 +195,42 @@ Dobbiamo introdurre un modello di interpretazione dei dati che tenga conto anche
 
 ## Leggi altezza-durata-frequenza (Casi critici)
 
-Legano l’altezza e la durata della pioggia alla frequenza con cui l'evento è superato.
+Le leggi altezza-durata-frequenza legano l'**altezza** e la **durata** della pioggia alla **frequenza** con cui l'evento è superato.
+
+Nella tabella sottostante sono riportati per diversi anni le altezze di pioggia massime durante l'anno misurate negli intervalli di tempo di 1, 3, 6, 12, 24 ore.
 
 ![Schermata 2023-01-01 alle 01.43.15.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202023-01-01%20alle%2001.43.15.png)
 
-Prendo di un pluviografo i 5 valori massimi alle 5 scale di tempo a cui misuro.
+Di un [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro\|#Pluviometro]] prendo i 5 valori massimi alle 5 scale di tempo considerate
 
-I valori lungo le righe sono **dipendenti**
-I valori lungo le colonne sono **indipendenti**
+I valori lungo le righe sono **dipendenti**.
+I valori lungo le colonne sono **indipendenti**. La pioggia massima di un anno, in generale, non influenza la pioggia massima dell'anno successivo.
 
 Le misure delle piogge si prendono sull'anno idrologico che inizia il 1° settembre con la stagione delle piogge.
+
+A questo punto ordino i valori delle piogge e prendo i massimi per ogni scala di tempo.
 
 ![Schermata 2023-01-01 alle 01.51.23.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202023-01-01%20alle%2001.51.23.png)
 
 Metto insieme i valori sulla base di quante volte sono stati uguagliati o superati.
 
-costruisco le **curve di caso critico**.
+Posso quindi costruire le **curve di caso critico**.
 
-È importante il numero di anni di osservazione. Non posso dire di progettare sulla ennesima curva di stato critico perché la numerazione cambia a seconda del numero di anni di osservazione. 
+È importante il numero di anni di osservazione. Non posso dire di progettare sull'ennesima curva di stato critico perché la numerazione cambia a seconda del numero di anni di osservazione. 
 
 Mi voglio svincolare dal numero di anni di osservazione. Ho bisogno di un numero di anni di osservazione **minimo** che garantisca che sia rispettata l'ipotesi di stazionarietà.
 
-Se calcolo la media di una serie, a un certo punto la media non varia più molto. Esiste un **valore normale**. 
+Se calcolo la media di una serie, a un certo punto la media non varia più molto. Esiste un **valore normale**. Per le serie pluviometriche il valore normale oscilla tra 20 e 30 anni.
 
-Per le serie pluviometriche il valore normale oscilla tra 20 e 30 anni.
+Assumendo di avere abbastanza dati, le curve di stato critico che posso tracciare sono le seguenti:
 
-![Schermata 2023-01-01 alle 01.52.33.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202023-01-01%20alle%2001.52.33.png)
+![02 - Piogge Intense - Idro 2024-05-01 17.54.41.excalidraw.png](/img/user/Excalidraw/02%20-%20Piogge%20Intense%20-%20Idro%202024-05-01%2017.54.41.excalidraw.png)
 
-![Schermata 2023-01-01 alle 02.01.42.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202023-01-01%20alle%2002.01.42.png)
 
-Vogliamo un buon modello che interpreti questi dati.
+
+La figura a sinistra riporta i casi critici in termini di [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Altezza di pioggia\|#Altezza di pioggia]], quella a destra in termini di [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Intensità di pioggia\|#Intensità di pioggia]].
+
+Vogliamo un buon modello che interpreti questi dati. Immaginiamo di usare il modello:
 $$
 h = a t^{n}
 $$
