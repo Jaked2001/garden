@@ -230,3 +230,27 @@ TUTORAGGIO
 
 ### ✏️ Esercizi
 
+
+❗❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗ Manca una settimana di diario
+❗❗❗❗❗❗❗❗❗❗❗❗❗
+
+# 📆  29-04-2024 - Mon
+
+[[Personale/Contatti/Giovanni De Bellis\|Giovanni De Bellis]]
+
+### 📝 Teoria
+
+- [[Sistemi trifase - ET\|Sistemi trifase - ET]]
+
+### ✏️ Esercizi
+
+
+# 📆  30-04-2024 - Tue
+[[Personale/Contatti/Giovanni De Bellis\|Giovanni De Bellis]]
+### 📝 Teoria
+
+- [[Sistemi trifase - ET\|Sistemi trifase - ET]]
+
+### ✏️ Esercizi
+
