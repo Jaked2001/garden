@@ -124,7 +124,7 @@
 	- Presentazione ipotesi orti urbani
 	- Assegnazione orti ai gruppi
 	- Esposizione ambiti di analisi da attraversare nel lavoro di gruppo
-	- Fissata data esonero al [[2024-04-30\|2024-04-30]] (sono possibili variazioni)
+	- Fissata data esonero al [[_Giornaliera/2024-04-30\|2024-04-30]] (sono possibili variazioni)
 
 
 # 📆  09-04-2024 - Tue
@@ -231,3 +231,29 @@ Invarianti territoriali: tipo il Colosseo: una presenza radicata che viene integ
 		- Intervista non strutturata
 	- Campi di applicazione dei diversi tipi di intervista
 
+
+
+# 📆  30-04-2024 - Tue
+[[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]
+
+Prova di esonero
+
+
+
+# 📆  02-05-2024 - Thu
+[[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Analisi del contesto territoriale\|Analisi del contesto territoriale]]
+	- Individuazione dell'Area di analisi
+- Mobilità e connessioni
+- Tessuti edilizi
+- Analisi degli spazi aperti
+- Zona urbanistica e dati socio-demografici
+- Funzioni e servizi
+
+
+### ✏️ Esercizi
+
+- Assegnazione esercizio [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/10 foto in 10 minuti\|10 foto in 10 minuti]] per [[2024-05-09\|2024-05-09]]
