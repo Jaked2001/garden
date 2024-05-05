@@ -3,8 +3,6 @@
 ---
 
 
-
-
 # Esercitazione
 
 - Scartare orti urbani che non abbiano interesse collettivo.
@@ -108,6 +106,9 @@
 
 Realizzare carte
 
+[[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Analisi del contesto territoriale\|Analisi del contesto territoriale]]
+
+[[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/10 foto in 10 minuti\|10 foto in 10 minuti]]
 ### Inquadramento urbanistico
 
 Realizzare carte
