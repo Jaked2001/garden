@@ -6,9 +6,8 @@
 
 
 
-
 ```ad-quote
-title: by [[Popper]]
+title: by [[Popper\|Popper]]
 
 "La credenza che ci siano cose come la fisica, la biologia o l'archeologia e che questi campi di studio siano distinguibili dall'oggetto delle loro indagini, mi sembra un residuo del tempo in cui si credeva che una teoria dovesse procedere da una definizione del suo peculiare oggetto.
 Ma tale oggetto, o specie di cose, non costituisce a mio avviso, una base per distinguere le discipline. Le discipline sono distinte, in parte, per ragioni storiche, per motivi di convenienza nell'amministrazione (si pensi alla organizzazione dell'insegnamento e degli impegni) e, in parte, perché le teorie che si costruiscono per risolvere i nostri problemi tendono ad accrescersi all'interno di sistemi unificati. Tuttavia, tutta questa classificazione, e le relative distinzioni, costituiscono una questione relativamente priva di importanza e superficiale. **Noi non siamo studiosi di certe materie, bensì di problemi.** E i problemi possono passare attraverso i confini di qualsiasi materia o disciplina" 
@@ -16,22 +15,21 @@ Ma tale oggetto, o specie di cose, non costituisce a mio avviso, una base per di
 
 Qual è il punto di partenza? Ritenerci ingegneri, oppure nasce dai problemi che dobbiamo investigare. Noi siamo risolutori di problemi.
 
-Popper ci invita non tanto ad aderire ad uno sguardo conformato rispetto ad un unico campo di sapere ma ci invita ad attraversare diversi campi di sapere.
+[[Popper]] ci invita non tanto ad aderire ad uno sguardo conformato rispetto ad un unico campo di sapere ma ci invita ad attraversare diversi campi di sapere.
 
 Studiamo problematiche e la complessità dell'oggetto di studio passa attraverso i confini di diverse discipline.
 
-[[Morin\|Morin]] identifica l'università come *scuola del lutto*. Ogni studente, entrando, viene invitato a concentrarsi su un sapere specifico, e si perde la visione globale che invece connette i diversi livelli di conoscenza.
+[[Morin\|Morin]] identifica l'università come **scuola del lutto**. Ogni studente, entrando, viene invitato a concentrarsi su un sapere specifico, e si perde la visione globale che invece connette i diversi livelli di conoscenza.
 
 In questo processo di frammentazione della conoscenza, ad ogni disciplina corrisponde un oggetto di studio. Ad ogni campo di sapere corrispondono delle specifiche metodologie di indagine.
 
 È un impianto molto rigidamente formalizzato. Un impianto di cui noi stessi siamo protagonisti. È una scuola del lutto perché in questa scuola si apprende in maniera sbriciolata.
 
-L'obiettivo nella conoscenza territoriale è quello di ricercare un metodo che rilevi e non nasconda i legami, le articolazioni, le connessioni, le complessità. Questo è un cammino potenzialmente più faticoso, perché si costruisce in divenire rispetto a una specifica tematica di ricerca. Sarebbe più semplice restare all'interno di uno specifico campo disciplinare. Produrremmo conoscenza interessante ma rimarrebbe un pezzo di conoscenza frammentato.
+**L'obiettivo nella conoscenza territoriale è quello di ricercare un metodo che rilevi e non nasconda i legami, le articolazioni, le connessioni, le complessità.** Questo è un cammino potenzialmente più faticoso, perché si costruisce in divenire rispetto a una specifica tematica di ricerca. Sarebbe più semplice restare all'interno di uno specifico campo disciplinare. Produrremmo conoscenza interessante ma rimarrebbe un pezzo di conoscenza frammentato.
 
-L'urbanistica è oggi un processo di istituzionalizzazione molto lungo nel tempo. Ha avuto fasi differente. Negli ultimi tempi c'è un proliferare di metodi analitici di stampo quantitativo. Prima non era così. Si mescolava molto con altre materie: geografia, sociologia,...
+L'urbanistica è oggi un processo di istituzionalizzazione molto lungo nel tempo. Ha avuto fasi differenti. Negli ultimi tempi c'è un proliferare di metodi analitici di stampo quantitativo. Prima non era così. Si mescolava molto con altre materie: geografia, sociologia,...
 
 Poi, come uniche modalità legittime di analisi del territorio, sono rimaste solo metodologie di carattere quantitativo.
-
 
 La possibilità di trasgredire dei confini impone che questi confini debbano esistere. Le discipline esistono. Il percorso che Morin propone è un percorso a spirale.
 
@@ -42,7 +40,6 @@ Nel risolvere un problema mi rendo disponibile ad altri strumenti di indagine ri
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
 
 ## Metodologie qualitative
-
 
 
 ```ad-Definizione
