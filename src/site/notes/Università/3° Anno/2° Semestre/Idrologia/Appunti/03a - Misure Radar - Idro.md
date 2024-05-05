@@ -6,42 +6,61 @@
 
 
 
+# RADAR
 
-Stimare il campo di pioggia nello spazio da remoto.
+Siamo interessati a stimare il campo di pioggia nello spazio, da remoto. Possiamo usare il radar.
 
-Cambia il paradigma: 
-Quando misuriamo l'altezza di pioggia, misuriamo con lo strumento l'altezza.
-Col radar, misuriamo un'altra grandezza e da quello ricaviamo indirettamente le misure di pioggia.
+Rispetto a quanto visto fino ad ora cambia il paradigma: 
+- Quando misuriamo l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Altezza di pioggia\|altezza di pioggia]], misuriamo con lo strumento l'altezza.
+- Col radar, misuriamo un'altra grandezza e da quello ricaviamo indirettamente le misure di pioggia
 
-Da una parte recuperiamo il dato spaziale, dall'altra commettiamo un errore maggiore perché misuriamo una grandezza indiretta.
-
-Permette di ottenere il campo di pioggia in un'area molto vasta e possiamo quindi ridurre i tempi di gestione di un evento potenzialmente pericoloso.
+Questo metodo ha sia vantaggi che svantaggi:
+- [p] Recuperiamo il dato spaziale su un'area **molto vasta**
+	- Questo permette di ridurre i tempi di gestione di un evento potenzialmente pericoloso 
+- [c] Commettiamo un errore maggiore perché misuriamo una grandezza per via indiretta
 
 ```ad-Definizione
 title: Radar
-RADAR = RAdio Detection And Ranging
 
-È uno strumento elettromagnetico *attivo* e *indiretto* con *misura reale*: un'antenna che emette e riceve.
+**RADAR** = **RA**dio **D**etection **A**nd **R**anging
+
+Il **radar** è uno strumento elettromagnetico *attivo* e *indiretto* con *misura areale*: un'antenna che emette e riceve.
+- **attivo:** la misura viene effettuata in risposta a un segnale trasmesso
+- **indiretto:** non misuro le precipitazioni direttamente, ma misuro l'acqua precipitabile
+- **misura areale:** la misura avviene su un'area divisa in unità elementari
 
 ```
 
-Le gocce d'acqua presenti nell'atmosfera, ci fanno capire, sulla base di come il segnale elettromagnetico viene riflesso, come la quantità d'acqua in sospensione presente nell'atmosfera.
+## Ipotesi di lavoro
 
-Il RADAR deve essere posto in punto abbastanza alto. Se nella linea visiva del radar c'è un ostacolo, nasconde tutto quello che c'è dietro
+```ad-tip
+title: Ipotesi
+- Le particelle da rilevare, le gocce di pioggia, sono approssimabili a simmetria sferica
+- Tutta l'acqua precipitabile si trasforma in precipitazione e cade al suolo
+
+```
+
+
+## Misure radar di pioggia
+
+
+Le gocce d'acqua presenti nell'atmosfera, ci fanno capire, sulla base di come il segnale elettromagnetico viene riflesso, **la quantità d'acqua in sospensione** presente nell'atmosfera.
+
+Il [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03a - Misure Radar - Idro#RADAR\|#RADAR]] deve essere posto in punto abbastanza alto. Se nella linea visiva del radar c'è un ostacolo, nasconde tutto quello che c'è dietro
 
 Il radar gira ogni minuto.
 
+
 ![Schermata 2024-03-19 alle 08.27.58.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-03-19%20alle%2008.27.58.png)
 
-Il raggio d'azione del radar dipende dalla potenza. Più andiamo lontano, più occorre potenza.
-
+Il raggio d'azione del radar dipende dalla potenza. Più andiamo lontano, più occorre potenza. In particolare, la **potenza $P$ assorbita da un volume elementare di pioggia** è data da:
 $$
 P = \frac{CLZ}{r^{2}}
 $$
 dove:
 - $C:$ costante che dipende dalle caratteristiche del radar
 - $L:$ frazione perduta per attenuazione
-- $Z:$ fattore di riflittività del radar
+- $Z:$ fattore di riflettività del radar
 
 Per questo il radar è messo o a terra o su un veicolo.
 
@@ -59,7 +78,7 @@ Più ci si allontana dal radar, meno è precisa la misura --> La misura a grandi
 
 Quelli della [[Protezione Civile\|Protezione Civile]] sono in banda C.
 
-Quelli portatili sono in banda X e sono più piccoli. Quelli in Banda S sono usati prevalentemente in USA.
+Quelli portatili sono in banda X e sono più piccoli. Quelli in Banda S sono usati prevalentemente in [[United States of America\|USA]].
 
 COSA MISURA?
 - Riflettività del segnale
@@ -72,30 +91,40 @@ Dobbiamo trovare un modo di trasformare quello che misuriamo effettivamente e la
 ### Formula Z-R di Marshall & Palmer
 
 Applichiamo un filtro. 
+```ad-Teo
+title: Formula Z-R di Marshall & Palmer
 
-È una legge di potenza, detta formula di Marshall & Palmer
-
+La **Formula Z-R di Marshall & Palmer** è una legge di potenza:
 $$
 Z = aR^{b}
 $$
+
 dove:
 - $Z:$ Fattore di reflittività
-- $R:$ Intensità
+- $R:$ Intensità di pioggia(?)
 - $a$ e $b:$ fattori di calibrazione, che dipendono dal tipo di nubifragio
+
+```
 
 #### Metodo analitico di calibrazione del radar
 
 Si contano le gocce.
 
-In applicabile su grande scala
+Inapplicabile su grande scala
 
 #### Fattori di errore delle misure radar
 
 Dobbiamo conoscere l'incertezza con cui raccogliamo le misure, e il grado di incertezza.
 
-Primo fattore di incertezza:
-- Misuriamo in aria ma siamo al suolo
-- Ground Clutter: riflessione dei lobi secondari di radiazione emessi intorno al radar
+- Il [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03a - Misure Radar - Idro#RADAR\|#RADAR]] misura la l'acqua in sospensione e non la pioggia che effettivamente cade al suolo
+- L'acqua a bassa quota può sfuggire
+- La pioggia che si forma ad alta quota potrebbe non arrivare mai al suolo
+
+Ci sono poi una serie di **fattori di disturbo**:
+- Falsi eco dovuti alla evaporazione della pioggia dal suolo
+- Riflessione del suolo - **Ground Clutter**
+- Aumento di riflettività dovuto agli strati atmosferici con elevato contenuto di ghiaccio
+
 
 ![Schermata 2024-03-19 alle 08.52.07.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-03-19%20alle%2008.52.07.png)
 
@@ -108,9 +137,11 @@ Fonti di errore:
 4. Bright-band (riflessione dovuta al ghiaccio): blocca la radiazione e non si vede oltre
 5. Sottostima dell'intensità della pioggia debole a causa dell'assenza di gocce grandi
 6. Propagazione anomala: tipo miraggio del deserto
+
 ![Schermata 2024-03-19 alle 08.59.05.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/Schermata%202024-03-19%20alle%2008.59.05.png)
 
 Usando le stazioni pluviografiche presenti al suolo, calibro il radar in modo che restituisca, nei punti in cui misuro direttamente la pioggia, i valori corretti (con il minor scarto possibile).
+
 ![Schermata 2024-03-19 alle 09.01.42.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-03-19%20alle%2009.01.42.png)
 
 Al suolo, usiamo modelli idrologici in coordinate cartesiane. Il radar, restituisce valori in coordinate polari.
