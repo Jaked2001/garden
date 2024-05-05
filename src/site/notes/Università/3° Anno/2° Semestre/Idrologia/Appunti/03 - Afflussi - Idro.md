@@ -3,34 +3,55 @@
 ---
 
 # [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro\|03 - Afflussi - Idro]]
+!
 
 
+Essendo le precipitazioni fortemente dipendenti dallo spazio, l'afflusso pluviometrico non può essere calcolato, su un intera regione, semplicemente attribuendo a tutta l'area l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Altezza di pioggia\|altezza di pioggia]] di un'unico [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro\|pluviometro]].
+
+Occorre pertanto effettuare un [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro#Ragguaglio spaziale delle piogge\|#Ragguaglio spaziale delle piogge]].
 
 ## Ragguaglio spaziale delle piogge
 
 ```ad-Definizione
 title: Ragguaglio spaziale delle piogge
 
-La valutazione dell’altezza di pioggia media su un area a partire da quella nota in un punto
+Il **ragguaglio spaziale delle piogge** è la valutazione dell’[[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Altezza di pioggia\|altezza di pioggia]] media su un area a partire da quella nota in un punto
 
 ```
 
-Il coefficiente di Ragguaglio è l'altezza di precipitazione media sull'area fratto quella misurata sul punto.
-$$
-C_{R} = \frac{H_{A}}{H_{P}}
-$$
-$H_{A} = C_{R} \cdot H_{P}$
+Permette di definire un coefficiente, detto [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro#Fattore di ragguaglio\|#Fattore di ragguaglio]]
 
-Ipotizziamo che sia sempre $C_{R} \le 1$. È un ipotesi di lavoro che vale per frequenze basse ([[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro\|piogge intense]]).
+### Fattore di ragguaglio
 
-$C_{R}$ è funzione della frequenza.
+```ad-Definizione
+title: Fattore di ragguaglio ($R$ oppure $C_{R}$)
+
+Il **Fattore - o coefficiente - di ragguaglio** è l'[[02 - Piogge Intense - Idro#Altezza di pioggia|altezza di pioggia]] media sull'area fratto quella misurata sul punto.
+$$
+R = \frac{H_{A}}{H_{P}}
+$$
+dove:
+- $H_{A}:$ [[02 - Piogge Intense - Idro#Altezza di pioggia|altezza di pioggia]] media sull'area
+- $H_{P}:$ [[02 - Piogge Intense - Idro#Altezza di pioggia|altezza di pioggia]] misurata in un punto 
+
+Possiamo anche scrivere:
+$$
+H_{A} = C_{R} \cdot H_{P}
+$$
+
+```
+
+
+Ipotizziamo che sia sempre $R \le 1$. È un ipotesi di lavoro che vale per frequenze basse ([[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro\|piogge intense]]).
+
+$R$ è funzione della frequenza.
 
 ![Schermata 2024-03-18 alle 11.02.34.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-03-18%20alle%2011.02.34.png)
 
-$C_{R}$ aumenta
-- all'aumentare della *durata*
-- al diminuire dell'*Area*
-- al diminuire del *tempo di ritorno* ($T_{R}$) = il tempo tra due eventi considerati estremi
+$R$ aumenta
+- all'*aumentare* della **durata**
+- al *diminuire* dell'**Area**
+- al *diminuire* del **tempo di ritorno** ($T_{R}$) = il tempo tra due eventi considerati estremi
 
 Quando ho a disposizione, in un'area di interesse, più misure, posso usare tre metodi per definire un'altezza media per quell'area:
 - [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro#Metodo della media\|#Metodo della media]]
@@ -39,35 +60,62 @@ Quando ho a disposizione, in un'area di interesse, più misure, posso usare tre 
 - [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro#Metodo dei poligoni di Thiessen\|#Metodo dei poligoni di Thiessen]]
 - [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro#Metodo delle isoiete\|#Metodo delle isoiete]]
 
-### Metodo della media
+### Metodi di ragguaglio spaziale delle piogge
 
-Si assume come altezza media di pioggia la media delle altezze misurate ai pluviometri
+#### Metodo della media
 
-$$
-w_{i} = \frac{1}{N}
-$$
+Il Metodo della media è un metodo di [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro#Ragguaglio spaziale delle piogge\|#Ragguaglio spaziale delle piogge]]
+
+```ad-Teo
+title: Metodo della Media
+
+Si assume come [[02 - Piogge Intense - Idro#Altezza di pioggia|altezza di pioggia]] media ($h_{A}$, la media delle altezze misurate ai pluviometri disponibili ($h_{i}$.
+
 $$
 h_{A} = \frac{1}{N} \sum\limits_{i=1}^{N}h_{i}
 $$
 
-### Metodo dei topoieti
+```
 
+$$
+w_{i} = \frac{1}{N}
+$$
+
+
+#### Metodo dei topoieti
+
+Il metodo dei Topoieti, o metodo dei Poligoni di Thiessen (vd. anche: [[Università/2° anno/2° Semestre/GIS/GIS 1/5. DEM#Poligoni di Thiessen\|poligoni di Thiessen - GIS]]) è un metodo di [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro#Ragguaglio spaziale delle piogge\|#Ragguaglio spaziale delle piogge]].
 
 ![03 - Afflussi - Idro 2024-03-18 11.14.41.excalidraw.png](/img/user/Excalidraw/03%20-%20Afflussi%20-%20Idro%202024-03-18%2011.14.41.excalidraw.png)
 
 
-![Schermata 2024-03-18 alle 11.18.09.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-03-18%20alle%2011.18.09.png)
+I poligoni sono definiti tracciando la linea equidistante a due punti dati. Ad ogni poligono assegno poi il valore del punto noto all'interno.
+
+![Schermata 2024-05-02 alle 15.27.27.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-05-02%20alle%2015.27.27.png)
+
+Si assume come [[02 - Piogge Intense - Idro#Altezza di pioggia|altezza di pioggia]] media sulla regione, la media delle altezze delle stazioni adiacenti pesata in base all'area dei topoieti.
 
 ### Metodo delle isoiete
 
-Isoiete: Linee a uguale pioggia
+```ad-Definizione
+title: Isoiete
+
+Le **isoiete** sono le linee a uguale pioggia
+
+```
 
 ![Schermata 2024-03-18 alle 11.20.06.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-03-18%20alle%2011.20.06.png)
 
+
+Si usa in presenza si un rilievo.
+
+Si fa l'ipotesi di andamento lineare lungo i segmenti
 ## Controllo dei dati
 ### Metodo della doppia massa
 
 Ho dubbi su un pluviometro ma non su un altro. Faccio la cumulata su quello di riferimento e su quello di cui ho dubbi. Se i dati sono a retta costante, va tutto bene. Negli eventuali tratti con cambio di pendenza, vuol dire che qualcuno ha avuto qualche problema.
+
+![Schermata 2024-05-02 alle 15.39.30.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-05-02%20alle%2015.39.30.png)
 
 ![Schermata 2024-03-18 alle 11.25.05.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/Schermata%202024-03-18%20alle%2011.25.05.png)
 
