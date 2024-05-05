@@ -247,9 +247,9 @@ L'ozono assorbe le radiazioni ultraviolette dell'irraggiamento solare, per cui l
 </div></div>
 
 
-❗❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗ Strati dell'atmosfera
-❗❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗
 
 ### Distribuzione orizzontale della temperatura al suolo
 
@@ -439,8 +439,8 @@ Quando un volume d'aria aumenta di quota, è soggetta a **pressioni minori**. Qu
 
 Il processo delle correnti verticali, in assenza di precipitazioni, può essere considerato adiabatico (senza scambi di calore con l'esterno).
 Alla luce di ciò andiamo a definire
-- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Gradiente adiabatico secco\|#Gradiente adiabatico secco]]
-- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Gradiente adiabatico umido\|#Gradiente adiabatico umido]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Gradiente adiabatico secco\|#Gradiente adiabatico secco]] - $\Gamma_{s}$
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Gradiente adiabatico umido\|#Gradiente adiabatico umido]] - $\Gamma_{u}$
 
 Poiché la condensazione comporta la trasformazione del [[calore latente\|calore latente]] del vapor d'acqua in calore sensibile dell'aria è vera la relazione
 $$
@@ -448,7 +448,6 @@ $$
 $$
 
 #### Gradiente adiabatico
-
 
 ##### Gradiente adiabatico secco
 
@@ -483,6 +482,8 @@ L'atmosfera si dice **stabile** quando un volume elementare d'aria, spostato in 
 ```
 
 A sua volta l'atmosfera stabile può essere
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Atmosfera assolutamente stabile\|#Atmosfera assolutamente stabile]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Atmosfera condizionalmente stabile\|#Atmosfera condizionalmente stabile]]
 
 ###### Atmosfera assolutamente stabile
 
@@ -527,21 +528,102 @@ In questo caso l'aria non è mai in equilibrio stabile, sia che avvenga, sia che
 ```
 
 
-### Correnti orizzontali
+### Corrente orizzontale
 
-❗❗❗❗❗❗❗❗❗❗❗❗❗
+La pressione atmosferica varia con l'altezza. Esiste quindi un gradiente barico (di pressione) verticale molto forte che è equilibrato essenzialmente dal peso dell'aria stessa e che sussiste anche in assenza di [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Corrente verticale\|correnti verticali]].
+
+Qualora esista una differenza di pressione, seppur piccola, tra due punti ad una stessa quota, questa sarà sempre accompagnata dalla presenza di una [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Corrente orizzontale\|#Corrente orizzontale]]
+
+Possiamo quindi definire un [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Gradiente barico orizzontale\|#Gradiente barico orizzontale]] - $- \vec{G}$
+
+
+#### Gradiente barico orizzontale
+
+```ad-Definizione
+title: Gradiente barico orizzontale ($- \vec{G}$)
+Il gradiente barico orizzontale è il vettore
+$$
+-\vec{G} = \text{grad} (p)
+$$
+dove:
+- $p:$ [[#Pressione atmosferica]] ad una certa quota
+
+```
+
+
+#### Legge di Buys-Ballot
+
+Se la Terra fosse ferma, la forza per unità di volume $\vec{G}$, relativa al [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Gradiente barico orizzontale\|#Gradiente barico orizzontale]], potrebbe essere equilibrata solo dalle resistenze d'attrito al moto dell'aria, ed il vento avrebbe sempre un andamento normale alle isobare.
+
+Per via della rotazione terrestre, sul vento agisce anche la [[Forza di Coriolis\|Forza di Coriolis]]: $\vec{F} = -2 \rho\vec{\omega_{\varphi}}\vec{V}$
+
+In queste condizioni, il vento prende il nome di **vento geostrofico** e segue la [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Legge di Buys-Ballot\|#Legge di Buys-Ballot]]
+
+```ad-Teo
+title: Legge di Buys-Ballot
+
+Il vento geostrofico è diretto parallelamente alle isobare, con verso tale da lasciare a destra, nell'emisfero settentrionale, ed a sinistra in quello medidionale, le pressioni più elevate
+```
+
+Ne risultano quindi 2 sistemi dinamici elementari di circolazione:
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Sistema anticiclonico\|#Sistema anticiclonico]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Sistema ciclonico\|#Sistema ciclonico]]
+
+![Schermata 2024-05-01 alle 12.42.07.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-05-01%20alle%2012.42.07.png)
+
+
+##### Sistema anticiclonico
+
+![Schermata 2024-05-01 alle 12.43.06.png|Anticiclone nell'emisfero settentrionale](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-05-01%20alle%2012.43.06.png)
+
+Per la [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Legge di Buys-Ballot\|#Legge di Buys-Ballot]] il vento gira intorno ad un centro di **alte** pressioni, con verso
+- Orario - nell'emisfero settentrionale
+- Antiorario - nell'emisfero meridionale.
+
+Al suolo è presente una componente **centrifuga**, la forza $\vec{C}$ che è diretta perpendicolarmente alle isobare e sempre verso l'esterno.
+
+L'anticiclone è alimentato da una corrente centrale **discendente**.
+##### Sistema ciclonico
+
+![Schermata 2024-05-01 alle 12.42.55.png|Ciclone nell'emisfero settentrionale](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-05-01%20alle%2012.42.55.png)
+
+Per la [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Legge di Buys-Ballot\|#Legge di Buys-Ballot]] il vento gira intorno ad un centro di **basse** pressioni, con verso:
+- Antiorario - nell'emisfero settentrionale
+- Orario - nell'emisfero meridionale
+
+Al suolo è presente una componente **centripeta**
+
+Il ciclone è alimentato da una corrente centrale **ascendente**.
+
+### Circolazione generale dell'atmosfera
+
+
+❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗
 
 
 
 
 
+# Precipitazioni
+## Genesi delle precipitazioni
+
+Quando l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Umidità relativa\|#Umidità relativa]] raggiunge l'unità, il vapore condensa.
+
+La condensazione in realtà può iniziare anche prima della saturazione, purché il vapore sia a contatto con particelle solide submicroscopiche (con dimensioni variabili $10^{-3}\div 10\,\rm  \mu m$ in sospensione nell'aria, che fungono da nuclei di condensazione).
+
+Si formano così minutissime goccioline, il cui diametro è dell'ordine di grandezza di $0.01\div 0.02 \,\rm mm$
+
+![Schermata 2024-05-01 alle 13.32.54.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-05-01%20alle%2013.32.54.png)
 
 
+ ❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗
+Completare:
+- cause aumento umidità relativa
+- tipi di nubi
 
-
-
-
-
+Le precipitazioni iniziano quando le goccioline - dapprima tanto minute da rimanere in sospensione - crescono.
 
