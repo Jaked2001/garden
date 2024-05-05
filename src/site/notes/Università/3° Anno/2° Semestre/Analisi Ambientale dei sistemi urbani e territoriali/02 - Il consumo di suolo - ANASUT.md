@@ -81,9 +81,7 @@ Il profilo del suolo è caratterizzato da strati sub-orizzontali chiamati **oriz
 
 Gli strati più superficiali risentono di più degli agenti esterni e sono modificati nel tempo. Tendono quindi ad avere caratteristiche diverse dal materiale che ha dato origine a quello strato. Il contrario è vero per gli strati più profondi.
 
-
 Il suolo è strutturato in piccoli aggregati: la sostanza organica e i minerali fanno da aggregante, colla. Sono micro agglomerati caratterizzati da pori attraverso cui transitano acqua e sostanze nutrienti.
-
 
 ### Importanza del suolo
 
@@ -314,9 +312,6 @@ title: Frammentaizone del territorio
 La **frammentazione del territorio** è il processo che genera una riduzione della superficie degli ambienti naturali e seminaturali e un aumento del loro isolamento.
 
 ```
-
-
-
 
 #### Isola di calore urbana
 
