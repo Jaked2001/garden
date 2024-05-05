@@ -8,7 +8,7 @@
 
 Con la classe ci siamo recati nel Parco di [[Colle Oppio\|Colle Oppio]]. Dietro indicazione del professore abbiamo speso un'ora di tempo all'interno del parco, osservandolo. L'unica cosa che ci era richiesta era di osservare, eventualmente prendere appunti, e **NON** condividere con gli altri ciò che notavamo. 
 
-Al rientro in aula ci è stato chiesto a ognuno di noi di *rappresentare* il Parco di Colle Oppio su un foglio di carta. La tipologia di rappresentazione è stata lasciata libera: disegno, mappa, testo, schema...
+Al rientro in aula è stato chiesto a ognuno di noi di *rappresentare* il Parco di Colle Oppio su un foglio di carta. La tipologia di rappresentazione è stata lasciata libera: disegno, mappa, testo, schema...
 
 Abbiamo quindi raccolto tutte le rappresentazioni e le abbiamo discusse insieme.
 
@@ -158,12 +158,14 @@ Non c'è un mondo antistante al nostro sguardo ma solo il mondo che riusciamo a 
 ![Schermata 2024-04-11 alle 13.47.55.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Analisi%20Ambientale%20dei%20sistemi%20urbani%20e%20territoriali/allegati/Schermata%202024-04-11%20alle%2013.47.55.png)
 
 Il parco di colle oppio lo abbiamo rappresentato per come lo abbiamo conosciuto (epistemologia) non per come è (ontologia).  
+- **Ontologia:** Come è realmente
+- **Epistemologia:** come lo conosciamo
+
 
 ```ad-quote
 title: [[Aldo Gargani]]
 L’uomo spesso pretende di gettare una luce completa sulla sua esistenza e sulla realtà. In questa maniera vede bene ciò che ha, ma non ciò che è
 ```
-
 
 
 ```ad-quote
@@ -187,8 +189,8 @@ Scandagliare le ragioni che ci hanno indotti a mettere un filtro.
 Costruire una rappresentazione capace di decentrarsi.
 
 ```ad-quote
-title: [[Gregory Bateson]]
-Il territorio non entra mai in scena. Il territorio è la *dig an sich*, e con esso non c’è nulla da fare, poiché il procedimento della rappresentazione lo eliminerà sempre, cosicchè il mondo mentale è costituito solo da mappe, ad infinitum.
+title: [[Gregory Bateson]], 1997
+Il territorio non entra mai in scena. Il territorio è la *dig an sich* (= [[Noumeno]]), e con esso non c’è nulla da fare, poiché il procedimento della rappresentazione lo eliminerà sempre, cosicchè il mondo mentale è costituito solo da mappe, ad infinitum.
 
 ```
 
@@ -236,6 +238,23 @@ Medea (=colei che porta consiglio). Espressione di una società matriarcale (la 
 
 Per rendere conto della complessità del territorio è interessante costruire uno spazio di voci in cui rappresentazioni differenti possono entrare in conflitto.
 
+```ad-quote
+title: [[Husserl]], 1983
+
+**Non c’è un solo punto di vista.** Esistono rappresentazioni urbane multiple e potenzialmente conflittuali, prodotte dal lato dei consumatori della città che chiedono maggior ascolto e legittimità. Esistono fenomenologie urbane che vanno intercettate ed intrecciate: **rappresentazioni plurali della città**, controverse, incarnate la cui esplicitazione permetterebbe di accostarsi a quel mondo-della vita che precede ogni categorizzazione raziocinante.
+
+```
+
+
+```ad-quote
+title: [[Moschella]], 1998
+
+[[Husserl]] ipotizza una rifondazione della scienza occidentale moderna, a partire da una **critica del suo oggettivismo** che, secondo il filosofo, avrebbe determinato la sovrapposizione delle categorizzazioni prodotte dagli scienziati al mondo-della-vita. Scambiando le prime con la realtà del secondo e trasformando la natura in un insieme di dati, la scienza avrebbe perso consapevolezza del nesso che originariamente legava il soggetto all’oggetto;  
+con esso avrebbe perso di vista anche il senso del proprio operare, recuperabile, secondo Husserl, solo attivando la pratica dell’**epoché**, da egli proposta e definita come «quella **sospensione di giudizio mediante la quale viene introdotto il dubbio e vengono messi tra parentesi i significati o le categorie con le quali usualmente è compreso il mondo nel quale si vive**»
+```
+
+La società, dice [[Georg Simmel\|Georg Simmel]], ha bisogno, per assumere una determinata configurazione, di quantitativi variabili di armonia e disarmonia, associazione e competizione, tendenze favorevoli e sfavorevoli.
+
 
 ![2024-04-11 - Questa non è una mappa - Mappa ANASUT.excalidraw.png](/img/user/Excalidraw/2024-04-11%20-%20Questa%20non%20%C3%A8%20una%20mappa%20-%20Mappa%20ANASUT.excalidraw.png)
 
@@ -258,9 +277,7 @@ Il [[01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT
 
 Gourdier: spazio dei punti di vista
 
-Avvicinametno alla vita Hurrssel
 
-Sospensione del giudizio.
 
 
 ## Critica alla razionalità cartografica
@@ -304,11 +321,11 @@ Utilizza codici semantici-linguistici riconosciuti che rendono leggibile lo spaz
 
 ```ad-quote
 title: [[Patrizia Gabellini]], 1996
-Questo è legato a questo punto di vista che scompare. La presa zenitale, nega il punto di vista orientato e simula una visione olistica di fatto impossibile per l'uomo: uno sguardo onnicomprensivo al quale è accessibile l'insieme, la mesas a fuoco simultanea del tutto, uno sguardo indifferente alla sequenza di singoli punti selezionati.
+Questo è legato a questo punto di vista che scompare. **La presa zenitale, nega il punto di vista orientato e simula una visione olistica di fatto impossibile per l'uomo**: uno sguardo onnicomprensivo al quale è accessibile l'insieme, la mesas a fuoco simultanea del tutto, uno sguardo indifferente alla sequenza di singoli punti selezionati.
 ```
 
 
-Rispetto a queste considerazioni, dobbiamo riflettere se la cartografia possa essere considerata l'esclusiva forma di rappresentazione. 
+Rispetto a queste considerazioni, dobbiamo riflettere se la cartografia possa essere considerata l'esclusiva forma di rappresentazione.
 
 
 "La forma di rappresentazione più adeguata dipende da ciò che si vuole rappresentare" (< [[Vettoretto\|Vettoretto]], 2001).
