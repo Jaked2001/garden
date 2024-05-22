@@ -87,7 +87,7 @@
 	- [ ] Al diminuire del tempo di ritorno, al crescere della pendenza media del bacino, al ridursi della copertura erbosa
 	- [ ] Al crescere del tempo di ritorno, al crescere della pendenza media del bacino, al ridursin della copertura erbosa
 
-18. Il tempo di ritorno associale a una curva di caso critico:
+18. Il tempo di ritorno associato a una curva di caso critico:
 	- [ ] Dipende dall’ordine di caso critico della curva e dal numero di anni di osservazione
 	- [ ] Dipende dall’ordine di caso critico della curva del numero di anni di osservazione, se questo è inferiore a 20
 	- [ ] Dipende solo dall’ordine di caso critico della curva e non dal numero di anni di osservazione
