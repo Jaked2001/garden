@@ -69,7 +69,7 @@ Il Metodo della media è un metodo di [[Università/3° Anno/2° Semestre/Idrolo
 ```ad-Teo
 title: Metodo della Media
 
-Si assume come [[02 - Piogge Intense - Idro#Altezza di pioggia|altezza di pioggia]] media ($h_{A}$, la media delle altezze misurate ai pluviometri disponibili ($h_{i}$.
+Si assume come [[02 - Piogge Intense - Idro#Altezza di pioggia|altezza di pioggia]] la media ($h_{A}$, la media delle altezze misurate ai pluviometri disponibili ($h_{i}$.
 
 $$
 h_{A} = \frac{1}{N} \sum\limits_{i=1}^{N}h_{i}
@@ -77,6 +77,7 @@ $$
 
 ```
 
+Quando il terreno è molto omogeneo
 $$
 w_{i} = \frac{1}{N}
 $$
@@ -95,6 +96,8 @@ I poligoni sono definiti tracciando la linea equidistante a due punti dati. Ad o
 
 Si assume come [[02 - Piogge Intense - Idro#Altezza di pioggia|altezza di pioggia]] media sulla regione, la media delle altezze delle stazioni adiacenti pesata in base all'area dei topoieti.
 
+È utile quando cambia la distribuzione geometrica del territorio (distribuzione dei pluviografi) ma non le caratteristiche fisiche (morfologia del territorio)
+
 ### Metodo delle isoiete
 
 ```ad-Definizione
@@ -107,9 +110,10 @@ Le **isoiete** sono le linee a uguale pioggia
 ![Schermata 2024-03-18 alle 11.20.06.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-03-18%20alle%2011.20.06.png)
 
 
-Si usa in presenza si un rilievo.
+Si usa in presenza di un rilievo.
 
 Si fa l'ipotesi di andamento lineare lungo i segmenti
+
 ## Controllo dei dati
 ### Metodo della doppia massa
 
