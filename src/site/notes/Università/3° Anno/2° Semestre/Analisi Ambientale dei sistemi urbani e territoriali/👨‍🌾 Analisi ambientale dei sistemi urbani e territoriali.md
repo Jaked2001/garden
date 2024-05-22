@@ -83,6 +83,7 @@ ___
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT\|05 - Piano Regolatore Generale - ANASUT]]                                                                         | T    | 🟢 Fatto    |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/06 - Metodologie di analisi - ANASUT\|06 - Metodologie di analisi - ANASUT]]                                                                               | T    | 🟢 Fatto    |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT\|07 - Interviste - ANASUT]]                                                                                                       | T    | 🟢 Fatto    |
+| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/08 - Partecipazione\|08 - Partecipazione]]                                                                                                                 | T    | 🟠 Studiare |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Analisi del contesto territoriale\|Analisi del contesto territoriale]]                                                                                     | T    | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Oltre il catastrofismo\|Oltre il catastrofismo]]                                                                                                           | T    | 🪶 Scrivere |
 
@@ -105,12 +106,13 @@ ___
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT\|05 - Piano Regolatore Generale - ANASUT]]                                                                         | 🟢 Fatto    |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/06 - Metodologie di analisi - ANASUT\|06 - Metodologie di analisi - ANASUT]]                                                                               | 🟢 Fatto    |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT\|07 - Interviste - ANASUT]]                                                                                                       | 🟢 Fatto    |
+| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/08 - Partecipazione\|08 - Partecipazione]]                                                                                                                 | 🟠 Studiare |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Analisi del contesto territoriale\|Analisi del contesto territoriale]]                                                                                     | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Oltre il catastrofismo\|Oltre il catastrofismo]]                                                                                                           | 🪶 Scrivere |
 
 { .block-language-dataview}
 
-
+ 
 ___
 
 
@@ -136,4 +138,6 @@ ___
 - [[2024-03-21 - Gli orti urbani - Mappa ANASUT.excalidraw.png]]
 - [[2024-04-11 - Questa non è una mappa - Mappa ANASUT.excalidraw.png]]
 - [[2024-04-18 - Il Piano Regolatore Generale - Mappa ANASUT.excalidraw.png]]
+- MANCANTI...
+- [[2024-05-16 - Tecniche di coinvolgimento - Mappa ANASUT.excalidraw.png]]
 
