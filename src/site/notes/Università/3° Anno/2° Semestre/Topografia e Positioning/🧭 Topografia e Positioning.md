@@ -60,9 +60,14 @@ Esercizi: 3 esercizi numerici, 2 parti. devono essere entrambi sufficienti. Sost
 2. **Stima**
 
 Voto è media delle due parti.
-Se voto è sullo 0.5 vale approx per accesso
+Se voto è sullo 0.5 vale approssimazione per accesso
 
 Superato lo scritto si è ammessi all'[[Università/3° Anno/2° Semestre/Topografia e Positioning/🧭 Topografia e Positioning#🗣 Orale\|#🗣 Orale]]
+
+Esercizi d'esame
+1) minimi quadrati
+2) Sistemi cartografici(non abbiamo ancora fatto)
+3) Sistemi di coordinate
 
 
 ### 🗣 Orale 
@@ -110,7 +115,7 @@ ___
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/00 - Presentazione corso Topografia e Positioning\|00 - Presentazione corso Topografia e Positioning]] | T       | 🟢 Fatto      |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP\|01 - Sistemi di riferimento e di coordinate - TP]]   | T       | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP\|02 - Campo gravitazionale - TP]]                                       | T       | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Statistica in Topografia - TP\|03 - Statistica in Topografia - TP]]                               | T       | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Statistica in Topografia - TP\|03 - Statistica in Topografia - TP]]                               | T       | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]                                         | T       | 🪶🟡 Scrivere |
 
 { .block-language-dataview}
@@ -119,6 +124,29 @@ ___
 ___
 
 # 👉🏻 Indice del corso
+
+0. Introduzione corso
+1. Sistemi di riferimetno e di coordinate
+2. Sistemi di riferimento e di coordinate sulla Terra
+3. Centro - Dispersione
+4. Equazioni di osservazione
+5. Progettazione e soluzione di problema di Positioning
+6. Cartografia
+7. Osservazioni su esercizi
+8. Strumenti di misura
+
+
+| File                                                                                                                                                                        | Stato         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/00 - Presentazione corso Topografia e Positioning\|00 - Presentazione corso Topografia e Positioning]] | 🟢 Fatto      |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP\|01 - Sistemi di riferimento e di coordinate - TP]]   | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP\|02 - Campo gravitazionale - TP]]                                       | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Statistica in Topografia - TP\|03 - Statistica in Topografia - TP]]                               | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]                                         | 🪶🟡 Scrivere |
+
+{ .block-language-dataview}
+
+
 
 ___
 
