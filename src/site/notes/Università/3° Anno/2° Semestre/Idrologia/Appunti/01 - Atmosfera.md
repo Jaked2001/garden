@@ -312,6 +312,7 @@ Si definisce **pressione atmosferica NORMALE** al livello del suolo la pressione
 La pressione atmosferica normale è assunta come unità di misura della pressione e si dice *atmosfera* ($\rm atm$).
 
 La pressione, anche in una data quota, varia nello spazio e nel tempo. Si definisce pertanto una [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Superficie isobarica\|#Superficie isobarica]].
+
 #### Superficie isobarica
 
 ```ad-Definizione
@@ -603,9 +604,6 @@ Il ciclone è alimentato da una corrente centrale **ascendente**.
 ❗❗❗❗❗❗❗❗❗❗❗❗
 
 
-
-
-
 # Precipitazioni
 ## Genesi delle precipitazioni
 
@@ -618,9 +616,10 @@ Si formano così minutissime goccioline, il cui diametro è dell'ordine di grand
 ![Schermata 2024-05-01 alle 13.32.54.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-05-01%20alle%2013.32.54.png)
 
 
- ❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗
 ❗❗❗❗❗❗❗❗❗❗❗❗
+
 Completare:
 - cause aumento umidità relativa
 - tipi di nubi
