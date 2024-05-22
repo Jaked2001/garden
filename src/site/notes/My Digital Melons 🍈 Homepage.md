@@ -4,6 +4,8 @@
 
 # [[My Digital Melons 🍈 Homepage\|My Digital Melons 🍈 Homepage]]
 
+![WhatsApp Image 2024-05-21 at 12.34.07 PM.jpeg](/img/user/allegati/WhatsApp%20Image%202024-05-21%20at%2012.34.07%20PM.jpeg)
+
 Benvenuto nel mio Digital Garden. Qui condivido alcune delle mie note, principalmente appunti universitari. Spero tu lo ritenga utile.
 
 ```ad-attention
