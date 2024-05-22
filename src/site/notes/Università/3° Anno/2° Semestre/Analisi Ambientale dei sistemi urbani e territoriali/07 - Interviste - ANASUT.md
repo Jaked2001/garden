@@ -6,6 +6,7 @@
 
 
 
+
 Attraverso un'intervista riesco a ricavare informazioni.
 
 
@@ -63,6 +64,10 @@ Al fine di fornire a tutti stimoli uguali il ricercatore dovrebbe:
 
 L'[[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT#Tipi di intervista\|intervista]] strutturata è detta anche **standardizzata**.
 
+#### ✅ Vantaggi
+
+Il tempo di richiesta è limitato
+
 ### Intervista semi-strutturata
 
 Prevede una traccia di domande sugli argomenti che necessariamente devono essere affrontati durante l'intervista. Eventualmente il ricercatore può avere sotto mano una serie di domande prefissate che deve porre, ma l'intervista non si limita a queste.
@@ -112,6 +117,67 @@ Si possono formulare diversi tipi di domande:
 
 
 
+
+
+## Suggerimenti per intervista
+
+Ci possono essere 2 ipotesi:
+- Facciamo un sopralluogo e troviamo qualcuno disponibile a parlare e facciamo l'intervista li per li
+- Prendiamo un appuntamento con qualcuno
+
+Sospensione del giudizio!!!
+
+Svolgere l'intervista in maniera più **comoda** possibile.
+
+- Opportuno **registrare** l'intervista (previo consenso: specificare come e dove usare la registrazione). Se non abbiamo il consenso, prendere appunti.
+- È richiesta l'autorizzazione all'uso delle immagini
+- Ricordare che il contenuto dell'intervista può restare anonimo se lo richiedono. Nel caso qualcuno volesse rimanere anonimo, sarà nostra premura 
+
+elders: figure a cui è attribuito un particolare statuto: un riferimento della comunità, non gli anziani anagrafici.
+
+- Ricordare che l'intervistato ci fornire il suo tempo. Cercare di ricambiare questo tempo
+
+- L'intervista va sbobinata e trascritta per intero
+
+
+### Linguaggio non verbale
+
+L'intervistato adotta anche un linguaggio **non verbale**.
+
+SVC: Sentito Visto Commentato
+
+Sollecito una persona a raccontare delle cose. Ascolto ciò che dice. Vedo ciò che fa; come reagisce all'intorno.
+
+L'SVC è un appunto ulteriore che consiste nell'appuntare non solo cosa sento ma anche cosa vedo.
+
+## Analisi dell'intervista
+
+Si consiglia di:
+- **Individuare i temi**
+- **Ordinare i temi** individuati dal più generale al più particolare o dal più semplice al più complesso
+- **Individuare per ogni intervista le parti in cui vengono trattati i temi individuati**
+- Fare un **raggruppamento per temi** dei pezzi individuati nelle varie interviste
+- **Commentare il dato ottenuto**
+
+
+Cerco quindi di racchiudere le informazioni in gruppi omogenei.
+
+## Tipi di intervista a confronto
+
+
+|                               | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT#Intervista non strutturata\|#Intervista non strutturata]]                                                                                       | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT#Intervista semi-strutturata\|#Intervista semi-strutturata]]                                                                                                     | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT#Intervista semi-strutturata\|#Intervista semi-strutturata]]                                                                                            |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| **Consistenza del campione**  | Piccolo                                                                                                               | Medio-piccolo                                                                                                                        | Grandi e statisticamente significativi                                                                                      |
+| **Traccia da seguire**        | Sono tassativi solo i temi della ricerca                                                                              | Sono individuati temi rilevanti e alcune domande da porre obbligatoriamente                                                          | Nel questionario sono indicate tutte le domande da porre                                                                    |
+| **Tipologie di domande**      | Non standardizzata                                                                                                    | Sono standardizzate solo quelle che devono essere poste obbligatoriamente perché rilevanti per la ricerca                            | Standardizzate: vengono formulate a tutti nello stesso modo e nello stesso ordine                                           |
+| **Autonomia del ricercatore** | Massima: può formulare tutte le domande nel modo che ritiene più utile                                                | Elevata: può formulare le domande nel modo che ritiene più utile se nella traccia da seguire sono indicati solo i temi da affrontare | Mninima: deve formulare le domande così come sono scritte nel questionario e nello stesso ordine                            |
+| **Documentazione raccolta**   | Si possono ottenere informazioni complete su un numero ridotto di argomenti                                           | Si possono ottenere informazioni complete su un numero ridotto di argomenti                                                          | Si possono ottenere molte informazioni poco approfondite su un numero consistente di argomenti                              |
+| **Domande formulate**         | Aperte e sonda                                                                                                        | Aperte e sonda, chiuse, semi-aperte, indirette, aneddotiche, con tecniche figurali o con completamento di frase                      | Aperte, semi-aperte, chiuse, aneddotiche, con tecniche figurali e con completamento di frase                                |
+| **✅ Vantaggi**                | È possibile adeguare le domande ai diversi intervistati e riformularle in altri termini nel caso non vengano comprese |                                                                                                                                      | Il tempo richiesto per ogni intervista è limitato. Questo consente di interpellare un campione grande e rappresentativo<br> |
+| **✅ Vantaggi**                | Permettono di approfondire tematiche non preventivate                                                                 |                                                                                                                                      |                                                                                                                             |
+| **❌ Svantaggi**               | L'intervistatore deve avere un'elevata professionalità e un'adeguata esperienza. Implica perciò costi elevati         | L'intervistatore deve avere un'elevata professionalità e un'adeguata esperienza. Implica perciò costi elevati                        | Al fine di mantenere uguale lo stimolo, le domande vanno riaffermate senza cambiare termini                                 |
+| **❌ Svantaggi**               | Tempo richiesto molto lungo                                                                                           |                                                                                                                                      | L'intervistato può sentirsi frustrato dal non poter giustificare le proprie risposte                                        |
+| **❌ Svantaggi**               |                                                                                                                       | Spesso è difficile classificare, codificare e comparare le risposte                                                                  | Le domande non sono comprese da tutti                                                                                       |
 
 
 
