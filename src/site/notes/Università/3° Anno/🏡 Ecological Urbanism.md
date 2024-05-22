@@ -46,7 +46,7 @@ Data 3: III appello
 Solo [[Università/3° Anno/🏡 Ecological Urbanism#🗣 Orale\|#🗣 Orale]]
 
 
-### 🗣 Orale 
+### 🗣 Orale
 
 Oral presentation on research done.
 Work presented also by written report.
@@ -80,16 +80,16 @@ ___
 
 
 
-| File                                                                                   | Stato       |
-| -------------------------------------------------------------------------------------- | ----------- |
-| [[Università/3° Anno/00 - Presentazione corso - EU\|00 - Presentazione corso - EU]] | 🟢 Fatto    |
-| [[Università/3° Anno/01 - Water - EU\|01 - Water - EU]]                             | 🟠 Studiare |
-| [[Università/3° Anno/02 - Green Spaces - EU\|02 - Green Spaces - EU]]               | 🟠 Studiare |
-| [[Università/3° Anno/03 - Urban Fabric - EU\|03 - Urban Fabric - EU]]               | 🟠 Studiare |
-| [[Università/3° Anno/04 - Energy - EU\|04 - Energy - EU]]                           | 🟠 Studiare |
-| [[Università/3° Anno/05 - Waste - EU\|05 - Waste - EU]]                             | 🟠 Studiare |
-| [[Università/3° Anno/06 - Mobility - EU\|06 - Mobility - EU]]                       | 🟠 Studiare |
-| [[Università/3° Anno/07 - Community - EU\|07 - Community - EU]]                     | 🟡 Finire   |
+| File                                                                                   | Stato    |
+| -------------------------------------------------------------------------------------- | -------- |
+| [[Università/3° Anno/00 - Presentazione corso - EU\|00 - Presentazione corso - EU]] | 🟢 Fatto |
+| [[Università/3° Anno/01 - Water - EU\|01 - Water - EU]]                             | 🟢 Fatto |
+| [[Università/3° Anno/02 - Green Spaces - EU\|02 - Green Spaces - EU]]               | 🟢 Fatto |
+| [[Università/3° Anno/03 - Urban Fabric - EU\|03 - Urban Fabric - EU]]               | 🟢 Fatto |
+| [[Università/3° Anno/04 - Energy - EU\|04 - Energy - EU]]                           | 🟢 Fatto |
+| [[Università/3° Anno/05 - Waste - EU\|05 - Waste - EU]]                             | 🟢 Fatto |
+| [[Università/3° Anno/06 - Mobility - EU\|06 - Mobility - EU]]                       | 🟢 Fatto |
+| [[Università/3° Anno/07 - Community - EU\|07 - Community - EU]]                     | 🟢 Fatto |
 
 { .block-language-dataview}
 
