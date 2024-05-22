@@ -309,3 +309,26 @@ Esercizi su Corollario al Teo della media e Legge di propagazione della covarian
 - Boh
 - 
 ### ✏️ Esercizi
+
+
+
+# 📆  03-05-2024 - Fri
+
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗ Non ho preso appunti
+❗❗❗❗❗❗❗❗❗❗❗❗
+
+### 📝 Teoria
+
+### ✏️ Esercizi
+
+
+
+# 📆  08-05-2024 - Wed
+
+### 📝 Teoria
+
+- [[Equazione di osservazione\|Equazione di osservazione]]
+
+### ✏️ Esercizi
+
