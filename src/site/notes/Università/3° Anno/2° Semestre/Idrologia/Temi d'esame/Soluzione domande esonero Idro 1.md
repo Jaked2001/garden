@@ -35,7 +35,7 @@
     - [p] Integrando il solido di velocità ottenuto con il mulinello idrometrico
     - [ ] Utilizzando il metodo volumetrico integrale
     - [ ] Tramite la lettura dell’asta idrometrica
-        
+
 7. I pluviografi a sifone sono, nei confronti dei pluviografi a bilanciere:
     - [ ] Ugualmente precisi
     - [p] Meno precisi
