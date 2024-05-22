@@ -19,24 +19,38 @@ Le *scelte*, sono quelle che bloccano **tutti e soli** i [[02. Cinematica dei co
 ```
 
 Potremo parlare di:
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Sistema di riferimento 1D\|#Sistema di riferimento 1D]]
 - [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Sistema di riferimento 2D\|#Sistema di riferimento 2D]]
 - [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Sistema di riferimento 3D\|#Sistema di riferimento 3D]]
-- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Sistema di riferimento 1D\|#Sistema di riferimento 1D]]
 
-| Ambito dimensionale | g.d.l. T | g.d.l. R   |
-| ------------------- | -------- | ---------- |
-| 1D                  | 1        | 0          |
-| 2D                  | 2        | 1          |
-| 3D                  | 3        | 3          |
-|                     | Origine  | Assi/piani |
+| Ambito dimensionale | g.d.l. Traslazione | g.d.l. Rotazione |
+| ------------------- | ------------------ | ---------------- |
+| 1D                  | 1                  | 0                |
+| 2D                  | 2                  | 1                |
+| 3D                  | 3                  | 3                |
+|                     | Origine            | Assi/piani       |
 
+
+## Sistema di riferimento 1D
+
+Definiamo un [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Sistema di riferimento\|#Sistema di riferimento]] in ambito mono-dimensionale. 
+
+In uno spazio mono-dimensionale, un [[Università/2° anno/1° Semestre/Scienza delle costruzioni/🧱 Scienza delle Costruzioni#Corpo Rigido\|corpo rigido]] possiede 1 [[Università/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/02. Cinematica dei corpi rigidi#Gradi di Libertà\|g.d.l.]]:
+- 1 g.d.l. alla Traslazione (1T)
+
+Per definire la posizione di un punto è sufficiente pertanto fissare un'origine.
+- Fissare un'origine O
+
+L'origine O blocca tutti e soli i gradi di libertà del corpo rigido.
 
 
 
 ## Sistema di riferimento 2D
 
 Immaginiamo di trovarci sul piano.
-Un corpo rigido sul piano ha 3 gradi di libertà: 2 alla Traslazione e 1 alla Rotazione.
+Un corpo rigido sul piano ha 3 gradi di libertà: 
+- 2 alla Traslazione - 2T
+- 1 alla Rotazione - 1T
 
 Vogliamo definire la posizione di un generico punto $P$.
 
@@ -44,7 +58,7 @@ Possiamo, per prima cosa, eliminare i gradi di libertà alla Traslazione, fissan
 
 Successivamente, andremo a tracciare un asse $x$ il quale permette di bloccare il rimanente grado di libertà alla Rotazione.
 
-Se si è fatta l'ipotesi di scegliere gli assi come ortonormali, basterà tracciare un unico asse. L'altro sarà infatti identicamente determinato, dovendo passare per $O$ e dovendo essere perpendicolare all'asse-$x$.
+Se si è fatta l'ipotesi di scegliere **gli assi come ortonormali**, basterà tracciare un unico asse. L'altro sarà infatti identicamente determinato, dovendo passare per $O$ e dovendo essere perpendicolare all'asse-$x$.
 
 ![01 - Sistemi di riferimento e di coordinate - TP 2024-03-01 12.03.56.excalidraw.png](/img/user/Excalidraw/01%20-%20Sistemi%20di%20riferimento%20e%20di%20coordinate%20-%20TP%202024-03-01%2012.03.56.excalidraw.png)
 
@@ -55,24 +69,27 @@ Per definire la posizione di un punto in uno spazio a 2 dimensioni, è **necessa
 
 ## Sistema di riferimento 3D
 
-Un Corpo Rigido in 3 Dimensioni ha 6 [[Università/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/02. Cinematica dei corpi rigidi#Gradi di Libertà\|g.d.l.]]: 3T + 3R
+Immaginiamo ora di trovarci nello spazio tri-dimensionale.
 
+Un Corpo Rigido in 3 Dimensioni ha 6 [[Università/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/02. Cinematica dei corpi rigidi#Gradi di Libertà\|g.d.l.]]:
+- 3 alla Traslazione - 3T
+- 3 alla Rotazione - 3R
+
+Fissando un'origine O elimino subito i 3 gradi di libertà alla Traslazione.
+
+Successivamente fisso un asse ($z$). Questo permette di eliminare altri 2 gradi di libertà (alla Rotazione). Quest'asse infatti obbliga la giacitura del piano $x-y$.
+
+L'asse-$z$ genera un **fascio proprio** di piani: infiniti piani, tutti perpendicolari al piano $x-y$. Se scelgo uno qualunque di questi piani posso identificare una retta nel piano $x-y$ la quale identifica l'asse-$x$. Come nel caso di [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Sistema di riferimento 2D\|#Sistema di riferimento 2D]], se suppongo una terna di assi ortonormali, l'asse-$y$ è univocamente identificato.
+
+Ricapitolando:
 - Fisso un'Origine O
 - Fisso un asse $z$ (tolgo 2 gradi di libertà)
 	- L'asse obbliga la giacitura del piano $x-y$
 - Fisso un generico piano appartenente al **fascio proprio** di piani passante per l'asse $z$
-Quest'ultimo piano identifica una retta nel piano $x-y$ che identifica l'asse $x$.
+	- Quest'ultimo piano identifica una retta nel piano $x-y$ che identifica l'asse $x$.
 
 ![01 - Sistemi di riferimento e di coordinate - TP 2024-03-01 18.26.13.excalidraw.png](/img/user/Excalidraw/01%20-%20Sistemi%20di%20riferimento%20e%20di%20coordinate%20-%20TP%202024-03-01%2018.26.13.excalidraw.png)
 
-
-
-## Sistema di riferimento 1D
-
-In uno spazio mono-dimensionale, un Corpo Rigido possiede 1 [[Università/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/02. Cinematica dei corpi rigidi#Gradi di Libertà\|g.d.l.]]: 1T 
-
-Per definire la posizione di un punto è sufficiente:
-- Fissare un'origine O
 
 
 # Sistema di coordinate
@@ -128,9 +145,9 @@ La trasformazione scritta sopra è sbagliata in quanto la funzione $\arctan$ è 
 %%[[01 - Sistemi di riferimento e di coordinate - TP 2024-03-12 21.50.56.excalidraw.md|🖋 Edit in Excalidraw]]%%
 ```
 
-Per ovviare a ciò si introduce una nuova funzione, chiamata $\arctan2$ e si scrive $\alpha$ come
+Per ovviare a ciò si introduce una nuova funzione, chiamata $\arctan2$ (o anche $\arctan- \text{estesa}$) e si scrive $\alpha$ come
 $$
-\alpha = \arctan2\left( \frac{x}{2} \right)
+\alpha = \arctan2\left( \frac{x}{y} \right)
 $$
 
 ![01 - Sistemi di riferimento e di coordinate - TP 2024-03-13 11.25.28.excalidraw.png](/img/user/Excalidraw/01%20-%20Sistemi%20di%20riferimento%20e%20di%20coordinate%20-%20TP%202024-03-13%2011.25.28.excalidraw.png)
@@ -170,6 +187,7 @@ Dove si noti che i primi tre casi sono tali che il codominio è comunque incluso
 
 # Trasformazioni sistemi di riferimento
 
+Talvolta, possiamo essere interessati a passare da un [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Sistema di riferimento\|#Sistema di riferimento]] a un altro.
 
 ## Trasformazioni SR 1D
 
@@ -191,7 +209,6 @@ e quindi
 $$
 \vec{P'} = \vec{P} - \vec{T}
 $$
-
 Le coordinate di $P$ in $S$ e $S'$ sono rispettivamente:
 $$
 \vec{P} =
@@ -278,9 +295,115 @@ t'_{x} \\ t'_{y}
 \end{bmatrix}_{S'}
 $$
 
-
-
 ### Matrice di rotazione
+
+Tengo conto della rotazione tra i due [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Sistema di riferimento\|SR]] facendo uso della **matrice di rotazione**.
+
+$$
+R(k) =
+\begin{bmatrix}
+r_{11} & r_{12} \\
+r_{21} & r_{22}
+\end{bmatrix}
+$$
+dove gli elementi $r_{ij}$ sono detti **coseni direttori**.
+
+$R$ dipende esclusivamente dall'angolo $\hat{k}$ (l'angolo tra i due SR).
+
+Ogni volta che voglio passare da un sistema di riferimento ad un altro ho sempre 2 strade:
+- Prima traslo, poi ruoto
+- Prima ruoto, poi traslo
+
+
+![01 - Sistemi di riferimento e di coordinate - TP 2024-05-18 17.39.35.excalidraw.png](/img/user/Excalidraw/01%20-%20Sistemi%20di%20riferimento%20e%20di%20coordinate%20-%20TP%202024-05-18%2017.39.35.excalidraw.png)
+
+
+Consideriamo i <mark style="background: #ADCCFFA6;">versori</mark>:
+$$
+\begin{align}
+e_{x} &= \begin{bmatrix}
+1 \\ 0
+\end{bmatrix}_{S}
+&e_{x}' = \begin{bmatrix}
+\cos k \\ \sin k
+\end{bmatrix}_{S} \\
+e_{y} &= \begin{bmatrix}
+0 \\ 1
+\end{bmatrix}_{S}
+&e_{y}' = \begin{bmatrix}
+-\sin k \\ \cos k
+\end{bmatrix}_{S}
+\end{align}
+$$
+La matrice di rotazione è quella matrice che, moltiplicata per $e_{x}$ restituisce $e_{x}'$ e lo stesso fa con $e_{y}$
+
+Risulta evidente quindi che la matrice di rotazione è riscrivibile come:
+$$
+R(k) =
+\begin{bmatrix}
+r_{11} & r_{12} \\
+r_{21} & r_{22}
+\end{bmatrix}
+=
+\begin{bmatrix}
+\cos k  & \sin k \\
+- \sin k & \cos k
+\end{bmatrix}
+=
+\begin{bmatrix}
+e'^{T}_{x} \\
+e'^{T}_{y}
+\end{bmatrix}
+$$
+___
+
+Essendo $R$ una matrice di rotazione, è anche **ORTOGONALE**. Gode pertanto delle seguenti proprietà:
+$$
+\begin{cases}
+\det(R) = 1 \\
+R^{-1} = R^{T}
+\end{cases}
+$$
+Ciò detto, se $R$ è la matrice che permette di passare dalle coordinate in $S$ a quelle in $S'$, la sua inversa, che è uguale alla trasposta $R^{T}$ è la matrice che permette di passare dalle coordinate in $S'$ a quelle in $S$.
+$$
+\begin{align}
+\begin{bmatrix}
+x \\
+y
+\end{bmatrix}_{S}
+&=
+R^{T}(k)
+\begin{bmatrix}
+x' \\
+y'
+\end{bmatrix}_{S'}
+-
+\begin{bmatrix}
+t_{x} \\ t_{y}
+\end{bmatrix}_{S}
+\\
+\begin{bmatrix}
+x' \\
+y'
+\end{bmatrix}_{S'}
+&=
+R^{T}(k)
+\left(
+\begin{bmatrix}
+x' \\
+y'
+\end{bmatrix}_{S'}
+-
+\begin{bmatrix}
+t_{x'} \\ t_{y'}
+\end{bmatrix}_{S'}
+\right)
+\end{align}
+$$
+## Trasformazioni SR 3D
+
+
+
 
 
 
@@ -288,6 +411,13 @@ $$
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗ lezione del [[_Giornaliera/2024-03-06\|2024-03-06]]
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
+
+
+
+
+
+
+
 
 
 
