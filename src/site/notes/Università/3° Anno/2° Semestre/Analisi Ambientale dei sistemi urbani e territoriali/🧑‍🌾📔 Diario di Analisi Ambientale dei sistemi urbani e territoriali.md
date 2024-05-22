@@ -236,7 +236,7 @@ Invarianti territoriali: tipo il Colosseo: una presenza radicata che viene integ
 # 📆  30-04-2024 - Tue
 [[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]
 
-Prova di esonero
+Prova di esonero!!!!!
 
 
 
@@ -253,7 +253,27 @@ Prova di esonero
 - Zona urbanistica e dati socio-demografici
 - Funzioni e servizi
 
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗
 
 ### ✏️ Esercizi
 
 - Assegnazione esercizio [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/10 foto in 10 minuti\|10 foto in 10 minuti]] per [[2024-05-09\|2024-05-09]]
+
+
+
+# 📆  16-05-2024 - Thu
+
+[[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]
+
+### 📝 Teoria
+
+- [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/08 - Partecipazione\|08 - Partecipazione]]
+	- Tecniche di coinvolgimento
+		- Microplanning
+		- Planning for real
+		- Focus group
+		- Osservazione diretta
+		- Shadowing
+		- Osservazione diretta con le persone
