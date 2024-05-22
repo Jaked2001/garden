@@ -91,7 +91,7 @@ Necessita di un tempo di scarico in cui si perde la misura.
 
 #### Pluviometro a Bilanciere
 
-Come i l[[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro a Sifone\|#Pluviometro a Sifone]] è una tipologia di [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro registratore\|#Pluviometro registratore]]. Permette di conoscere con continuità la distribuzione delle precipitazioni nell'arco delle 24 ore.
+Come il [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro a Sifone\|#Pluviometro a Sifone]] è una tipologia di [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro registratore\|#Pluviometro registratore]]. Permette di conoscere con continuità la distribuzione delle precipitazioni nell'arco delle 24 ore.
 
 È costituito da un bilanciere (B nel diagramma), formato da due vaschette triangolari (V) in cui affluisce l'acqua raccolta dall'imboccatura. Il bilanciere presenta alternativamente l'una o l'altra vaschetta. Quando una vaschetta si riempie, il peso dell'acqua fa basculare il bilanciere, che presenta all'imboccatura l'altra vaschetta, svuotando la prima in un imbuto I.
 
