@@ -16,13 +16,13 @@ Studiare partendo da un composto $70\% \text{ An, } 30\% \text{ Di}$ alla temper
 - $T_{E}$
 - $T_{E} - \Delta T= T^{*}_{E}$
 
-Soluzione: [[ES 1.1 - Cristallizzazione eterogenea - 06-10-2022.pdf]]
+Soluzione: [[ES 1.1 - Cristallizzazione eterogenea - 06-10-2022.pdf\|ES 1.1 - Cristallizzazione eterogenea - 06-10-2022.pdf]]
 
 # Esercitazione 1.2
 
 📅 Data: [[2022-10-10\|2022-10-10]]
 
-Soluzione: [[ES 1.2 - Cristallizzazione omogenea - 10-10-2022.pdf]]
+Soluzione: [[ES 1.2 - Cristallizzazione omogenea - 10-10-2022.pdf\|ES 1.2 - Cristallizzazione omogenea - 10-10-2022.pdf]]
 
 # Esercitazione 1.3.1
 
