@@ -112,6 +112,7 @@ ___
 | File                                                                                                                                                                        | Tipo    | Stato         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------- |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Es 01 - Coordinate - TP\|Es 01 - Coordinate - TP]]                                                             | Es      | 🟡 Finire     |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Es 02 - Perimetrazione tetto - TP\|Es 02 - Perimetrazione tetto - TP]]                                         | Es      | 🔴 Fare       |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Ex - 2020-04-28 - TP\|Ex - 2020-04-28 - TP]]                                                                   | Esame   | 🔴 Fare       |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/CERN-LNGS distance computation for the OPERA Project\|CERN-LNGS distance computation for the OPERA Project]]   | Meeting | 🟢 Fatto      |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Introduzione Ricerca Operativa\|Introduzione Ricerca Operativa]]                                               | Meeting | 🔴 Fare       |
@@ -132,7 +133,7 @@ ___
 # 👉🏻 Indice del corso
 
 0. Introduzione corso
-1. Sistemi di riferimetno e di coordinate
+1. Sistemi di riferimento e di coordinate
 2. Sistemi di riferimento e di coordinate sulla Terra
 3. Centro - Dispersione
 4. Equazioni di osservazione
@@ -169,9 +170,10 @@ Dobbiamo pensare che chi legge la relazione, deve essere guidato a capire che no
 
 
 
-| File                                                                                                            | Stato     |
-| --------------------------------------------------------------------------------------------------------------- | --------- |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Es 01 - Coordinate - TP\|Es 01 - Coordinate - TP]] | 🟡 Finire |
+| File                                                                                                                                | Stato     |
+| ----------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Es 01 - Coordinate - TP\|Es 01 - Coordinate - TP]]                     | 🟡 Finire |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Es 02 - Perimetrazione tetto - TP\|Es 02 - Perimetrazione tetto - TP]] | 🔴 Fare   |
 
 { .block-language-dataview}
 
