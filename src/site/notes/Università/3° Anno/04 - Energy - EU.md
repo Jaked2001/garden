@@ -18,9 +18,9 @@ One hour of light at high noon contains the energy used by the world in a year.
 
 ![Schermata 2024-04-03 alle 16.51.51.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/allegati/Schermata%202024-04-03%20alle%2016.51.51.png)
 
-![Schermata 2024-04-03 alle 16.53.00.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/allegati/Schermata%202024-04-03%20alle%2016.53.00.png)
+![[Schermata 2024-04-03 alle 16.53.00.png\|Schermata 2024-04-03 alle 16.53.00.png]]
 
-![Schermata 2024-04-03 alle 16.53.38.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/allegati/Schermata%202024-04-03%20alle%2016.53.38.png)
+![[Schermata 2024-04-03 alle 16.53.38.png\|Schermata 2024-04-03 alle 16.53.38.png]]
 
 ![Schermata 2024-04-03 alle 16.54.47.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/allegati/Schermata%202024-04-03%20alle%2016.54.47.png)
 
@@ -35,9 +35,9 @@ Over 1/2 of energy used in industrialized countries is tied to distribution of l
 
 ![Schermata 2024-04-03 alle 16.57.38.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/allegati/Schermata%202024-04-03%20alle%2016.57.38.png)
 
-![Schermata 2024-04-03 alle 16.58.25.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/allegati/Schermata%202024-04-03%20alle%2016.58.25.png)
+![[Schermata 2024-04-03 alle 16.58.25.png\|Schermata 2024-04-03 alle 16.58.25.png]]
 
-![Schermata 2024-04-03 alle 16.59.56.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/allegati/Schermata%202024-04-03%20alle%2016.59.56.png)
+![[Schermata 2024-04-03 alle 16.59.56.png\|Schermata 2024-04-03 alle 16.59.56.png]]
 
 ![Schermata 2024-04-03 alle 17.03.18.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/allegati/Schermata%202024-04-03%20alle%2017.03.18.png)
 
@@ -49,9 +49,9 @@ Over 1/2 of energy used in industrialized countries is tied to distribution of l
 
 ![Schermata 2024-04-03 alle 17.05.22.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/allegati/Schermata%202024-04-03%20alle%2017.05.22.png)
 
-![Schermata 2024-04-03 alle 17.06.18.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/allegati/Schermata%202024-04-03%20alle%2017.06.18.png)
+![[Schermata 2024-04-03 alle 17.06.18.png\|Schermata 2024-04-03 alle 17.06.18.png]]
 
-![Schermata 2024-04-03 alle 17.06.29.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/allegati/Schermata%202024-04-03%20alle%2017.06.29.png)
+![[Schermata 2024-04-03 alle 17.06.29.png\|Schermata 2024-04-03 alle 17.06.29.png]]
 
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗
@@ -59,15 +59,15 @@ Over 1/2 of energy used in industrialized countries is tied to distribution of l
 
 ### Renewable energy
 
-![Schermata 2024-04-03 alle 17.12.01.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/allegati/Schermata%202024-04-03%20alle%2017.12.01.png)
+![[Schermata 2024-04-03 alle 17.12.01.png\|Schermata 2024-04-03 alle 17.12.01.png]]
 
-![Schermata 2024-04-03 alle 17.12.24.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/allegati/Schermata%202024-04-03%20alle%2017.12.24.png)
+![[Schermata 2024-04-03 alle 17.12.24.png\|Schermata 2024-04-03 alle 17.12.24.png]]
 
-![Schermata 2024-04-03 alle 17.12.58.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/allegati/Schermata%202024-04-03%20alle%2017.12.58.png)
+![[Schermata 2024-04-03 alle 17.12.58.png\|Schermata 2024-04-03 alle 17.12.58.png]]
 
-![Schermata 2024-04-03 alle 17.13.19.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/allegati/Schermata%202024-04-03%20alle%2017.13.19.png)
+![[Schermata 2024-04-03 alle 17.13.19.png\|Schermata 2024-04-03 alle 17.13.19.png]]
 
-![Schermata 2024-04-03 alle 17.13.28.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/allegati/Schermata%202024-04-03%20alle%2017.13.28.png)
+![[Schermata 2024-04-03 alle 17.13.28.png\|Schermata 2024-04-03 alle 17.13.28.png]]
 
 
 
