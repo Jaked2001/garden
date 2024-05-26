@@ -460,7 +460,7 @@ Come è fatta $J$:
 - $J$ ha tante righe quante sono le dimensioni del funzionale --> $m$
 - $J$ ha tante colonne quante sono le dimensioni del vettore $X$ --> $n$
 
-In definitiva $j$ è:
+In definitiva $J$ è:
 $$
 \underset{(m,n)}{J} =
 \begin{bmatrix}
