@@ -56,8 +56,9 @@ Nel corso ci sono presentati 3 esercizi. Saranno lo spunto per un approfondiment
 
 🕒 Tempo:
 Esercizi: 3 esercizi numerici, 2 parti. devono essere entrambi sufficienti. Sostenere in un unico appello
-1. concetti di **Geodesia**, **cartografia**
-2. **Stima**
+1. **Geodesia**
+2. **Cartografia**
+3. **Stima** minimi quadrati
 
 Voto è media delle due parti.
 Se voto è sullo 0.5 vale approssimazione per accesso
@@ -111,12 +112,17 @@ ___
 | File                                                                                                                                                                        | Tipo    | Stato         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------- |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Es 01 - Coordinate - TP\|Es 01 - Coordinate - TP]]                                                             | Es      | 🟡 Finire     |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Ex - 2020-04-28 - TP\|Ex - 2020-04-28 - TP]]                                                                   | Esame   | 🔴 Fare       |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/CERN-LNGS distance computation for the OPERA Project\|CERN-LNGS distance computation for the OPERA Project]]   | Meeting | 🟢 Fatto      |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Introduzione Ricerca Operativa\|Introduzione Ricerca Operativa]]                                               | Meeting | 🔴 Fare       |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/00 - Presentazione corso Topografia e Positioning\|00 - Presentazione corso Topografia e Positioning]] | T       | 🟢 Fatto      |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP\|01 - Sistemi di riferimento e di coordinate - TP]]   | T       | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP\|02 - Campo gravitazionale - TP]]                                       | T       | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Statistica in Topografia - TP\|03 - Statistica in Topografia - TP]]                               | T       | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/04 - Equazione di osservazione - TP\|04 - Equazione di osservazione - TP]]                             | T       | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]                                         | T       | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.1 - Teodolite - TP\|08.1 - Teodolite - TP]]                                                         | T       | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.3 - Livello - TP\|08.3 - Livello - TP]]                                                             | T       | 🪶🟡 Scrivere |
 
 { .block-language-dataview}
  
@@ -142,7 +148,10 @@ ___
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP\|01 - Sistemi di riferimento e di coordinate - TP]]   | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP\|02 - Campo gravitazionale - TP]]                                       | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Statistica in Topografia - TP\|03 - Statistica in Topografia - TP]]                               | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/04 - Equazione di osservazione - TP\|04 - Equazione di osservazione - TP]]                             | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]                                         | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.1 - Teodolite - TP\|08.1 - Teodolite - TP]]                                                         | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.3 - Livello - TP\|08.3 - Livello - TP]]                                                             | 🪶🟡 Scrivere |
 
 { .block-language-dataview}
 
@@ -159,6 +168,22 @@ Su almeno 2 dei 3 esercizi dobbiamo prepare una relazione da portare all'orale.
 Dobbiamo pensare che chi legge la relazione, deve essere guidato a capire che noi abbiamo capito quali sono i punti salienti.
 
 
+
+| File                                                                                                            | Stato     |
+| --------------------------------------------------------------------------------------------------------------- | --------- |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Es 01 - Coordinate - TP\|Es 01 - Coordinate - TP]] | 🟡 Finire |
+
+{ .block-language-dataview}
+
+
 ## Temi d'esame
+
+
+
+| File                                                                                                      | Stato   |
+| --------------------------------------------------------------------------------------------------------- | ------- |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Ex - 2020-04-28 - TP\|Ex - 2020-04-28 - TP]] | 🔴 Fare |
+
+{ .block-language-dataview}
 
 
