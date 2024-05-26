@@ -100,9 +100,11 @@ $$
 Z_{ij} + Z_{ji} = \pi
 $$
 
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗
 
-
-
+- [?] Non ho capito qual è l'equazione di osservazione per l'angolo zenitale
 
 
 
@@ -174,8 +176,41 @@ $$
 
 
 
-
 ❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗
 ❗❗❗❗❗❗❗❗❗❗❗❗
 
+# Equazione di osservazione in forma generale
+
+## Equazione di osservazione in forma vettoriale
+
+
+Si introducono:
+- 2 vettori che rappresentano le posizioni di due punti qualsiasi rispetto ad un certo [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Sistema di riferimento\|sistema di riferimento]]
+- Vettore differenza di posizione dei due vettori
+
+![04 - Equazione di osservazione - TP 2024-05-26 11.16.47.excalidraw.png](/img/user/Excalidraw/04%20-%20Equazione%20di%20osservazione%20-%20TP%202024-05-26%2011.16.47.excalidraw.png)
+
+
+Si hanno così:
+- $\color{black} \vec{r_{i}}:$ Vettore posizione del punto $i$
+- ${\color{purple} \vec{r_{j}}} :$ Vettore posizione del punto $j$
+- ${\color{green} \vec{r_{ij}}} = {\color{purple} \vec{r_{j}}} - {\color{black} \vec{r_{i}}}:$ Vettore differenza tra i due vettori posizione
+
+Si può pertanto definire la distanza tra $i$ e $j$ in termini vettoriali:
+$$
+d_{ij} = \sqrt{\vec{r_{ij}} \cdot \vec{r_{ij}} }
+$$
+Si possono ora scrivere le [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/04 - Equazione di osservazione - TP#Equazione di osservazione\|equazioni di osservazione]]:
+
+### Equazione di osservazione all'angolo zenitale - vettoriale
+
+$$
+Z_{ij} = \arccos\left(  \frac{\vec{\nu}_{i}\cdot \vec{r_{ij}} }{d_{ij}}  \right)
+$$
+
+### Equazione di osservazione alla direzione azimutale - vettoriale
+
+$$
+\alpha_{ij} = 
+$$
