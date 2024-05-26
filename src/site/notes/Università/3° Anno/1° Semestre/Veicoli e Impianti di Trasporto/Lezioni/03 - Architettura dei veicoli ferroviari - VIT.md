@@ -160,7 +160,7 @@ Per **sala montata** si intende l'insieme di [[#Ruota Ferroviaria]] e assile.
 
 ```
 
-![Schermata 2023-11-01 alle 16.20.57.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202023-11-01%20alle%2016.20.57.png)
+![[Schermata 2023-11-01 alle 16.20.57.png\|Schermata 2023-11-01 alle 16.20.57.png]]
 
 La sala montata è costituita peranto da:
 - [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Ruota Ferroviaria\|ruote]]
@@ -218,7 +218,7 @@ Sono le circonferenze intorno al [[#Cerchione]] che dovrebbero essere a contatto
 
 Il **deviatoio** è quell'elemento ferroviario che permette al materiale rotabile di passare da un binario all'altro con continuità.
 
-![Schermata 2023-11-01 alle 16.54.38.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202023-11-01%20alle%2016.54.38.png)
+![[Schermata 2023-11-01 alle 16.54.38.png\|Schermata 2023-11-01 alle 16.54.38.png]]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_M6vhDvmtrI?si=jgxJd66skCd0fBcF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
