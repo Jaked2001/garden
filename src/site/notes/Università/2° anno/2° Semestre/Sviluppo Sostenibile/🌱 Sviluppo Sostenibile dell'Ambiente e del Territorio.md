@@ -26,11 +26,7 @@ title: Esami
 
 Data Esposizione [[Università/2° anno/2° Semestre/Sviluppo Sostenibile/Esercitazioni/Esercitazione 3 - Progetto/Esercitazione 3 - Progetto\|Esercitazione 3 - Progetto]]: [[2023-06-30]]
 ```
-%
-1° esercitazione: 20% - 25
-2° esercitazione: 30% - 30
-3° esercitazione: 50% - 28
-%
+
 # ✔️ To-Do
 
 
