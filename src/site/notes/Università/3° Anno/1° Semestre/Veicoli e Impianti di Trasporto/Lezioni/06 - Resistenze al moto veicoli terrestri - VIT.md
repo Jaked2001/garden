@@ -6,7 +6,7 @@
 
 # [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/06 - Resistenze al moto veicoli terrestri - VIT\|06 - Resistenze al moto veicoli terrestri - VIT]]
 
-[[6. Resistenze al moto veicoli terrestri - VIT.pdf]]
+[[6. Resistenze al moto veicoli terrestri - VIT.pdf\|6. Resistenze al moto veicoli terrestri - VIT.pdf]]
 - Resistenze al moto ordinarie - in qualunque condizione di moto
 	- Rotolamento nella coppia cinematica ruota-rotaia
 	- Rotolamento nella coppia cinematica perno-cuscinetto
@@ -219,9 +219,9 @@ La differenza tra formula binomia o trinomia sta nei tipi di resistenze che inte
 
 La resistenza al rotolamento dipende dalla velocità. A basse velocità la posso trascurare e uso quindi la formula binomia. A velocità più elevate sono costretto a tenerne conto e applico le formule trinomie.
 
-![IMG_2287.jpg](/img/user/Universit%C3%A0/3%C2%B0%20Anno/1%C2%B0%20Semestre/Tecnica%20ed%20Economia%20dei%20Trasporti/Appunti/allegati/IMG_2287.jpg)
+![[IMG_2287.jpg\|IMG_2287.jpg]]
 
-![IMG_2288.jpg](/img/user/Universit%C3%A0/3%C2%B0%20Anno/1%C2%B0%20Semestre/Tecnica%20ed%20Economia%20dei%20Trasporti/Appunti/allegati/IMG_2288.jpg)
+![[IMG_2288.jpg\|IMG_2288.jpg]]
 
 
 
