@@ -197,17 +197,39 @@ Si hanno così:
 - ${\color{purple} \vec{r_{j}}} :$ Vettore posizione del punto $j$
 - ${\color{green} \vec{r_{ij}}} = {\color{purple} \vec{r_{j}}} - {\color{black} \vec{r_{i}}}:$ Vettore differenza tra i due vettori posizione
 
+
+Si possono ora scrivere le [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/04 - Equazione di osservazione - TP#Equazione di osservazione\|equazioni di osservazione]]:
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/04 - Equazione di osservazione - TP#Equazione di osservazione alla distanza - vettoriale\|#Equazione di osservazione alla distanza - vettoriale]]
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/04 - Equazione di osservazione - TP#Equazione di osservazione all'angolo zenitale - vettoriale\|#Equazione di osservazione all'angolo zenitale - vettoriale]]
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/04 - Equazione di osservazione - TP#Equazione di osservazione alla direzione azimutale - vettoriale\|#Equazione di osservazione alla direzione azimutale - vettoriale]]
+
+### Equazione di osservazione alla distanza - vettoriale
+
 Si può pertanto definire la distanza tra $i$ e $j$ in termini vettoriali:
 $$
 d_{ij} = \sqrt{\vec{r_{ij}} \cdot \vec{r_{ij}} }
 $$
-Si possono ora scrivere le [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/04 - Equazione di osservazione - TP#Equazione di osservazione\|equazioni di osservazione]]:
 
 ### Equazione di osservazione all'angolo zenitale - vettoriale
+
+![04 - Equazione di osservazione - TP 2024-05-26 11.46.47.excalidraw.png](/img/user/Excalidraw/04%20-%20Equazione%20di%20osservazione%20-%20TP%202024-05-26%2011.46.47.excalidraw.png)
+
+
+Si vuole trovare l'angolo $\color{green} Z_{ij}$. Si può usare il prodotto scalare tra il versore verticale $\vec{\nu}_{i}$ e il vettore $\vec{r}_{ij}$. Infatti:
+$$
+\vec{\nu}_{i} \cdot \frac{\vec{r_{ij}}}{d_{ij}} = \left| \vec{\nu_{i}} \right| \left| \frac{\vec{r_{ij}}}{d_{ij}} \right| \cos \left(Z_{ij}\right)
+$$
+Da cui si ricava
+
+```ad-Teo
+title: Eq. di Oss. all'angolo zenitale - vettoriale
 
 $$
 Z_{ij} = \arccos\left(  \frac{\vec{\nu}_{i}\cdot \vec{r_{ij}} }{d_{ij}}  \right)
 $$
+
+```
+
 
 ### Equazione di osservazione alla direzione azimutale - vettoriale
 
