@@ -121,11 +121,13 @@ ___
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP\|02 - Campo gravitazionale - TP]]                                       | T       | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Statistica in Topografia - TP\|03 - Statistica in Topografia - TP]]                               | T       | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/04 - Equazione di osservazione - TP\|04 - Equazione di osservazione - TP]]                             | T       | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/05 - Problemi di Positioning - TP\|05 - Problemi di Positioning - TP]]                                 | T       | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]                                         | T       | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.1 - Teodolite - TP\|08.1 - Teodolite - TP]]                                                         | T       | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.3 - Livello - TP\|08.3 - Livello - TP]]                                                             | T       | 🪶🟡 Scrivere |
 
 { .block-language-dataview}
+
  
 
 ___
@@ -150,6 +152,7 @@ ___
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP\|02 - Campo gravitazionale - TP]]                                       | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Statistica in Topografia - TP\|03 - Statistica in Topografia - TP]]                               | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/04 - Equazione di osservazione - TP\|04 - Equazione di osservazione - TP]]                             | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/05 - Problemi di Positioning - TP\|05 - Problemi di Positioning - TP]]                                 | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]                                         | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.1 - Teodolite - TP\|08.1 - Teodolite - TP]]                                                         | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.3 - Livello - TP\|08.3 - Livello - TP]]                                                             | 🪶🟡 Scrivere |
