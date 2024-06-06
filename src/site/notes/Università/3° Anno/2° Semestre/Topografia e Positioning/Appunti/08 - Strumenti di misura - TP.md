@@ -8,6 +8,9 @@
 
 Nella topografia ci sono 3 grandezze di particolare interesse. Queste sono:
 - Angoli
+	- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP#Angolo azimutale\|#Angolo azimutale]]
+	- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP#Angolo zenitale\|#Angolo zenitale]]
+	- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP#Dislivello ortometrico\|#Dislivello ortometrico]]
 - Distanze
 - Dislivelli
 Tutte e 3 sono grandezze **osservabili**.
@@ -17,7 +20,7 @@ Gli strumenti più importanti sono:
 	- Angoli zenitali
 	- Direzioni azimutali
 - [[Livello\|Livello]]
-- [[Distanziometro\|Distanziometro]]
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/80.2 - Distanziometro\|Distanziometro]]
 
 ## Stazione totale
 
@@ -91,14 +94,46 @@ Il dislivello ortometrico fra A e B è la differenza fra la [[02 - Campo gravita
 
 ### Distanze
 
+![08 - Strumenti di misura - TP 2024-06-06 10.55.30.excalidraw.png](/img/user/Excalidraw/08%20-%20Strumenti%20di%20misura%20-%20TP%202024-06-06%2010.55.30.excalidraw.png)
+
+
 #### Distanza inclinata (3D)
+
+```ad-Definizione
+title: Distanza inclinata
+
+La **distanza inclinata** è la distanza in linea retta nello spazio tra due punti (nel linguaggio comune viene chiamata distanza in linea d'aria)
+
+```
+
 
 ![08 - Strumenti di misura - TP 2024-05-25 15.14.31.excalidraw.png](/img/user/Excalidraw/08%20-%20Strumenti%20di%20misura%20-%20TP%202024-05-25%2015.14.31.excalidraw.png)
 
 
 #### Distanza topografica o geodetica
 
+```ad-Definizione
+title: Distanza topografica (o geodetica)
+
+La **distanza topografica** è la lunghezza dell'arco di geodetica tra le proiezioni dei punti sulla superficie di riferimento. Arco $A'B'$
+
+```
+
+
+![08 - Strumenti di misura - TP 2024-06-06 11.01.08.excalidraw.png](/img/user/Excalidraw/08%20-%20Strumenti%20di%20misura%20-%20TP%202024-06-06%2011.01.08.excalidraw.png)
+
+
 #### Distanza 2D
+
+```ad-Definizione
+title: Distanza 2D
+
+La **distanza 2D** è la distanza in linea retta tra i due punti proiettati sul piano orizzontale ($\overline{AB''}$)
+
+```
+
+
+![08 - Strumenti di misura - TP 2024-06-06 11.01.34.excalidraw.png](/img/user/Excalidraw/08%20-%20Strumenti%20di%20misura%20-%20TP%202024-06-06%2011.01.34.excalidraw.png)
 
 
 ## Materializzazione dei punti
@@ -116,7 +151,7 @@ In particolare si individua
 ```ad-Definizione
 title: Punto di stazione
 
-Il **punto di stazione** è il punto in cui viene **messo in stazione** lo strumento. Deve essere:
+Il **punto di stazione** è il punto in cui viene **messo in stazione** lo strumento. Può essere:
 - Un punto ben individuabile
 - Un punto materializzato di proposito
 
@@ -132,7 +167,6 @@ Un **punto collimato** è un punto sul quale si vogliono eseguire le misurazioni
 
 ```
 
-
 Collimare un punto significa far passare, per un dato punto, individuato con un segnale, una visuale mobile (linea di mira o asse di collimazione) data da opportuni strumenti ottici.
 
 Nella collimazione con strumenti topografici si dice che un punto è collimato quando sul suo segnale si sovrappone il filo verticale del reticolo dello strumento.
@@ -141,10 +175,25 @@ Nella collimazione con strumenti topografici si dice che un punto è collimato q
 
 ### Segnale
 
+Il segnale è costituito da una piastra metallica sottile di forma rettangolare o quadrata ben collimabile avente un asse di simmetria.
+
+![Schermata 2024-06-06 alle 11.12.10.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Topografia%20e%20Positioning/Appunti/allegati/Schermata%202024-06-06%20alle%2011.12.10.png)
+
 ### Treppiede
+
+![Schermata 2024-06-06 alle 11.13.45.png|350](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Topografia%20e%20Positioning/Appunti/allegati/Schermata%202024-06-06%20alle%2011.13.45.png)
+
+Il treppiede è un oggetto dotato di **3 gambe allungabili** indipendenti una dall'altra incernierate ad una piastra ([[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP#Piastra d'appoggio\|#Piastra d'appoggio]]) e attraversata in un foro centrale dal [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP#Piastra e vitone\|vitone]]
+
 
 #### Movimento vitone
 
+![Schermata 2024-06-06 alle 11.14.36.png|350](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Topografia%20e%20Positioning/Appunti/allegati/Schermata%202024-06-06%20alle%2011.14.36.png)
+
 #### Piastra d'appoggio
 
+![Schermata 2024-06-06 alle 11.14.13.png|350](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Topografia%20e%20Positioning/Appunti/allegati/Schermata%202024-06-06%20alle%2011.14.13.png)
+
 #### Piastra e vitone
+
+![Schermata 2024-06-06 alle 11.14.51.png|350](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Topografia%20e%20Positioning/Appunti/allegati/Schermata%202024-06-06%20alle%2011.14.51.png)
