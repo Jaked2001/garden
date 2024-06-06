@@ -73,7 +73,7 @@ ___
 
 | File                                                                                                                                                                                                                                                | Tipo | Stato       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
-| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Progetto Orti urbani - (P)orto felicità\|Progetto Orti urbani - (P)orto felicità]]                                                                         | Es   | 🔴 Fare     |
+| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Progetto Orti urbani - (P)orto felicità\|Progetto Orti urbani - (P)orto felicità]]                                                                         | Es   | 🟢 Fatto    |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT\|00 - Inizio ANASUT]]                                                                                                                   | T    | 🟢 Fatto    |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT\|01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT]] | T    | 🟢 Fatto    |
 | [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Il consumo di suolo - ANASUT\|02 - Il consumo di suolo - ANASUT]]                                                                                     | T    | 🟢 Fatto    |
@@ -119,9 +119,9 @@ ___
 ## ✍️ Esercitazioni
 
 
-| File                                                                                                                                                                        | Stato   | PDF | Data |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --- | ---- |
-| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Progetto Orti urbani - (P)orto felicità\|Progetto Orti urbani - (P)orto felicità]] | 🔴 Fare | \-  | \-   |
+| File                                                                                                                                                                        | Stato    | PDF                                                                                                                                                                    | Data          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Progetto Orti urbani - (P)orto felicità\|Progetto Orti urbani - (P)orto felicità]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/allegati/Porto felicità_testo.pdf\\|Porto felicità_testo.pdf]]</li></ul> | June 05, 2024 |
 
 { .block-language-dataview}
 
@@ -130,6 +130,7 @@ ___
 
 
 # 🗺 Mappe
+
 - [[2024-03-05 - Conoscenza e Orti urbani - Mappa ANASUT.excalidraw.png]]
 - 7 marzo: assente
 - [[2024-03-12 - Urbanistica Territorio e Suolo.excalidraw.png]]
