@@ -3,7 +3,22 @@
 ---
 
 
-# Esercitazione
+# Lavoro consegnato
+Testo: [[Porto felicità_testo.pdf]]
+PPT: [[Porto felicità_v2.pdf]]
+
+[[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Discorso Progetto Orti Urbani\|Discorso Progetto Orti Urbani]]
+
+## Cartografie
+
+- [[Funzioni e servizi & Spazi aperti\|Funzioni e servizi & Spazi aperti]]
+- [[Mobilità e connessioni\|Mobilità e connessioni]]
+- [[Zona urbanistica e dati socio demografici\|Zona urbanistica e dati socio demografici]]
+
+
+
+
+# Indicazioni
 
 - Scartare orti urbani che non abbiano interesse collettivo.
 - Quali sono le potenziali dimensioni di analisi?
