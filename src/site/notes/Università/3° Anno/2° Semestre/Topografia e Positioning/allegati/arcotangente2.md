@@ -36,11 +36,24 @@ La funzione [[arcotangente\|arcotangente]] restituisce valori compresi in un int
 
 ## Derivata
 
-L'$\arctan2$ è una funzione di due variabili, $x$ e $y$. Pertanto le derivate sono 2:
+L'$\arctan2$ differisce dall'$\arctan$ solo per delle costanti. Non c'è quindi differenza tra le derivate:
+In generale:
+$$
+\frac{d}{d f(x)} \arctan2(f(x)) = \frac{f'(x)}{1+f(x)^{2}}
+$$
+
+L'arcotangente 2 si trova spesso in questa forma:
+$$
+\alpha = \arctan2\left( \frac{x_{0}-x_{1}}{y_{0}-y_{1}} \right)
+$$
+In problemi di [[Università/3° Anno/2° Semestre/Topografia e Positioning/🧭 Topografia e Positioning\|Topografia]] è spesso necessario derivare la funzione sia in $x_{0}$ che in $y_{0}$:
 $$
 \begin{align}
-\frac{\partial}{\partial x} \arctan2\left( \frac{y}{x} \right) &= - \frac{y}{x^{2}+y^{2}} \\
-\frac{\partial}{\partial y} \arctan2\left( \frac{y}{x} \right) &= \frac{x}{x^{2}+y^{2}}
+\frac{\partial\alpha}{\partial x_{0}} &= \frac{ y_{0}-y_{1} }{ (x_{0}-x_{1})^{2} + (y_{0}-y_1)^{2}} \\ \\
+
+\frac{\partial\alpha}{\partial y_{0}} &=- \frac{ x_{0}-x_{1} }{(x_{0}-x_{1})^{2} +(y_{0}-y_1)^{2}}
 \end{align}
 $$
+
+
 
