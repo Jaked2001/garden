@@ -19,8 +19,8 @@ Gli strumenti più importanti sono:
 - [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.1 - Teodolite - TP\|Teodolite]] - misura direttamente 
 	- Angoli zenitali
 	- Direzioni azimutali
-- [[Livello\|Livello]]
-- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/80.2 - Distanziometro\|Distanziometro]]
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.2 - Distanziometro - TP\|Distanziometro]]
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.3 - Livello - TP\|Livello]]
 
 ## Stazione totale
 
