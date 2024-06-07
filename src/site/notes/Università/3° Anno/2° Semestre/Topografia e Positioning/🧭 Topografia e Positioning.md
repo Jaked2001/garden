@@ -124,8 +124,9 @@ ___
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/05 - Problemi di Positioning - TP\|05 - Problemi di Positioning - TP]]                                 | T       | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]                                         | T       | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.1 - Teodolite - TP\|08.1 - Teodolite - TP]]                                                         | T       | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.2 - Distanziometro - TP\|08.2 - Distanziometro - TP]]                                               | T       | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.3 - Livello - TP\|08.3 - Livello - TP]]                                                             | T       | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/80.2 - Distanziometro\|80.2 - Distanziometro]]                                                         | T       | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/Sistemi di coordinate fondamentali\|Sistemi di coordinate fondamentali]]                               | T       | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
@@ -156,8 +157,9 @@ ___
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/05 - Problemi di Positioning - TP\|05 - Problemi di Positioning - TP]]                                 | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]                                         | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.1 - Teodolite - TP\|08.1 - Teodolite - TP]]                                                         | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.2 - Distanziometro - TP\|08.2 - Distanziometro - TP]]                                               | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.3 - Livello - TP\|08.3 - Livello - TP]]                                                             | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/80.2 - Distanziometro\|80.2 - Distanziometro]]                                                         | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/Sistemi di coordinate fondamentali\|Sistemi di coordinate fondamentali]]                               | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
