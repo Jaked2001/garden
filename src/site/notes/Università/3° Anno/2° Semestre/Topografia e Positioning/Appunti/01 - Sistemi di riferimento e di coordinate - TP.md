@@ -97,13 +97,20 @@ Ricapitolando:
 ```ad-Definizione
 title: Sistema di coordinate
 
-
+Un sistema di coordinate è una modalità di rappresentazione analitica di una posizione posto che quest'ultima sia definita in un [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Sistema di riferimento\|#Sistema di riferimento]].
 
 ```
 
+A parità di [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Sistema di riferimento\|#Sistema di riferimento]] esistono diversi sistemi di coordinate (SC)
+
 ## Sistema di coordinate 2D
 
+Il [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Sistema di riferimento\|SR]] è già stato individuato.
+
 In due dimensioni si possono individuare almeno 3 modi per rappresentare la posizione di un punto rispetto ad un certo [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Sistema di riferimento\|#Sistema di riferimento]].
+- Coordinate cartesiane - $\color{pink}(x,y)$
+- Coordinate polari - $\color{green}(d,\alpha)$
+
 
 ![01 - Sistemi di riferimento e di coordinate - TP 2024-03-12 21.39.32.excalidraw.png](/img/user/Excalidraw/01%20-%20Sistemi%20di%20riferimento%20e%20di%20coordinate%20-%20TP%202024-03-12%2021.39.32.excalidraw.png)
 
@@ -125,10 +132,10 @@ y = d \cos(\alpha)
 $$
 Occorre però fare attenzione nella trasformazione inversa. Verrebbe infatti naturale scrivere
 $$
-\begin{cases}
+\cancel{\begin{cases}
 d = \sqrt{x^{2}+y^{2}} \\
 \alpha = \arctan\left( \dfrac{x}{y} \right)
-\end{cases}
+\end{cases}}
 $$
 
 ```ad-error
@@ -181,6 +188,13 @@ In base al quadrante in cui ci troviamo, l'$\arctan2$ può assumere i seguenti v
 
 Dove si noti che i primi tre casi sono tali che il codominio è comunque incluso in quello della funzione $\arctan$ che quindi non va variata affatto.
 
+La trasformazione corretta sarà pertanto:
+$$
+\begin{cases}
+d = \sqrt{x^{2}+y^{2}} \\
+\alpha = \arctan2\left( \dfrac{x}{y} \right)
+\end{cases}
+$$
 
 
 
@@ -193,6 +207,8 @@ Talvolta, possiamo essere interessati a passare da un [[Università/3° Anno/2°
 
 
 ## Trasformazioni SR 2D
+
+Sono dati due [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Sistema di riferimento\|sistemi di riferimento]], $S$ e $S'$ e si vuole descrivere la posizione di un punto $P$ in entrambi i sistemi.
 
 ![01 - Sistemi di riferimento e di coordinate - TP 2024-03-13 11.42.30.excalidraw.png](/img/user/Excalidraw/01%20-%20Sistemi%20di%20riferimento%20e%20di%20coordinate%20-%20TP%202024-03-13%2011.42.30.excalidraw.png)
 
@@ -643,7 +659,7 @@ Le equazioni trovate fino ad ora, $(2.1), (2.2), (2.3), (2.4)$ equivalgono solo 
 
 - [?] Cosa significa materializzare un sistema di riferimento?
 
-Al fine di Materializzare un [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Sistema di riferimento\|#Sistema di riferimento]] occorre fornire opportune coordinate per opportuni punti
+Al fine di Materializzare un [[#Sistema di riferimento]] occorre fornire opportune coordinate per opportuni punti
 - [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Materializzazione di un Sistema di Riferimento 2D\|#Materializzazione di un Sistema di Riferimento 2D]]
 - [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Materializzazione di un Sistema di Riferimento 1D\|#Materializzazione di un Sistema di Riferimento 1D]]
 - [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Materializzazione di un Sistema di Riferimento 3D\|#Materializzazione di un Sistema di Riferimento 3D]]
@@ -702,166 +718,18 @@ O(0,0,0)
 $$
 Blocco così i 3 g.d.l. alla traslazione.
 
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-
-# Sistemi di coordinate fondamentali
-
-[[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Sistema di coordinate\|Sistema di coordinate]]
-
-Possiamo definire diversi [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Sistema di coordinate\|sistemi di coordinate]]. In particolare vedremo:
-- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Coordinate ellissoidiche\|#Coordinate ellissoidiche]]
-- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Coordinate Cartesiane locali (L)\|#Coordinate Cartesiane locali (L)]]
-- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Coordinate cartesiane di livello locale (LL)\|#Coordinate cartesiane di livello locale (LL)]]
-
-
-## Coordinate ellissoidiche
-
-
-Si può parlare di coordinate ellissoidiche solo dopo aver introdotto un ellissoide di riferimento. Faremo uso del [[WGS84\|WGS84]]
-
-![02 - Campo gravitazionale - TP 2024-03-28 19.31.58.excalidraw.png](/img/user/Excalidraw/02%20-%20Campo%20gravitazionale%20-%20TP%202024-03-28%2019.31.58.excalidraw.png)
-
-
-Nel diagramma è raffigurato un ellissoide di rotazione (ad esempio il [[WGS84\|WGS84]]) rispetto ai 3 assi cartesiani $x,y,z$. In particolare è raffigurato solo un ottavo dell'ellissoide, quello corrispondente ai semiassi positivi.
-
-Si prende un punto $P$ qualunque sulla superficie terrestre e si vuole definire la sua posizione rispetto all'origine con un qualche sistema di coordinate.
-
-Tracciamo quindi la <mark style="background: #FF5582A6;">normale</mark> all'ellissoide passante per il punto $P$, $\vec{n}$. Questa intersecherà l'ellissoide in un punto $P_{c}$. Tracciamo corrispondentemente l'arco dal polo all'equatore che passa per questo punto (<mark style="background: #ADCCFFA6;">tratto blu</mark>). Si traccia quindi un asse di riferimento, l'asse $r$, come in figura.
-
-Andiamo ad individuare così 2 angoli:
-- $\lambda:$ L'angolo tra il piano $xz$ e il piano $xr$ - lo chiameremo [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#longitudine\|#longitudine]]
-- $\varphi:$ L'angolo tra la normale $\vec{n}$ e l'asse $r$ - lo chiameremo [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#latitudine\|#latitudine]]
-
-Ogni punto sulla superficie terrestre sarà quindi individuato da coordinate:
-- La [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Quota\|#Quota]] $h$
-- La [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Latitudine\|#Latitudine]] $\varphi$
-- La [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Longitudine\|#Longitudine]] $\lambda$
-
-```ad-example
-title: Esempio
-Vediamo alcuni punti e le rispettive coordinate.
-
-- Punto al polo nord: LAT $\varphi= 90\degree$
-- Punto sul piano $xz$: LON $\lambda = 0\degree$
-- Punto sul piano $yz$: LON $\lambda = 90\degree$
-```
-
-
-### Longitudine
-
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-
-### Latitudine
-
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-
-- $\lambda:$ Angolo diedro
-
-
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗ ORIENTAZIONE dell'ellissoide
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-
-
-
-
-
-## Coordinate Cartesiane locali (L)
-
-Sono coordinate definite localmente. È necessario pertanto introdurre un origine locale
-
-Considero un solo ottante, come quando abbiamo definito le [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Coordinate ellissoidiche\|#Coordinate ellissoidiche]].
-
-
-![02 - Campo gravitazionale - TP 2024-04-03 19.20.58.excalidraw.png](/img/user/Excalidraw/02%20-%20Campo%20gravitazionale%20-%20TP%202024-04-03%2019.20.58.excalidraw.png)
-
-
-Si osservi alla figura sopra. 
-Il punto $P_{l}$, intersezione dell'ellissoide con la normale $\vec{n}$ è considerato come **origine locale**
-
-$\vec{n}$ è il versore perpendicolare e uscente dal piano tangente in $P_{l}$. Lo chiamiamo "piano ($\Pi$) tg nel punto $P_{l}$".
-
-Essendo $P_{l}$ la nuova origine, l'asse individuato da $\vec{n}$ è il nuovo asse $z$
-
-Abbiamo così definito un nuovo sistema di coordinate, detto *sistema di coordinate cartesiane locali*.
-
-In alto a destra nella figura è raffigurata la proiezione dell'ellissoide nel piano $zr$.
-
-L'asse $x$ è tangente al ramo dell'ellisse, l'asse $y$ invece è entrante nel foglio.
-
-Considero un generico punto $P$ sull'asse $z$ (ossia $\vec{n}$). La distanza da $P$ a $P_{l}$ è la [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Quota ellissoidica\|#Quota ellissoidica]] $h$ ed in questo caso coincide con la coordinata $z$ di $P$
-
-Considerando un altro punto $Q$ che non si trova su $z$, la coordinata $z_{Q}$ e l'altezza ellissoidica $h_{Q}$ non coincideranno più.
-
-```ad-Definizione
-title: Sistema di coordinate cartesiane locali (L)
-
-Un **sistema di coordinate cartesiane locali** (L) è un sistema che ha origine in $P_{l}$, un punto dell'ellissoide. È caratterizzato da 3 assi $(x,y,z)$. Di conseguenza $P_{l}(0,0,0)$.
-
-```
-
-Questi sistemi di coordinate sono semplici da definire ma complicati dal punto di vista applicativo. 
-Vengono in nostro soccorso le [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Coordinate cartesiane di livello locale (LL)\|#Coordinate cartesiane di livello locale (LL)]]
-
-## Coordinate cartesiane di livello locale (LL)
-
-
-Considero, a partire dal punto $P$ il versore che indica la forza di gravità ($\vec{\nu}$).
-
-![01 - Sistemi di riferimento e di coordinate - TP 2024-04-04 10.16.15.excalidraw.png](/img/user/Excalidraw/01%20-%20Sistemi%20di%20riferimento%20e%20di%20coordinate%20-%20TP%202024-04-04%2010.16.15.excalidraw.png)
-
-
-L'asse $z$ è individuato dal versore $\vec{\nu}$. Pertanto:
+Procedo poi scegliendo un secondo punto, $P$, tale da individuare univocamente l'asse-$z$
 $$
-\begin{align}
-z_{u} &\parallel \vec{\nu} \\
-x_{u}, y_{u} &\parallel \vec{\nu}
-\end{align}
+P(0,0,z)
 $$
-```ad-attention
-Nel caso di [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Coordinate Cartesiane locali (L)\|#Coordinate Cartesiane locali (L)]], il piano $\Pi$ era quello **tangente** all'ellissoide. Ossia era **perpendicolare** alla normale all'ellissoide ($\vec{n}$).
-
-In questo caso, il piano $\Pi$ è **perpendicolare** alla **gravità** ($\vec{\nu}$).
-
-
-![01 - Sistemi di riferimento e di coordinate - TP 2024-04-04 10.39.13.excalidraw.png](/img/user/Excalidraw/01%20-%20Sistemi%20di%20riferimento%20e%20di%20coordinate%20-%20TP%202024-04-04%2010.39.13.excalidraw.png)
-%%[[01 - Sistemi di riferimento e di coordinate - TP 2024-04-04 10.39.13.excalidraw.md|🖋 Edit in Excalidraw]]%%
-
-$\vec{n}$ e $\vec{\nu}$ sono deviate di un angolo $\varepsilon$.
-
-Localmente $\varepsilon$ è molto piccolo e quindi **trascurabile** ma MAI NULLO.
-
-Facciamo l'ipotesi che $\vec{n} \equiv \vec{\nu}$.
-```
-
-$x_{u}, y_{u}$ giacciono sul piano orizzontale locale, quello identificato con la ???
-
-Questo modello è più semplice perché l'asse $x_{u}$ è individuato dalla direzione della gravità.
-
-Come si passa da questo sistema alle [[#Coordinate Cartesiane locali (L)]]?
-
-
-
-
-
-
-
-
-
+A questo punto è univocamente definito un piano $x,y$ ortogonale a $z$. Basterà scegliere un punto $Q$ sul piano di cui si blocca solo una coordinata:
+$$
+Q(x,0,z)
+$$
 
 
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗ Lezione da recuperare, ero assente!!!
+❗❗❗ COMPLETARE ❗❗❗
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
-
-
-
-
 
 
