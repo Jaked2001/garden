@@ -4,7 +4,7 @@
 
 
 # [[Università/3° Anno/2° Semestre/Topografia e Positioning/Es 01 - Coordinate - TP\|Es 01 - Coordinate - TP]]
-
+- [?] Cosa uso come accuratezza, lo SQM o la Varianza?
 
 
 ### Direttiva INSPIRE
