@@ -75,7 +75,7 @@
 
 # 📆  15-03-2024 - Fri
 
-[[Università/3° Anno/2° Semestre/Topografia e Positioning/Mattia Crespi\|Mattia Crespi]]
+[[Personale/Contatti/Mattia Crespi\|Mattia Crespi]]
 
 ### 📝 Teoria
 
@@ -99,7 +99,7 @@
 
 # 📆  20-03-2024 - Wed
 
-[[Università/3° Anno/2° Semestre/Topografia e Positioning/Mattia Crespi\|Mattia Crespi]]
+[[Personale/Contatti/Mattia Crespi\|Mattia Crespi]]
 
 ### 📝 Teoria
 
@@ -222,7 +222,7 @@ Fanno lezione
 
 # 📆  12-04-2024 - Fri
 
-[[Università/3° Anno/2° Semestre/Topografia e Positioning/Mattia Crespi\|Mattia Crespi]]
+[[Personale/Contatti/Mattia Crespi\|Mattia Crespi]]
 
 ### 📝 Teoria
 
@@ -245,7 +245,7 @@ Fanno lezione
 # 📆  17-04-2024 - Wed
 
 
-[[Università/3° Anno/2° Semestre/Topografia e Positioning/Mattia Crespi\|Mattia Crespi]]
+[[Personale/Contatti/Mattia Crespi\|Mattia Crespi]]
 
 ### 📝 Teoria
 
@@ -279,26 +279,26 @@ Esercizi su Corollario al Teo della media e Legge di propagazione della covarian
 
 # 📆  19-04-2024 - Fri
 
-[[Università/3° Anno/2° Semestre/Topografia e Positioning/Mattia Crespi\|Mattia Crespi]]
+[[Personale/Contatti/Mattia Crespi\|Mattia Crespi]]
 
 ### ✏️ Esercizi
 
-- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Es 01 - Coordinate - TP\|Es 01 - Coordinate - TP]]
+- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Esercitazioni/Es 01 - Coordinate - TP\|Es 01 - Coordinate - TP]]
 
 
 # 📆  24-04-2024 - Wed
 
-[[Università/3° Anno/2° Semestre/Topografia e Positioning/Mattia Crespi\|Mattia Crespi]]
+[[Personale/Contatti/Mattia Crespi\|Mattia Crespi]]
 
 ### ✏️ Esercizi
 
-- Conclusa [[Università/3° Anno/2° Semestre/Topografia e Positioning/Es 01 - Coordinate - TP\|Es 01 - Coordinate - TP]]
+- Conclusa [[Università/3° Anno/2° Semestre/Topografia e Positioning/Esercitazioni/Es 01 - Coordinate - TP\|Es 01 - Coordinate - TP]]
 
 
 
 
 # 📆  02-05-2024 - Thu
-[[Università/3° Anno/2° Semestre/Topografia e Positioning/Mattia Crespi\|Mattia Crespi]]
+[[Personale/Contatti/Mattia Crespi\|Mattia Crespi]]
 
 ❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗ Sono arrivato alle 11:30
