@@ -6,7 +6,7 @@
 # [[Università/3° Anno/2° Semestre/Topografia e Positioning/🧭 Topografia e Positioning\|🧭 Topografia e Positioning]]
 
 🧑🏻‍🏫 Prof:
-- Prof. [[Università/3° Anno/2° Semestre/Topografia e Positioning/Mattia Crespi\|Mattia Crespi]] - [mattia.crespi@uniroma1.it](mailto:mattia.crespi@uniroma1.it)
+- Prof. [[Personale/Contatti/Mattia Crespi\|Mattia Crespi]] - [mattia.crespi@uniroma1.it](mailto:mattia.crespi@uniroma1.it)
 - Prof. [[Michela Ravanelli\|Michela Ravanelli]]
 - Dott. [[Alessandra Maria De Pace\|Alessandra Maria De Pace]] - [alessandramaria.depace@uniroma1.it](mailto:alessandramaria.depace@uniroma1.it)
 - Dott. [[Filippo Bocchino\|Filippo Bocchino]] - [filippo.bocchino@uniroma1.it](mailto:filippo.bocchino@uniroma1.it)
@@ -95,11 +95,11 @@ Riguarda **strumenti e metodi di misura** e le **esercitazioni**.
 voto finale è media dello [[Università/3° Anno/2° Semestre/Topografia e Positioning/🧭 Topografia e Positioning#✍️ Scritto\|#✍️ Scritto]] e dell'[[Università/3° Anno/2° Semestre/Topografia e Positioning/🧭 Topografia e Positioning#🗣 Orale\|#🗣 Orale]]
 
 
-| Parte   | Data | Voto |
-| ------- | ---- | ---- |
-| Scritto |      |      |
-| Orale   |      |      |
-|         |      |      |
+| Parte   | Data           | Voto |
+| ------- | -------------- | ---- |
+| Scritto | [[2024-06-04\|2024-06-04]] | 27   |
+| Orale   | ???            |      |
+
 
 
 
@@ -109,24 +109,22 @@ voto finale è media dello [[Università/3° Anno/2° Semestre/Topografia e Posi
 
 ___
 
-| File                                                                                                                                                                        | Tipo    | Stato         |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------- |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Es 01 - Coordinate - TP\|Es 01 - Coordinate - TP]]                                                             | Es      | 🟡 Finire     |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Es 02 - Perimetrazione tetto - TP\|Es 02 - Perimetrazione tetto - TP]]                                         | Es      | 🔴 Fare       |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Ex - 2020-04-28 - TP\|Ex - 2020-04-28 - TP]]                                                                   | Esame   | 🔴 Fare       |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/CERN-LNGS distance computation for the OPERA Project\|CERN-LNGS distance computation for the OPERA Project]]   | Meeting | 🟢 Fatto      |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Introduzione Ricerca Operativa\|Introduzione Ricerca Operativa]]                                               | Meeting | 🔴 Fare       |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/00 - Presentazione corso Topografia e Positioning\|00 - Presentazione corso Topografia e Positioning]] | T       | 🟢 Fatto      |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP\|01 - Sistemi di riferimento e di coordinate - TP]]   | T       | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP\|02 - Campo gravitazionale - TP]]                                       | T       | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Statistica in Topografia - TP\|03 - Statistica in Topografia - TP]]                               | T       | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/04 - Equazione di osservazione - TP\|04 - Equazione di osservazione - TP]]                             | T       | 🪶 Scrivere   |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/05 - Problemi di Positioning - TP\|05 - Problemi di Positioning - TP]]                                 | T       | 🪶 Scrivere   |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]                                         | T       | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.1 - Teodolite - TP\|08.1 - Teodolite - TP]]                                                         | T       | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.2 - Distanziometro - TP\|08.2 - Distanziometro - TP]]                                               | T       | 🪶 Scrivere   |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.3 - Livello - TP\|08.3 - Livello - TP]]                                                             | T       | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/Sistemi di coordinate fondamentali\|Sistemi di coordinate fondamentali]]                               | T       | 🪶 Scrivere   |
+| File                                                                                                                                                                      | Tipo | Stato         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------- |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Esercitazioni/Es 02 - Perimetrazione tetto - TP\|Es 02 - Perimetrazione tetto - TP]]                         | Es   | 🔴 Fare       |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP\|01 - Sistemi di riferimento e di coordinate - TP]] | T    | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP\|02 - Campo gravitazionale - TP]]                                     | T    | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/04 - Equazione di osservazione - TP\|04 - Equazione di osservazione - TP]]                           | T    | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/05 - Problemi di Positioning - TP\|05 - Problemi di Positioning - TP]]                               | T    | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/06 - Cartografia - TP\|06 - Cartografia - TP]]                                                       | T    | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/Sistemi di coordinate fondamentali\|Sistemi di coordinate fondamentali]]                             | T    | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Statistica in Topografia - TP\|03 - Statistica in Topografia - TP]]                             | T    | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]                                       | T    | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.1 - Teodolite - TP\|08.1 - Teodolite - TP]]                                                       | T    | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.2 - Distanziometro - TP\|08.2 - Distanziometro - TP]]                                             | T    | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.3 - Livello - TP\|08.3 - Livello - TP]]                                                           | T    | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.4 - GNSS - TP\|08.4 - GNSS - TP]]                                                                 | T    | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Esercitazioni/Es 01 - Coordinate - TP\|Es 01 - Coordinate - TP]]                                             | Es   | 🟡 Finire     |
 
 { .block-language-dataview}
 
@@ -153,13 +151,15 @@ ___
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP\|01 - Sistemi di riferimento e di coordinate - TP]]   | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP\|02 - Campo gravitazionale - TP]]                                       | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Statistica in Topografia - TP\|03 - Statistica in Topografia - TP]]                               | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/04 - Equazione di osservazione - TP\|04 - Equazione di osservazione - TP]]                             | 🪶 Scrivere   |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/05 - Problemi di Positioning - TP\|05 - Problemi di Positioning - TP]]                                 | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/04 - Equazione di osservazione - TP\|04 - Equazione di osservazione - TP]]                             | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/05 - Problemi di Positioning - TP\|05 - Problemi di Positioning - TP]]                                 | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/06 - Cartografia - TP\|06 - Cartografia - TP]]                                                         | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]                                         | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.1 - Teodolite - TP\|08.1 - Teodolite - TP]]                                                         | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.2 - Distanziometro - TP\|08.2 - Distanziometro - TP]]                                               | 🪶 Scrivere   |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.3 - Livello - TP\|08.3 - Livello - TP]]                                                             | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/Sistemi di coordinate fondamentali\|Sistemi di coordinate fondamentali]]                               | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.1 - Teodolite - TP\|08.1 - Teodolite - TP]]                                                         | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.2 - Distanziometro - TP\|08.2 - Distanziometro - TP]]                                               | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.3 - Livello - TP\|08.3 - Livello - TP]]                                                             | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.4 - GNSS - TP\|08.4 - GNSS - TP]]                                                                   | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/Sistemi di coordinate fondamentali\|Sistemi di coordinate fondamentali]]                               | 🪶🟡 Scrivere |
 
 { .block-language-dataview}
 
@@ -177,10 +177,10 @@ Dobbiamo pensare che chi legge la relazione, deve essere guidato a capire che no
 
 
 
-| File                                                                                                                                | Stato     |
-| ----------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Es 01 - Coordinate - TP\|Es 01 - Coordinate - TP]]                     | 🟡 Finire |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Es 02 - Perimetrazione tetto - TP\|Es 02 - Perimetrazione tetto - TP]] | 🔴 Fare   |
+| File                                                                                                                                              | Stato     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Esercitazioni/Es 01 - Coordinate - TP\|Es 01 - Coordinate - TP]]                     | 🟡 Finire |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Esercitazioni/Es 02 - Perimetrazione tetto - TP\|Es 02 - Perimetrazione tetto - TP]] | 🔴 Fare   |
 
 { .block-language-dataview}
 
@@ -189,9 +189,9 @@ Dobbiamo pensare che chi legge la relazione, deve essere guidato a capire che no
 
 
 
-| File                                                                                                      | Stato   |
-| --------------------------------------------------------------------------------------------------------- | ------- |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Ex - 2020-04-28 - TP\|Ex - 2020-04-28 - TP]] | 🔴 Fare |
+| File                                                                                                            | Stato    |
+| --------------------------------------------------------------------------------------------------------------- | -------- |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Esami/Ex - 2020-04-28 - TP\|Ex - 2020-04-28 - TP]] | 🟢 Fatto |
 
 { .block-language-dataview}
 
