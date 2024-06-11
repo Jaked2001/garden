@@ -10,9 +10,9 @@ Nella topografia ci sono 3 grandezze di particolare interesse. Queste sono:
 - Angoli
 	- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP#Angolo azimutale\|#Angolo azimutale]]
 	- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP#Angolo zenitale\|#Angolo zenitale]]
-	- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP#Dislivello ortometrico\|#Dislivello ortometrico]]
 - Distanze
 - Dislivelli
+	- [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP#Dislivello ortometrico\|#Dislivello ortometrico]]
 Tutte e 3 sono grandezze **osservabili**.
 
 Gli strumenti più importanti sono:
@@ -86,10 +86,14 @@ L'**angolo zenitale** di un punto C misurato da un punto A è l'angolo $\phi_{AC
 title: Dislivello ortometrico ($\Delta$)
 
 Il dislivello ortometrico fra A e B è la differenza fra la [[02 - Campo gravitazionale - TP#Quota Ortometrica|quota ortometrica]] di A e di B.
-
+$$
+\Delta = q_{A}-q_{B}
+$$
 ```
 
 ![08 - Strumenti di misura - TP 2024-05-25 15.10.41.excalidraw.png](/img/user/Excalidraw/08%20-%20Strumenti%20di%20misura%20-%20TP%202024-05-25%2015.10.41.excalidraw.png)
+
+
 
 
 ### Distanze
