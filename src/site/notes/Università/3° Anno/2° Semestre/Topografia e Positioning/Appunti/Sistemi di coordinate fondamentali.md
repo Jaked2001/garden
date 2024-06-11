@@ -16,9 +16,15 @@ Possiamo definire diversi [[Università/3° Anno/2° Semestre/Topografia e Posit
 - [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/Sistemi di coordinate fondamentali#Coordinate cartografiche\|#Coordinate cartografiche]]
 
 
-### Datum
+### DATUM
 
-Il datum è il [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP#Sistema di riferimento\|sistema di riferimento]] in cui si sta lavorando.
+```ad-Definizione
+title: DATUM
+
+Il **DATUM** è il [[01 - Sistemi di riferimento e di coordinate - TP#Sistema di riferimento|sistema di riferimento]] al quale è associato un certo ellissoide nella sua forma geometrica e come questo ellissoide è posizionato rispetto al geoide e quindi al corpo fisico della Terra
+
+```
+
 
 ```ad-example
 title: Esempio
@@ -163,6 +169,55 @@ Quando si adopera l'ellissoide orientato, anche le coordinate cambiano.
 
 ![Schermata 2024-06-07 alle 18.08.26.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Topografia%20e%20Positioning/Appunti/allegati/Schermata%202024-06-07%20alle%2018.08.26.png)
 
+Gli ellissoidi orientati usati in ambito nazionale sono 5:
+- 2 attinenti a UTM e Gauss-Boaga
+- 3 storici - utilizzati nella cartografia catastale
+
+#### DATUM Roma 1940
+
+Il [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/Sistemi di coordinate fondamentali#DATUM\|#DATUM]] **Roma 1940** è quello che fa riferimento all'ellissoide cosiddetto **internazionale** oppure **Heyford-1924**.
+
+In ambito nazionale, si è preso l'ellissoide internazionale e si è imposta la condizione che, all'Osservatorio di Roma Monte Mario la verticale fisica (filo a piombo) e la normale all'ellissoide coincidano.
+
+L'ellissoide si dice **orientato ad un punto**.
+
+In realtà un punto non basta a definire l'ellissoide. Ne serve un altro. Si è scelto Genova, dove è presente il **mareografo fondamentale nazionale** --> oggetto che misura continuamente il livello del mare e permette di definire dove passa il geoide.
+
+A Genova, si è imposto che geoide ed ellissoide passino per lo stesso punto.
+
+Le condizioni sono pertanto:
+1. $\vec{n_{MM}} = \vec{\nu_{MM}}$ - Normale all'ellissoide e verticale fisica coincidenti a Monte Mario
+2. $N_{G} = 0$ - [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP#Ondulazione del geoide\|Ondulazione del geoide]] nulla a Genova
+
+![Sistemi di coordinate fondamentali 2024-06-08 10.37.05.excalidraw.png](/img/user/Excalidraw/Sistemi%20di%20coordinate%20fondamentali%202024-06-08%2010.37.05.excalidraw.png)
+
+
+Con le condizioni imposte, l'ellissoide in realtà non è ancora definito in maniera **univoca**. Infatti, entrambe le configurazioni sottostanti rispettano le condizioni 1. e 2.:
+
+![Sistemi di coordinate fondamentali 2024-06-08 10.43.19.excalidraw.png](/img/user/Excalidraw/Sistemi%20di%20coordinate%20fondamentali%202024-06-08%2010.43.19.excalidraw.png)
+
+
+È pertanto necessario introdurre un'altra condizione sull'asse di rotazione dell'ellissoide.
+- Si considera solo l'ellissoide il cui asse di rotazione sia parallelo all'asse di rotazione terrestre
+
+```ad-Teo
+title: DATUM Roma 1940
+
+In definitiva, le condizioni del DATU Roma 1940 sono:
+1. $\vec{n_{MM}} = \vec{\nu_{MM}}$ - Normale all'ellissoide e verticale fisica coincidenti a Monte Mario
+2. $N_{G} = 0$ - [[02 - Campo gravitazionale - TP#Ondulazione del geoide|Ondulazione del geoide]] nulla a Genova
+3. Si considera solo l'ellissoide il cui asse di rotazione sia parallelo all'asse di rotazione terrestre
+
+
+```
+
+
+
+#### DATUM Roma 1950
+
+![Schermata 2024-06-08 alle 11.17.22.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Topografia%20e%20Positioning/Appunti/allegati/Schermata%202024-06-08%20alle%2011.17.22.png)
+
+
 
 
 
@@ -268,7 +323,7 @@ $$
 
 Le **coordinate cartografiche** sono delle coordinate che si definiscono su una rappresentazione cartografica. Quando si proietta l'ellissoide terrestre sul piano si vanno a definire delle nuove coordinate dette appunto coordinate cartografiche
 
-vd. [[06 - Cartografia - TP\|06 - Cartografia - TP]].
+vd. [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/06 - Cartografia - TP\|06 - Cartografia - TP]].
 
 
 # Conversioni tra sistemi di coordinate
