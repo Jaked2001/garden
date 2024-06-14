@@ -54,6 +54,7 @@ title: Date esami
 ```
 
 [[Università/3° Anno/1° Semestre/Sessione Invernale - 2023-2024\|Sessione Invernale - 2023-2024]]
+
 ## Struttura esame
 
 - Una prova [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/🪨 Fondamenti di Geotecnica#✍️ Scritto\|scritta]] necessario per l'orale
