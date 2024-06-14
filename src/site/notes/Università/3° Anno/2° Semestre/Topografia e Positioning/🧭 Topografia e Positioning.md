@@ -120,10 +120,6 @@ ___
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/Sistemi di coordinate fondamentali\|Sistemi di coordinate fondamentali]]                             | T    | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Statistica in Topografia - TP\|03 - Statistica in Topografia - TP]]                             | T    | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]                                       | T    | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.1 - Teodolite - TP\|08.1 - Teodolite - TP]]                                                       | T    | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.2 - Distanziometro - TP\|08.2 - Distanziometro - TP]]                                             | T    | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.3 - Livello - TP\|08.3 - Livello - TP]]                                                           | T    | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.4 - GNSS - TP\|08.4 - GNSS - TP]]                                                                 | T    | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Esercitazioni/Es 01 - Coordinate - TP\|Es 01 - Coordinate - TP]]                                             | Es   | 🟡 Finire     |
 
 { .block-language-dataview}
@@ -155,10 +151,10 @@ ___
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/05 - Problemi di Positioning - TP\|05 - Problemi di Positioning - TP]]                                 | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/06 - Cartografia - TP\|06 - Cartografia - TP]]                                                         | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]                                         | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.1 - Teodolite - TP\|08.1 - Teodolite - TP]]                                                         | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.2 - Distanziometro - TP\|08.2 - Distanziometro - TP]]                                               | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.3 - Livello - TP\|08.3 - Livello - TP]]                                                             | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.4 - GNSS - TP\|08.4 - GNSS - TP]]                                                                   | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.1 - Teodolite - TP\|08.1 - Teodolite - TP]]                                                         | 🟢 Fatto      |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.2 - Distanziometro - TP\|08.2 - Distanziometro - TP]]                                               | 🟢 Fatto      |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.3 - Livello - TP\|08.3 - Livello - TP]]                                                             | 🟢 Fatto      |
+| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08.4 - GNSS - TP\|08.4 - GNSS - TP]]                                                                   | 🟢 Fatto      |
 | [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/Sistemi di coordinate fondamentali\|Sistemi di coordinate fondamentali]]                               | 🪶🟡 Scrivere |
 
 { .block-language-dataview}
