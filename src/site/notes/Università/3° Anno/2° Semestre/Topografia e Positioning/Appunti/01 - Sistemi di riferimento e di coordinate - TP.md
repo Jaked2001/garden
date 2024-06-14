@@ -420,7 +420,23 @@ $$
 
 
 
+$$
+R(\lambda) =
+\begin{bmatrix}
+\cos\lambda & \sin\lambda & 0 \\
+-\sin\lambda & \cos\lambda & 0 \\
+0 & 0 & 1
+\end{bmatrix}
+$$
 
+$$
+R(\varphi) =
+\begin{bmatrix}
+\cos\varphi & 0 & -\sin\varphi \\
+0 & 1 & 0 \\
+\sin\varphi & 0 & \cos\varphi
+\end{bmatrix}
+$$
 
 
 
