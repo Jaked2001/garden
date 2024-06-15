@@ -98,33 +98,8 @@ voto finale è media dello [[Università/3° Anno/2° Semestre/Topografia e Posi
 | Parte   | Data           | Voto |
 | ------- | -------------- | ---- |
 | Scritto | [[2024-06-04\|2024-06-04]] | 27   |
-| Orale   | ???            |      |
+| Orale   | [[2024-06-12\|2024-06-12]] | 28   |
 
-
-
-
-
-# ✔️ To-Do
-
-
-___
-
-| File                                                                                                                                                                      | Tipo | Stato         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------- |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Esercitazioni/Es 02 - Perimetrazione tetto - TP\|Es 02 - Perimetrazione tetto - TP]]                         | Es   | 🔴 Fare       |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/01 - Sistemi di riferimento e di coordinate - TP\|01 - Sistemi di riferimento e di coordinate - TP]] | T    | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/02 - Campo gravitazionale - TP\|02 - Campo gravitazionale - TP]]                                     | T    | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/04 - Equazione di osservazione - TP\|04 - Equazione di osservazione - TP]]                           | T    | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/05 - Problemi di Positioning - TP\|05 - Problemi di Positioning - TP]]                               | T    | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/06 - Cartografia - TP\|06 - Cartografia - TP]]                                                       | T    | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/Sistemi di coordinate fondamentali\|Sistemi di coordinate fondamentali]]                             | T    | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Statistica in Topografia - TP\|03 - Statistica in Topografia - TP]]                             | T    | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/08 - Strumenti di misura - TP\|08 - Strumenti di misura - TP]]                                       | T    | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Topografia e Positioning/Esercitazioni/Es 01 - Coordinate - TP\|Es 01 - Coordinate - TP]]                                             | Es   | 🟡 Finire     |
-
-{ .block-language-dataview}
-
- 
 
 ___
 
