@@ -140,12 +140,12 @@ $$
 
 ```ad-error
 title: Sbagliato
-$$
+$
 \begin{cases}
 d = \sqrt{x^{2}+y^{2}} \\
 \alpha = \arctan\left( \dfrac{x}{y} \right)
 \end{cases}
-$$
+$
 La trasformazione scritta sopra è sbagliata in quanto la funzione $\arctan$ è in grado di rappresentare esclusivamente angoli compresi in $\left(  -\dfrac{\pi}{2}, \dfrac{\pi}{2} \right)$, mentre noi abbiamo bisogno di rappresentare $\alpha\in (0,2\pi)$.
 
 ![01 - Sistemi di riferimento e di coordinate - TP 2024-03-12 21.50.56.excalidraw.png](/img/user/Excalidraw/01%20-%20Sistemi%20di%20riferimento%20e%20di%20coordinate%20-%20TP%202024-03-12%2021.50.56.excalidraw.png)
@@ -255,7 +255,7 @@ $$
 title: Attenzione
 
 Potrei pensare di scrivere la seguente relazione:
-$$
+$
 \begin{bmatrix}
 x' \\
 y'
@@ -269,7 +269,7 @@ y
 \begin{bmatrix}
 t_{x} \\ t_{y}
 \end{bmatrix}_{S} 
-$$
+$
 In questo modo però non sto tenendo conto della rotazione tra i due Sistemi di Riferimento
 
 ```
@@ -498,7 +498,7 @@ Nella realtà il passaggio da un [[Università/3° Anno/2° Semestre/Topografia 
 title: Osservazione 1
 
 La trasformazione:
-$$
+$
 \begin{bmatrix}
 x' \\
 y' \\
@@ -525,7 +525,7 @@ T_{z}
 \right]
 \right]
 \right]
-$$
+$
 Risulta essere una relazione **altamente non lineare**.
 ```
 

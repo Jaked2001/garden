@@ -99,15 +99,23 @@ Facoltativo
 # ✔️ To-Do
 
 
+```todoist
+filter: "#Università & /🔌 Elettrotecnica"
+autrefresh: 300
+```
+
+
 ___
 
 | File                                                                                                                                                                            | Tipo | Stato       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]]                                                 | T    | 🪶 Scrivere |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET\|08 - Reti in regime stazionario - ET]]                                         | T    | 🪶 Scrivere |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET\|03 - Introduzione allo studio delle reti elettriche - ET]] | T    | 🟠 Studiare |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET\|04 - Fenomeni di conduzione e resistori - ET]]                         | T    | 🟠 Studiare |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/05 - Generatori elettrici - ET\|05 - Generatori elettrici - ET]]                                                     | T    | 🟠 Studiare |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET\|06 - Bipoli e potenza elettrica - ET]]                                         | T    | 🟠 Studiare |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/07 - Proprietà generali delle reti elettriche - ET\|07 - Proprietà generali delle reti elettriche - ET]]             | T    | 🟠 Studiare |
 
 { .block-language-dataview}
 
@@ -130,6 +138,8 @@ La numerazione dei capitoli fa riferimento alla numerazione del libro di testo "
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET\|04 - Fenomeni di conduzione e resistori - ET]]                         | 🟠 Studiare |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/05 - Generatori elettrici - ET\|05 - Generatori elettrici - ET]]                                                     | 🟠 Studiare |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET\|06 - Bipoli e potenza elettrica - ET]]                                         | 🟠 Studiare |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/07 - Proprietà generali delle reti elettriche - ET\|07 - Proprietà generali delle reti elettriche - ET]]             | 🟠 Studiare |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET\|08 - Reti in regime stazionario - ET]]                                         | 🪶 Scrivere |
 
 { .block-language-dataview}
 

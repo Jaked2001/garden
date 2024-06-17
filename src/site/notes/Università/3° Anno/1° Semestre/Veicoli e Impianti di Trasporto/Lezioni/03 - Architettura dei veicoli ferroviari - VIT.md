@@ -485,9 +485,9 @@ Per una sala montata isolata, dati i seguenti valori:
 - $r = 0.5 \, \rm m$
 - $\gamma = \frac{1}{20} = 0.05$
 - $y = 20 \, \rm mm$
-$$
+$
 R_{min} =375 \, \rm m
-$$
+$
 
 ```
 

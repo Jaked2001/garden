@@ -24,7 +24,7 @@ title: Ipotesi di una rete elettrica
 - All'esterno dei bipoli (o n-poli) non vi è accumulo di carica
 ```
 
-### Bipolo
+## Bipolo
 
 ```ad-Definizione
 title: Bipolo

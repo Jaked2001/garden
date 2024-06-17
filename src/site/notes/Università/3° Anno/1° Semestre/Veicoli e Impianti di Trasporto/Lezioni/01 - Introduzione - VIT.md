@@ -473,9 +473,9 @@ L'andamento del coefficiente di aderenza in funzione della velocità è descritt
 ```ad-Teo
 title: Legge di Muller
 
-$$
+$
 \varphi(V) = \frac{\varphi(0)}{1 + 0.01 \cdot V}
-$$
+$
 
 ```
 

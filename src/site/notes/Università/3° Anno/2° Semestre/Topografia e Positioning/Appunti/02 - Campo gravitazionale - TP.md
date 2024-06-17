@@ -23,9 +23,9 @@ La conoscenza del geoide ci permette di conoscere, ad esempio, come viaggiano le
 ```ad-Definizione
 title: Campo di gravità terrestre
 Il **Campo di gravità terrestre** è la *somma* del [[#Campo di attrazione Newtoniana]] e del [[#Campo della forza centrifuga]]
-$$
+$
 \vec{g} = \vec{f} + \vec{c}
-$$
+$
 ```
 
 #### Campo di attrazione Newtoniana
@@ -54,9 +54,9 @@ $$
 title: Potenziale newtoniano
 
 Posso definire la forza attrattiva per mezzo di una funzione, detta [[Potenziale Newtoniano]] e dire che
-$$
+$
 \vec{f} = \vec{\rm grad} V
-$$
+$
 
 ```
 
@@ -65,9 +65,9 @@ Si dimostra pertanto
 ```ad-Teo
 title: Potenziale Newtoniano
 
-$$
+$
 V = G \int_{\text{Vol. Terra}} \frac{dM}{r_{PQ}}
-$$
+$
 
 ```
 
@@ -108,9 +108,9 @@ $$
 title: Potenziale Centrifugo
 
 Si può dimostrare che il potenziale centrifugo è pari a
-$$
+$
 C = \frac{1}{2} \omega^{2} l_{P}^{2}
-$$
+$
 
 ```
 
@@ -164,9 +164,9 @@ Conosco solo i valori medi di densità. So molto poco sui valori puntuali. Vedre
 ```ad-Teo
 title: Equazione di Laplace
 L'**eqiazione di Laplace** afferma che
-$$
+$
 \Delta^{2}V = 0
-$$
+$
 al di fuori della Terra
 ```
 
@@ -233,12 +233,12 @@ Noi siamo interessati solo al termine $A_{2,0}$ che è quello prevalente. Questo
 
 ```ad-info
 Si ricordano gli ordini di grandezza che riguardano le dimensioni della Terra. Se guardiamo alla Terra come un ellissoide infatti, per i semiassi $a$ e $b$ valgono le seguenti relazioni:
-$$
+$
 \begin{align}
 a &\simeq 6370 \,\rm km \\
 a-b &\simeq 21 \,\rm km
 \end{align}
-$$
+$
 
 ```
 
@@ -283,9 +283,9 @@ Il geoide è di fatto la superficie del mare (là dove c'è il mare).
 title: Potenziale del campo normale ($U$)
 
 Il [[#Potenziale del campo di gravità terrestre]] rappresentato esclusivamente dall'ellissoide di rotazione e quindi con i termini $A_{00}$ e $A_{20}$ della serie costituisce il **potenziale del campo normale**
-$$
+$
 \tilde{W} = U = \frac{GM}{r_{P}} + A_{20} \frac{Y_{20}}{r_{P}^{3}} + \frac{1}{2}\omega^{2}l_{P}^{2}
-$$
+$
 
 ```
 

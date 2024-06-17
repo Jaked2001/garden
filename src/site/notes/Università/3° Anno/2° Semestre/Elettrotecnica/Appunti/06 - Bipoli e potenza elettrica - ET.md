@@ -11,7 +11,7 @@
 
 
 
-### Bipolo
+## Bipolo
 
 ```ad-Definizione
 title: Bipolo
@@ -260,9 +260,9 @@ $
 title: Cortocurcuito
 
 Il cortocircuito è un [[#Bipolo]] che corrisponde a un [[Resistore]] a [[04 - Fenomeni di conduzione e resistori - ET#Resistenza elettrica|resistenza]] nulla ($R = 0$) e caratterizzato dalla seguente equazione:
-$$
+$
 V = 0 \quad \forall I
-$$
+$
 
 ```
 
@@ -276,9 +276,9 @@ $$
 title: Cortocurcuito
 
 Il cortocircuito è un [[#Bipolo]] che corrisponde a un [[Resistore]] a [[04 - Fenomeni di conduzione e resistori - ET#Conduttanza]] nulla ($G = 0$) o a [[04 - Fenomeni di conduzione e resistori - ET#Resistenza elettrica|resistenza]] infinita ($R = \infty$) e caratterizzato dalla seguente equazione:
-$$
+$
 I = 0 \quad \forall V
-$$
+$
 
 ```
 

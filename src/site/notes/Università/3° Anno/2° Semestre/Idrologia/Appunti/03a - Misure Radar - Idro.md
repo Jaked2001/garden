@@ -95,9 +95,9 @@ Applichiamo un filtro.
 title: Formula Z-R di Marshall & Palmer
 
 La **Formula Z-R di Marshall & Palmer** è una legge di potenza:
-$$
+$
 Z = aR^{b}
-$$
+$
 
 dove:
 - $Z:$ Fattore di reflittività

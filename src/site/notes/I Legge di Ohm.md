@@ -8,9 +8,9 @@
 title: I Legge di Ohm
 
 La **legge di Ohm** è una formula matematica che descrive la relazione di proporzionalità diretta tra la tensione elettrica $V$ (misurata in [[Volt]]) applicata ai capi di un conduttore elettrico, e la [[Corrente elettrica]] $I$ (espressa in [[Ampere]] che scorre nel conduttore stesso; essa deriva da evidenze empiriche ed è valida per molti materiali conduttori
-$$
+$
 V = RI \qquad \rm [\Omega]
-$$
+$
 
 ```
 

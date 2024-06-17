@@ -159,9 +159,9 @@ La distribuzione della temperatura è variabile nel tempo. Presenta però delle 
 title: Gradiente Termico Verticale
 
 Si definisce **Gradiente termico verticale** il rapporto:
-$$
+$
 \gamma = - \frac{dT}{dz}
-$$
+$
 dove:
 - $z$: altitudine
 - $T$: temperatura
@@ -403,9 +403,9 @@ La condensazione di un grammo di vapor d'acqua fa aumentare la temperatura di un
 title: Umidità relativa ($u$)
 
 L'**umidità relativa** è il rapporto tra la [[#Tensione del vapor d'acqua]] di un volume d'aria e la [[#Tensione di saturazione]] dello stesso volume d'aria.
-$$
+$
 u = \frac{\tau}{\tau_{s}}
-$$
+$
 
 ```
 
@@ -415,9 +415,9 @@ $$
 title: Deficit igrometrico
 
 Il **deficit igrometrico** è definito come
-$$
+$
 \tau_{d} = \tau_{s}-\tau
-$$
+$
 
 ```
 
@@ -543,9 +543,9 @@ Possiamo quindi definire un [[Università/3° Anno/2° Semestre/Idrologia/Appunt
 ```ad-Definizione
 title: Gradiente barico orizzontale ($- \vec{G}$)
 Il gradiente barico orizzontale è il vettore
-$$
+$
 -\vec{G} = \text{grad} (p)
-$$
+$
 dove:
 - $p:$ [[#Pressione atmosferica]] ad una certa quota
 

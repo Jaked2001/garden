@@ -77,12 +77,9 @@ NON PREVISTO (a parte il test finale)
 
 | File                                                                                                                                                   | Tipo  | Stato         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- | ------------- |
-| [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 01 - Idrostatica - Idro\|Es 01 - Idrostatica - Idro]]                                   | Es    | 🟡 Finire     |
-| [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 02 - Foronomia - Idro\|Es 02 - Foronomia - Idro]]                                       | Es    | 🟡 Finire     |
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 03 - Correnti a superficie libera - Idro\|Es 03 - Correnti a superficie libera - Idro]] | Es    | 🔴 Fare       |
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 04 - Correnti in pressione - Idro\|Es 04 - Correnti in pressione - Idro]]               | Es    | 🔴 Fare       |
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 05 - Dati Idrologici - Idro\|Es 05 - Dati Idrologici - Idro]]                           | Es    | 🔴 Fare       |
-| [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 06 - Statistica per l'idrologia - Idro\|Es 06 - Statistica per l'idrologia - Idro]]     | Es    | 🟡 Finire     |
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 07 - Piogge di progetto - Idro\|Es 07 - Piogge di progetto - Idro]]                     | Es    | 🔴 Fare       |
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 08 - Perdite idrologiche 1 - Idro\|Es 08 - Perdite idrologiche 1 - Idro]]               | Es    | 🔴 Fare       |
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 09 - Idro\|Es 09 - Idro]]                                                               | Es    | 🔴 Fare       |
@@ -93,19 +90,22 @@ NON PREVISTO (a parte il test finale)
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 14 - Fognature - Idro\|Es 14 - Fognature - Idro]]                                       | Es    | 🔴 Fare       |
 | [[Università/3° Anno/2° Semestre/Idrologia/Temi d'esame/Domande esonero Idrologia 1\|Domande esonero Idrologia 1]]                                  | Esame | 🔴 Fare       |
 | [[Università/3° Anno/2° Semestre/Idrologia/Temi d'esame/Soluzione domande esonero Idro 1\|Soluzione domande esonero Idro 1]]                        | Esame | 🔴 Fare       |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro\|03 - Afflussi - Idro]]                                                     | T     | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro\|04 - Statistica - Idro]]                                                 | T     | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04b - Statistica e Tempo di Ritorno - Idro\|04b - Statistica e Tempo di Ritorno - Idro]]         | T     | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07b - Infiltrazione - Idro\|07b - Infiltrazione - Idro]]                                         | T     | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/08 - Bacino Imbrifero - Idro\|08 - Bacino Imbrifero - Idro]]                                     | T     | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/00 - Presentazione corso idrologia\|00 - Presentazione corso idrologia]]                         | T     | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera\|01 - Atmosfera]]                                                                 | T     | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro\|02 - Piogge Intense - Idro]]                                         | T     | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro\|03 - Afflussi - Idro]]                                                     | T     | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07a - Evaporazione - Idro\|07a - Evaporazione - Idro]]                                           | T     | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03a - Misure Radar - Idro\|03a - Misure Radar - Idro]]                                           | T     | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro\|04 - Statistica - Idro]]                                                 | T     | 🪶 Scrivere   |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04b - Statistica e Tempo di Ritorno - Idro\|04b - Statistica e Tempo di Ritorno - Idro]]         | T     | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro\|05 - Deflussi - Idro]]                                                     | T     | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05a - Deflusso di base - Idro\|05a - Deflusso di base - Idro]]                                   | T     | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro\|06 - Perdite - Idro]]                                                       | T     | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07a - Evaporazione - Idro\|07a - Evaporazione - Idro]]                                           | T     | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07b - Infiltrazione - Idro\|07b - Infiltrazione - Idro]]                                         | T     | 🪶 Scrivere   |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/08 - Bacino Imbrifero - Idro\|08 - Bacino Imbrifero - Idro]]                                     | T     | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 01 - Idrostatica - Idro\|Es 01 - Idrostatica - Idro]]                                   | Es    | 🟡 Finire     |
+| [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 02 - Foronomia - Idro\|Es 02 - Foronomia - Idro]]                                       | Es    | 🟡 Finire     |
+| [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 06 - Statistica per l'idrologia - Idro\|Es 06 - Statistica per l'idrologia - Idro]]     | Es    | 🟡 Finire     |
 
 { .block-language-dataview}
 
@@ -139,7 +139,6 @@ ___
 
 ## ✍️ Esercitazioni
 
-
 | File                                                                                                                                                   | Stato     | PDF                                                                                                                                                                                               | Data           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 01 - Idrostatica - Idro\|Es 01 - Idrostatica - Idro]]                                   | 🟡 Finire | <ul><li>[[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/allegati/Es 1 - Idrostatica e Calcolo delle Spinte - Idro.pdf\\|Es 1 - Idrostatica e Calcolo delle Spinte - Idro.pdf]]</li></ul> | March 04, 2024 |
@@ -164,8 +163,8 @@ ___
 
 | File                                                                                                                            | Stato   | PDF |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------- | --- |
-| [[Università/3° Anno/2° Semestre/Idrologia/Temi d'esame/Domande esonero Idrologia 1\|Domande esonero Idrologia 1]]           | 🔴 Fare | \-  |
 | [[Università/3° Anno/2° Semestre/Idrologia/Temi d'esame/Soluzione domande esonero Idro 1\|Soluzione domande esonero Idro 1]] | 🔴 Fare | \-  |
+| [[Università/3° Anno/2° Semestre/Idrologia/Temi d'esame/Domande esonero Idrologia 1\|Domande esonero Idrologia 1]]           | 🔴 Fare | \-  |
 
 { .block-language-dataview}
 

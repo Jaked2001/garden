@@ -86,9 +86,9 @@ L'**angolo zenitale** di un punto C misurato da un punto A è l'angolo $\phi_{AC
 title: Dislivello ortometrico ($\Delta$)
 
 Il dislivello ortometrico fra A e B è la differenza fra la [[02 - Campo gravitazionale - TP#Quota Ortometrica|quota ortometrica]] di A e di B.
-$$
+$
 \Delta = q_{A}-q_{B}
-$$
+$
 ```
 
 ![08 - Strumenti di misura - TP 2024-05-25 15.10.41.excalidraw.png](/img/user/Excalidraw/08%20-%20Strumenti%20di%20misura%20-%20TP%202024-05-25%2015.10.41.excalidraw.png)

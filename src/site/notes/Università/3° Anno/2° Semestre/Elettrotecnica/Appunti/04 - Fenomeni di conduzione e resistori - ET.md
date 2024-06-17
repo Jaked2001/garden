@@ -13,13 +13,13 @@ Tra i due capi del conduttore si può misurare una differenza di potenziale (d.d
 title: Resistena Elettrica
 
 In condizioni stazionarie, si osserva proporzionalità diretta tra i valori di $I$ e $V$. Pertanto, il loro rapporto è costante:
-$$
+$
 R = \frac{V}{I}
-$$
+$
 Il parametro di proporzionalità $R$ è detto **resistenza elettrica** e ha le dimensioni fisiche di ohm:
-$$
+$
 [\Omega] = \rm \left[  \frac{V}{A}  \right]
-$$
+$
 
 ```
 
@@ -33,9 +33,9 @@ L'esperienza di Joule dimostra che un conduttore attraversato da corrente si ris
 title: Potenza dissipata per Effetto Joule ($P_{d}$)
 
 La potenza dissipata per effetto Joule è
-$$
+$
 P_{d} = RI^{2} \qquad \rm [W]
-$$
+$
 
 ```
 
@@ -83,9 +83,9 @@ dove G prende il nome di [[Università/3° Anno/2° Semestre/Elettrotecnica/Appu
 title: Conduttanza ($G$)
 
 La **conduttanza** è l'inverso della [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET#Resistenza elettrica\|#Resistenza elettrica]]:
-$$
+$
 G = \frac{1}{R} \qquad [S]
-$$
+$
 e si misura in *siemens* ($S$).
 
 ```

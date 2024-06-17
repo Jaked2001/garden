@@ -41,9 +41,9 @@ Disperdo le particelle in un fluido e misuro quelle che cadono sul fondo (le pi�
 ```ad-Teo
 title: Coefficiente di Uniformità
 
-$$
+$
 \mathrm{U} = \frac{d_{60}}{d_{10}}
-$$
+$
 
 Dove $d_{i} =$ Diametro al $i\%$ di passante
 
@@ -56,9 +56,9 @@ Più è grande, meno il terreno è uniforme.
 ```ad-Teo
 title: Teorema
 
-$$
+$
 \mathrm{C} = \frac{d_{30}^{2}}{d_{60}d_{10}}
-$$
+$
 
 ```
 

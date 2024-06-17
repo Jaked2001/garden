@@ -66,9 +66,9 @@ L'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Evap
 title: Altezza di evaporazione ($E$)
 
 L'**altezza di evaporazione** in un intervallo di tempo $\Delta t$ è il rapporto tra il volume d'acqua evaporato e l'area della superficie evaporante:
-$$
+$
 E = \frac{W_{e}}{A}
-$$
+$
 dove:
 - $W_{e}:$ Volume d'acqua evaporato
 - $A:$ Area della superficie evaporante
@@ -169,9 +169,9 @@ L'**evapotraspirazione effettiva** è l'altezza di [[#Evapotraspirazione]] che s
 - disponibilità idrica
 - stato della vegetazione
 
-$$
+$
 \text{evapotraspirazione}  = \text{pioggia} - \text{acqua drenata} - \text{variazione di umidità nel terreno}
-$$
+$
 
 ```
 
@@ -242,9 +242,9 @@ dove:
 ```ad-Definizione
 title: Intensità dell'intercettazione ($\nu(t)$)
 
-$$
+$
 \nu(t) = i(t) e^{-\dfrac{h(t)}{V_{MAX}}} \quad \rm \left[ \frac{mm}{h} \right]
-$$
+$
 
 ```
 
@@ -265,9 +265,9 @@ L'[[#Invaso nelle depressioni]] si misura in termini di **intensità di invaso**
 ```ad-Definizione
 title: Intensità d'invaso ($s(t)$)
 L'**intensità d'invaso** è dato dalla seguente:
-$$
+$
 s(t) = \left[ i(t) - \nu(t) - f(t) \right] e^{- \dfrac{h(t) - V(t)-F(t)}{S_{MAX}}}
-$$
+$
 ```
 
 

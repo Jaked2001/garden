@@ -248,9 +248,9 @@ Uno dei problemi che assillano i nostri amministratori e politici è riuscire a 
 ```ad-Definizione
 title: Capacità di Sopportazione - Barry Commoner
 
-$$
+$
 I = P \times A \times T \le CS
-$$
+$
 dove:
 - $I =$ Qualche misura di Inquinamento
 - $P =$ Popolazione
@@ -262,9 +262,9 @@ dove:
 ```ad-quote
 title: Capacità di Sopportazione (CS) - Barry Commoner (p. 26)
 In passato c'è chi si è sbizzarrito per calcolare la [[#Capacità di sopportazione]] ($CS$) di un ecosistema. Barry Commoner, ha elaborato un indice id questa capacità per la [[#La biosfera|Biosfera]], secondo il quale il massimo tasso di inquinamento prodotto non dipende solo dal **carico demografico** ($P$), ma anche dal modello economico dominante attraverso la quantità di **merci prodotte** ($A$) e gli stili di vita indotti ($T$). L'indice viene espresso dalla seguente formula:
-$$
+$
 I = P \times A \times T \le CS
-$$
+$
 dove:
 - $I =$ Qualche misura di Inquinamento
 - $P =$ Popolazione
@@ -337,9 +337,9 @@ title: Enzo Tiezzi - Il Capitombolo di Ulisse (p. 30)
 
 ```ad-Definizione
 title: Energia
-$$
+$
 E = K + U
-$$
+$
 dove:
 - $E =$ Energia Meccanica
 - $K =$ Energia Cinetica
@@ -375,12 +375,12 @@ Tutti questi fenomeni sono governati da una legge fondamentale della fisica, la 
 ```ad-Teo
 title: Legge di conservazione dell'energia
 In un sistema meccanico in cui agiscono solo forze conservative l'energia meccanica si conserva
-$$
+$
 \begin{align}
 E_{i} &= E_{f}  \\
 K_{i} + U_{i} &= K_{i} + U_{i}
 \end{align}
-$$
+$
 ```
 
 ```ad-quote

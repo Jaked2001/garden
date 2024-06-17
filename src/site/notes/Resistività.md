@@ -16,9 +16,9 @@ La resistività è una caratteristica dei materiali conduttori elettrici che mis
 ```ad-Teo
 title: Dipendenza di $\rho$ dalla temperatura
 La [[resistività]] di un conduttore $\rho$ è funzione della temperatura del conduttore stesso. In prima approssimazione si può considerare la relazione come lineare:
-$$
+$
 \rho(T) = \rho_{0}[1+\alpha(T-T_{0})]
-$$
+$
 ```
 
 

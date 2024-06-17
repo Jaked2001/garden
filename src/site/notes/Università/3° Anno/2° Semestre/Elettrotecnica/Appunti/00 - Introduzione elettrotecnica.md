@@ -212,9 +212,9 @@ title: Esempi
 **SISTEMA ELETTRICO in un AULA**
 Consideriamo il sistema elettrico di un'aula universitaria. La corrente nell'aula è di tipo alternata con frequenza $f = 50 \, \rm Hz$. Inoltre, un'aula ha una dimensione caratteristica di circa $20 \, \rm m$.
 La lunghezza d'onda sarà:
-$$
+$
 \lambda = \frac{c}{f} = \frac{3 \times 10^{8} \,\rm \frac{m}{s}}{50 \,\rm Hz} \sim 3 \times 10^{8} \,\rm m = 6000\,\rm km  \gg L = 20 \,\rm m
-$$
+$
 La lunghezza d'onda è quindi di circa $6000 \,\rm km$ mentre un'aula ha una dimensione di circa $20\,\rm m$. È evidente che tra due punti di un'aula gli effetti elettromagnetici saranno praticamente identici.
 Si può pertanto studiare questo sistema con un sistema a **parametri concentrati**
 
@@ -222,9 +222,9 @@ ___
 
 **TELEFONO in un AULA**
 Consideriamo ora un telefono cellulare all'interno di un'aula. Questo lavora su frequenze anche intorno a $f = 1 \,\rm GHz$. In questo caso, la lunghezza d'onda è
-$$
+$
 \lambda = \frac{c}{f} = \frac{3 \times 10^{8} \,\rm \frac{m}{s}}{10^{9} \,\rm Hz} \sim 0.3 \,\rm m = 30\,\rm cm  < L = 20 \,\rm m
-$$
+$
 Questo sistema **NON** può essere chiaramente studiato a parametri concentrati in quanto un'onda elettromagnetica all'interno di una stanza entra più di 20 volte.
 
 ```

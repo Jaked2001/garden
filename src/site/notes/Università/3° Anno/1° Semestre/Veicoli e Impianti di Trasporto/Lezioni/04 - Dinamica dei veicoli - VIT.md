@@ -65,9 +65,9 @@ Da cui si ottiene il **limite** imposto alla velocità dallo **sbandamento**:
 ```ad-Teo
 title: Limite allo sbandamento - senza sovralzo
 
-$$
+$
 \frac{v^{2}}{R} \le \varphi g
-$$
+$
 
 ```
 
@@ -106,9 +106,9 @@ Si osservi che $\dfrac{s}{2h}$ può essere riscritto come la tangente dell'angol
 ```ad-Teo
 title: Limite al ribaltamento - senza sovralzo
 
-$$
+$
 \frac{v^{2}}{R} \le g\tan\alpha 
-$$
+$
 
 ```
 
@@ -119,9 +119,9 @@ $$
 ```ad-Teo
 title: Limite allo sbandamento - con sovralzo
 
-$$
+$
 \frac{v^{2}}{R} \le g\varphi \frac{1+ \tan\left( \frac{\gamma}{\varphi} \right)}{1- \varphi\tan\left( \gamma \right)}
-$$
+$
 
 ```
 
@@ -134,9 +134,9 @@ $$
 ```ad-Teo
 title: Limite allo sbandamento - con sovralzo
 
-$$
+$
 \frac{v^{2}}{R} \le g \tan(\alpha+\gamma)
-$$
+$
 
 ```
 
@@ -240,9 +240,9 @@ la quale può essere espressa nella forma:
 
 ```ad-Teo
 title: Formula di Pochet-Nadal
-$$
+$
 \frac{Y}{Q} \le \frac{\tan\beta-f}{1+f \tan\beta}
-$$
+$
 dove $\frac{Y}{Q}$ è detto **coefficiente di svio**
 ```
 

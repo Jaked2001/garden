@@ -8,9 +8,9 @@
 title: Teorema
 
 La **seconda legge di Ohm** lega la resistenza alle dimensioni del conduttore (sezione $S$ e lunghezza $l$).
-$$
+$
 R = \rho \frac{l}{S}
-$$
+$
 dove:
 - $\rho = \rm [\Omega\cdot m]$ - [[Resistività\|Resistività]]
 - $l$ - Lunghezza del conduttore

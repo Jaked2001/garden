@@ -54,9 +54,9 @@ Il centro può essere scelto in vari modi, ognuno dei quali, vedremo, ha dei pro
 ```ad-Definizione
 title: Media Aritmetica
 
-$$
+$
 \mu = \frac{1}{N} \sum\limits_{i=1}^{N} x_{i}
-$$
+$
 dove:
 - $x_{i}:$ sono i valori di cui calcolo la media
 - $N:$ la numerosità del campione
@@ -68,7 +68,7 @@ La media, per quanto semplice da calcolare, non è un buon parametro da prendere
 title: Esempio
 
 Immaginiamo di avere il seguente set di dati:
-$$
+$
 \begin{align}
 3.4721 \\
 3.4718 \\
@@ -76,7 +76,7 @@ $$
 3.4723 \\
 {\color{red} 4.4722}
 \end{align}
-$$
+$
 Se calcoliamo la media solo dei primi 4 valori otteniamo $\mu = 3.4720$. Se invece includo anche il quinto valore (quello in rosso), ottengo $\mu = 3.6721$. È evidente che, con una singola misura molto diversa dalle altre, si ottenga una media molto diversa. 
 
 In particolare si dice che 4.4722 è un [[#Outlier]] (= che sta fuori). Non è quindi rappresentativo del fenomeno rispetto agli altri 4 valori. 
@@ -91,9 +91,9 @@ Attenzione! Questo non vuol dire che sia sbagliato e gli altri giusti. Potrebbe 
 ```ad-Definizione
 title: Mediana
 La **mediana** ($\rm Me$) è il valore tale che la [[#frequenza relativa]] dei valori minori di $\rm Me$ e dei valori maggiori di $\rm Me$ è la stessa e pari a 0.5.
-$$
+$
 \sum\limits_{i=1}^{N_{\rm Me}} f_{i} = \sum\limits_{i = N_{\rm Me}+1}^{N} f_{i} = 0.5
-$$
+$
 dove 
 - $f_{i}:$ [[#Frequenza relativa]]
 
@@ -141,9 +141,9 @@ Esistono vari indicatori di dispersione, tra cui:
 ```ad-Definizione
 title: Varianza ($\sigma^{2}$)
 
-$$
+$
 \sigma^{2} = \frac{1}{N} \sum\limits_{i=1}^{n} (x_{i}-\mu)^{2}
-$$
+$
 
 ```
 
@@ -161,9 +161,9 @@ title: Deviazione Standard o Scarto Quadratico Medio ($\sigma$)
 
 La **deviazione standard** è ottenuta calcolando la radice quadrata della [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Statistica in Topografia - TP#Varianza\|#Varianza]]
 
-$$
+$
 \sigma= \sqrt{\sigma^{2}}
-$$
+$
 ```
 
 La Deviazione standard è [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Statistica in Topografia - TP#Robustezza\|poco robusta]]
@@ -174,9 +174,9 @@ La Deviazione standard è [[Università/3° Anno/2° Semestre/Topografia e Posit
 ```ad-Definizione
 title: Median Absolute Deviation ($MAD$)
 La Median Absolute Deviation è un surrogato della [[#Varianza]] che usa la [[#Mediana]] al posto della [[#Mediana]] nel suo calcolo.
-$$
+$
 MAD = \rm Me (|x_{1}-\rm Me|)
-$$
+$
 ```
 
 Prendo il valore mediano degli scarti così che, dovesse ancora esserci un valore anomalo, questo verrebbe minimizzato.
@@ -212,13 +212,13 @@ Questo indicatore è utile per ricordare il [[Università/3° Anno/2° Semestre/
 title: Teo di Cevicev
 
 Dato un intervallo:
-$$
+$
 I_{\lambda}= (\mu-\lambda\sigma, \mu+\lambda\sigma) \quad \lambda \ge 1
-$$
+$
 indipendentemente dalla distribuzione di probabilità, la probabilità che una variabile $x$ appartenga all'intervallo $I_\lambda$ è maggiore o uguale a $1-\dfrac{1}{\lambda^{2}}$.
-$$
+$
 \mathcal{P}(I_{\lambda}) \ge 1 - \frac{1}{\lambda^{2}}
-$$
+$
 
 ```
 
@@ -233,9 +233,9 @@ Quindi:
 title: Covarianza
 
 La **covarianza** è una misura della dipendenza aleatoria o stocastica tra due componenti della variabile casuale, che non sia una dipendenza funzionale.
-$$
+$
 \sigma_{x_{i},x_{j}} = \frac{1}{N} \sum\limits_{k=1}^{N}(x_{ik}-\mu_{i})(x_{jk}-\mu_{j})
-$$
+$
 Si noti che nel caso in cui $i=j$ la covarianza coincide con la [[#Varianza]].
 ```
 
@@ -311,7 +311,7 @@ Siano rispettivamente
 - $\mu_{y}:$ la [[#Media aritmetica]] di $Y$
 
 Si ha che:
-$$
+$
 \underbrace{\mu_{X}}_{(n,1)} =
 \begin{bmatrix}
 \mu_{X_{1}} \\
@@ -327,7 +327,7 @@ $$
 \vdots \\
 \mu_{Y_{m}}
 \end{bmatrix}
-$$
+$
 Sia inoltre $Y = G(X)$: $Y$ è una funzione di $X$ nota.
 
 Se sono rispettate le seguenti ipotesi:
@@ -335,9 +335,9 @@ Se sono rispettate le seguenti ipotesi:
 - Regolarità funzionale quasi ovunque
 
 **Allora**
-$$
+$
 \mu_{Y} \approx G(\mu_{X})
-$$
+$
 
 
 ```
@@ -347,9 +347,9 @@ In pratica il teorema dice che le medie di 2 variabili aleatorie sono legate (co
 ```ad-note
 title: Osservazione
 Il Corollario al Teo della media risulta esatto ($\mu_{Y} = G(\mu_{X})$) se la funzione che lega le due variabili aleatorie è **lineare**, ossia se:
-$$
+$
 Y = AX+b
-$$
+$
 
 ```
 
@@ -379,16 +379,16 @@ La variabile aleatoria $X$ in questo caso è: $X = \begin{bmatrix} b \\ h \end{b
 La variabile aleatoria $Y$ è a 3 dimensioni: $Y = \begin{bmatrix} p \\ A \\ d \end{bmatrix}$
 
 Il funzionale $G(X)$ è l'insieme delle funzioni che legano $X$ a $Y$:
-$$
+$
 G(X) =
 \begin{bmatrix}
 2(b+h) \\
 b\cdot h \\
 \sqrt{b^{2}+h^{2}}
 \end{bmatrix}
-$$
+$
 Si noti che, a parte per il perimetro, il legame è **NON** lineare. Devo applicare il teorema della media in forma approssimata. Posso quindi dire
-$$
+$
 \mu_{Y} =
 \begin{bmatrix}
 \mu_{p} \\
@@ -401,7 +401,7 @@ $$
 \mu_{b}\cdot \mu_{h} \\
 \sqrt{\mu_{b}^{2}+\mu_{h}^{2}}
 \end{bmatrix}
-$$
+$
 
 ```
 
@@ -502,7 +502,7 @@ Voglio valutare la dipendenza stocastica perché le nostre cause di incertezza s
 Anche se mi aspetto che base e altezza siano due misure tra loro stocasticamente indipendenti, è raro che questo avvenga proprio perché sono misure "prese" con lo stesso strumento e magari dallo stesso operatore e quindi sottoposte allo tesso errore che influenza la misura
 
 Sappiamo che
-$$
+$
 Y = 
 \begin{bmatrix}
 P \\
@@ -516,17 +516,17 @@ b\cdot h \\
 \sqrt{b^{2}+h^{2}}
 \end{bmatrix}
 =G(X)
-$$
+$
 Al fine di calcolare la $C_{YY}$ devo come prima cosa calcolare $C_{XX}$
-$$
+$
 \underset{(2,2)}{C_{XX}} =
 \begin{bmatrix}
 \sigma^{2}_{b} & \sigma_{bh} \\
 \sigma_{bh} & \sigma^{2}_{h}
 \end{bmatrix}
-$$
+$
 A questo punto devo calcolare la Jacobiana:
-$$
+$
 \underset{(3,2)}{J} =
 \begin{bmatrix}
 \dfrac{\partial p}{\partial b} & \dfrac{\partial p}{\partial h} \\
@@ -539,37 +539,37 @@ $$
 h & b \\
 \dfrac{b}{\sqrt{b^{2}+h^{2}}} & \dfrac{h}{\sqrt{b^{2}+h^{2}}}
 \end{bmatrix}_{\mu_{X}}
-$$
+$
 Ricordo:
-$$
+$
 \mu_{X} =
 \begin{bmatrix}
 \mu_{b} \\
 \mu_{h}
 \end{bmatrix}
-$$
+$
 e quindi:
-$$
+$
 J(\mu_{X}) =
 \begin{bmatrix}
 2 & 2 \\
 \mu_{h} & \mu_{b} \\
 \dfrac{\mu_{b}}{\sqrt{\mu_{b}^{2}+\mu_{h}^{2}}} & \dfrac{\mu_{h}}{\sqrt{\mu_{b}^{2}+\mu_{h}^{2}}}
 \end{bmatrix}
-$$
+$
 A questo punto si può calcolare $C_{YY}$  come 
-$$
+$
 C_{YY} = J(\mu_{X})C_{XX}J(\mu_{X})^{T}
-$$
+$
 Le cui componenti saranno:
-$$
+$
 \underset{(3,3)}{C_{YY}} =
 \begin{bmatrix}
 \sigma^{2}_{p} & \sigma_{pA} & \sigma_{pd} \\
 \sigma_{Ap} & \sigma_{A}^{2} & \sigma_{Ad} \\
 \sigma_{dp} & \sigma_{dA} & \sigma^{2}_{d}
 \end{bmatrix}
-$$
+$
 
 ```
 

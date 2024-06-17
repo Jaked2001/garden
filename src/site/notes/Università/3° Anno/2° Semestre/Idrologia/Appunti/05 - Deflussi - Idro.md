@@ -39,9 +39,9 @@ Il **deflusso** è definito come il volume d'acqua che transita da una sezione i
 ```ad-Definizione
 title: Portata ($Q(t)$)
 
-$$
+$
 Q(t) = \frac{\partial D(t)}{\partial t}
-$$
+$
 dove:
 - $D(t):$ BOH???
 ```

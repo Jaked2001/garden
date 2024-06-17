@@ -13,9 +13,9 @@ title: Resistore
 Un resistore è un **dipolo passivo**. È un componente elettrico dotato di due morsetti costruito di materiali conduttori e privo di f.e.m.
 
 È caratterizzato dalle seguenti relazioni.
-$$
+$
 V = RI \qquad I = GV
-$$
+$
 dove:
 - $V:$ Tensione ai capi del resistore
 - $R:$ [[04 - Fenomeni di conduzione e resistori#Resistenza elettrica|Resistenza elettrica]] del resistore

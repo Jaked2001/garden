@@ -9,9 +9,9 @@
 title: Generatore ideale di corrente
 
 Il generatore ideale di corrente è un [[00 - Introduzione elettrotecnica#Dipolo|dipolo]] attivo che verifica la relazione:
-$$
+$
 E = E_{s} \quad \forall I
-$$
+$
 
 ```
 

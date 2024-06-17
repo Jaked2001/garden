@@ -6,12 +6,12 @@
 
 ```ad-Teo
 title: Legge di Darcy
-$$
+$
 Q = kA\frac{\Delta h}{L}
-$$
+$
 
 Dove:
-$$
+$
 \begin{align}
 Q &= \text{Portata d'acqua} \\
 k &= \text{Conducibilità idraulica} \\
@@ -19,7 +19,7 @@ A &= \text{Area sezione filtrante} \\
 \frac{\Delta h}{L} &= \text{Gradiente idraulico}
 
 \end{align}
-$$
+$
 
 ```
 

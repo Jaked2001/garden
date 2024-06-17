@@ -33,9 +33,9 @@ In particolare risulta afilattica una rappresentazione in scala in cui, proprio 
 title: Modulo di deformazione lineare ($m_{l}$)
 
 Il **modulo di deformazione lineare** è definito come il rapporto:
-$$
+$
 m_{l} = \frac{dS_{r}}{dS_{e}}
-$$
+$
 dove:
 - $dS_{r}:$ Distanza infinitesima sul piano cartografico
 - $dS_{e}:$ Distanza infinitesima sull'ellissoide
@@ -57,9 +57,9 @@ $$
 title: Modulo di deformazione areale o superficiale ($m_{A}$)
 
 Il modulo di deformazione areale è definito come il rapporto:
-$$
+$
 m_{A} = \frac{dA_{r}}{dA_{e}}
-$$
+$
 dove:
 - $dA_{r}:$ Superficie infinitesima sul piano cartografico
 - $dA_{e}:$ Superficie infinitesima sull'ellissoide
@@ -86,9 +86,9 @@ La [[Proiezione conica equivalente di Albers\|Proiezione conica equivalente di A
 title: Deformazione angolare ($\delta$)
 
 La **deformazione angolare** è definita come la differenza tra:
-$$
+$
 \delta = \delta_{r}-\delta_{e}
-$$
+$
 dove:
 - $\delta_{r}:$ angolo tra due segmenti sul piano cartografico
 - $\delta_{e}:$ angolo tra i due segmenti corrispondenti sull'ellissoide
@@ -141,9 +141,9 @@ title: Limite di graficismo ($\varepsilon$)
 Il limite di graficismo è la grandezza più piccola che può essere rappresentata sul [[Università/3° Anno/2° Semestre/Topografia e Positioning/Appunti/06 - Cartografia - TP#Piano della carta disegnata\|#Piano della carta disegnata]].
 
 Si tratta di un valore convenzionale, generalmente pari a
-$$
+$
 \varepsilon=0.2 \,\rm mm
-$$
+$
 
 ```
 
@@ -197,9 +197,9 @@ $$
 ```ad-note
 
 In questa configurazione ci sono solamente [[#Modulo deformazione lineare|deformazioni lineari]] per **dilatazione**:
-$$
+$
 m_{l} > 1
-$$
+$
 
 ```
 

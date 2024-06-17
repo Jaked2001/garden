@@ -83,9 +83,9 @@ $\theta_{r}$ è detto **contenuto** [[Università/3° Anno/2° Semestre/Idrologi
 title: Acqua di detenzione
 
 L'**acqua di detenzione** o di **ritenzione** è il totale dell'acqua tra adsorbimento, adesione e capillare isolata:
-$$
+$
 W_{d} = \text{adsorbimento} + \text{adesione} + \text{capillare isolata}
-$$
+$
 
 ```
 
@@ -94,9 +94,9 @@ $$
 ```ad-Definizione
 title: Acqua libera ($W_{e}$)
 
-$$
+$
 W_{e} = W_{a} - W_{d}
-$$
+$
 dove:
 - $W_{a}:$ [[#Volume d'acqua]]
 - $W_{d}:$ ???
@@ -107,9 +107,9 @@ dove:
 
 ```ad-Definizione
 title: Porosità efficace
-$$
+$
 n_{e} = \frac{W_{v}-W_{d}}{W_{t}}
-$$
+$
 dove:
 - $W_{v}:$ [[#Volume dei vuoti]]
 - $W_{d}:$ ???
@@ -122,9 +122,9 @@ dove:
 ```ad-Definizione
 title: Capacità specifica di detenzione
 
-$$
+$
 n_{d} = \frac{W_{d}}{W_{t}}
-$$
+$
 dove:
 - $W_{d}:$ ???
 - $W_{t}:$ Volume totale del suolo

@@ -50,9 +50,9 @@ Esistono diversi tipi di pluviometri:
 title: Altezza di pioggia
 
 L'**altezza di pioggia** è data dal rapporto
-$$
+$
 h_{t} = \frac{W_{t}}{A}
-$$
+$
 dove:
 - $W:$ Volume d'acqua precipitato su A
 - $A:$ area della bocca dello strumento
@@ -68,9 +68,9 @@ Rapportando l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge 
 ```ad-Definizione
 title: Intensità di pioggia
 
-$$
+$
 i_{t} = \frac{h_{t}}{t} \quad \rm \left[ \frac{mm}{h} \right]
-$$
+$
 
 ```
 

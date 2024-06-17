@@ -15,9 +15,9 @@ Tendenzialmente quando si eseguono delle misurazioni non si è interessati alle 
 title: Equazione di osservazione
 
 L'**equazione di osservazione** è una funzione che mette in relazione la quantità osservabile (quella che viene misurata) con le incognite che si è interessati a calcolare. È generalmente una relazione non lineare della forma:
-$$
+$
 y = f(x,a,c)
-$$
+$
 dove:
 - $y:$ Osservabile
 - $x:$ Vettore dei **parametri incogniti**
@@ -45,9 +45,9 @@ Scriviamo ora l'[[Università/3° Anno/2° Semestre/Topografia e Positioning/App
 ```ad-Teo
 title: Equazione di osservazione alla distanza 3D
 
-$$
+$
 d_{ij} = \sqrt{(x_{jL}-x_{iL})^{2} + (y_{jL}-y_{iL})^{2} + (z_{jL}-z_{iL})^{2}}
-$$
+$
 
 ```
 
@@ -162,9 +162,9 @@ In definitiva
 ```ad-Teo
 title: Equazione di osservazione alla direzione azimutale
 Nell'ipotesi di campo parallelo, l'equazione di osservazione alla direzione azimutale è
-$$
+$
 \alpha_{ij} = \arctan2\left( \dfrac{x_{Lj}-x_{Li}}{y_{Lj}-y_{Li}} \right) - \Delta_{i}
-$$
+$
 
 ```
 
@@ -224,9 +224,9 @@ Da cui si ricava
 ```ad-Teo
 title: Eq. di Oss. all'angolo zenitale - vettoriale
 
-$$
+$
 Z_{ij} = \arccos\left(  \frac{\vec{\nu}_{i}\cdot \vec{r_{ij}} }{d_{ij}}  \right)
-$$
+$
 
 ```
 

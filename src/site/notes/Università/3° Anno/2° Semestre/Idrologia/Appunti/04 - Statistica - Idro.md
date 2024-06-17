@@ -147,13 +147,13 @@ Si definisce **variabile casuale o aleatoria** una variabile $X$ associata ad un
 title: Funzione di ripartizione
 
 La **funzione di ripartizione** o **Funzione delle Probabilità Comulate** (Cumulative Distribuction Function - CDF) è la funzione
-$$
+$
 P(x) = \text{prob}(X \le x)
-$$
+$
 verifica la seguente:
-$$
+$
 0 \le P(x) \le 1
-$$
+$
 
 
 ```
@@ -163,9 +163,9 @@ $$
 ```ad-Definizione
 title: Funzione di densità di probabilità
 La **Funzione di densità di probabilità** o pdf (progability density function) è la funzione
-$$
+$
 p(x) = \frac{dP(x)}{dx}
-$$
+$
 
 ```
 
@@ -201,9 +201,9 @@ Gli indici di posizione si dividono in:
 ```ad-Definizione
 title: Media ($\mu$)
 La media di una [[#Variabile casuale]] discreta è
-$$
+$
 \mu = E[z(x)] = \sum\limits_{k=-\infty}^{\infty} z(x_{k})p(x_{k})
-$$
+$
 
 ```
 
@@ -213,9 +213,9 @@ $$
 title: Mediana ($x_{M}$)
 
 La **mediana** è il valore $x_{M}$ di $X$ cui corrisponde i lvalore 0.5 della funzione di ripartizione. Quello ciè tale per cui:
-$$
+$
 P(x_{M}) = 0.5
-$$
+$
 
 ```
 
@@ -280,9 +280,9 @@ Per definirlo, occorre prima definire la [[Università/3° Anno/2° Semestre/Idr
 title: Varianza ($\sigma^{2}$)
 
 La **varianza** di una [[#Variabile casuale]] discreta è
-$$
+$
 \sigma^{2} = V(X) = \sum\limits_{k=-\infty}^{\infty} (x_{k}-\mu)^{2}p(x_{k})
-$$
+$
 ```
 
 ##### Deviazione Standard
@@ -302,9 +302,9 @@ title: Coefficiente di variazione ($CV$)
 
 Il **Coefficiente di variazione** fornisce una misura del grado di dispersione della [[#Variabile casuale]]:
 
-$$
+$
 VC = \frac{\sigma(x)}{\mu(x)}
-$$
+$
 essendo:
 - $\sigma(x):$ [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Deviazione Standard\|#Deviazione Standard]]
 - $\mu(x):$ [[#Valore atteso o media]]
@@ -322,9 +322,9 @@ Gli **indici di forma** sono 2:
 ```ad-Definizione
 title: Coefficiente di asimmetria ($\gamma(x)$)
 Il **Coefficiente di asimmetria** o **skewness** fornisce l'asimmetria della distribuzione di probabilità rispetto alla distribuzione normale.
-$$
+$
 \gamma(x) = \frac{\mu_{3}(x)}{\sigma^{3}(x)}
-$$
+$
 dove:
 - $\mu_{3}:$ [[03. Variabili Aleatorie#Moment|momento di ordine 3]]
 - $\sigma(x):$ [[#Deviazione Standard]]
@@ -336,9 +336,9 @@ dove:
 title: Coefficiente di curtosi ($CK$)
 
 Il **coefficiente di curtosi** è il grado di appiattimento della [[#Funzione di densità probabilità]] rispetto alla [[#Distribuzione normale]].
-$$
+$
 CK = \frac{\mu_{4}(x)}{\mu_{2}^{2}(x)}
-$$
+$
 dove:
 - $\mu_{4}:$ [[03. Variabili Aleatorie#Moment|momento di ordine 4]]
 - $\mu_{2}^{2}(x)=\sigma^{4}(x):$ Quadrato della [[#Varianza]]
@@ -516,9 +516,9 @@ Notare che:
 
 ```ad-Definizione
 title: Distribuzione LogNormale o di Galton
-$$
+$
 p(x) = \frac{1}{x \sqrt{2 \pi} \sigma(y)} e^{\dfrac{(\ln(x) - \mu(y))^{2}}{2 \sigma(y)^{2}}} \quad 0 \le x \le \infty
-$$
+$
 
 ![Schermata 2024-05-02 alle 16.58.52.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Esercitazioni/allegati/allegati/Schermata%202024-05-02%20alle%2016.58.52.png)
 

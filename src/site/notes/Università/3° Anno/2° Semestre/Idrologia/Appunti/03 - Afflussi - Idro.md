@@ -27,17 +27,17 @@ Permette di definire un coefficiente, detto [[Università/3° Anno/2° Semestre/
 title: Fattore di ragguaglio ($R$ oppure $C_{R}$)
 
 Il **Fattore - o coefficiente - di ragguaglio** è l'[[02 - Piogge Intense - Idro#Altezza di pioggia|altezza di pioggia]] media sull'area fratto quella misurata sul punto.
-$$
+$
 R = \frac{H_{A}}{H_{P}}
-$$
+$
 dove:
 - $H_{A}:$ [[02 - Piogge Intense - Idro#Altezza di pioggia|altezza di pioggia]] media sull'area
 - $H_{P}:$ [[02 - Piogge Intense - Idro#Altezza di pioggia|altezza di pioggia]] misurata in un punto 
 
 Possiamo anche scrivere:
-$$
+$
 H_{A} = C_{R} \cdot H_{P}
-$$
+$
 
 ```
 
@@ -71,9 +71,9 @@ title: Metodo della Media
 
 Si assume come [[02 - Piogge Intense - Idro#Altezza di pioggia|altezza di pioggia]] la media ($h_{A}$, la media delle altezze misurate ai pluviometri disponibili ($h_{i}$.
 
-$$
+$
 h_{A} = \frac{1}{N} \sum\limits_{i=1}^{N}h_{i}
-$$
+$
 
 ```
 

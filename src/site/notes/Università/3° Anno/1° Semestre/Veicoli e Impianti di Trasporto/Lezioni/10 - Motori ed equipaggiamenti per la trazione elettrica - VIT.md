@@ -71,9 +71,9 @@ In definitiva quindi
 
 ```ad-Teo
 In un motore elettrico a corrente continua la potenza meccanica del motore è data da
-$$
+$
 P_{M} = UI - R_{c}I^{2}
-$$
+$
 ```
 
 Ricordando poi che la tensione $E$ può essere scritta in funzione del flusso come $E = kn\phi$, la potenza meccanica diventa
