@@ -336,6 +336,8 @@ $
 
 ### Metodo delle maglie
 
+#UNI/ET/Domanda 
+
 Il metodo delle maglie consente di [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/07 - Proprietà generali delle reti elettriche - ET#Risolvere una rete\|risolvere la rete]] riducendo il numero di equazioni necessarie. Fa uso delle cosiddette **correnti di maglia**.
 
 Scelto un sistema di $m = l-p$ maglie, ad ogni maglia si associa una *corrente virtuale*, $I_{m}$, che percorre tutti i lati della maglia.
@@ -517,3 +519,97 @@ $
 
 ## Proprietà delle reti lineari
 
+### Teorema di Thévenin
+
+Generatore di tensione equivalente.
+
+```ad-Teo
+title: Teorema di Thévenin
+
+![08 - Reti in regime stazionario - ET 2024-06-17 19.46.01.excalidraw.png](/img/user/Excalidraw/08%20-%20Reti%20in%20regime%20stazionario%20-%20ET%202024-06-17%2019.46.01.excalidraw.png)
+%%[[08 - Reti in regime stazionario - ET 2024-06-17 19.46.01.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+
+Il comportamento di una qualunque [[03 - Introduzione allo studio delle reti elettriche - ET#Rete elettrica|rete]] di [[03 - Introduzione allo studio delle reti elettriche - ET#Bipolo|bipoli]] lineari in termini di tensione $V$ e corrente $I$ ai terminali A e B è **equivalente** a quello di un bipolo costituito da un [[Generatore ideale di tensione]] $E_{eq}$ in serie con un [[Resistore]] di [[04 - Fenomeni di conduzione e resistori - ET#Resistenza elettrica|resistenza]] $R_{eq}$ aventi i seguenti valori
+$
+\begin{align}
+E_{eq} &= V_{0} = \text{Tensione a vuoto tra A e B} \\
+R_{eq} &= \frac{V_{0}}{I_{cc}} = \text{Resistenza equivalente}
+\end{align}
+$
+dove:
+- $I_{cc}:$ Corrente di [[06 - Bipoli e potenza elettrica - ET#Cortocircuito|cortocircuito]] ai terminali AB
+
+La resistenza $R_{eq}$ coincide con la resistenza equivalente tra i nodi A e B quando tutti i generatori sono **spenti**.
+
+
+___
+**DIMOSTRAZIONE**
+Pongo tra i nodi A e B un [[03 - Introduzione allo studio delle reti elettriche - ET#Bipolo|bipolo]] qualsiasi C. In questa configurazione si avranno, tra i nodi, una tensione $V$ e una corrente $I$.
+
+![08 - Reti in regime stazionario - ET 2024-06-18 10.52.30.excalidraw.png](/img/user/Excalidraw/08%20-%20Reti%20in%20regime%20stazionario%20-%20ET%202024-06-18%2010.52.30.excalidraw.png)
+%%[[08 - Reti in regime stazionario - ET 2024-06-18 10.52.30.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+In base alle proprietà di sostituzione, il bipolo C può essere sostituito da un [[Generatore ideale di corrente]] avente corrente impressa $J = I$, senza modificare tensioni e correnti nel circuito.
+
+Ora, la tensione $V$ può essere determinata, secondo il **principio di sovrapposizione degli effetti** come:
+$
+V = V'+V''
+$
+dove:
+- $V' :$ Tensione tra A e B con $J=0$ e generatori interni accesi
+- $V'':$ Tensione tra A e B con $J=I$ e generatori interni spenti
+Nei due casi, risultano i circuiti nella figura sottostante:
+
+![08 - Reti in regime stazionario - ET 2024-06-18 10.59.21.excalidraw.png](/img/user/Excalidraw/08%20-%20Reti%20in%20regime%20stazionario%20-%20ET%202024-06-18%2010.59.21.excalidraw.png)
+%%[[08 - Reti in regime stazionario - ET 2024-06-18 10.59.21.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+$V'$ coincide con la tensione a vuoto tra i nodi A e B: $V_{0}$
+$
+V' \equiv V_{0}
+$
+Nel secondo caso invece, applicando la [[Legge di Kirchhoff delle Tensioni (LKT)|LKT]] in senso *antiorario* si ottiene:
+$
+V'' + R_{eq}I = V''+R_{eq}J = 0
+$
+Per cui
+$
+V'' = -R_{eq}J
+$
+- [?] Perché $V''$ e $R_{eq}I$ sono concordi?
+
+In definitiva si ha che $V = V'+V''$ diventa:
+$
+V = V_{0}-R_{eq}I
+$
+che è proprio la [[Generatore reale di tensione#Caratteristica esterna|caratteristica esterna]] di un [[Generatore reale di tensione\|Generatore reale di tensione]], costituito da un [[Generatore ideale di tensione]] $E_{eq} = V_{0}$ e di un [[Resistore]] di resistenza $R_{eq}$ che è proprio l'enunciato del teorema.
+*q.e.d.*
+
+```
+
+### Teorema di Norton
+
+Generatore di corrente equivalente
+
+```ad-Teo
+title: Teorema di Norton
+
+![08 - Reti in regime stazionario - ET 2024-06-18 11.33.07.excalidraw.png](/img/user/Excalidraw/08%20-%20Reti%20in%20regime%20stazionario%20-%20ET%202024-06-18%2011.33.07.excalidraw.png)
+%%[[08 - Reti in regime stazionario - ET 2024-06-18 11.33.07.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+Il comportamento di una qualunque [[03 - Introduzione allo studio delle reti elettriche - ET#Rete elettrica|rete]] di [[03 - Introduzione allo studio delle reti elettriche - ET#Bipolo|bipoli]] lineari in termini di rtensione $V$ e corrente $I$ ai terminali A e B è equivalente a quello di un bipolo costituito da un [[Generatore ideale di corrente]] $J_{eq}$ in [[#Bipoli in parallelo|parallelo]] con una [[04 - Fenomeni di conduzione e resistori - ET#Conduttanza|conduttanza]] $G_{eq}$ aventi i seguenti valori:
+$
+\begin{align}
+J_{eq} &= J_{cc} = \text{Corrente di cortocircuito tra A e B} \\
+G_{eq} &= \frac{I_{cc}}{V_{0}} = \text{Conduttanza equivalente}
+\end{align}
+$
+dove:
+- $I_{cc}:$ Corrente ai terminali A e B quando sono collegati in [[06 - Bipoli e potenza elettrica - ET#Cortocircuito|cortocircuito]]
+- $G_{eq}:$ Conduttanza equivalente della rete quando tutti i generatori sono spenti
+
+```
+
+## Rendimento ed adattamento del carico
+
+Si consideri un [[Generatore reale di tensione]] 
