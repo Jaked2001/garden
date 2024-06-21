@@ -68,7 +68,7 @@ Pertanto, la [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fen
 ```ad-Definizione
 title: Generatore reale di tensione
 
-Un **generatore reale di tensione** è dato dalla serie di un [[Generatore ideale di tensione]] e un [[Resistore]]. Esso genera una tensione $E_{s}$:
+Un **generatore reale di tensione** è dato dalla serie di un [[Generatore ideale di tensione]] e un [[Resistore\|Resistore]]. Esso genera una tensione $E_{s}$:
 $
 E_{s} = E - RI_{s}
 $
@@ -101,10 +101,124 @@ Sul piano $V-I$
 ![Generatore reale di tensione 2024-06-16 16.01.53.excalidraw.png](/img/user/Excalidraw/Generatore%20reale%20di%20tensione%202024-06-16%2016.01.53.excalidraw.png)
 
 
+### Rendimento e adattamento del carico
+
+
+Si consideri un [[Generatore reale di tensione\|Generatore reale di tensione]] $E$ con resistenza interna $R_{i}$ collegati a un carico (utilizzatore) rappresentabile da un [[Resistore\|Resistore]] $R_{u}$.
+
+![08 - Reti in regime stazionario - ET 2024-06-18 13.28.54.excalidraw.png](/img/user/Excalidraw/08%20-%20Reti%20in%20regime%20stazionario%20-%20ET%202024-06-18%2013.28.54.excalidraw.png)
+
+
+La corrente $I$ è data dalla relazione:
+$
+I = \frac{E}{R_{i}+R_{u}}
+$
+mentre la tensione $V$ ai capi del carico è:
+$
+V = IR_{u} = \frac{R_{u}}{R_{i}+R_{u}}E
+$
+
+Si vanno ora a calcolare le [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza\|potenze]] in gioco.
+
+La potenza [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata\|potenza erogata]] dal generatore **reale**, uguale alla potenza entrante al carico è
+$
+P = VI = \frac{R_{u}E^{2}}{(R_{i}+R_{u})^{2}}E
+$
+
+La [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET#Potenza dissipata per Effetto Joule\|potenza dissipata per Effetto Joule]] dalla resistenza interna al generatore è:
+$
+P_{d} = R_{i}I^{2} = \frac{R_{i}E^{2}}{(R_{i}+R_{u})^{2}}
+$
+mentre la potenza generata dal generatore **ideale** è:
+$
+P_{g} = EI = I = \frac{E^{2}}{R_{i}+R_{u}}
+$
+
+Inoltre, per il [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/05 - Generatori elettrici - ET#Bilancio di potenza di un generatore\|bilancio di potenza di un generatore]], la [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata\|potenza erogata]] è scrivibile come:
+$
+P = P_{g}-P_{d}
+$
+
+#### Rendimento
+
+```ad-Definizione
+title: Rendimento del generatore reale di tensione
+
+Si definisce **rendimento del [[Generatore reale di tensione\|Generatore reale di tensione]]** il rapporto tra [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata\|potenza erogata]] e potenza generata.
+$
+\eta = \frac{P}{P_{g}} = \frac{P_{g}-P_{d}}{P_{g}} = \frac{R_{u}}{R_{i}+R_{u}}
+$
+
+```
+
+![Generatore reale di tensione 2024-06-18 13.46.13.excalidraw.png](/img/user/Excalidraw/Generatore%20reale%20di%20tensione%202024-06-18%2013.46.13.excalidraw.png)
+
+
+#### Condizione di adattamento del carico
+
+La condizione di adattamento del carico è la condizione in cui la Potenza trasferita al carico è massima (e quindi lo è anche il [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Rendimento\|#Rendimento]]).
+
+Calcolando la derivata della [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata\|potenza erogata]] e ponendola uguale a zero si può ricavare il suo massimo.
+$
+P = VI = \frac{R_{u}E^{2}}{(R_{i}+R_{u})^{2}}
+$
+Si deriva rispetto a $R_{u}$:
+$
+\begin{align}
+\frac{dP}{dR_{u}} &= \frac{E^{2}}{(R_{i}+R_{u})^{2}} - \frac{2R_{u}E^{2}}{(R_{i}+R_{u})^{3}} = \\
+&= \frac{E^{2}(R_{i}+R_{u}) - 2R_{u}E^{2}}{(R_{i}+R_{u})^{3}} \stackrel{!}{=} 0 
+\end{align}
+$
+che quindi corrisponde a trovare:
+$
+E^{2}(R_{i}+R_{u}) - 2R_{u}E^{2} = 0
+$
+che diventa
+$
+\begin{align}
+E^{2}(R_{i}+R_{u}) - 2R_{u}E^{2} &= 0 \\
+R_{i}+R_{u}-2R_{u} &= 0 \\
+R_{u} = R_{i}
+\end{align}
+$
+```ad-Teo
+title: Condizione di adattamento del carico
+
+La condizione di adattamento del carico si ha quando la resistenza del carico è uguale alla resistenza interna al generatore
+$
+R_{u}= R_{i}
+$
+In tale condizione valgono:
+$
+\begin{align}
+V &= \frac{V_{0}}{2} \\
+I &= \frac{I_{cc}}{2} \\
+\eta &= 0.5
+\end{align}
+$
+```
+
+
+La stessa relazione vale quando il carico $R_{u}$ è alimentato da una generica [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Rete elettrica\|rete elettrica]] lineare ai nodi A e B. Rappresentando la rete con il [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Teorema di Thévenin\|teorema di Thévenin]] con $E_{eq} = E_{0}$ e $R_{eq} = R_{i}$, la condizione di adattamento è ancora $R_{u}= R_{i} =(R_{eq})$.
+
+La potenza trasferita vale $P = \frac{V_{0}^{2}}{4R_{i}}$. Sul rendimento però non si può dire nulla in quanto il generatore equivalente non è significativo della rete reale dal punto di vista energetico.
+
 </div></div>
 
 
 
+
+
+### Partitore di tensione
+
+```ad-Teo
+title: Formula del partitore di tensione
+
+
+
+```
+
+Data una serie di [[resistori\|resistori]]
 
 ## Bipoli in parallelo
 
@@ -136,12 +250,28 @@ Non tutti i bipoli possono essere collegati in parallelo. Ad esempio, due [[Gene
 
 ### Resistori in parallelo
 
-❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗
+![08 - Reti in regime stazionario - ET 2024-06-18 14.30.32.excalidraw.png](/img/user/Excalidraw/08%20-%20Reti%20in%20regime%20stazionario%20-%20ET%202024-06-18%2014.30.32.excalidraw.png)
 
+
+Per il $k$-esimo resistore si ha
 $$
-R_{p} = \frac{1}{\sum\limits_{k_{1}}^{l} \frac{1}{R_{k}}}
+I_{k} = V_{k}G_{k}
+$$
+Per quanto detto sui [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Bipoli in parallelo\|#Bipoli in parallelo]], $V_{k}= V_{p}$ mentre applicando la [[Legge di Kirchhoff delle Correnti (LKT)\|LKC]] al nodo A o al nodo B:
+$$
+I_{p} = \sum_{k=1}^{l}I_{k}
+$$
+Si può quindi scrivere:
+$$
+\begin{align}
+I_{p} &= \sum_{k=1}^{l}I_{k} = \\
+&= \sum_{k=1}^{l}V_{k}G_{k} = \\
+&= V_{p}\sum_{k=1}^{l}G_{k} = V_{p} \sum_{k=1}^{l} \frac{1}{R_{k}}
+\end{align}
+$$
+Per $l$ resistori in parallelo la resistenza equivalente è:
+$$
+R_{p} = \left(  \sum_{k=1}^{l} \frac{1}{R_{k}}  \right)^{-1}
 $$
 
 ### Generatore reale di Corrente
@@ -149,25 +279,95 @@ $$
 ❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗
 ❗❗❗❗❗❗❗❗❗❗❗❗
+[[Generatore reale di corrente\|Generatore reale di corrente]]
 
+### Partitore di corrente
 
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗
 
 ## Reti di resistori
 
-❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗
-### Configurazione a stella
+![08 - Reti in regime stazionario - ET 2024-06-18 15.17.19.excalidraw.png](/img/user/Excalidraw/08%20-%20Reti%20in%20regime%20stazionario%20-%20ET%202024-06-18%2015.17.19.excalidraw.png)
 
-❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗
 
-### Configurazione a triangolo
+Ci consideri una [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Rete elettrica\|rete elettrica]] generica di soli [[Resistore\|resistori]] di cui sono accessibili solamente i terminali A e B. Si vuole determinare la [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET#Caratteristica esterna\|caratteristica esterna]] della rete. Si osservi che la rete può essere vista a tutti gli effetti come un [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Bipolo\|bipolo]].
+Essendo la rete passiva (solo resistori), la caratteristica esterna è sempre del tipo:
+$$
+V = R_{i}I \qquad I = G_{i}V
+$$
+dove
+- $R_{i}:$ **Resistenza interna** della rete alla porta AB
+- $G_{i}:$ **Conduttanza interna** della rete alla porta AB
 
-❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗
+La rete, tra A e B, ha comportamento equivalente a quello di un bipolo resistore di [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET#Resistenza elettrica\|resistenza]] equivalente (o conduttanza equivalente):
+$$
+R_{eq} = R_{i} \qquad G_{eq} = G_{i}
+$$
+
+### Configurazioni stella e triangolo
+
+![08 - Reti in regime stazionario - ET 2024-06-18 15.26.13.excalidraw.png](/img/user/Excalidraw/08%20-%20Reti%20in%20regime%20stazionario%20-%20ET%202024-06-18%2015.26.13.excalidraw.png)
+
+
+#### Configurazione a triangolo
+
+![08 - Reti in regime stazionario - ET 2024-06-18 15.32.59.excalidraw.png](/img/user/Excalidraw/08%20-%20Reti%20in%20regime%20stazionario%20-%20ET%202024-06-18%2015.32.59.excalidraw.png)
+
+
+
+#### Configurazione a stella
+
+![08 - Reti in regime stazionario - ET 2024-06-18 15.33.22.excalidraw.png](/img/user/Excalidraw/08%20-%20Reti%20in%20regime%20stazionario%20-%20ET%202024-06-18%2015.33.22.excalidraw.png)
+
+
+
+#### Trasformazione triangolo-stella
+
+Si dimostra che una tripletta di [[Resistore\|resistori]] disposti in [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Configurazione a triangolo\|#Configurazione a triangolo]] può essere sostituita da una tripletta di resistori in [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Configurazione a stella\|#Configurazione a stella]] rispettando le relazioni:
+$$
+\begin{cases}
+R_{A} &= \dfrac{R_{AB}R_{AC}}{R_{AB}+R_{BC}+R_{CA}} \\
+R_{B} &= \dfrac{R_{AB}R_{BC}}{R_{AB}+R_{BC}+R_{CA}} \\
+R_{C} &= \dfrac{R_{BC}R_{AC}}{R_{AB}+R_{BC}+R_{CA}}
+\end{cases}
+$$
+
+```ad-Teo
+title: Conversione triangolo-stella
+
+Una tripletta di [[Resistore\|resistori]] uguali (di resistenza $R_{\triangle}$ disposti in [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Configurazione a triangolo\|#Configurazione a triangolo]] può essere sostituita da una tripletta di resistori in [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Configurazione a stella\|#Configurazione a stella]] (di resistenza $R_\star$) tale che:
+$
+R_{\star}= \frac{1}{3} R_{\triangle}
+$
+
+```
+
+
+
+#### Trasformazione stella-triangolo
+
+Si dimostra che una tripletta di [[Resistore\|resistori]] disposti in [[#Configurazione a stella]] può essere sostituita da una tripletta di resistori in [[#Configurazione a triangolo]] rispettando le relazioni:
+$$
+\begin{cases}
+R_{AB} &= \dfrac{R_{A}R_{B}+R_{B}R_{C}+R_{C}R_{A}}{R_{C}} \\
+R_{BC} &= \dfrac{R_{A}R_{B}+R_{B}R_{C}+R_{C}R_{A}}{R_{A}} \\
+R_{CA} &= \dfrac{R_{A}R_{B}+R_{B}R_{C}+R_{C}R_{A}}{R_{B}}
+\end{cases}
+$$
+
+```ad-Teo
+title: Conversione stella-triangolo
+
+Una tripletta di [[Resistore|resistori]] uguali (di resistenza $R_{\star}$ disposti in [[#Configurazione a stella]] può essere sostituita da una tripletta di resistori in [[#Configurazione a triangolo]] (di resistenza $R_\trinagle$) tale che:
+$
+R_{\triangle} = 3 R_{\star}
+$
+
+
+```
+
 
 ## Metodo di analisi delle reti lineari
 
@@ -177,7 +377,7 @@ A partire dalle [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/07 - 
 - $p := n-1:$ LKC indipendenti
 - $m := l-p:$ LKT indipendenti (maglie indipendenti)
 
-Le mancanti $l$ equazioni sono costituite dalle [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET#Caratteristica esterna\|caratteristiche esterne]] dei bipoli. In caso di generatori ideali di [[Generatore ideale di tensione\|tensione]] e [[Generatore ideale di corrente\|corrente]] e di [[Resistore\|resistori]]:
+Le mancanti $l$ equazioni sono costituite dalle [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET#Caratteristica esterna\|caratteristiche esterne]] dei bipoli. In caso di generatori ideali di [[Generatore ideale di tensione\|tensione]] e [[Generatore ideale di corrente\|corrente]] e di [[Resistore|resistori]]:
 $$
 \begin{cases}
 V = E & \text{Gen. ideale di tensione} \\
@@ -254,24 +454,23 @@ title: Osservazione
 ```
 
 
-**ESEMPIO**
+
+```ad-example
+title: Esempio
 
 È dato il circuito in figura
 
 ![08 - Reti in regime stazionario - ET 2024-06-16 16.59.56.excalidraw.png](/img/user/Excalidraw/08%20-%20Reti%20in%20regime%20stazionario%20-%20ET%202024-06-16%2016.59.56.excalidraw.png)
-
+%%[[08 - Reti in regime stazionario - ET 2024-06-16 16.59.56.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
 Sono presenti due generatori: $J$ e $E$ e due resistori: $R_{1}$ e $R_{2}$.
 
 Si vogliono calcolare:
 - $V_{2}$
 - $I_{2}$
-- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza assorbita\|potenza assorbita]] da $R_{2}$: $P_{2}$
+- [[03 - Introduzione allo studio delle reti elettriche - ET#Potenza assorbita|potenza assorbita]] da $R_{2}$: $P_{2}$
 
 ___
-
-```ad-example
-title: Esempio
 
 Per applicare il [[#Metodo di sovrapposizione degli effetti]] dobbiamo spegnere alternativamente i due generatori. Dovremo pertanto risolvere i seguenti due circuiti:
 
@@ -384,8 +583,6 @@ $$
 \boldsymbol{[E]} = \boldsymbol{[A]}\boldsymbol{[I_{m}]}
 $$
 
-
-
 ```ad-example
 title: Esempio
 
@@ -396,6 +593,7 @@ title: Esempio
 Si vuole risolvere la rete nel diagramma, considerando note le fem dei generatori e i valori delle resistenze.
 
 Impostando il sistema mostrato sopra si ottiene:
+
 $
 \begin{cases}
 E_{1} - E_{6} &= (R_{1}+R_{2})I_{m_{1}} - R_{2}I_{m_{2}} \\
@@ -403,7 +601,9 @@ E_{3} - E_{4} &= - R_{2}I_{m_{1}} + (R_{2}+R_{3}+R_{4})I_{m_{2}} - R_{4}I_{m_{3}
 E_{4}+E_{5} &= -R_{4}I_{m_{2}} + R_{4}I_{m_{3}}
 \end{cases}
 $
+
 Il sistema può essere scritto in forma matriciale come:
+
 $
 \begin{bmatrix}
 E_{1}-E_{6} \\ E_{3}-E_{4} \\ E_{4}+E_{5}
@@ -418,7 +618,9 @@ E_{1}-E_{6} \\ E_{3}-E_{4} \\ E_{4}+E_{5}
 I_{m_{1}} \\ I_{m_{2}} \\ I_{m_{3}}
 \end{bmatrix}
 $
+
 Si osservi che si sono usate le correnti di maglia, che si legano alle correnti di lato secondo le seguenti relazioni:
+
 $
 \begin{align}
 I_{1} &= I_{m_{1}} & I_{4} &= -I_{m_{2}} + I_{m_{3}}\\
@@ -426,6 +628,7 @@ I_{2} &= -I_{m_{1}} + I_{m_{2}} &\qquad I_{5} &= I_{m_{3}}\\
 I_{3} &= I_{m_{2}} & I_{6} &= -I_{m_{1}}\\
 \end{align}
 $
+
 Invertendo la matrice delle resistenze, si possono ricavare le correnti di maglia e da queste risalire alle correnti di lato.
 ```
 
@@ -469,6 +672,9 @@ dove:
 
 - [!] Le correnti sono prese con segno **positivo** se dirette **dentro** il nodo
 
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗ Correggere tutti i versi delle tensioni.
+❗❗❗❗❗❗❗❗❗❗❗❗
 
 ```ad-example
 title: Esempio
@@ -521,6 +727,8 @@ $
 
 ### Teorema di Thévenin
 
+#UNI/ET/Domanda 
+
 Generatore di tensione equivalente.
 
 ```ad-Teo
@@ -568,7 +776,7 @@ $V'$ coincide con la tensione a vuoto tra i nodi A e B: $V_{0}$
 $
 V' \equiv V_{0}
 $
-Nel secondo caso invece, applicando la [[Legge di Kirchhoff delle Tensioni (LKT)|LKT]] in senso *antiorario* si ottiene:
+Nel secondo caso invece, applicando la [[Legge di Kirchhoff delle Tensioni (LKT)|LKT]] in senso *orario* si ottiene:
 $
 V'' + R_{eq}I = V''+R_{eq}J = 0
 $
@@ -576,13 +784,13 @@ Per cui
 $
 V'' = -R_{eq}J
 $
-- [?] Perché $V''$ e $R_{eq}I$ sono concordi?
+
 
 In definitiva si ha che $V = V'+V''$ diventa:
 $
 V = V_{0}-R_{eq}I
 $
-che è proprio la [[Generatore reale di tensione#Caratteristica esterna|caratteristica esterna]] di un [[Generatore reale di tensione\|Generatore reale di tensione]], costituito da un [[Generatore ideale di tensione]] $E_{eq} = V_{0}$ e di un [[Resistore]] di resistenza $R_{eq}$ che è proprio l'enunciato del teorema.
+che è proprio la [[Generatore reale di tensione#Caratteristica esterna|caratteristica esterna]] di un [[Generatore reale di tensione]], costituito da un [[Generatore ideale di tensione]] $E_{eq} = V_{0}$ e di un [[Resistore]] di resistenza $R_{eq}$ che è proprio l'enunciato del teorema.
 *q.e.d.*
 
 ```
@@ -612,4 +820,118 @@ dove:
 
 ## Rendimento ed adattamento del carico
 
-Si consideri un [[Generatore reale di tensione]] 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/generatore-reale-di-tensione/#rendimento-e-adattamento-del-carico" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+### Rendimento e adattamento del carico
+
+
+Si consideri un [[Generatore reale di tensione]] $E$ con resistenza interna $R_{i}$ collegati a un carico (utilizzatore) rappresentabile da un [[Resistore]] $R_{u}$.
+
+![08 - Reti in regime stazionario - ET 2024-06-18 13.28.54.excalidraw.png](/img/user/Excalidraw/08%20-%20Reti%20in%20regime%20stazionario%20-%20ET%202024-06-18%2013.28.54.excalidraw.png)
+
+
+La corrente $I$ è data dalla relazione:
+$
+I = \frac{E}{R_{i}+R_{u}}
+$
+mentre la tensione $V$ ai capi del carico è:
+$
+V = IR_{u} = \frac{R_{u}}{R_{i}+R_{u}}E
+$
+
+Si vanno ora a calcolare le [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza\|potenze]] in gioco.
+
+La potenza [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata\|potenza erogata]] dal generatore **reale**, uguale alla potenza entrante al carico è
+$
+P = VI = \frac{R_{u}E^{2}}{(R_{i}+R_{u})^{2}}E
+$
+
+La [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET#Potenza dissipata per Effetto Joule\|potenza dissipata per Effetto Joule]] dalla resistenza interna al generatore è:
+$
+P_{d} = R_{i}I^{2} = \frac{R_{i}E^{2}}{(R_{i}+R_{u})^{2}}
+$
+mentre la potenza generata dal generatore **ideale** è:
+$
+P_{g} = EI = I = \frac{E^{2}}{R_{i}+R_{u}}
+$
+
+Inoltre, per il [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/05 - Generatori elettrici - ET#Bilancio di potenza di un generatore\|bilancio di potenza di un generatore]], la [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata\|potenza erogata]] è scrivibile come:
+$
+P = P_{g}-P_{d}
+$
+
+#### Rendimento
+
+```ad-Definizione
+title: Rendimento del generatore reale di tensione
+
+Si definisce **rendimento del [[Generatore reale di tensione]]** il rapporto tra [[03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata|potenza erogata]] e potenza generata.
+$
+\eta = \frac{P}{P_{g}} = \frac{P_{g}-P_{d}}{P_{g}} = \frac{R_{u}}{R_{i}+R_{u}}
+$
+
+```
+
+![Generatore reale di tensione 2024-06-18 13.46.13.excalidraw.png](/img/user/Excalidraw/Generatore%20reale%20di%20tensione%202024-06-18%2013.46.13.excalidraw.png)
+
+
+#### Condizione di adattamento del carico
+
+La condizione di adattamento del carico è la condizione in cui la Potenza trasferita al carico è massima (e quindi lo è anche il [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Rendimento\|#Rendimento]]).
+
+Calcolando la derivata della [[03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata|potenza erogata]] e ponendola uguale a zero si può ricavare il suo massimo.
+$
+P = VI = \frac{R_{u}E^{2}}{(R_{i}+R_{u})^{2}}
+$
+Si deriva rispetto a $R_{u}$:
+$
+\begin{align}
+\frac{dP}{dR_{u}} &= \frac{E^{2}}{(R_{i}+R_{u})^{2}} - \frac{2R_{u}E^{2}}{(R_{i}+R_{u})^{3}} = \\
+&= \frac{E^{2}(R_{i}+R_{u}) - 2R_{u}E^{2}}{(R_{i}+R_{u})^{3}} \stackrel{!}{=} 0 
+\end{align}
+$
+che quindi corrisponde a trovare:
+$
+E^{2}(R_{i}+R_{u}) - 2R_{u}E^{2} = 0
+$
+che diventa
+$
+\begin{align}
+E^{2}(R_{i}+R_{u}) - 2R_{u}E^{2} &= 0 \\
+R_{i}+R_{u}-2R_{u} &= 0 \\
+R_{u} = R_{i}
+\end{align}
+$
+```ad-Teo
+title: Condizione di adattamento del carico
+
+La condizione di adattamento del carico si ha quando la resistenza del carico è uguale alla resistenza interna al generatore
+$
+R_{u}= R_{i}
+$
+In tale condizione valgono:
+$
+\begin{align}
+V &= \frac{V_{0}}{2} \\
+I &= \frac{I_{cc}}{2} \\
+\eta &= 0.5
+\end{align}
+$
+```
+
+
+La stessa relazione vale quando il carico $R_{u}$ è alimentato da una generica [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Rete elettrica\|rete elettrica]] lineare ai nodi A e B. Rappresentando la rete con il [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Teorema di Thévenin\|teorema di Thévenin]] con $E_{eq} = E_{0}$ e $R_{eq} = R_{i}$, la condizione di adattamento è ancora $R_{u}= R_{i} =(R_{eq})$.
+
+La potenza trasferita vale $P = \frac{V_{0}^{2}}{4R_{i}}$. Sul rendimento però non si può dire nulla in quanto il generatore equivalente non è significativo della rete reale dal punto di vista energetico.
+
+</div></div>
+
+
+
+
+
+
+

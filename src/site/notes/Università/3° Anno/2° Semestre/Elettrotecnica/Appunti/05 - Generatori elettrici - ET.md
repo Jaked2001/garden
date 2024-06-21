@@ -55,9 +55,9 @@ dove:
 
 
 ```ad-Definizione
-title: Generatore ideale di corrente
+title: Generatore ideale di tensione
 
-Il generatore ideale di corrente è un [[00 - Introduzione elettrotecnica#Dipolo|dipolo]] attivo che verifica la relazione:
+Il **generatore ideale di tensione** è un [[00 - Introduzione elettrotecnica#Dipolo|dipolo]] attivo che verifica la relazione:
 $
 E = E_{s} \quad \forall I
 $
