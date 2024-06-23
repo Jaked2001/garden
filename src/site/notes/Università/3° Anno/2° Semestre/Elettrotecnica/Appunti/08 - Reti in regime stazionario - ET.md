@@ -214,11 +214,13 @@ La potenza trasferita vale $P = \frac{V_{0}^{2}}{4R_{i}}$. Sul rendimento però 
 ```ad-Teo
 title: Formula del partitore di tensione
 
-
+Data una [[#Resistori in serie|serie di resistori]] agli estremi dei quali è presente una tensione $V_{s}$, la tensione si ripartisce su ognuno dei resistori in modo proporzionale.
+$
+V_{k} = R_{k}I_{k} = R_{k}I_{s} = R_{k} \frac{V_{s}}{R_{s}} = V_{s} \frac{R_{k}}{\sum R}
+$
 
 ```
 
-Data una serie di [[resistori\|resistori]]
 
 ## Bipoli in parallelo
 
@@ -283,9 +285,16 @@ $$
 
 ### Partitore di corrente
 
-❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗
+```ad-Teo
+title: Formula del partitore di corrente
+
+Data un [[#Resistori in parallelo|parallelo di resistori]] agli estremi del quale scorre una corrente $I_{p}$, questa corrente ripartisce su ognuno dei resistori in modo proporzionale alla sua [[04 - Fenomeni di conduzione e resistori - ET#Conduttanza|conduttanza]].
+$
+I_{k} = G_{k}V_{k} = G_{k}V_{p} = G_{k} \frac{I_{p}}{G_{p}} = I_{p} \frac{G_{k}}{\sum G}
+$
+
+```
+
 
 ## Reti di resistori
 

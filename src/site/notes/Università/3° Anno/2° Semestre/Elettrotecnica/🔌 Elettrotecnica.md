@@ -107,20 +107,22 @@ autrefresh: 300
 
 ___
 
-| File                                                                                                                                                                            | Tipo | Stato        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------ |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]]                                                 | T    | 🪶 Scrivere  |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET\|14 - Reti in regime sinusoidale - ET]]                                         | T    | 🪶 Scrivere  |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET\|08 - Reti in regime stazionario - ET]]                                         | T    | 🪶🟡Scrivere |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET\|03 - Introduzione allo studio delle reti elettriche - ET]] | T    | 🟠 Studiare  |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET\|04 - Fenomeni di conduzione e resistori - ET]]                         | T    | 🟠 Studiare  |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/05 - Generatori elettrici - ET\|05 - Generatori elettrici - ET]]                                                     | T    | 🟠 Studiare  |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET\|06 - Bipoli e potenza elettrica - ET]]                                         | T    | 🟠 Studiare  |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/07 - Proprietà generali delle reti elettriche - ET\|07 - Proprietà generali delle reti elettriche - ET]]             | T    | 🟠 Studiare  |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/09 - Fenomeni dielettrici e condensatore - ET\|09 - Fenomeni dielettrici e condensatore - ET]]                       | T    | 🟠 Studiare  |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/10 - Fenomeni magnetici ed induttori - ET\|10 - Fenomeni magnetici ed induttori - ET]]                               | T    | 🟠 Studiare  |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET\|13 - Funzioni sinusoidali e fasori - ET]]                                   | T    | 🟠 Studiare  |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Esercitazioni/Es 5 - Esercizi ET\|Es 5 - Esercizi ET]]                                                                       | Es   | 🟢 Fatto     |
+| File                                                                                                                                                                            | Tipo  | Stato         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------------- |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]]                                                 | T     | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET\|15 - Reti trifasi - ET]]                                                                     | T     | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET\|14 - Reti in regime sinusoidale - ET]]                                         | T     | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET\|08 - Reti in regime stazionario - ET]]                                         | T     | 🪶🟡Scrivere  |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET\|03 - Introduzione allo studio delle reti elettriche - ET]] | T     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET\|04 - Fenomeni di conduzione e resistori - ET]]                         | T     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/05 - Generatori elettrici - ET\|05 - Generatori elettrici - ET]]                                                     | T     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET\|06 - Bipoli e potenza elettrica - ET]]                                         | T     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/07 - Proprietà generali delle reti elettriche - ET\|07 - Proprietà generali delle reti elettriche - ET]]             | T     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/09 - Fenomeni dielettrici e condensatore - ET\|09 - Fenomeni dielettrici e condensatore - ET]]                       | T     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/10 - Fenomeni magnetici ed induttori - ET\|10 - Fenomeni magnetici ed induttori - ET]]                               | T     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET\|13 - Funzioni sinusoidali e fasori - ET]]                                   | T     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Esercitazioni/Es 5 - Esercizi ET\|Es 5 - Esercizi ET]]                                                                       | Es    | 🟢 Fatto      |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2020-09-09 - ET\|Ex 2020-09-09 - ET]]                                                                        | Esame | 🟢 Fatto      |
 
 { .block-language-dataview}
 
@@ -136,19 +138,20 @@ La numerazione dei capitoli fa riferimento alla numerazione del libro di testo "
 ```
 
 
-| File                                                                                                                                                                            | Stato        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]]                                                 | 🪶 Scrivere  |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET\|03 - Introduzione allo studio delle reti elettriche - ET]] | 🟠 Studiare  |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET\|04 - Fenomeni di conduzione e resistori - ET]]                         | 🟠 Studiare  |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/05 - Generatori elettrici - ET\|05 - Generatori elettrici - ET]]                                                     | 🟠 Studiare  |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET\|06 - Bipoli e potenza elettrica - ET]]                                         | 🟠 Studiare  |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/07 - Proprietà generali delle reti elettriche - ET\|07 - Proprietà generali delle reti elettriche - ET]]             | 🟠 Studiare  |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET\|08 - Reti in regime stazionario - ET]]                                         | 🪶🟡Scrivere |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/09 - Fenomeni dielettrici e condensatore - ET\|09 - Fenomeni dielettrici e condensatore - ET]]                       | 🟠 Studiare  |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/10 - Fenomeni magnetici ed induttori - ET\|10 - Fenomeni magnetici ed induttori - ET]]                               | 🟠 Studiare  |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET\|13 - Funzioni sinusoidali e fasori - ET]]                                   | 🟠 Studiare  |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET\|14 - Reti in regime sinusoidale - ET]]                                         | 🪶 Scrivere  |
+| File                                                                                                                                                                            | Stato         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]]                                                 | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET\|03 - Introduzione allo studio delle reti elettriche - ET]] | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET\|04 - Fenomeni di conduzione e resistori - ET]]                         | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/05 - Generatori elettrici - ET\|05 - Generatori elettrici - ET]]                                                     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET\|06 - Bipoli e potenza elettrica - ET]]                                         | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/07 - Proprietà generali delle reti elettriche - ET\|07 - Proprietà generali delle reti elettriche - ET]]             | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET\|08 - Reti in regime stazionario - ET]]                                         | 🪶🟡Scrivere  |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/09 - Fenomeni dielettrici e condensatore - ET\|09 - Fenomeni dielettrici e condensatore - ET]]                       | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/10 - Fenomeni magnetici ed induttori - ET\|10 - Fenomeni magnetici ed induttori - ET]]                               | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET\|13 - Funzioni sinusoidali e fasori - ET]]                                   | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET\|14 - Reti in regime sinusoidale - ET]]                                         | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET\|15 - Reti trifasi - ET]]                                                                     | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
@@ -170,8 +173,10 @@ ___
 
 ## Temi d'esame
 
-| File | Stato | PDF |
-| ---- | ----- | --- |
+
+| File                                                                                                     | Stato    | PDF                                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2020-09-09 - ET\|Ex 2020-09-09 - ET]] | 🟢 Fatto | <ul><li>[[9-09-2020 - Esame - ET.pdf\\|9-09-2020 - Esame - ET.pdf]]</li><li>[[9-09-2020 - Soluzione - ET.pdf\\|9-09-2020 - Soluzione - ET.pdf]]</li></ul> |
 
 { .block-language-dataview}
 

@@ -486,7 +486,6 @@ e ha unità di misura omogenee con quella della [[04 - Fenomeni di conduzione e 
 
 
 
-
 </div></div>
 
 
@@ -672,8 +671,159 @@ $$
 
 # Reti di bipoli passivi
 
+
+
+Data una [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Rete elettrica\|rete elettrica]] fatta di [[Generatore di corrente\|Generatore di corrente]] e [[Generatore di tensione\|Generatore di tensione]] e [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Bipoli passivi ideali in regime sinusoidale\|#Bipoli passivi ideali in regime sinusoidale]], se a tutti i bipoli si sostituiscono le [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Impedenza\|impedenze]] equivalenti, si applicano tutte le leggi viste per le reti in regime stazionario ([[Legge di Kirchhoff delle Tensioni (LKT)\|LKT]], [[Legge di Kirchhoff delle Correnti (LKT)\|LKC]], Metodi di [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/07 - Proprietà generali delle reti elettriche - ET#Risolvere una rete\|risoluzione]]), trattando le impedenze come resistenze. 
+
+Ammesso di sostituire a ogni bipolo l'[[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Impedenza\|#Impedenza]] equivalente e di usare il valore dell'impedenza come fosse una resistenza, valgono le regole di:
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Resistori in serie\|Resistori in serie]]
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Resistori in parallelo\|Resistori in parallelo]]
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Trasformazione triangolo-stella\|Trasformazione triangolo-stella]]
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Trasformazione stella-triangolo\|Trasformazione stella-triangolo]]
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Metodo di analisi delle reti lineari\|Metodi di analisi delle reti lineari]]
+
+
+## Serie RLC
+
+![14 - Serie RLC.excalidraw.png](/img/user/Excalidraw/14%20-%20Serie%20RLC.excalidraw.png)
+
+
+Di ogni bipolo si scrive l'[[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Impedenza\|#Impedenza]] corrispondente:
+$$
+\begin{align}
+Z_{R} &= R \\
+Z_{L} &= j\omega L = jX_{L} \\
+Z_{C} &= -j \frac{1}{\omega C} = jX_{C}
+\end{align}
+$$
+A questo punto, la serie si può sostituire con un bipolo equivalente la cui impedenza valga:
+$$
+\dot Z_{s} = \dot Z_{R} + \dot Z_{L} + \dot Z_{C}
+$$
+
+Vale ancora la formula del [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Partitore di tensione\|partitore di tensione]] applicato usando l'impedenza al posto della resistenza.
+
+## Parallelo RLC
+
+![14 - Reti in regime sinusoidale - ET 2024-06-21 18.28.02.excalidraw.png](/img/user/Excalidraw/14%20-%20Reti%20in%20regime%20sinusoidale%20-%20ET%202024-06-21%2018.28.02.excalidraw.png)
+
+
+Di ogni bipolo si scrive l'[[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Ammettenza\|#Ammettenza]] corrispondente:
+$$
+\begin{align}
+\dot Y_{R} &= \frac{1}{R} \\
+\dot Y_{L} &= -j\frac{1}{\omega L} = - j \frac{1}{X_{L}} \\
+\dot Y_{C} &= j{\omega C} = - j \frac{1}{X_{L}} \\
+\end{align}
+$$
+A questo punto, il parallelo si può sostituire con un bipolo equivalente la cui ammettenza valga:
+$$
+\dot Y_{p} = \dot Y_{R} + \dot Y_{L} + \dot Y_{C}
+$$
+## Risonanza elettrica
+
+### Risonanza in serie
+
+È dato un circuito alimentato da un [[Generatore ideale di tensione sinusoidale\|Generatore ideale di tensione sinusoidale]] e 3 bipoli in serie:
+- Un [[Resistore\|resistore]]
+- Un [[Induttore\|induttore]]
+- Un [[Condensatore\|Condensatore]]
+
+![14 - Reti in regime sinusoidale - ET 2024-06-21 18.40.54.excalidraw.png](/img/user/Excalidraw/14%20-%20Reti%20in%20regime%20sinusoidale%20-%20ET%202024-06-21%2018.40.54.excalidraw.png)
+
+
+Si ha pertanto l'[[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Impedenza\|#Impedenza]] equivalente data dalla [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Serie RLC\|#Serie RLC]]:
+$$
+\begin{align}
+\dot Z &= \dot Z_{R} + \dot Z_{L} + \dot Z_{C} =  \\
+&= R + j \left( \omega L - \frac{1}{\omega C} \right)
+\end{align}
+$$
+$\dot Z$ ha modulo e argomento rispettivamente pari a:
+$$
+Z(\omega) = \sqrt{R^{2} + \left( \omega L - \frac{1}{\omega C} \right)^{2}}
+\qquad;\qquad
+\varphi(\omega) = \arctan\left(  \frac{\omega L - \frac{1}{\omega C}}{R}  \right)
+$$
 ❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗
 ❗❗❗❗❗❗❗❗❗❗❗❗
 
-Data una [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Rete elettrica\|rete elettrica]] fatta di [[Generatore di corrente\|Generatore di corrente]] e [[Generatore di tensione\|Generatore di tensione]] e [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Bipoli passivi ideali in regime sinusoidale\|#Bipoli passivi ideali in regime sinusoidale]], se a tutti i bipoli si sostituiscono le [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Impedenza\|impedenze]] equivalenti, si applicano tutte le leggi viste per le reti in regime stazionario ([[Legge di Kirchhoff delle Tensioni (LKT)\|LKT]], [[Legge di Kirchhoff delle Correnti (LKT)\|LKC]], Metodi di [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/07 - Proprietà generali delle reti elettriche - ET#Risolvere una rete\|risoluzione]]), trattando le impedenze come resistenze.
+### Risonanza in parallelo - antirisonanza
+
+Antirisonanza
+
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗
+
+### Rifasamento
+
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗
+
+## Mutuo accoppiamento
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/induttore/#mutuo-accoppiamento" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## Mutuo accoppiamento
+
+Si considerino 2 induttori (immaginiamo per semplicità 2 spire) qualsiasi tali che nel primo non scorra corrente $i_{1} \equiv 0$ e nel secondo scorra corrente alternata $i_{2}$. Nella seconda spira sarà indotto un campo magnetico $\boldsymbol{B_{2}}$ dovuto solo ad $i_{2}$. È possibile che alcune linee di campo di $\boldsymbol{B_{2}}$ siano concatenate con la prima spira. 
+
+Allo stesso modo, è possibile la situazione duale in cui $i_{2}\equiv0$ e nella prima spira scorra $i_{1}$, inducendo $\boldsymbol{B_{1}}$ con alcune linee di campo concatenate con spira 2.
+
+Nella situazione descritta si dice che gli induttori sono **mutualmente accoppiati**.
+
+Per via del mutuo accoppiamento si può scrivere, nel primo caso, la relazione
+$
+M_{12} = \frac{\varphi_{c12}(t)}{i_{2}(t)}
+$
+dove:
+- $\varphi_{c12}:$ flusso del campo $\boldsymbol{B_{2}}$ concatenato dall'induttore 1
+- $i_{2}(t):$ Corrente che scorre nell'induttore 2
+- $M_{12}:$ **Mutua induttanza** o **coefficiente di mutua induzione** tra l'induttore 1 e l'induttore 2
+
+In modo del tutto analogo si definisce $M_{21}$
+
+Si può definire il [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Coefficiente di mutuo accoppiamento\|#Coefficiente di mutuo accoppiamento]]
+$
+M_{12} = M_{21} = M
+$
+
+
+![Induttore 2024-06-22 11.42.03.excalidraw.png](/img/user/Excalidraw/Induttore%202024-06-22%2011.42.03.excalidraw.png)
+
+
+Gli induttori in figura sono mutualmente accoppiati con [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Coefficiente di mutuo accoppiamento\|#Coefficiente di mutuo accoppiamento]] pari a $M$. Si possono pertanto scrivere le equazioni:
+$
+\begin{cases}
+\overline{V}_{1} = j\omega L_{1} \overline{I}_{1} + j\omega M \overline{I}_{2} \\
+\overline{V}_{2} = j\omega L_{2} \overline{I}_{2} + j\omega M \overline{I}_{1}
+\end{cases}
+$
+Il segno della caduta di tensione dovuta alla mutua induzione si sceglie a seconda della posizione del pallino rispetto alle correnti:
+- Se entrambe le correnti incontrano prima il pallino o prima l'induttore si prende concorde alla caduta di tensione sull'induttore
+- Se una delle correnti incontra prima il pallino e l'altra prima l'induttore si prende segno discorde alla caduta di tensione sull'induttore
+
+### Coefficiente di mutuo accoppiamento
+
+```ad-Definizione
+title: Coefficiente di mutuo accoppiamento ($M$)
+
+Il **coefficiente di mutua induttanza** caratterizza il [[#Mutuo accoppiamento]] tra 2 induttori:
+$
+M = \frac{\varphi_{c12}(t)}{i_{2}(t)} = \frac{\varphi_{c21}(t)}{i_{1}(t)} \qquad \rm [H]
+$
+
+```
+
+
+
+
+</div></div>
+
+
