@@ -3,6 +3,12 @@
 ---
 
 
+```widgets
+type: countdown
+date: 2024-07-12
+to: Esame 🔌 Elettrotecnica
+```
+
 # 🔌 Elettrotecnica
 
 **🧑🏻‍🏫 Prof:** [[Personale/Contatti/Giovanni De Bellis\|Giovanni De Bellis]]
@@ -109,9 +115,10 @@ ___
 
 | File                                                                                                                                                                            | Tipo  | Stato         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------------- |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2023-01-11 - ET\|Ex 2023-01-11 - ET]]                                                                        | Esame | 🔴 Fare       |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]]                                                 | T     | 🪶 Scrivere   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET\|15 - Reti trifasi - ET]]                                                                     | T     | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET\|14 - Reti in regime sinusoidale - ET]]                                         | T     | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET\|15 - Reti trifasi - ET]]                                                                     | T     | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET\|08 - Reti in regime stazionario - ET]]                                         | T     | 🪶🟡Scrivere  |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET\|03 - Introduzione allo studio delle reti elettriche - ET]] | T     | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET\|04 - Fenomeni di conduzione e resistori - ET]]                         | T     | 🟠 Studiare   |
@@ -151,7 +158,7 @@ La numerazione dei capitoli fa riferimento alla numerazione del libro di testo "
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/10 - Fenomeni magnetici ed induttori - ET\|10 - Fenomeni magnetici ed induttori - ET]]                               | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET\|13 - Funzioni sinusoidali e fasori - ET]]                                   | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET\|14 - Reti in regime sinusoidale - ET]]                                         | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET\|15 - Reti trifasi - ET]]                                                                     | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET\|15 - Reti trifasi - ET]]                                                                     | 🪶🟡 Scrivere |
 
 { .block-language-dataview}
 
@@ -177,6 +184,7 @@ ___
 | File                                                                                                     | Stato    | PDF                                                                                                                                                       |
 | -------------------------------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2020-09-09 - ET\|Ex 2020-09-09 - ET]] | 🟢 Fatto | <ul><li>[[9-09-2020 - Esame - ET.pdf\\|9-09-2020 - Esame - ET.pdf]]</li><li>[[9-09-2020 - Soluzione - ET.pdf\\|9-09-2020 - Soluzione - ET.pdf]]</li></ul> |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2023-01-11 - ET\|Ex 2023-01-11 - ET]] | 🔴 Fare  | <ul><li>[[11-01-2023 - Esame - ET.pdf\\|11-01-2023 - Esame - ET.pdf]]</li></ul>                                                                           |
 
 { .block-language-dataview}
 
