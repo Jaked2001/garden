@@ -254,7 +254,7 @@ I fusi si contano a partire dall'anti meridiano di Greenwich. Pertanto, il fuso 
 
 
 
-L'Italia è compresa nei fusi: 31, 32, 33.
+L'Italia è compresa nei fusi: 32, 33, 34.
 
 I fusi in realtà non sono presi completi dal Polo Sud al Polo Nord. Infatti qui i fusi diventano molto stretti e per descrivere oggetti relativamente piccoli a latitudini molto elevate sarebbe necessario un numero consistente di fusi. Pertanto si è deciso di considerare delle zone attorno a entrambi i poli con caratteristiche omogenee che vengono rappresentate su delle proiezioni a parte:
 - Il polo nord cerca di includere tutte le aree non occupate da terre emerse. Si arriva alla LAT $84\degree\,\rm N$

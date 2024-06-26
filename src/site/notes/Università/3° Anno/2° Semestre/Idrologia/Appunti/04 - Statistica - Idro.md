@@ -442,7 +442,6 @@ $
 E(X) = \mu 
 $
 
-
 ```
 
 #### Varianza VA Normale
@@ -460,26 +459,16 @@ ___
 
 $
 \begin{align}
-
 \mathrm{Var}(X) &= E(X-\mu)^{2} = \\
-
 &= \int_\mathbb{R} (x-\mu)^{2}f_{X}(x) \, dx = \\
-
 &= \int_\mathbb{R} (x-\mu)^{2}\frac{e^{\frac{(x-\mu)^{2}}{2 \sigma^{2}}}}{\sqrt{2 \pi \sigma^{2}}} \, dx = 
 \begin{bmatrix} x-\mu = y \\ x = y+\mu \\ dx = dy \end{bmatrix} =\\
-
 &= \frac{1}{\sqrt{2 \pi \sigma^{2}}} \int_\mathbb{R}y^{2} e^{-\frac{y^{2}}{2\sigma^{2}}} \, dy = \begin{bmatrix} y^{2} = t \\ y = t^{\frac{1}{2}} \\ dy = \frac{1}{2}t^{\frac{1}{2}-1} dt \end{bmatrix} =\\
-
 &= \frac{\not 2}{\sqrt{2 \pi \sigma^{2}}} \int_\mathbb{R}t e^{-\frac{t}{2\sigma^{2}}} \frac{1}{\not 2}t^{\frac{1}{2}-1}\, dt = \\
-
 &= \frac{1}{\sqrt{2 \pi \sigma^{2}}} \int_\mathbb{R}t^{\frac{1}{2}} e^{-\frac{t}{2\sigma^{2}}} \, dt = \begin{bmatrix} \frac{t}{2 \sigma^{2}} = l \\ t = 2 \sigma^{2}l \\ dt = 2 \sigma^{2} dl \end{bmatrix} = \\
-
 &= \frac{1}{\sqrt{\not 2 \pi \not \sigma^{2}}} \int_\mathbb{R}(\not 2 \not \sigma^{2}l)^{\frac{1}{2}} e^{-l} 2 \sigma^{2}\, dl = \\
-
 &= \frac{2 \sigma^{2}}{\sqrt{\pi}} \int_{0}^{\infty} l^{\frac{1}{2}}e^{-l} \, dl = \\
-
 &= \frac{2 \sigma^{2}}{\sqrt{\pi}} \int_{0}^{\infty} l^{\frac{3}{2}-1} e^{-l} \, dl = \\
-
 &= \frac{2 \sigma^{2}}{\sqrt{\pi}} \Gamma \left(\frac{3}{2} \right) = \frac{2 \sigma^{2}}{\sqrt{\pi}} \frac{1}{2} \sqrt{\pi} = \sigma^{2}
 \end{align}
 $
