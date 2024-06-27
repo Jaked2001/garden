@@ -106,4 +106,5 @@ Il rapporto tra i fasori vale:
 $$
 \frac{\overline{V}}{\overline{I}} = \frac{V}{I}e^{j\varphi} = R
 $$
+Essendo $\varphi=0$ poiché tensione e corrente risultano in fase.
 

@@ -63,7 +63,7 @@ Un [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi 
 ```ad-Definizione
 title: Sistema trifase simmetrico inverso
 
-Un [[#Sistema trifase simmetrico]] si dice **inverso** se ciascuna grandezza risulta in [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|ritardo]] di 120° ($\left(+\frac{2\pi}{3}\right)$ rispetto alla precedente.
+Un [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET#Sistema trifase simmetrico\|#Sistema trifase simmetrico]] si dice **inverso** se ciascuna grandezza risulta in [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|ritardo]] di 120° ($\left(+\frac{2\pi}{3}\right)$ rispetto alla precedente.
 
 ```
 
@@ -226,7 +226,7 @@ title: Generatore trifase
 Un **generatore trifase** è costituito da tre bipoli [[Generatore ideale di tensione sinusoidale|Generatore ideale di tensione - AC]] che costituiscono una [[#Terne di tensioni trifase|terna di tensioni trifase]]. Sono possibili 3 configurazioni:
 - [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET#Generatori trifase a stella con neutro\|#Generatori trifase a stella con neutro]]
 - [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET#Generatori trifase a stella senza neutro\|#Generatori trifase a stella senza neutro]]
-- [[#Generatori trifase a triangolo]]
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET#Generatori trifase a triangolo\|#Generatori trifase a triangolo]]
 
 
 ```
@@ -440,12 +440,47 @@ dove:
 ![15 - Rete trifase D-D - ET 2024-06-26 11.01.47.excalidraw.png](/img/user/Excalidraw/15%20-%20Rete%20trifase%20D-D%20-%20ET%202024-06-26%2011.01.47.excalidraw.png)
 
 
+La rete Trifase D-D sono presneti:
+- [[#Generatori trifase a triangolo]]
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET#Carico trifase\|#Carico trifase]] a triangolo caratterizzato da una terna di [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET#Correnti di fase\|#Correnti di fase]] diverse dalle [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET#Correnti di linea\|#Correnti di linea]]
+Le [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET#Correnti di fase\|#Correnti di fase]] si possono ricavare a partire dalle [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET#Tensioni concatenate\|#Tensioni concatenate]] (uguali alle tensioni impresse dai generatori)
+$$
+\overline{J}_{12} = \frac{\overline{E}_{1}}{\dot{Z}} \qquad \overline{J}_{23} = \frac{\overline{E}_{2}}{\dot{Z}} \qquad \overline{J}_{31} = \frac{\overline{E}_{3}}{\dot{Z}}
+$$
+Anche la terna di [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET#Correnti di fase\|#Correnti di fase]] è simmetrica. A partire dalle [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET#Relazioni tra correnti di linea e correnti di fase\|#Relazioni tra correnti di linea e correnti di fase]] si deduce che anche le [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET#Correnti di linea\|#Correnti di linea]] costituiscono un [[#Sistema trifase simmetrico]].
+
+I [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Valore efficace\|valori efficaci]] di [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET#Correnti di linea\|#Correnti di linea]] si ricavano dai valori di [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET#Correnti di fase\|#Correnti di fase]] secondo la relazione
+$$
+I = \sqrt{3}J
+$$
+
+
 #### Rete D-Y
+
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗
 
 #### Rete Y-D
 
+
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗
+
 ### Rete ridotta monofase
+
+
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗
 
 ## Potenza nei sistemi trifase
 
+
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗
+
 ## Rifasamento del carico
+

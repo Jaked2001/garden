@@ -22,7 +22,7 @@ to: Esame 🔌 Elettrotecnica
 - Giulio Fabricatore, *Elettrotecnica e applicazioni. Reti, macchine, misure, impianti*, Liguori - se ce lo ritroviamo
 - Materiale didattico su pag google Slide e pag classroom
 
-[[Università/3° Anno/2° Semestre/Elettrotecnica/allegati/Elettrotecnica 1 - Principi - G. Chitarin.pdf]]
+[[Università/3° Anno/2° Semestre/Elettrotecnica/allegati/Elettrotecnica 1 - Principi - G. Chitarin.pdf\|Università/3° Anno/2° Semestre/Elettrotecnica/allegati/Elettrotecnica 1 - Principi - G. Chitarin.pdf]]
 
 🕰 Orario:
 - **Lunedì:** 15:00-17:00 - RM006 Aula 15

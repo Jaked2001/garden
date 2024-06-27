@@ -211,7 +211,7 @@ title: [[Italo Calvino]], 1993
 Nessuno sa meglio di te, saggio Kublai, che non si deve mai confondere la città con il discorso che la descrive. Eppure tra l’una e l’altro c’è un rapporto
 ```
 
-![Schermata 2024-04-11 alle 14.05.23.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Analisi%20Ambientale%20dei%20sistemi%20urbani%20e%20territoriali/allegati/Schermata%202024-04-11%20alle%2014.05.23.png)
+![[Schermata 2024-04-11 alle 14.05.23.png\|Schermata 2024-04-11 alle 14.05.23.png]]
 
 - [[René Magritte\|René Magritte]]
 

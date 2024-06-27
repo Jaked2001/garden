@@ -394,6 +394,7 @@ Il rapporto tra i fasori vale:
 $
 \frac{\overline{V}}{\overline{I}} = \frac{V}{I}e^{j\varphi} = R
 $
+Essendo $\varphi=0$ poiché tensione e corrente risultano in fase.
 
 
 
@@ -639,10 +640,7 @@ Q &= \mathcal{Im}_{\dot Z}I^{2} \quad &\text{Potenza reattiva}
 \end{cases}
 $$
 
-
-
 ### Ammettenza
-
 
 ```ad-Definizione
 title: Impedenza
@@ -667,11 +665,7 @@ $$
 \dot{Y} = \frac{1}{\dot Z}
 $$
 
-
-
 # Reti di bipoli passivi
-
-
 
 Data una [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Rete elettrica\|rete elettrica]] fatta di [[Generatore di corrente\|Generatore di corrente]] e [[Generatore di tensione\|Generatore di tensione]] e [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Bipoli passivi ideali in regime sinusoidale\|#Bipoli passivi ideali in regime sinusoidale]], se a tutti i bipoli si sostituiscono le [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Impedenza\|impedenze]] equivalenti, si applicano tutte le leggi viste per le reti in regime stazionario ([[Legge di Kirchhoff delle Tensioni (LKT)\|LKT]], [[Legge di Kirchhoff delle Correnti (LKT)\|LKC]], Metodi di [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/07 - Proprietà generali delle reti elettriche - ET#Risolvere una rete\|risoluzione]]), trattando le impedenze come resistenze. 
 
@@ -682,6 +676,41 @@ Ammesso di sostituire a ogni bipolo l'[[Università/3° Anno/2° Semestre/Elettr
 - [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Trasformazione stella-triangolo\|Trasformazione stella-triangolo]]
 - [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Metodo di analisi delle reti lineari\|Metodi di analisi delle reti lineari]]
 
+## Serie RL
+
+![14 - Serie RL - ET 2024-06-26 11.58.35.excalidraw.png](/img/user/Excalidraw/14%20-%20Serie%20RL%20-%20ET%202024-06-26%2011.58.35.excalidraw.png)
+
+
+Si considerino un [[Resistore\|Resistore]] e un [[Induttore\|Induttore]] in serie. Le cadute di tensione di ognuno dei due bipoli si trovano come:
+$$
+\overline{V}_{R} = R \overline{I} \qquad \overline{V}_{L} = j\omega L \overline{I} 
+$$
+Ai morsetti si misura una ddp:
+$$
+v(t) = \sqrt{2}V\sin(\omega t) = Ri(t) + L \frac{di(t)}{t}
+$$
+che in notazione [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Fasore\|fasoriale]] diventa:
+$$
+\overline{V} = R\overline{I} + j\omega L \overline{I} = (R + j\omega L) \overline{I}
+$$
+
+![14 - Reti in regime sinusoidale - ET 2024-06-26 12.06.53.excalidraw.png](/img/user/Excalidraw/14%20-%20Reti%20in%20regime%20sinusoidale%20-%20ET%202024-06-26%2012.06.53.excalidraw.png)
+
+
+In particolare lo [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|sfasamento]] tra $\overline{V}$ e $\overline{I}$ è
+$$
+\varphi = \varphi_{v} - \varphi_{i}
+$$
+Pertanto, l'[[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Impedenza\|#Impedenza]] equivalente diventa:
+$$
+\dot{Z} = R+i\omega L = \frac{\overline{V}}{\overline{I}} = \frac{Ve^{j\varphi_{v}}}{Ie^{j\varphi_{i}}} = \frac{V}{I} e^{j(\varphi_{v}-\varphi_{i})} = \frac{V}{I} e^{j\varphi} = Ze^{j\varphi}
+$$
+- $\overline{V}$ è in [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|anticipo]] rispetto a $\overline{I}$
+- $\overline{I}$ è in [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|ritardo]] rispetto a $\overline{V}$
+
+
+
+## Serie RC
 
 ## Serie RLC
 
@@ -700,7 +729,6 @@ A questo punto, la serie si può sostituire con un bipolo equivalente la cui imp
 $$
 \dot Z_{s} = \dot Z_{R} + \dot Z_{L} + \dot Z_{C}
 $$
-
 Vale ancora la formula del [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Partitore di tensione\|partitore di tensione]] applicato usando l'impedenza al posto della resistenza.
 
 ## Parallelo RLC
@@ -732,6 +760,18 @@ $$
 ![14 - Reti in regime sinusoidale - ET 2024-06-21 18.40.54.excalidraw.png](/img/user/Excalidraw/14%20-%20Reti%20in%20regime%20sinusoidale%20-%20ET%202024-06-21%2018.40.54.excalidraw.png)
 
 
+Si scrive la [[Legge di Kirchhoff delle Tensioni (LKT)\|LKT]]:
+$$
+\begin{align}
+\overline{E}_{s} &= \overline{V}_{R} + \overline{V}_{L} + \overline{V}_{C} \\
+&= \left(  R + j\omega L - \frac{j}{\omega C} \right) \overline{I} = \\
+&= \left[  R + j \left(X_{L}-X_{C} \right) \right] \overline{I} \\
+&= (R+jX)\overline{I}
+\end{align}
+$$
+essendo $X=X_{L}-X_{C}$
+
+
 Si ha pertanto l'[[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Impedenza\|#Impedenza]] equivalente data dalla [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Serie RLC\|#Serie RLC]]:
 $$
 \begin{align}
@@ -745,6 +785,112 @@ Z(\omega) = \sqrt{R^{2} + \left( \omega L - \frac{1}{\omega C} \right)^{2}}
 \qquad;\qquad
 \varphi(\omega) = \arctan\left(  \frac{\omega L - \frac{1}{\omega C}}{R}  \right)
 $$
+La corrente sarà data da:
+$$
+\overline{I} = \frac{\overline{V}}{\dot{Z}} = \frac{V}{Z}e^{-j\varphi} = Ie^{-j\varphi}
+$$
+essendo quindi $\varphi$ lo [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|sfasamento]] tra tensione e corrente
+
+#### Condizione di risonanza
+
+La condizione di risonanza si ha quando $X=0$, ovvero per la pulsazione $\omega$ tale che le reattanze [[Induttore#Reattanza induttiva\|induttiva]] e [[Condensatore#Reattanza capacitiva\|capacitiva]] siano uguali in modulo:
+$$
+\omega_{0} \quad \text{ t.c. } \quad j\omega L = j \frac{1}{\omega C}
+$$
+In particolare si ottiene che
+$$
+\omega_{0} = \frac{1}{\sqrt{LC}}
+$$
+
+
+
+#### Comportamento Ohmico-Induttivo - Serie RLC
+
+$$
+\boldsymbol{\omega>\omega_{0} \quad - \quad X_{L}>X_{C} \quad - \quad \omega L> \frac{1}{\omega C} }
+$$
+In questo caso
+$$
+\varphi>0
+$$
+In questa condizione la [[Induttore#Reattanza induttiva\|reattanza induttiva]] prevale sulla [[Induttore#Reattanza induttiva\|reattanza induttiva]][[Condensatore#Reattanza capacitiva\|reattanza capacitiva ]] e la [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Serie RLC\|#Serie RLC]] si comporta come una [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Serie RL\|#Serie RL]].
+
+Il circuito assume comportamento **Ohmico-Induttivo**. Mi aspetto:
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Fasore\|Fasore]] di corrente in [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|ritardo]] rispetto a $\overline{V}$
+
+Se si prende in considerazione la [[Legge di Kirchhoff delle Tensioni (LKT)\|LKT]]:
+$$
+\overline{E}_{s} = \overline{V}_{R} + \overline{V}_{L} + \overline{V}_{C}
+$$
+e la si rappresenta su un diagramma fasoriale si ottiene infatti
+
+![14 - Serie RLC comportamento Ohmico-Induttivo - ET 2024-06-27 12.05.08.excalidraw.png](/img/user/Excalidraw/14%20-%20Serie%20RLC%20comportamento%20Ohmico-Induttivo%20-%20ET%202024-06-27%2012.05.08.excalidraw.png)
+
+
+Il diagramma è stato così ottenuto:
+1. Traccio fasore $\color{green}\overline{I}$
+2. Traccio fasore ${\color{red}\overline{V}_{R}} = R{\color{green}\overline{I}}$ in linea (in fase) con ${\color{green}\overline{I}}$
+3. Sommo a $\color{red}\overline{V}_R$ il fasore ${\color{blue}\overline{V}_{L}}= j \omega L{\color{green}\overline{I}}$ a 90° rispetto a ${\color{red}\overline{V}_{R}}$
+4. Sommo a ${\color{blue}\overline{V}_{L}}$ il fasore ${\color{pink}\overline{V}_{C}} = -j \dfrac{1}{\omega C}{\color{green}\overline{I}}$ allineato con ${\color{blue}\overline{V}_{L}}$ ma diretto nel verso opposto (ricordo che ${\color{pink}\overline{V}_{C}}<{\color{blue}\overline{V}_{L}}$)
+Si ottiene così il fasore di ${\color{orange}\overline{V}}$ come somma di tutte le cadute di tensione e si osserva, come previsto, che ${\color{green}\overline{I}}$ appare in ritardo rispetto a ${\color{orange}\overline{V}}$.
+
+
+
+#### Comportamento Ohmico-Capacitivo - Serie RLC
+
+$$
+\boldsymbol{\omega<\omega_{0} \quad - \quad X_{L}<X_{C} \quad - \quad \omega L<\frac{1}{\omega C} }
+$$
+In questo caso
+$$
+\varphi<0
+$$
+
+In questa condizione la [[Condensatore#Reattanza capacitiva\|reattanza capacitiva ]] prevale sulla [[Induttore#Reattanza induttiva\|reattanza induttiva]] e la [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Serie RLC\|#Serie RLC]] si comporta come una [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Serie RC\|#Serie RC]].
+
+Il circuito assume comportamento **Ohmico-Capacitivo**. Mi aspetto:
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Fasore\|Fasore]] di corrente in [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|anticipo]] rispetto a $\overline{V}$
+
+Se si prende in considerazione la [[Legge di Kirchhoff delle Tensioni (LKT)\|LKT]]:
+$$
+\overline{E}_{s} = \overline{V}_{R} + \overline{V}_{L} + \overline{V}_{C}
+$$
+e la si rappresenta su un diagramma fasoriale si ottiene infatti
+
+![14 - Serie RLC comportamento Ohmico-Capacitivo - ET 2024-06-27 12.22.03.excalidraw.png](/img/user/Excalidraw/14%20-%20Serie%20RLC%20comportamento%20Ohmico-Capacitivo%20-%20ET%202024-06-27%2012.22.03.excalidraw.png)
+
+
+Il diagramma è stato così ottenuto:
+1. Traccio fasore $\color{green}\overline{I}$
+2. Traccio fasore ${\color{red}\overline{V}_{R}} = R{\color{green}\overline{I}}$ in linea (in fase) con ${\color{green}\overline{I}}$
+3. Sommo a $\color{red}\overline{V}_R$ il fasore ${\color{pink}\overline{V}_{C}}= -j \dfrac{1}{\omega C}{\color{green}\overline{I}}$ a 90° rispetto a ${\color{red}\overline{V}_{R}}$
+4. Sommo a ${\color{pink}\overline{V}_{C}}$ il fasore ${\color{blue}\overline{V}_{C}} = -j \omega L{\color{green}\overline{I}}$ allineato con ${\color{pink}\overline{V}_{C}}$ ma diretto nel verso opposto (ricordo che ${\color{pink}\overline{V}_{C}}>{\color{blue}\overline{V}_{L}}$)
+Si ottiene così il fasore di ${\color{orange}\overline{V}}$ come somma di tutte le cadute di tensione e si osserva, come previsto, che ${\color{green}\overline{I}}$ appare in anticipo rispetto a ${\color{orange}\overline{V}}$.
+
+#### Comportamento in risonanza - Serie RLC
+
+$$
+\boldsymbol{\omega=\omega_{0} \quad - \quad X_{L}=X_{C} \quad - \quad \omega L=\frac{1}{\omega C} }
+$$
+In questo caso
+$$
+\varphi=0
+$$
+
+In questa condizione la [[Condensatore#Reattanza capacitiva\|reattanza capacitiva ]] eguaglia la [[Induttore#Reattanza induttiva\|reattanza induttiva]] e la [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Serie RLC\|#Serie RLC]] si comporta come una rete puramente resistiva.
+
+Il circuito assume comportamento puramente **Ohmico**. Mi aspetto:
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Fasore\|Fasore]] di corrente in [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|fase]] con $\overline{V}$
+
+Se si prende in considerazione la [[Legge di Kirchhoff delle Tensioni (LKT)\|LKT]]:
+$$
+\overline{E}_{s} = \overline{V}_{R} + \overline{V}_{L} + \overline{V}_{C}
+$$
+e la si rappresenta su un diagramma fasoriale si ottiene infatti
+
+![14 - Serie RLC Comportamento in risonanza - ET 2024-06-27 12.28.00.excalidraw.png](/img/user/Excalidraw/14%20-%20Serie%20RLC%20Comportamento%20in%20risonanza%20-%20ET%202024-06-27%2012.28.00.excalidraw.png)
+
+
 ❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗
 ❗❗❗❗❗❗❗❗❗❗❗❗

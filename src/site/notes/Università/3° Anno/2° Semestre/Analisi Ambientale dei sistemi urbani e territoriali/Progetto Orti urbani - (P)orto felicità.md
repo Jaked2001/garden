@@ -4,8 +4,8 @@
 
 
 # Lavoro consegnato
-Testo: [[Porto felicità_testo.pdf]]
-PPT: [[Porto felicità_v2.pdf]]
+Testo: [[Porto felicità_testo.pdf\|Porto felicità_testo.pdf]]
+PPT: [[Porto felicità_v2.pdf\|Porto felicità_v2.pdf]]
 
 [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Discorso Progetto Orti Urbani\|Discorso Progetto Orti Urbani]]
 

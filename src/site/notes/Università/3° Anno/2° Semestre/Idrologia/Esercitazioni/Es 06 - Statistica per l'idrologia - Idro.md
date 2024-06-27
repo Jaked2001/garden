@@ -7,7 +7,7 @@
 
 # Riferimenti teorici
 
-Vd. slide: [[Es 6 - Statistica per l'idrologia - Slide - Idro.pdf]]
+Vd. slide: [[Es 6 - Statistica per l'idrologia - Slide - Idro.pdf\|Es 6 - Statistica per l'idrologia - Slide - Idro.pdf]]
 
 **Variabile Casuale:** Variabile i cui valori sono incerti e imprevedibili
 
