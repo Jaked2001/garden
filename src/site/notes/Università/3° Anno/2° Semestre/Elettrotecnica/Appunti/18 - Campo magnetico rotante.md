@@ -52,3 +52,5 @@ Che si osservi essere un campo **rotante**, di ampiezza massima pari a $\frac{3}
 Il cui andamento sulla macchina è:
 
 ![18 - Campo magnetico rotante 2024-07-02 19.29.16.excalidraw.png](/img/user/Excalidraw/18%20-%20Campo%20magnetico%20rotante%202024-07-02%2019.29.16.excalidraw.png)
+
+
