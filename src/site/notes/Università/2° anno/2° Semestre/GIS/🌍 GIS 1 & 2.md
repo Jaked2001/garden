@@ -131,12 +131,5 @@ Il prof suggerisce alcuni dati di partenza. Altri li troveremo noi.
 
 ___
 
-🌐 Sito: 
-<iframe 
-width = 700
-height = 400
-src = "https://elearning.uniroma1.it/course/view.php?id=15686"
->
-</iframe>
-___
+
 [[Università/Esami\|Esami]]

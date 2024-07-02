@@ -7,6 +7,7 @@
 
 # Uso suolo
 ## Classi uso suolo
+
 | ID Classe | Nome                                     | Colore |
 | --------- | ---------------------------------------- |:------:|
 | 1         | Urbanizzato e superfici artificiali      |   🔴   |
@@ -19,26 +20,40 @@
 
 # Cambiamenti uso suolo 
 Sovrappongo due layer di tipo vettoriale: 
+
 ![Pasted image 20221125085613.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125085613.png)
+
 - Intersezione di aree: [[Operatori logici#^29fe89\|AND]]
+
 ![Pasted image 20221125085738.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125085738.png)
+
 - Unione di aree: [[Operatori logici#^664163\|OR]]
+
 ![Pasted image 20221125085852.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125085852.png)
+
 - Unione di aree senza intersezione: [[Operatori logici#^a9adf7\|OR]]
+
 ![Pasted image 20221125090814.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125090814.png)
+
 - Sottrazione: NOT
+
 ![Pasted image 20221125090835.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125090835.png)
+
 - Unione di aree della stessa categoria: Dissolving
+
 ![Pasted image 20221125090922.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125090922.png)
 
 Sovrapporre dati con risoluzioni/MMU o altre proprietà differenti può portarci a commettere errori.
 
 ### Problemi di classificazione
+
 Se ad esempio una categoria del sistema [[Corine Land Cover\|Corine Land Cover]] indica a bassa densità urbanizzata una densità tra il 10% e l'80% e in un'area la densità aumenta dall'11 al 79%, il cambiamento non verrebbe registrato. 
 Se dal 79% passo all'81% il cambiamento viene invece registrato. 
 Potrei non registrare cambiamenti per decenni, poi basta un edificio e cambio classe!
+
 ![Pasted image 20221125091443.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125091443.png)
 ## [[ℹ️ Simbologia IGM\|ℹ️ Simbologia IGM]]
+
 I simboli spesso ingrandiscono la realtà:
 Un edificio su carta IGM è più grande dell'edificio reale.
 È bene usare l'ortofoto in questi casi
@@ -64,6 +79,7 @@ Se c'è scritto *Cava di Marmo*, è improbabile che ci sia un seminativo in quel
 
 # Uso suolo
 ## Classi uso suolo
+
 | ID Classe | Nome                                     | Colore |
 | --------- | ---------------------------------------- |:------:|
 | 1         | Urbanizzato e superfici artificiali      |   🔴   |
@@ -76,26 +92,40 @@ Se c'è scritto *Cava di Marmo*, è improbabile che ci sia un seminativo in quel
 
 # Cambiamenti uso suolo 
 Sovrappongo due layer di tipo vettoriale: 
+
 ![Pasted image 20221125085613.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125085613.png)
+
 - Intersezione di aree: [[Operatori logici#^29fe89\|AND]]
+
 ![Pasted image 20221125085738.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125085738.png)
+
 - Unione di aree: [[Operatori logici#^664163\|OR]]
+
 ![Pasted image 20221125085852.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125085852.png)
+
 - Unione di aree senza intersezione: [[Operatori logici#^a9adf7\|OR]]
+
 ![Pasted image 20221125090814.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125090814.png)
+
 - Sottrazione: NOT
+
 ![Pasted image 20221125090835.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125090835.png)
+
 - Unione di aree della stessa categoria: Dissolving
+
 ![Pasted image 20221125090922.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125090922.png)
 
 Sovrapporre dati con risoluzioni/MMU o altre proprietà differenti può portarci a commettere errori.
 
 ### Problemi di classificazione
+
 Se ad esempio una categoria del sistema [[Corine Land Cover\|Corine Land Cover]] indica a bassa densità urbanizzata una densità tra il 10% e l'80% e in un'area la densità aumenta dall'11 al 79%, il cambiamento non verrebbe registrato. 
 Se dal 79% passo all'81% il cambiamento viene invece registrato. 
 Potrei non registrare cambiamenti per decenni, poi basta un edificio e cambio classe!
+
 ![Pasted image 20221125091443.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125091443.png)
 ## [[ℹ️ Simbologia IGM\|ℹ️ Simbologia IGM]]
+
 I simboli spesso ingrandiscono la realtà:
 Un edificio su carta IGM è più grande dell'edificio reale.
 È bene usare l'ortofoto in questi casi
@@ -121,6 +151,7 @@ Se c'è scritto *Cava di Marmo*, è improbabile che ci sia un seminativo in quel
 
 # Uso suolo
 ## Classi uso suolo
+
 | ID Classe | Nome                                     | Colore |
 | --------- | ---------------------------------------- |:------:|
 | 1         | Urbanizzato e superfici artificiali      |   🔴   |
@@ -133,26 +164,40 @@ Se c'è scritto *Cava di Marmo*, è improbabile che ci sia un seminativo in quel
 
 # Cambiamenti uso suolo 
 Sovrappongo due layer di tipo vettoriale: 
+
 ![Pasted image 20221125085613.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125085613.png)
+
 - Intersezione di aree: [[Operatori logici#^29fe89\|AND]]
+
 ![Pasted image 20221125085738.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125085738.png)
+
 - Unione di aree: [[Operatori logici#^664163\|OR]]
+
 ![Pasted image 20221125085852.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125085852.png)
+
 - Unione di aree senza intersezione: [[Operatori logici#^a9adf7\|OR]]
+
 ![Pasted image 20221125090814.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125090814.png)
+
 - Sottrazione: NOT
+
 ![Pasted image 20221125090835.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125090835.png)
+
 - Unione di aree della stessa categoria: Dissolving
+
 ![Pasted image 20221125090922.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125090922.png)
 
 Sovrapporre dati con risoluzioni/MMU o altre proprietà differenti può portarci a commettere errori.
 
 ### Problemi di classificazione
+
 Se ad esempio una categoria del sistema [[Corine Land Cover\|Corine Land Cover]] indica a bassa densità urbanizzata una densità tra il 10% e l'80% e in un'area la densità aumenta dall'11 al 79%, il cambiamento non verrebbe registrato. 
 Se dal 79% passo all'81% il cambiamento viene invece registrato. 
 Potrei non registrare cambiamenti per decenni, poi basta un edificio e cambio classe!
+
 ![Pasted image 20221125091443.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125091443.png)
 ## [[ℹ️ Simbologia IGM\|ℹ️ Simbologia IGM]]
+
 I simboli spesso ingrandiscono la realtà:
 Un edificio su carta IGM è più grande dell'edificio reale.
 È bene usare l'ortofoto in questi casi
@@ -178,6 +223,7 @@ Se c'è scritto *Cava di Marmo*, è improbabile che ci sia un seminativo in quel
 
 # Uso suolo
 ## Classi uso suolo
+
 | ID Classe | Nome                                     | Colore |
 | --------- | ---------------------------------------- |:------:|
 | 1         | Urbanizzato e superfici artificiali      |   🔴   |
@@ -190,26 +236,40 @@ Se c'è scritto *Cava di Marmo*, è improbabile che ci sia un seminativo in quel
 
 # Cambiamenti uso suolo 
 Sovrappongo due layer di tipo vettoriale: 
+
 ![Pasted image 20221125085613.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125085613.png)
+
 - Intersezione di aree: [[Operatori logici#^29fe89\|AND]]
+
 ![Pasted image 20221125085738.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125085738.png)
+
 - Unione di aree: [[Operatori logici#^664163\|OR]]
+
 ![Pasted image 20221125085852.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125085852.png)
+
 - Unione di aree senza intersezione: [[Operatori logici#^a9adf7\|OR]]
+
 ![Pasted image 20221125090814.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125090814.png)
+
 - Sottrazione: NOT
+
 ![Pasted image 20221125090835.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125090835.png)
+
 - Unione di aree della stessa categoria: Dissolving
+
 ![Pasted image 20221125090922.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125090922.png)
 
 Sovrapporre dati con risoluzioni/MMU o altre proprietà differenti può portarci a commettere errori.
 
 ### Problemi di classificazione
+
 Se ad esempio una categoria del sistema [[Corine Land Cover\|Corine Land Cover]] indica a bassa densità urbanizzata una densità tra il 10% e l'80% e in un'area la densità aumenta dall'11 al 79%, il cambiamento non verrebbe registrato. 
 Se dal 79% passo all'81% il cambiamento viene invece registrato. 
 Potrei non registrare cambiamenti per decenni, poi basta un edificio e cambio classe!
+
 ![Pasted image 20221125091443.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125091443.png)
 ## [[ℹ️ Simbologia IGM\|ℹ️ Simbologia IGM]]
+
 I simboli spesso ingrandiscono la realtà:
 Un edificio su carta IGM è più grande dell'edificio reale.
 È bene usare l'ortofoto in questi casi
@@ -235,6 +295,7 @@ Se c'è scritto *Cava di Marmo*, è improbabile che ci sia un seminativo in quel
 
 # Uso suolo
 ## Classi uso suolo
+
 | ID Classe | Nome                                     | Colore |
 | --------- | ---------------------------------------- |:------:|
 | 1         | Urbanizzato e superfici artificiali      |   🔴   |
@@ -247,26 +308,40 @@ Se c'è scritto *Cava di Marmo*, è improbabile che ci sia un seminativo in quel
 
 # Cambiamenti uso suolo 
 Sovrappongo due layer di tipo vettoriale: 
+
 ![Pasted image 20221125085613.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125085613.png)
+
 - Intersezione di aree: [[Operatori logici#^29fe89\|AND]]
+
 ![Pasted image 20221125085738.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125085738.png)
+
 - Unione di aree: [[Operatori logici#^664163\|OR]]
+
 ![Pasted image 20221125085852.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125085852.png)
+
 - Unione di aree senza intersezione: [[Operatori logici#^a9adf7\|OR]]
+
 ![Pasted image 20221125090814.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125090814.png)
+
 - Sottrazione: NOT
+
 ![Pasted image 20221125090835.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125090835.png)
+
 - Unione di aree della stessa categoria: Dissolving
+
 ![Pasted image 20221125090922.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125090922.png)
 
 Sovrapporre dati con risoluzioni/MMU o altre proprietà differenti può portarci a commettere errori.
 
 ### Problemi di classificazione
+
 Se ad esempio una categoria del sistema [[Corine Land Cover\|Corine Land Cover]] indica a bassa densità urbanizzata una densità tra il 10% e l'80% e in un'area la densità aumenta dall'11 al 79%, il cambiamento non verrebbe registrato. 
 Se dal 79% passo all'81% il cambiamento viene invece registrato. 
 Potrei non registrare cambiamenti per decenni, poi basta un edificio e cambio classe!
+
 ![Pasted image 20221125091443.png](/img/user/Universit%C3%A0/2%C2%B0%20anno/2%C2%B0%20Semestre/GIS/GIS%201/allegati%202/Pasted%20image%2020221125091443.png)
 ## [[ℹ️ Simbologia IGM\|ℹ️ Simbologia IGM]]
+
 I simboli spesso ingrandiscono la realtà:
 Un edificio su carta IGM è più grande dell'edificio reale.
 È bene usare l'ortofoto in questi casi
@@ -288,6 +363,7 @@ Disattivarlo se devo disegnare un poligono vicino a un altro ma non voglio che s
 ```
 
 ### Caratteristiche geometriche
+
 Scala: 1:10000
 MMU: 0,5 ha
 Spessore minimo: 25m
@@ -313,6 +389,7 @@ Disattivarlo se devo disegnare un poligono vicino a un altro ma non voglio che s
 ```
 
 ### Caratteristiche geometriche
+
 Scala: 1:10000
 MMU: 0,5 ha
 Spessore minimo: 25m
@@ -338,6 +415,7 @@ Disattivarlo se devo disegnare un poligono vicino a un altro ma non voglio che s
 ```
 
 ### Caratteristiche geometriche
+
 Scala: 1:10000
 MMU: 0,5 ha
 Spessore minimo: 25m
@@ -363,6 +441,7 @@ Disattivarlo se devo disegnare un poligono vicino a un altro ma non voglio che s
 ```
 
 ### Caratteristiche geometriche
+
 Scala: 1:10000
 MMU: 0,5 ha
 Spessore minimo: 25m
@@ -388,6 +467,7 @@ Disattivarlo se devo disegnare un poligono vicino a un altro ma non voglio che s
 ```
 
 ### Caratteristiche geometriche
+
 Scala: 1:10000
 MMU: 0,5 ha
 Spessore minimo: 25m
