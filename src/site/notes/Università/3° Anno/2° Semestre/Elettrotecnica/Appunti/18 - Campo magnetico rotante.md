@@ -8,3 +8,8 @@
 - Stesso [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Valore efficace\|valore efficace]]
 - [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|Sfasamento]] di 120°
 - Somma dei fasori nulla
+
+![18 - Macchina elettrica - trifase 2024-07-02 18.45.36.excalidraw.png](/img/user/Excalidraw/18%20-%20Macchina%20elettrica%20-%20trifase%202024-07-02%2018.45.36.excalidraw.png)
+
+
+Le 3 correnti saranno pertant
