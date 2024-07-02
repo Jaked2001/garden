@@ -482,5 +482,113 @@ $$
 ❗❗❗ COMPLETARE ❗❗❗
 ❗❗❗❗❗❗❗❗❗❗❗❗
 
-## Rifasamento del carico
+## Rifasamento trifase
+
+Dato una [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET\|Rete trifase]] [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET#Sistema trifase simmetrico\|simmetrica]] costituita da un carico equilibrato e una terna di generazione simmetrica, connessa a stella, si vuole rifasare il carico.
+
+Come visto in [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Rifasamento monofase\|rifasamento monofase]], l'operazione di rifasamento è necessaria a ridurre la [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza reattiva\|potenza reattiva]] associata alla terna di generazione senza variare la [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza attiva - reale\|potenza attiva]] assorbita dal carico. Questo viene fatto diminuendo lo [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|sfasamento]] $\varphi$ tra tensione e corrente.
+
+![15 - Rifasamento trifase - ET 2024-06-28 12.03.42.excalidraw.png](/img/user/Excalidraw/15%20-%20Rifasamento%20trifase%20-%20ET%202024-06-28%2012.03.42.excalidraw.png)
+
+
+Si ricorda che l'operazione di rifasamento si effettua specialmente in presenza di un carico Ohmico-Induttivo. Pertanto, le potenze attive e reattive ad esso associato risulteranno positive. L'operazione di rifasamento si effettuerà quindi con un banco di condensatori connessi a stella o a triangolo.
+
+![15 - Rifasamento trifase - rete rifasata - ET 2024-06-28 12.09.48.excalidraw.png](/img/user/Excalidraw/15%20-%20Rifasamento%20trifase%20-%20rete%20rifasata%20-%20ET%202024-06-28%2012.09.48.excalidraw.png)
+
+
+Il carico non deve risentire degli effetti del rifasamento!
+
+**PRIMA del rifasamento**
+La potenza complessa associata al carico è:
+$$
+\dot{P} = 3P_{1}
+$$
+e quindi si avranno potenze attive e reattive:
+$$
+\begin{align}
+P &= \mathcal{Re}(\dot{P}) \\
+Q &= \mathcal{Im}(\dot{P})
+\end{align}
+$$
+Condizione del rifasamento è che le potenze sul carico non varino. Quindi, siano $P'$ e $Q'$ le potenze attive e reattive dopo l'operazione di rifasamento:
+$$
+\begin{align}
+P &= P' = P_{s} \\
+Q &= Q' = Q_{s}
+\end{align}
+$$
+inoltre, prima del rifasamento, le potenze sul carico coincidono con quelle sul generatore.
+
+**DOPO il rifasamento**
+Dopo il rifasamento, la [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza reattiva\|potenza reattiva]] sui generatori sarà la somma di 2 contributi:
+$$
+Q_{s}' = Q + Q_{c}
+$$
+dove:
+- $Q_{s}':$ Potenza reattiva sui generatori DOPO il rifasamento
+- $Q:$ Potenza reattiva sul carico PRIMA/DOPO il rifasamento - rimane invariata
+- $Q_{c}:$ Potenza reattiva associata al banco di condensatori
+Si ricorda essere $Q_{c}<0$
+
+Dalle definizioni di [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza attiva - reale\|potenza attiva]] e [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza reattiva\|reattiva]] si ricavano le relazioni:
+$$
+\begin{cases} 
+P &= 3 EI\cos(\varphi ) \\
+Q &= 3 EI\sin(\varphi )
+\end{cases}
+$$
+pertanto, il rapporto tra le due è dato da:
+$$
+\frac{Q}{P} = \tan(\varphi) 
+$$
+da cui si può scrivere
+$$
+Q = P\tan(\varphi )
+$$
+Dopo il rifasamento quindi:
+$$
+\begin{align}
+Q_{s}' &= Q + Q_{c} \\
+P_{s}'\tan(\varphi' ) &= P\tan(\varphi ) + Q_{c}
+\end{align}
+$$
+Dove si ricorda essere:
+- $P'_{s} = P_{s} = P$
+
+Pertanto si ricava la potenza reattiva associata al banco di condensatori per ottenere il rifasamento a $\varphi'$:
+$$
+Q_{c} = P(\tan(\varphi') - \tan(\varphi))
+$$
+Immaginando di connettere i condensatori a stella si può affermare che:
+$$
+Q_{c} = 3 Q_{cY}
+$$
+Si ricorda essere, per un [[Condensatore\|Condensatore]]
+$$
+Q_{cY} = X_{c}I^{2} = \frac{V^{2}}{X_{c}} = -\omega C_{Y} E^{2}
+$$
+da cui la potenza reattiva totale del banco:
+$$
+Q_{c} = 3 Q_{cY} = -3\omega C_{Y}E^{2} = P(\tan(\varphi) - \tan(\varphi'))
+$$
+Questa formula può essere invertita per ricavare la capacità del singolo condensatore del banco:
+
+```ad-Teo
+title:
+
+$
+C_{Y} = P \frac{\tan(\varphi) - \tan(\varphi')}{3\omega E^{2}}
+$
+
+```
+
+Qualora si volesse collegare il banco di condensatori a triangolo, sarà sufficiente la [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Trasformazione stella-triangolo\|trasformazione stella triangolo]] che porta quindi a una capacità a triangolo:
+$$
+C_{\triangle} = \frac{1}{3} C_{Y} 
+$$
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗ 
+❗❗❗❗❗❗❗❗❗❗❗❗ motivi per preferire stella o triangolo
+
+
 

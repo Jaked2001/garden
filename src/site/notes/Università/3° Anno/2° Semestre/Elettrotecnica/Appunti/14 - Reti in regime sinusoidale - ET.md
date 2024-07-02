@@ -214,7 +214,7 @@ $$
 \dot{P} = Ae^{j\varphi} = A\cos{\varphi} + jA\sin\varphi= P+jQ
 $$
 Pertanto, si può dire che
-- **Parte reale** della potenza complessa = [[#Potenza attiva - reale]]
+- **Parte reale** della potenza complessa = [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza attiva - reale\|#Potenza attiva - reale]]
 - **Parte immaginaria** della potenza complessa = [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza reattiva\|#Potenza reattiva]]
 $$
 \dot{P} = \mathcal{Re}_{\dot P} + j \mathcal{Im}_{\dot P}
@@ -321,7 +321,7 @@ $
 | $$\frac{V_{M}}{I_{M}} = \frac{V}{I}$$                                          | $$R$$                                     | $$X_L$$                                   | $$X_C$$                                      |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|Sfasamento]] - $\varphi$ | $$0$$                                     | $$\frac{\pi}{2}$$                         | $$-\frac{\pi}{2}$$                           |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza attiva - reale\|Potenza attiva]] - $P$                              | $$RI^2$$                                  | $$0$$                                     | $$0$$                                        |
-| [[#Potenza reattiva]] - $Q$                                                    | $$0$$                                     | $$X_LI^2$$                                | $$X_CI^2$$                                   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza reattiva\|#Potenza reattiva]] - $Q$                                                    | $$0$$                                     | $$X_LI^2$$                                | $$X_CI^2$$                                   |
 | [[#Potenza apparente]] - $S$                                                   | $$RI^2$$                                  | $$\|X_L\|I^2$$                            | $$\|X_C\|I^2$$                               |
 | $$\dot{Z} =\frac{\overline{V}}{\overline{I}}$$                                 | $$R$$                                     | $$jX_L= j\omega L$$                       | $$jX_{C} = - \frac{j}{\omega C}$$            |
 
@@ -435,7 +435,7 @@ $
 
 ```
 
-quindi la tensione, in un induttore a regime sinusoidale, si trova in *[[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|quadratura in anticipo]]* sulla corrente
+Quindi la tensione, in un induttore a regime sinusoidale, si trova in *[[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|quadratura in anticipo]]* sulla corrente
 
 ![Induttore 2024-06-20 14.18.01.excalidraw.png](/img/user/Excalidraw/Induttore%202024-06-20%2014.18.01.excalidraw.png)
 
@@ -714,6 +714,8 @@ $$
 
 ## Serie RLC
 
+#UNI/ET/Domanda 
+
 ![14 - Serie RLC.excalidraw.png](/img/user/Excalidraw/14%20-%20Serie%20RLC.excalidraw.png)
 
 
@@ -731,24 +733,6 @@ $$
 $$
 Vale ancora la formula del [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Partitore di tensione\|partitore di tensione]] applicato usando l'impedenza al posto della resistenza.
 
-## Parallelo RLC
-
-![14 - Reti in regime sinusoidale - ET 2024-06-21 18.28.02.excalidraw.png](/img/user/Excalidraw/14%20-%20Reti%20in%20regime%20sinusoidale%20-%20ET%202024-06-21%2018.28.02.excalidraw.png)
-
-
-Di ogni bipolo si scrive l'[[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Ammettenza\|#Ammettenza]] corrispondente:
-$$
-\begin{align}
-\dot Y_{R} &= \frac{1}{R} \\
-\dot Y_{L} &= -j\frac{1}{\omega L} = - j \frac{1}{X_{L}} \\
-\dot Y_{C} &= j{\omega C} = - j \frac{1}{X_{L}} \\
-\end{align}
-$$
-A questo punto, il parallelo si può sostituire con un bipolo equivalente la cui ammettenza valga:
-$$
-\dot Y_{p} = \dot Y_{R} + \dot Y_{L} + \dot Y_{C}
-$$
-## Risonanza elettrica
 
 ### Risonanza in serie
 
@@ -818,6 +802,12 @@ In questa condizione la [[Induttore#Reattanza induttiva\|reattanza induttiva]] p
 Il circuito assume comportamento **Ohmico-Induttivo**. Mi aspetto:
 - [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Fasore\|Fasore]] di corrente in [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|ritardo]] rispetto a $\overline{V}$
 
+
+In questa condizione,
+$$
+\overline{V}_{L} > \overline{V}_{C}
+$$
+
 Se si prende in considerazione la [[Legge di Kirchhoff delle Tensioni (LKT)\|LKT]]:
 $$
 \overline{E}_{s} = \overline{V}_{R} + \overline{V}_{L} + \overline{V}_{C}
@@ -830,9 +820,10 @@ e la si rappresenta su un diagramma fasoriale si ottiene infatti
 Il diagramma è stato così ottenuto:
 1. Traccio fasore $\color{green}\overline{I}$
 2. Traccio fasore ${\color{red}\overline{V}_{R}} = R{\color{green}\overline{I}}$ in linea (in fase) con ${\color{green}\overline{I}}$
-3. Sommo a $\color{red}\overline{V}_R$ il fasore ${\color{blue}\overline{V}_{L}}= j \omega L{\color{green}\overline{I}}$ a 90° rispetto a ${\color{red}\overline{V}_{R}}$
+3. Sommo a $\color{red}\overline{V}_R$ il fasore ${\color{blue}\overline{V}_{L}}= j \omega L{\color{green}\overline{I}}$ a 90° rispetto a ${\color{red}\overline{V}_{R}}$ (si ricordi che la tensione, nell'[[Induttore\|induttore]] si trova in [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|quadratura in anticipo]] rispetto alla corrente)
 4. Sommo a ${\color{blue}\overline{V}_{L}}$ il fasore ${\color{pink}\overline{V}_{C}} = -j \dfrac{1}{\omega C}{\color{green}\overline{I}}$ allineato con ${\color{blue}\overline{V}_{L}}$ ma diretto nel verso opposto (ricordo che ${\color{pink}\overline{V}_{C}}<{\color{blue}\overline{V}_{L}}$)
 Si ottiene così il fasore di ${\color{orange}\overline{V}}$ come somma di tutte le cadute di tensione e si osserva, come previsto, che ${\color{green}\overline{I}}$ appare in ritardo rispetto a ${\color{orange}\overline{V}}$.
+
 
 
 
@@ -850,6 +841,12 @@ In questa condizione la [[Condensatore#Reattanza capacitiva\|reattanza capacitiv
 
 Il circuito assume comportamento **Ohmico-Capacitivo**. Mi aspetto:
 - [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Fasore\|Fasore]] di corrente in [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|anticipo]] rispetto a $\overline{V}$
+
+
+In questa condizione,
+$$
+\overline{V}_{L} < \overline{V}_{C}
+$$
 
 Se si prende in considerazione la [[Legge di Kirchhoff delle Tensioni (LKT)\|LKT]]:
 $$
@@ -882,18 +879,93 @@ In questa condizione la [[Condensatore#Reattanza capacitiva\|reattanza capacitiv
 Il circuito assume comportamento puramente **Ohmico**. Mi aspetto:
 - [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Fasore\|Fasore]] di corrente in [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|fase]] con $\overline{V}$
 
+In questa condizione,
+$$
+\overline{V}_{L} = \overline{V}_{C}
+$$
+
 Se si prende in considerazione la [[Legge di Kirchhoff delle Tensioni (LKT)\|LKT]]:
 $$
 \overline{E}_{s} = \overline{V}_{R} + \overline{V}_{L} + \overline{V}_{C}
 $$
 e la si rappresenta su un diagramma fasoriale si ottiene infatti
 
+Scrivo $\overline{V}_L$:
+$$
+\overline{V}_{L} = j \sqrt{\frac{L}{C}} \overline{I} 
+$$
+Scrivo $\overline{V}_{C}$
+$$
+\begin{align}
+\overline{V}_{C} &= -j \frac{1}{\omega_{0} C} = \\
+&= -j \frac{\sqrt{LC}}{1} \frac{1}{C} = -j \sqrt{\frac{L}{C}} \overline{I}
+\end{align}
+$$
+
 ![14 - Serie RLC Comportamento in risonanza - ET 2024-06-27 12.28.00.excalidraw.png](/img/user/Excalidraw/14%20-%20Serie%20RLC%20Comportamento%20in%20risonanza%20-%20ET%202024-06-27%2012.28.00.excalidraw.png)
 
 
-❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗
+Si noti quindi come, dall'esterno, gli effetti dei bipoli della [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Serie RLC\|#Serie RLC]] in [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Condizione di risonanza\|#Condizione di risonanza]], siano equivalenti a quelli di un circuito costituito esclusivamente da un [[Generatore ideale di tensione sinusoidale\|Generatore ideale di tensione - AC]] e un [[Resistore\|resistore]].
+
+Si può quindi ricavare $\overline{I}$ come
+$$
+\overline{I} = \frac{\overline{E}_{s}}{R}
+$$
+che sostituiamo nelle espressioni delle cadute di tensione di induttore e condensatore:
+$$
+\begin{align}
+\overline{V}_{L} &= j \sqrt{\frac{L}{C}} \frac{\overline{E_{s}}}{R} \\
+\overline{V}_{C} &= -j \sqrt{\frac{L}{C}} \frac{\overline{E_{s}}}{R}
+\end{align}
+$$
+si definisce il [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Fattore di merito\|#Fattore di merito]]:
+
+##### Fattore di merito
+
+```ad-Definizione
+title: Fattore di merito o fattore di qualità ($Q_{0}$)
+
+Si definisce **fattore di merito** la quantità
+$
+Q_{0} = \sqrt{\frac{L}{C}} \frac{1}{R}
+$
+e rappresenta il rapporto tra la caduta di tensione di un [[Induttore\|Induttore]] o un [[Condensatore\|Condensatore]] e la tensione impressa in un circuito [[#Serie RLC]] in [[#Comportamento in risonanza - Serie RLC|risonanza]].
+$
+Q_{0} = \frac{V_{L}}{E_{s}} = \frac{V_{C}}{E_{S}}
+$
+
+
+```
+
+Il fattore di merito può essere:
+- $Q_{0}<1:$ condizione normale, in cui le cadute di tensione sono minori della tensione impressa
+- $Q_{0}>1:$ Condizione in cui la tensione sull'induttore o sul condensatore sono in valore efficace maggiore dalla tensione erogata dal generatore
+- $Q_{0}\to \infty$ se ho un [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET#Cortocircuito\|cortocircuito]] sul resistore
+	- Pericoloso perché tensione va a infinito e rischio di 
+	- Utile per leggere tensioni molto molto piccole
+
+
+
+## Parallelo RLC
+
+#UNI/ET/Domanda 
+
+![14 - Reti in regime sinusoidale - ET 2024-06-21 18.28.02.excalidraw.png](/img/user/Excalidraw/14%20-%20Reti%20in%20regime%20sinusoidale%20-%20ET%202024-06-21%2018.28.02.excalidraw.png)
+
+
+Di ogni bipolo si scrive l'[[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Ammettenza\|#Ammettenza]] corrispondente:
+$$
+\begin{align}
+\dot Y_{R} &= \frac{1}{R} \\
+\dot Y_{L} &= -j\frac{1}{\omega L} = - j \frac{1}{X_{L}} \\
+\dot Y_{C} &= j{\omega C} = - j \frac{1}{X_{L}} \\
+\end{align}
+$$
+A questo punto, il parallelo si può sostituire con un bipolo equivalente la cui ammettenza valga:
+$$
+\dot Y_{p} = \dot Y_{R} + \dot Y_{L} + \dot Y_{C}
+$$
+
 
 ### Risonanza in parallelo - antirisonanza
 
@@ -903,7 +975,132 @@ Antirisonanza
 ❗❗❗ COMPLETARE ❗❗❗
 ❗❗❗❗❗❗❗❗❗❗❗❗
 
-### Rifasamento
+## Rifasamento monofase
+
+#UNI/ET/Domanda 
+
+È dato un circuito [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Serie RL\|#Serie RL]]:
+
+![14 - Rifasamento - rete RL - ET 2024-06-27 17.48.52.excalidraw.png](/img/user/Excalidraw/14%20-%20Rifasamento%20-%20rete%20RL%20-%20ET%202024-06-27%2017.48.52.excalidraw.png)
+
+
+Si può ridisegnare il circuito tenendo conto dell'[[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Impedenza\|#Impedenza]] equivalente della sere.
+$$
+\dot{Z} = R + j\omega L
+$$
+A questo tipo di carico sono associati:
+- [[#Potenza attiva - reale]] positiva
+- [[#Potenza reattiva]] positiva
+
+Infatti, per il [[Resistore\|Resistore]]:
+$$
+P = VI \cos\varphi|_{\varphi_{R}=0}\ge 0  \qquad Q = 0
+$$
+Mentre per l'[[Induttore]]
+$$
+P = 0 \qquad Q = VI\sin\varphi|_{\varphi_{L}=90°} = VI = j\omega L I^{2} \ge 0
+$$
+
+Il carico pertanto sta assorbendo sia potenza attiva che potenza reattiva.
+
+Si rappresentano sul diagramma fasoriale la tensione $\overline{V} = \overline{E}_{s}$ e la corrente $\overline{I}$ del circuito:
+
+![14 - Rifasamento - Serie RL - Diagramma fasoriale - ET 2024-06-27 18.01.37.excalidraw.png](/img/user/Excalidraw/14%20-%20Rifasamento%20-%20Serie%20RL%20-%20Diagramma%20fasoriale%20-%20ET%202024-06-27%2018.01.37.excalidraw.png)
+
+
+La corrente è in [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|ritardo]] rispetto alla tensione di un angolo $\varphi$. Si osservi come la corrente possa essere scomposta in 2 componenti una in fase e una in quadratura con la tensione:
+- $\overline{I}_{f}:$ Componente della corrente in **fase**
+- $\overline{I}_{q}:$ Componente della corrente in **quadratura**
+
+La potenza $P$ associata alle perdite di tipo Ohmico (dissipazioni), si può esprimere come [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET#Potenza dissipata per Effetto Joule\|potenza dissipata per effetto Joule]]:
+$$
+P = RI^{2}
+$$
+dove questa $I$ corrisponde alla *componente corrente in fase* con la tensione:
+$$
+P = RI^{2}_{f}
+$$
+Su un impianto elettrico, la corrente che viene effettivamente usata (in termini di [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Valore efficace\|valore efficace]]) è effettivamente $I$. L'erogatore della corrente (tipo [[eni\|eni]]) però, dal contatore, è capace di registrare solamente la corrente in fase che viene "consumata". Pertanto esso ha interesse a far si che la quota parte più grande possibile di $I$ sia in $I_{f}$, ovvero che $\cos\varphi\sim 1$: questo corrisponde a massimizzare il [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Fattore di potenza\|#Fattore di potenza]].
+
+Di solito, per utenze civili, si cerca portare il [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Fattore di potenza\|#Fattore di potenza]] a:
+$$
+\cos\varphi\ge 0.95
+$$
+L'operazione che permette di ottenere ciò è detta rifasamento.
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Rifasamento con condensatore\|#Rifasamento con condensatore]]
+
+È chiaramente fondamentale che il comportamento della rete, per l'utenza, rimanga totalmente invariato dal punto di vista di correnti e tensioni.
+
+### Rifasamento con condensatore
+
+Generalmente il [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Rifasamento monofase\|#Rifasamento monofase]] si effettua con il [[Condensatore]]. Infatti, se vado ad aggiungere al circuito una potenza reattiva addizionale, che porti a una diminuzione della componente di corrente in quadratura.
+
+Vediamo cosa succede se al circuito [[14 - Rifasamento - rete RL - ET 2024-06-27 17.48.52.excalidraw.png]] aggiungo un condensatore in parallelo.
+
+![14 - Rifasamento con condensatore - ET 2024-06-27 18.14.42.excalidraw.png](/img/user/Excalidraw/14%20-%20Rifasamento%20con%20condensatore%20-%20ET%202024-06-27%2018.14.42.excalidraw.png)
+
+
+A questo punto, si ha, per la [[Legge di Kirchhoff delle Correnti (LKT)\|LKC]]:
+$$
+\overline{I}' = \overline{I}_{C}+\overline{I}
+$$
+Vediamo quindi il diagramma fasoriale (si pone sempre la tensione adagiata sull'asse reale):
+
+![14 - Rifasamento con condensatore - Diagramma fasoriale - ET 2024-06-27 18.19.51.excalidraw.png](/img/user/Excalidraw/14%20-%20Rifasamento%20con%20condensatore%20-%20Diagramma%20fasoriale%20-%20ET%202024-06-27%2018.19.51.excalidraw.png)
+
+
+Quando si aggiunge la corrente $\overline{I}_{C}$, essendo questa in [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|quadratura in anticipo]] rispetto alla tensione, si andrà a sottrarre alla componente in quadratura della corrente. Si ottiene così un nuovo fasore di corrente $\overline{I}'$ molto più simile alla componente in fase della corrente.
+
+Rimane ora da **dimensionare** il condensatore in modo da ottenere il giusto rifasamento.
+
+Si ricorda essere
+$$
+\overline{V} = -j \frac{1}{\omega C} \overline{I} \qquad\Longrightarrow\qquad I_{C} = \omega C V 
+$$
+In termini di [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Valore efficace\|valori efficaci]] si impone:
+$$
+\begin{align}
+I_{q} &= I_{q}' + I_{C} = \\
+\underbrace{VI\sin(\varphi)}_{Q} &= \underbrace{VI'\sin(\varphi')}_{Q'} + \omega CV^{2} 
+\end{align}
+$$
+dove:
+- $Q =VI\sin(\varphi):$ Potenza reattiva prima del rifasamento
+- $Q =VI'\sin(\varphi'):$ Potenza reattiva dopo il rifasamento
+L'espressione sopra diventa quindi:
+$$
+Q = Q' + \omega C V^{2}
+$$
+dove $\varphi'$ si può ricavare dal [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Fattore di potenza\|#Fattore di potenza]] obiettivo del rifasamento:
+$$
+\cos(\varphi')= 0.95
+$$
+```ad-Teo
+title: Capacità per rifasamento monofase
+
+Pertanto, la [[Condensatore#Capacità|capacità]] del condensatore necessario al rifasamento sarà:
+$
+C = \frac{Q-Q'}{\omega V^{2}} \qquad\rm [F]
+$
+
+```
+
+Solitamente si considerano le potenze attive. Conoscendo il rapporto tra $P$ e $Q$ si può comunque calcolare la capacità:
+$$
+\frac{P}{Q} = \frac{VI\cos(\varphi)}{VI\sin(\varphi)} = \frac{1}{\tan(\varphi)}
+$$
+inoltre
+$$
+I_{f} = I\cos(\varphi) = I_{f}' = I'\cos(\varphi')
+$$
+quindi, ricordando che la potenza attiva si è conservata: $P=P'$
+$$
+C = \frac{Q-Q'}{\omega V^{2}} = \frac{P\tan(\varphi)-P'\tan(\varphi')}{\omega V^{2}} = P\frac{\tan(\varphi)-\tan(\varphi')}{\omega V^{2}} \qquad\rm [F]
+$$
+
+
+### Rifasamento con resistore
+
 
 ❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗

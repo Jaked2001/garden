@@ -111,7 +111,7 @@ Introduzione corso
 ### 📝 Teoria
 - Generatori??
 	- Teorema del massimo trasferimento di potenza
-- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/?? - Regime periodico sinusoidale - ET\|?? - Regime periodico sinusoidale - ET]]
+- [[?? - Regime periodico sinusoidale - ET\|?? - Regime periodico sinusoidale - ET]]
 	- Definizione di funzione periodica
 	- Grandezze alternate
 	- Parametri necessari a identificare una funzione periodica
@@ -132,7 +132,7 @@ Introduzione corso
 
 ### 📝 Teoria
 
-- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/?? - Regime periodico sinusoidale - ET\|?? - Regime periodico sinusoidale - ET]]
+- [[?? - Regime periodico sinusoidale - ET\|?? - Regime periodico sinusoidale - ET]]
 	- Soluzione ha la stessa forma dello stimolo
 	- Ipotesi che tutte le grandezze abbiano la stessa pulsazione - isofrequenziali
 	- Generatore di f.e.m. in regime periodico
@@ -171,7 +171,7 @@ TUTORAGGIO
 
 ### 📝 Teoria
 
-- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/?? - Regime periodico sinusoidale - ET\|?? - Regime periodico sinusoidale - ET]]
+- [[?? - Regime periodico sinusoidale - ET\|?? - Regime periodico sinusoidale - ET]]
 	- Resistore in fasori
 		- Impedenza
 	- Induttore
@@ -193,7 +193,7 @@ TUTORAGGIO
 
 ### 📝 Teoria
 
-- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/?? - Regime periodico sinusoidale - ET\|?? - Regime periodico sinusoidale - ET]]
+- [[?? - Regime periodico sinusoidale - ET\|?? - Regime periodico sinusoidale - ET]]
 	- Bipoli RC in serie
 	- Circuiti risonanti
 	- Circuiti antirisonanti o risonanti in parallelo
@@ -211,7 +211,7 @@ TUTORAGGIO
 
 ### 📝 Teoria
 
-- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/?? - Regime periodico sinusoidale - ET\|?? - Regime periodico sinusoidale - ET]]
+- [[?? - Regime periodico sinusoidale - ET\|?? - Regime periodico sinusoidale - ET]]
 	- Potenze in AC
 		- Potenza Istantanea
 			- Fattore di potenza

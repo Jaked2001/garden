@@ -115,7 +115,9 @@ ___
 
 | File                                                                                                                                                                            | Tipo  | Stato         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------------- |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2023-03-15 - ET\|Ex 2023-03-15 - ET]]                                                                        | Esame | 🔴 Fare       |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]]                                                 | T     | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/18 - Campo magnetico rotante\|18 - Campo magnetico rotante]]                                                         | T     | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET\|14 - Reti in regime sinusoidale - ET]]                                         | T     | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET\|15 - Reti trifasi - ET]]                                                                     | T     | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET\|08 - Reti in regime stazionario - ET]]                                         | T     | 🪶🟡Scrivere  |
@@ -127,7 +129,9 @@ ___
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/09 - Fenomeni dielettrici e condensatore - ET\|09 - Fenomeni dielettrici e condensatore - ET]]                       | T     | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/10 - Fenomeni magnetici ed induttori - ET\|10 - Fenomeni magnetici ed induttori - ET]]                               | T     | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET\|13 - Funzioni sinusoidali e fasori - ET]]                                   | T     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/17 - Conversione elettromeccanica dell'energia - ET\|17 - Conversione elettromeccanica dell'energia - ET]]           | T     | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2023-01-11 - ET\|Ex 2023-01-11 - ET]]                                                                        | Esame | 🟡 Finire     |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/16 - Macchine elettriche - ET\|16 - Macchine elettriche - ET]]                                                       | T     | 🟡 Finire     |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Esercitazioni/Es 5 - Esercizi ET\|Es 5 - Esercizi ET]]                                                                       | Es    | 🟢 Fatto      |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2020-09-09 - ET\|Ex 2020-09-09 - ET]]                                                                        | Esame | 🟢 Fatto      |
 
@@ -159,6 +163,9 @@ La numerazione dei capitoli fa riferimento alla numerazione del libro di testo "
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET\|13 - Funzioni sinusoidali e fasori - ET]]                                   | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET\|14 - Reti in regime sinusoidale - ET]]                                         | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET\|15 - Reti trifasi - ET]]                                                                     | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/16 - Macchine elettriche - ET\|16 - Macchine elettriche - ET]]                                                       | 🟡 Finire     |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/17 - Conversione elettromeccanica dell'energia - ET\|17 - Conversione elettromeccanica dell'energia - ET]]           | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/18 - Campo magnetico rotante\|18 - Campo magnetico rotante]]                                                         | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
@@ -185,6 +192,7 @@ ___
 | -------------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2020-09-09 - ET\|Ex 2020-09-09 - ET]] | 🟢 Fatto  | <ul><li>[[9-09-2020 - Esame - ET.pdf\\|9-09-2020 - Esame - ET.pdf]]</li><li>[[9-09-2020 - Soluzione - ET.pdf\\|9-09-2020 - Soluzione - ET.pdf]]</li></ul> |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2023-01-11 - ET\|Ex 2023-01-11 - ET]] | 🟡 Finire | <ul><li>[[11-01-2023 - Esame - ET.pdf\\|11-01-2023 - Esame - ET.pdf]]</li></ul>                                                                           |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2023-03-15 - ET\|Ex 2023-03-15 - ET]] | 🔴 Fare   | <ul><li>[[2023-03-15 - Esame - ET.pdf\\|2023-03-15 - Esame - ET.pdf]]</li></ul>                                                                           |
 
 { .block-language-dataview}
 
