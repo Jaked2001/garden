@@ -41,12 +41,12 @@ title: Domande
 | [[Università/2° anno/2° Semestre/GIS/GIS 1/6. Uso Suolo\|6. Uso Suolo]]                                                                         | T         | 🟢 Fatto | GIS 1   | true       |
 | [[Università/2° anno/2° Semestre/GIS/GIS 1/7. Cambiamenti uso suolo\|7. Cambiamenti uso suolo]]                                                 | T         | 🟢 Fatto | GIS 1   | true       |
 | [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/1. Area di Studio\|1. Area di Studio]]                                                       | T         | 🟢 Fatto | GIS 2   | \-         |
-| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/2. Indicatori\|2. Indicatori]]                                                               | T         | 🟢 Fatto | GIS 2   | false      |
-| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/3. Analisi Spaziale\|3. Analisi Spaziale]]                                                   | T         | 🟢 Fatto | GIS 2   | false      |
-| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/5. GIS e Analisi Urbanistica\|5. GIS e Analisi Urbanistica]]                                 | T         | 🟢 Fatto | GIS 2   | false      |
-| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/6. Spazializzazione indicatori\|6. Spazializzazione indicatori]]                             | T         | 🟢 Fatto | GIS 2   | false      |
-| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/7. Telerilevamento\|7. Telerilevamento]]                                                     | T         | 🟢 Fatto | GIS 2   | false      |
-| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/9. Analisi di idoneità\|9. Analisi di idoneità]]                                             | T         | 🟢 Fatto | GIS 2   | false      |
+| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/2. Indicatori\|2. Indicatori]]                                                               | T         | 🟢 Fatto | GIS 2   | true       |
+| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/3. Analisi Spaziale\|3. Analisi Spaziale]]                                                   | T         | 🟢 Fatto | GIS 2   | true       |
+| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/5. GIS e Analisi Urbanistica\|5. GIS e Analisi Urbanistica]]                                 | T         | 🟢 Fatto | GIS 2   | true       |
+| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/6. Spazializzazione indicatori\|6. Spazializzazione indicatori]]                             | T         | 🟢 Fatto | GIS 2   | true       |
+| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/7. Telerilevamento\|7. Telerilevamento]]                                                     | T         | 🟢 Fatto | GIS 2   | true       |
+| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/9. Analisi di idoneità\|9. Analisi di idoneità]]                                             | T         | 🟢 Fatto | GIS 2   | true       |
 
 { .block-language-dataview}
 

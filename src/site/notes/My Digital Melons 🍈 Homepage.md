@@ -31,6 +31,7 @@ NON DISPONIBILE
 - [[Università/2° anno/2° Semestre/Probabilità e statistica/📊 Probabilità e Statistica\|📊 Probabilità e Statistica]]
 - [[Università/2° anno/2° Semestre/Analisi Numerica/💻 Metodi Numerici\|💻 Metodi Numerici]]
 - [[Università/2° anno/2° Semestre/Sviluppo Sostenibile/🌱 Sviluppo Sostenibile dell'Ambiente e del Territorio\|🌱 Sviluppo Sostenibile dell'Ambiente e del Territorio]]
+- [[Università/2° anno/2° Semestre/GIS/🌍 GIS 1 & 2\|🌍 GIS 1 & 2]]
 
 ## III Anno
 ### I Semestre
