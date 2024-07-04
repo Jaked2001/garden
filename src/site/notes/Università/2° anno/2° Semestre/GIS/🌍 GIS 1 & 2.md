@@ -36,11 +36,11 @@ title: Domande
 | [[Università/2° anno/2° Semestre/GIS/GIS 1/1. Rappresentazione della terra e del territorio\|1. Rappresentazione della terra e del territorio]] | T         | 🟢 Fatto | GIS 1   | false      |
 | [[Università/2° anno/2° Semestre/GIS/GIS 1/2. Cartografia e GIS\|2. Cartografia e GIS]]                                                         | T         | 🟢 Fatto | GIS 1   | false      |
 | [[Università/2° anno/2° Semestre/GIS/GIS 1/3. Acquisizione dati\|3. Acquisizione dati]]                                                         | T         | 🟢 Fatto | GIS 1   | false      |
-| [[Università/2° anno/2° Semestre/GIS/GIS 1/4. Curve livello\|4. Curve livello]]                                                                 | T         | 🟢 Fatto | GIS 1   | false      |
+| [[Università/2° anno/2° Semestre/GIS/GIS 1/4. Curve livello\|4. Curve livello]]                                                                 | T         | 🟢 Fatto | GIS 1   | true       |
 | [[Università/2° anno/2° Semestre/GIS/GIS 1/5. DEM\|5. DEM]]                                                                                     | T         | 🟢 Fatto | GIS 1   | true       |
 | [[Università/2° anno/2° Semestre/GIS/GIS 1/6. Uso Suolo\|6. Uso Suolo]]                                                                         | T         | 🟢 Fatto | GIS 1   | true       |
 | [[Università/2° anno/2° Semestre/GIS/GIS 1/7. Cambiamenti uso suolo\|7. Cambiamenti uso suolo]]                                                 | T         | 🟢 Fatto | GIS 1   | true       |
-| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/1. Area di Studio\|1. Area di Studio]]                                                       | T         | 🟢 Fatto | GIS 2   | \-         |
+| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/1. Area di Studio\|1. Area di Studio]]                                                       | T         | 🟢 Fatto | GIS 2   | true       |
 | [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/2. Indicatori\|2. Indicatori]]                                                               | T         | 🟢 Fatto | GIS 2   | true       |
 | [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/3. Analisi Spaziale\|3. Analisi Spaziale]]                                                   | T         | 🟢 Fatto | GIS 2   | true       |
 | [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/5. GIS e Analisi Urbanistica\|5. GIS e Analisi Urbanistica]]                                 | T         | 🟢 Fatto | GIS 2   | true       |
