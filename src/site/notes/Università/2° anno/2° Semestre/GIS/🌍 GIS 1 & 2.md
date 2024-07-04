@@ -32,7 +32,7 @@ title: Domande
 | [[Università/2° anno/2° Semestre/GIS/GIS 1/Elaborati/Elaborato 1 - Quota\|Elaborato 1 - Quota]]                                                 | Elaborato | 🟢 Fatto | GIS     | \-         |
 | [[Università/2° anno/2° Semestre/GIS/GIS 1/Elaborati/Elaborato 2 - Uso suolo\|Elaborato 2 - Uso suolo]]                                         | Elaborato | 🟢 Fatto | GIS     | false      |
 | [[Università/2° anno/2° Semestre/GIS/GIS 2/Elaborati/Elaborato 5 - Analisi di idoneità\|Elaborato 5 - Analisi di idoneità]]                     | Es        | 🟢 Fatto | GIS 2   | \-         |
-| [[Università/2° anno/2° Semestre/GIS/GIS 1/0. Introduzione\|0. Introduzione]]                                                                   | T         | 🟢 Fatto | GIS 1   | false      |
+| [[Università/2° anno/2° Semestre/GIS/GIS 1/0. Introduzione\|0. Introduzione]]                                                                   | T         | 🟢 Fatto | GIS 1   | true       |
 | [[Università/2° anno/2° Semestre/GIS/GIS 1/1. Rappresentazione della terra e del territorio\|1. Rappresentazione della terra e del territorio]] | T         | 🟢 Fatto | GIS 1   | false      |
 | [[Università/2° anno/2° Semestre/GIS/GIS 1/2. Cartografia e GIS\|2. Cartografia e GIS]]                                                         | T         | 🟢 Fatto | GIS 1   | true       |
 | [[Università/2° anno/2° Semestre/GIS/GIS 1/3. Acquisizione dati\|3. Acquisizione dati]]                                                         | T         | 🟢 Fatto | GIS 1   | true       |

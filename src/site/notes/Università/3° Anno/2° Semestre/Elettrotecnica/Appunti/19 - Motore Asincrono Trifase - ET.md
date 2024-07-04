@@ -579,7 +579,7 @@ $$
 ```ad-Definizione
 title: Potenza meccanica ($P_{m}$)
 
-La **potenza meccanica** consegnata alla resistenza equivalente del rotore del [[19 - Motore Asincrono Trifase - ET|MAT]] in presenza di 3 coppie polari, è data da:
+La **potenza meccanica** consegnata alla resistenza equivalente del rotore del [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET\|MAT]] in presenza di 3 coppie polari, è data da:
 $
 P_{m} = 3R_{e}I_{2}^{2}
 $
@@ -800,4 +800,44 @@ Si raffigura il circuito monofase equivalente del rotore a gabbia di scoiattolo:
 ![19 - CEM Rotore a gabbia di scoiattolo - ET 2024-07-04 18.00.40.png](/img/user/Excalidraw/19%20-%20CEM%20Rotore%20a%20gabbia%20di%20scoiattolo%20-%20ET%202024-07-04%2018.00.40.png)
 
 
-#### Avviamento con commutazione
+dove:
+- $\dot{Z}_{L} = R_{L}+jX_{L}:$ Impedenza di linea
+- $\dot{Z}_{M}:$ Impedenza di ingresso del motore, dipendente dallo scorrimento (ossia da $\Omega_{rot}$)
+- $\overline{V}:$ Tensione di alimentazione degli avvolgimenti statorici del [[19 - Motore Asincrono Trifase - ET|MAT]]
+
+Si può calcolare la caduta percentuale di tensione:
+$$
+\Delta V_{\%} = \frac{R_{L}P+X_{L}Q}{V^{2}} \cdot 100
+$$
+
+Il motore è generlmente alimentato a $V = 220\,\rm V$. La caduta di tensione però deve rimanere contenuta in modo da limitare le correnti di avviamento. Se ciò non avviene, si finisce solo per aumentare la caduta percentuale, facendo diminuire la tensione di alimentazione con il risultato di avere correnti di avviamento elevate e una macchina che non parte.
+
+Per ovviare a ciò si sfrutta l'[[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Avviamento con commutazione stella-triangolo\|#Avviamento con commutazione stella-triangolo]]
+
+#### Avviamento con commutazione stella-triangolo
+
+Questo tipo di avviamento, nei motori a gabbia di scoiattolo, sfrutta il fatto che, a parità di tensioni, le correnti di carico nella [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Configurazione a stella\|configurazione a stella]] risultano essere 1/3 di quelle nella [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Configurazione a triangolo\|configurazione a triangolo]].
+
+Anche se la tensione di alimentazione del motore è $\overline{V}$, la tensione sulle fasi statoriche risulterà la tensione stellata
+$$
+\overline{E} = \frac{\overline{V}}{\sqrt{3}}
+$$
+La corrente sul carico (corrispondente nel collegamento a stella alla [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET#Correnti di linea\|corrente di linea]]) sarà:
+$$
+\overline{I}_{\star} = \frac{\overline{E}}{\dot{Z}} = \frac{\overline{V}}{\sqrt{3}\dot{Z}} 
+$$
+La coppia di spunto anche risulterà ridotta. Essendo essa proporzionale al quadrato della tensione:
+$$
+C_{\triangle} = 3 C_{\star}
+$$
+
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗ chiedere appunti
+❗❗❗❗❗❗❗❗❗❗❗❗
+
+
+
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗ Rotore a doppia gabbia
+❗❗❗❗❗❗❗❗❗❗❗❗
+

@@ -117,10 +117,10 @@ ___
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------------- |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2023-03-15 - ET\|Ex 2023-03-15 - ET]]                                                                        | Esame | 🔴 Fare       |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]]                                                 | T     | 🪶 Scrivere   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET\|19 - Motore Asincrono Trifase - ET]]                                             | T     | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/20 - Cenni di impianti elettrici - ET\|20 - Cenni di impianti elettrici - ET]]                                       | T     | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET\|14 - Reti in regime sinusoidale - ET]]                                         | T     | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET\|15 - Reti trifasi - ET]]                                                                     | T     | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET\|19 - Motore Asincrono Trifase - ET]]                                             | T     | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET\|08 - Reti in regime stazionario - ET]]                                         | T     | 🪶🟡Scrivere  |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET\|03 - Introduzione allo studio delle reti elettriche - ET]] | T     | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET\|04 - Fenomeni di conduzione e resistori - ET]]                         | T     | 🟠 Studiare   |
@@ -168,7 +168,7 @@ La numerazione dei capitoli fa riferimento alla numerazione del libro di testo "
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/16 - Macchine elettriche - ET\|16 - Macchine elettriche - ET]]                                                       | 🟡 Finire     |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/17 - Conversione elettromeccanica dell'energia - ET\|17 - Conversione elettromeccanica dell'energia - ET]]           | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/18 - Campo magnetico rotante\|18 - Campo magnetico rotante]]                                                         | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET\|19 - Motore Asincrono Trifase - ET]]                                             | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET\|19 - Motore Asincrono Trifase - ET]]                                             | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/20 - Cenni di impianti elettrici - ET\|20 - Cenni di impianti elettrici - ET]]                                       | 🪶 Scrivere   |
 
 { .block-language-dataview}
