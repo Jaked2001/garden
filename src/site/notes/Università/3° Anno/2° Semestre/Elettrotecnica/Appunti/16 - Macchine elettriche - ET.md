@@ -58,6 +58,8 @@ I conduttori generalmente non sono garantiti per una densità di corrente infini
 
 # Trasformatore ideale
 
+#UNI/ET/Domanda 
+
 ![Trasformatore 2024-06-28 17.55.16.excalidraw.png](/img/user/Excalidraw/Trasformatore%202024-06-28%2017.55.16.excalidraw.png)
 
 

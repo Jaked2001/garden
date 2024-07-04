@@ -425,7 +425,7 @@ $$
 ```ad-Definizione
 title: Coppia meccanica ($C_m$)
 
-La **coppia meccanica** del [[19 - Motore Asincrono Trifase - ET|MAT]] è
+La **coppia meccanica** del [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET\|MAT]] è
 $
 C_{m} = \frac{P_{m}}{\Omega_{rot}}
 $
@@ -465,9 +465,108 @@ C_{m} &= \frac{P_{m}}{\Omega_{rot}} \cdot I_{2}^{2}= \\
 $$
 In definitiva, la Coppia Meccanica può essere scritta come:
 $$
-\frac{3p}{\omega} \frac{R_{r}}{\dfrac{R_{r}^{2}}{s} + sX_{dr}^{2}} \cdot E^{2}_{20}
+C_{m} = \frac{3p}{\omega} \frac{R_{r}}{\dfrac{R_{r}^{2}}{s} + sX_{dr}^{2}} \cdot E^{2}_{20}
 $$
-Si osservi che la coppia meccanica scala con il quadrato della tensione al secondario a vuoto.
+Si osservi che la coppia meccanica scala con il quadrato della tensione al secondario a vuoto. Scala inoltre linearmente col numero di poli (all'aumentare del numero di poli, diminuisce la velocità, ma aumenta la coppia).
+
+Tra i dati di targa del motore, non viene data la tensione al secondario. Viene solo detto a che tensione va alimentato: quella da applicare agli avvolgimenti statorici. Se trascuriamo le cadute di tensione degli avvolgimenti (impedenza avvolgimenti << impedenza nucleo), allora possiamo scrivere:
+$$
+\overline{E}_{10} \approx \overline{V}_{1}
+$$
+tensione indotta al primario simile alla tensione applicata agli avvolgimenti statorici (alimentazione)
+
+Il rapporto tra le tensioni indotte al primario e al secondario è uguale al [[Trasformatore#Rapporto di trasformazione\|rapporto di trasformazione]] ($=m$).
+$$
+m = \frac{E_{10}}{E_{20}}
+$$
+E quindi $k$ $\left( \frac{1}{m^{2}} \right)$:
+$$
+k = \frac{1}{m^{2}} = \frac{E_{20}^{2}}{E_{10}^{2}}
+$$
+
+Quindi la coppia meccanica può essere riscritta in funzione di $V_{1}\approx E_{10}$:
+$$
+C_{m} = \frac{3p}{\omega} \frac{R_{r}}{\dfrac{R_{r}^{2}}{s} + sX_{dr}^{2}} \cdot E^{2}_{20} = C_{m} = \frac{3pk}{\omega} \frac{R_{r}}{\dfrac{R_{r}^{2}}{s} + sX_{dr}^{2}} \cdot V^{2}_{1}
+$$
+
+
+
+
+
+#### Caratteristica coppia scorrimento
+
+La [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Coppia meccanica - MAT\|#Coppia meccanica - MAT]] può essere quindi espressa come:
+$$
+C_{m}(s)  = \frac{3pk}{\omega} \frac{R_{r}}{\dfrac{R_{r}^{2}}{s} + sX_{dr}^{2}} \cdot V^{2}_{1}
+$$
+di cui si segnalano le seguenti 2 condizioni particolari:
+$$
+C_{m}=
+\begin{cases}
+\text{Avviamento} \quad\longrightarrow\quad s=1 \, (\Omega_{rot} = 0) \quad\longrightarrow\quad C_{s} = C_{avv} = \dfrac{3pk}{\omega} \dfrac{R_{r}}{R_{r}^{2} + X_{dr}^{2}} \cdot V^{2}_{1} \\
+\text{Sincronismo} \quad\longrightarrow\quad s=0 \, (\Omega_{rot} = \omega _{s}) \quad\longrightarrow\quad C_{m} = 0
+\end{cases}
+$$
+La coppia di Avviamento è anche detto **coppia di spunto**.
+
+Graficando l'andamento della coppia meccanica in funzione dello [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Scorrimento\|#Scorrimento]].
+
+![19 - Caratteristica meccanica coppia-scorrimento MAT - ET 2024-07-04 15.23.57.png](/img/user/Excalidraw/19%20-%20Caratteristica%20meccanica%20coppia-scorrimento%20MAT%20-%20ET%202024-07-04%2015.23.57.png)
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+###### Punto di massimo
+
+Il punto di massimo della coppia si può trovare cercando il minimo del denominatore dell'espressione di $C_{m}(s)$.
+Infatti, nell'espressione, tutti i termini sono positivi e il numeratore non varia con $s$.
+$
+\frac{\mathrm{d}}{\mathrm{d}s}\left(  \frac{R^{2}_{r}}{s} + sX_{dr}^{2}  \right) \stackrel{!}{=} 0
+$
+Da cui si ottiene
+$
+-\frac{R^{2}_{r}}{s^{2}} + X_{dr}^{2} = 0
+$
+che fornisce:
+$
+s = \pm \frac{R_{r}}{X_{dr}}
+$
+Quando la macchina funziona da motore, $s\ge0$ (Sarebbe negativo se la macchina funzionasse da generatore).
+
+Si ottiene quindi che lo scorrimento corrispondente al massimo della coppia si ha per:
+$
+s_{MAX}= \frac{R_{r}}{X_{dr}}
+$
+```ad-note
+title: Osservazione
+Posso spostare la posizione del massimo della coppia variando le resistenze
+
+```
+
+In genere $s_{MAX}$ è molto piccolo, compreso tra $1\div10\%$, essendo la macchina progettata per minimizzare le perdite per [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET#Potenza dissipata per Effetto Joule\|effetto Joule]] (e quindi progettata con $R_{r}$ piccoli).
+
+La coppia massima associata al [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET\|MAT]] è quindi:
+$
+C_{MAX} = C_{m}(s_{MAX}) = \frac{3pk}{2\omega } \cdot \frac{1}{X_{dr}} \cdot V_{1}^{2}
+$
+dove si osservi che $C_{MAX}$:
+- Aumenta al diminuire di $X_{dr}$
+- Non dipende da $R_{r}$
+
+
+
+
+
+</div></div>
+
+
+
+
+
+
 
 
 ### Potenza meccanica - MAT
@@ -487,3 +586,218 @@ $
 
 
 ```
+
+### Stabilità della caratteristica meccanica
+
+Immaginiamo di avere il [[19 - Motore Asincrono Trifase - ET|MAT]] inizialmente funzionante, a regime. Sta lavorando a una coppia pari alla coppia resistente (che si oppone al moto del rotore)
+$$
+C_{r} = C_{m}
+$$
+#### Funzionamento instabile
+
+```ad-Definizione
+title: Funzionamento instabile
+
+Si parla di **funzionamento instabile** del [[19 - Motore Asincrono Trifase - ET|MAT]] quando questo lavora con un valore di [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Scorrimento\|#Scorrimento]] *maggiore* a quello di massimo della coppia:
+$
+s>s_{MAX}
+$
+
+
+```
+
+![19 - Funzionamento instabile MAT - ET 2024-07-04 15.57.04.png](/img/user/Excalidraw/19%20-%20Funzionamento%20instabile%20MAT%20-%20ET%202024-07-04%2015.57.04.png)
+
+
+Il motore si trova nella situazione B: Sta lavorando a una coppia uguale a quella resistente
+$$
+C_{m} = C_{r}
+$$
+Si immagini ora che, per qualunque motivo, la coppia resistente aumenti a un qualche valore $C_{r}'$. Questo comporterà una diminuzione della velocità angolare del rotore $\Omega_{rot}$ con conseguente aumento dello [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Scorrimento\|#Scorrimento]]. Pertanto, il motore si troverà a lavorare con una [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Coppia meccanica - MAT\|coppia meccanica]] inferiore, $C_{m}'$, corrispondente alla situazione $B'$.
+
+La nuova coppia motrice risulta ancora inferiore alla coppia resistente: ancora una volta il rotore rallenterà, lo scorrimento aumenterà e la coppia motrice diminuirà. Questo andrà avanti fin quando non si raggiunge la condizione di rotore fermo: $s = 1$.
+
+Chiaramente, dovesse aversi la situazione duale per cui la coppia resistente diminuisce invece di aumentare, la situazione sarà invertita e la coppia motrice aumenterà fino al valore massimo.
+
+
+```ad-Teo
+title: Funzionamento instabile
+
+Si ha **funzionamento instabile** nel tratto della [[#Caratteristica meccanica]] in cui la coppia risulta decrescente al crescere dello [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Scorrimento\|#Scorrimento]], ossia:
+$
+\frac{\mathrm{d}C}{\mathrm{d}s} < 0 
+$
+
+```
+
+
+
+#### Funzionamento stabile
+
+```ad-Definizione
+title: Funzionamento stabile
+
+Si parla di **funzionamento stabile** del [[19 - Motore Asincrono Trifase - ET|MAT]] quando questo lavora con un valore di [[#Scorrimento]] *minore* a quello di massimo della coppia:
+$
+s<s_{MAX}
+$
+
+
+```
+
+![19 - Funzionamento stabile MAT - ET 2024-07-04 16.14.51.png](/img/user/Excalidraw/19%20-%20Funzionamento%20stabile%20MAT%20-%20ET%202024-07-04%2016.14.51.png)
+
+
+Il motore si trova nella situazione A: Sta lavorando a una coppia uguale a quella resistente
+$$
+C_{m} = C_{r}
+$$
+Si immagini ora che, per qualunque motivo, la coppia resistente aumenti a un qualche valore $C_{r}'$. Questo comporterà una diminuzione della velocità angolare del rotore $\Omega_{rot}$ con conseguente aumento dello [[#Scorrimento]]. Pertanto, il motore si troverà a lavorare con una [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Coppia meccanica - MAT\|coppia meccanica]] superiore, $C_{m}'$, corrispondente alla situazione $A'$.
+
+La nuova coppia motrice riesce a compensare la nuova coppia resistente $C_{r}'$.
+
+Chiaramente, dovesse aversi la situazione duale per cui la coppia resistente diminuisce invece di aumentare, la coppia motrice sarà ancora capace di compensare la coppia resistente, portando a un nuovo punto di lavoro stabile.
+
+```ad-Teo
+title: Funzionamento stabile
+
+Si ha **funzionamento stabile** nel tratto della [[#Caratteristica meccanica]] in cui la coppia risulta crescente al crescere dello [[#Scorrimento]], ossia:
+$
+\frac{\mathrm{d}C}{\mathrm{d}s}>0 
+$
+Inoltre, la macchina risulta tanto più stabile, quanto più ripido è il tratto di curva, ossia quanto minore risulta $s_{MAX} = \dfrac{R_{r}}{X_{dr}}$
+```
+
+## Problemi di avviamento
+
+#### Coppia nominale
+
+```ad-Definizione
+title: Coppia nominale ($C_{n}$)
+
+La **coppia nominale** $C_{n}$ corrisponde al valore di coppia a regime della macchina:
+$
+C_{n} = \frac{P_{n}}{\Omega_{rot}}
+$
+
+
+```
+
+Essa è inferiore alla coppia massima.
+
+Generalmente, la coppia di spunto (o coppia di avviamento) è inferiore alla coppia nominale
+$$
+C_{avv} \approx 0.2\div0.5\,C_{MAX}
+$$
+Pertanto, la situazione $C_{avv}<C_{n}$ può comportare dei problemi in fase di avviamento.
+
+### Coppia resistente > Coppia di avviamento
+
+$$
+C_{r} < C_{avv}
+$$
+Se la coppia resistente è maggiore della coppia di spunto (coppia di avviamento), la macchina non parte ($\Omega_{rot} = 0, \quad s = 1$).
+
+Per $s= 1$ corrisponde un valore unico della resistenza equivalente:
+$$
+R_{e} = R_{r} \frac{1-s}{s} = 0
+$$
+La macchina si trova quindi in condizioni di *assenza del carico meccanico*: Si tratta di una situazione equivalente al [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET#Cortocircuito\|cortocircuito]] da cui deriva un ulteriore problema. In condizioni di corto, la corrente del circuito $I_{cc}$ arriva ad assumere valori molto maggiori di $I_{n}$:
+$$
+I_{cc} \approx 5\div 6 \, I_{n}
+$$
+e questa condizione può portare al danneggiamento dei componenti del motore
+
+
+### Coppia resistente < Coppia di avviamento
+
+$$
+C_{r} < C_{avv}
+$$
+Se la coppia resistente è **minore** della coppia di spunto (coppia di avviamento), la macchina si avvia. La fase di avviamento però risulta comunque troppo lunga (in questa fase, come per il caso [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Coppia resistente > Coppia di avviamento\|#Coppia resistente > Coppia di avviamento]], si ha sempre una corrente di Corto circuito), e rischia ancora di danneggiare la macchina.
+
+Per avere avviamento corretto della macchina, non basta che la coppia di spunto sia maggiore di quella resistente, ma serve anche che l'avviamento sia abbastanza rapido.
+
+## Modalità di avviamento
+
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Avviamento reostatico\|#Avviamento reostatico]]
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Avviamento nei motori a gabbia\|#Avviamento nei motori a gabbia]]
+- [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Avviamento con commutazione\|#Avviamento con commutazione]]
+
+### Avviamento reostatico
+
+
+Si ricorda che per la coppia meccanica, lo [[Excalidraw/19 - Caratteristica meccanica coppia-scorrimento MAT - ET 2024-07-04 15.23.57#Punto di massimo\|scorrimento di massimo]], e il rispettivo massimo, sono dati da:
+$$
+s_{MAX} = \frac{R_{r}}{X_{dr}} \qquad C_{MAX} = \frac{3pk}{2\omega } \cdot \frac{1}{{\color{red}X_{dr}}} \cdot V_{1}^{2}
+$$
+
+![19 - Caratteristica meccanica - avviamento reostatico  - ET 2024-07-04 16.51.43.png](/img/user/Excalidraw/19%20-%20Caratteristica%20meccanica%20-%20avviamento%20reostatico%20%20-%20ET%202024-07-04%2016.51.43.png)
+
+
+Poiché la coppia massima non dipende dalla resistenza rotorica, si può pensare di spostare lo scorrimento $s_{MAX}$, aumentandolo, variando $R_{r}$, senza far cambiare il valore massimo della coppia (ovviamente ammesso di mantenere costante la reattanza $X_{dr}$).
+
+In questo modo si passerà dalla curva $R_{1}$ alla curva $R_{2}$. In questa condizione, la coppia di avviamento, $\color{blue} C_{avv}(R_{2})$ risulta maggiore di quella che si otteneva prima. Andando ancora ad aumentare la resistenza al rotore si può fare in modo che la coppia di avviamento approcci sempre di più la $C_{MAX}$.
+
+Questa condizione si ottiene aggiungendo un **banco di reostati (resistori) di avviamento** in modo da far avviare la macchina con la coppia massima disponibile. Gli avvolgimenti rotorici sono collegati all'albero tramite 3 contatti striscianti a forma di anelli. Quest'ultimi sono a loro volta collegati a 3 resistenze variabili a stella; questi risultano quindi in serie con gli avvolgimenti rotorici
+
+![Schermata 2024-07-04 alle 17.24.58.png](/img/user/Schermata%202024-07-04%20alle%2017.24.58.png)
+
+La situazione migliore è quindi quella in cui la $C_{avv} = C_{MAX}$. Essendo $C_{avv}$ la coppia che si ha per $s = 1$, si deve imporre la condizione:
+$$
+s_{MAX} = 1
+$$
+ossia:
+$$
+s_{MAX} = \frac{R_{r}+R_{avv}}{X_{dr}} = 1
+$$
+Da questa espressione si trova che la massima resistenza del banco reostatico è
+$$
+R_{avv} = X_{dr}-R_{r}
+$$
+All'avviamento quindi si collega la resistenza $R_{avv}$ ottenendo 2 vantaggi:
+- La macchina parte con coppia massima disponibile
+- $I_{avv}<I_{cc}$ - Anche se $R_{e}=0$ (essendo $s=1$), in serie ad $R_{r}$ è comunque presente $R_{avv}$ che limita la corrente circolante negli avvolgimenti rotorici
+
+#### Rimozione del reostato
+
+È chiaro che, una volta avviato il motore, non conviene più farlo lavorare sulla caratteristica di avviamento, in quanto comporterebbe un notevole abbassamento del rendimento.
+
+Bisognerà pertanto diminuire **gradualmente** la $R_{avv}$ fino a rimuoverla del tutto.
+
+
+È importantissimo far si che la $R_{avv}$ sia rimossa gradualmente e non tutta insieme.
+
+![19 - Caratteristica meccanica di avviamento - MAT - ET 2024-07-04 17.30.34.png](/img/user/Excalidraw/19%20-%20Caratteristica%20meccanica%20di%20avviamento%20-%20MAT%20-%20ET%202024-07-04%2017.30.34.png)
+
+
+Se la si rimuovesse tutta insieme (come nella figura sopra), il motore si arresterebbe.
+
+Immaginiamo infatti di avere una certa coppia $C_{r}$ come indicata in figura. A regime, sulla curva di avviamento, sarà bilanciata da una coppia uguale alla quale corrisponde il valore di [[#Scorrimento]] $\color{\purple} s_{A}$. Ora rimuoviamo di botto il reostato. All'improvviso, a parità di velocità (e quindi di scorrimento), si avrebbe a disposizione una coppia nettamente inferiore (quella in $A'$). Questo porterebbe ad avere la coppia resistente maggiore della coppia motrice, nel tratto di curva a [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Funzionamento instabile\|#Funzionamento instabile]]. Il motore si arresterebbe.
+
+___
+
+Il reostato dovrà pertanto essere rimosso gradualmente. Dovrò fare in modo che, ogni volta che rimuovo una quota-parte di reostato, la nuova coppia motrice corrispondente al medesimo valore di scorrimento, sia ancora maggiore alla coppia resistente. 
+
+![Schermata 2024-07-04 alle 17.41.08.png](/img/user/Schermata%202024-07-04%20alle%2017.41.08.png)
+
+
+### Avviamento nei motori a gabbia
+
+L'[[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Avviamento reostatico\|#Avviamento reostatico]] è utilizzabile soltanto nelle macchine a rotore avvolto, in cui gli avvolgimenti rotorici sono avvolti sui pacchi di lamierini rotorici utilizzando le cave, le quali però indeboliscono la struttura. 
+
+Spesso si usa un rotore detto [[Rotore a gabbia di scoiattolo\|Rotore a gabbia di scoiattolo]]. Questo è costituito da barre conduttrici di $\rm Al, Cu$ o bronzo, cortocircuitate alle estremità da 2 anelli robusti, abbattendo così le $R_{r}$
+
+Poiché però gli anelli di cc sono solidali al rotore, è precluso l'utilizzo del reostato di avviamento.
+
+
+Il problema maggiore nei motori a g.d.s. è che, per via della bassa resistenza, le correnti di spunto sono molto elevate ($I_{cc}$).
+
+![Schermata 2024-07-04 alle 17.51.46.png](/img/user/Schermata%202024-07-04%20alle%2017.51.46.png)
+
+Si raffigura il circuito monofase equivalente del rotore a gabbia di scoiattolo:
+
+![19 - CEM Rotore a gabbia di scoiattolo - ET 2024-07-04 18.00.40.png](/img/user/Excalidraw/19%20-%20CEM%20Rotore%20a%20gabbia%20di%20scoiattolo%20-%20ET%202024-07-04%2018.00.40.png)
+
+
+#### Avviamento con commutazione
