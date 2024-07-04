@@ -119,9 +119,9 @@ ___
 ## ✍️ Esercitazioni
 
 
-| File                                                                                                                                                                        | Stato    | PDF                                                                       | Data          |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------- | ------------- |
-| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Progetto Orti urbani - (P)orto felicità\|Progetto Orti urbani - (P)orto felicità]] | 🟢 Fatto | <ul><li>[[Porto felicità_testo.pdf\\|Porto felicità_testo.pdf]]</li></ul> | June 05, 2024 |
+| File                                                                                                                                                                        | Stato    | PDF                                                                                                                                                                    | Data          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Progetto Orti urbani - (P)orto felicità\|Progetto Orti urbani - (P)orto felicità]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/allegati/Porto felicità_testo.pdf\\|Porto felicità_testo.pdf]]</li></ul> | June 05, 2024 |
 
 { .block-language-dataview}
 

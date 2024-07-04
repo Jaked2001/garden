@@ -114,7 +114,7 @@ L'uso del mulinello è in realtà abbastanza complicato. Occorre infatti dotarsi
 
 Per questo oggi si usa il mulinello da **teleferica**:
 
-![[Schermata 2024-05-03 alle 14.44.05.png\|Schermata 2024-05-03 alle 14.44.05.png]]
+![Schermata 2024-05-03 alle 14.44.05.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/Schermata%202024-05-03%20alle%2014.44.05.png)
 
 
 #### Scala di deflusso

@@ -73,7 +73,7 @@ Gli [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e 
 
 ![Schermata 2024-04-26 alle 18.10.11.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Analisi%20Ambientale%20dei%20sistemi%20urbani%20e%20territoriali/allegati/allegati/Schermata%202024-04-26%20alle%2018.10.11.png)
 
-Fonte: [[Il consumo di suolo in Italia e il ruolo dell'associazionismo nella tutela del territorio - PoliTO.pdf\|Il consumo di suolo in Italia e il ruolo dell'associazionismo nella tutela del territorio - PoliTO.pdf]]
+Fonte: [[Il consumo di suolo in Italia e il ruolo dell'associazionismo nella tutela del territorio - PoliTO.pdf]]
 
 #### La struttura del suolo
 

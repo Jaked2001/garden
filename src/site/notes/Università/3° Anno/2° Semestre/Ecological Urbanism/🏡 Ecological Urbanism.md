@@ -132,7 +132,7 @@ Urban regeneration
 
 Google Urban Regeneration projects.
 
-![[Schermata 2024-04-03 alle 17.17.16.png\|Schermata 2024-04-03 alle 17.17.16.png]]
+![Schermata 2024-04-03 alle 17.17.16.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/allegati/Schermata%202024-04-03%20alle%2017.17.16.png)
 
 - [[GRAB\|GRAB]], Roma - A multi-use path around the center of Rome, traversing archeological areas and natural parks
 - Bradford Metropolitan District Council UK

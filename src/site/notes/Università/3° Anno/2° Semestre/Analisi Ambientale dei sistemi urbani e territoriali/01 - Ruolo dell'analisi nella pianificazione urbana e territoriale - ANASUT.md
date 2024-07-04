@@ -135,7 +135,7 @@ Qualche traccia è ancora visibile a seguito della raschiatura: ci sono delle so
 Roma è un Palinsesto. 
 
 
-![[Recording 20240312134252.webm\|Recording 20240312134252.webm]]
+![[Recording 20240312134252.webm]]
 
 
 [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Urbanistica - ANASUT\|Successivo ➡]]

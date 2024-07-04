@@ -13,7 +13,7 @@ Elementi di importanza:
 - Peso
 - Dimensioni
 
-[[2. Architettura Veicoli Stradali - VIT.pdf#page=2\|2. Architettura Veicoli Stradali - VIT.pdf#page=2]]
+[[2. Architettura Veicoli Stradali - VIT.pdf#page=2]]
 
 Categorie di veicoli: 
 - Autovettura - Trasporto persone
@@ -29,7 +29,7 @@ Categorie di veicoli:
 
 ## Pneumatico
 
-[[2. Architettura Veicoli Stradali - VIT.pdf#page=4&selection=24,0,24,25\|Dispensa]].
+[[2. Architettura Veicoli Stradali - VIT.pdf#page=4&selection=24,0,24,25|Dispensa]].
 
 La [[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/03. Sostentazione e locomozione#Sostentazione terrestre\|sostentazione]] nei veicoli terrestri è stradali è affidata alla **ruota pneumatica**, cioè alla ruota dotata di **pneumatico**.
 
@@ -173,7 +173,7 @@ Quello che risponde in modo instabile, tendendo a diminuire il raggio di curvatu
 
 ## Sospensioni
 
-[[2. Architettura Veicoli Stradali - VIT.pdf#page=11&selection=42,0,42,18\|Dispensa: Le sospensioni]]
+[[2. Architettura Veicoli Stradali - VIT.pdf#page=11&selection=42,0,42,18|Dispensa: Le sospensioni]]
 
 
 

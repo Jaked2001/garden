@@ -14,7 +14,7 @@
 **📚 Libri:** 
 - Appunti  e dispense di Idrologia Tecnica
 - Appunti e dispense di Ingegneria dei Sistemi Idraulici
-	- [[Appunti di Idrologia Tecnica e Fondamenti di Ingegneria Idraulica.pdf\|Appunti di Idrologia Tecnica e Fondamenti di Ingegneria Idraulica.pdf]]
+	- [[Appunti di Idrologia Tecnica e Fondamenti di Ingegneria Idraulica.pdf]]
 - Chow V.T., Maidment D.R., Mays L.W., "Applied Hydrology", Mc Graw Hill
 **🔑 Classroom:** 36t7w7k
 

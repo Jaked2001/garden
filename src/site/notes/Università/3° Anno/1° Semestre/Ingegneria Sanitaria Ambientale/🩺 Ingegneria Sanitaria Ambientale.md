@@ -13,7 +13,7 @@
 - [Classroom](https://classroom.google.com/c/NjIyOTUwODk3ODc5)
 🅿️ Programma: [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Programma - Ingegneria Sanitaria Ambientale\|Programma - Ingegneria Sanitaria Ambientale]]
 📖 Libri:
-- [[Ingegneria Sanitaria Ambientale - Sirini.pdf\|Sirini P., Ingegneria Sanitaria-Ambientale. Principi, teorie e metodi di rappresentazione, McGraw-Hill, Milano, 2002]]
+- [[Ingegneria Sanitaria Ambientale - Sirini.pdf|Sirini P., Ingegneria Sanitaria-Ambientale. Principi, teorie e metodi di rappresentazione, McGraw-Hill, Milano, 2002]]
 	- Copisteria via Cavour
 - Misiti A., Fondamenti di Ingegneria Ambientale, Nuova Italia Scientifica, Firenze 1994  
 - Metcalf & Eddy, Inc., Ingegneria delle Acque Reflue. Trattamento e Riuso, 5a ed., McGraw-Hill, Milano, 2006
@@ -188,10 +188,10 @@ ___
 | File                                                                                                               | Stato    | PDF                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------ | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2017 - ISA\|Esonero 2017 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2017.pdf\\|testi prova esonero ISA 2017.pdf]]</li></ul> |
+| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2018 - ISA\|Esonero 2018 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2018.pdf\\|testi prova esonero ISA 2018.pdf]]</li></ul> |
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2020 - ISA\|Esonero 2020 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2020.pdf\\|testi prova esonero ISA 2020.pdf]]</li></ul> |
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2021 - ISA\|Esonero 2021 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2021.pdf\\|testi prova esonero ISA 2021.pdf]]</li></ul> |
 | [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2022 - ISA\|Esonero 2022 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2022.pdf\\|testi prova esonero ISA 2022.pdf]]</li></ul> |
-| [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/Esonero 2018 - ISA\|Esonero 2018 - ISA]] | 🟢 Fatto | <ul><li>[[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Temi d'esame/allegati/testi prova esonero ISA 2018.pdf\\|testi prova esonero ISA 2018.pdf]]</li></ul> |
 
 { .block-language-dataview}
 

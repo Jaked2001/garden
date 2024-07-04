@@ -34,14 +34,14 @@ Determinare piano di rottura e sforzi interni a rottura ($\tau_{n}, \sigma_{n}$)
 
 
 
-![[ES 6.1 - Diagramma di Mohr-Coulomb - 24-10-2022.pdf\|ES 6.1 - Diagramma di Mohr-Coulomb - 24-10-2022.pdf]]
+![[ES 6.1 - Diagramma di Mohr-Coulomb - 24-10-2022.pdf]]
 
 ## Esercitazione 6.2
 
-![[ES 6.2 - Diagramma di Mohr-Coulomb - 27-10-2022.pdf\|ES 6.2 - Diagramma di Mohr-Coulomb - 27-10-2022.pdf]]
+![[ES 6.2 - Diagramma di Mohr-Coulomb - 27-10-2022.pdf]]
 ## Esercitazione 6.3
 
-![[ES 6.3 - Diagramma di Mohr-Coulomb - 27-10-2022.pdf\|ES 6.3 - Diagramma di Mohr-Coulomb - 27-10-2022.pdf]]
+![[ES 6.3 - Diagramma di Mohr-Coulomb - 27-10-2022.pdf]]
 ## Esercitazione 6.4
 
 ![[ES 6.4 Diagrammi Di Mohr-Cloulomb - 27-10-2022.pdf]]

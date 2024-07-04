@@ -179,7 +179,7 @@ La perimetrazione è di tipo piuttosto irregolare.
 
 Esplicitano i contenuti normativi che devono essere georeferenziati. Ciò avviene in [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT#Sistemi e regole\|#Sistemi e regole]].
 
-[[Norme tecnice di attuazione - PRG Roma - 2003.pdf\|Norme tecnice di attuazione - PRG Roma - 2003.pdf]]
+[[Norme tecnice di attuazione - PRG Roma - 2003.pdf]]
 
 Nella parte iniziale c'è un glossario in cui sono definite le grandezze utili in gioco.
 

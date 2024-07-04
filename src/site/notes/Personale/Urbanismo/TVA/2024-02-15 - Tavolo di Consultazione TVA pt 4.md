@@ -10,7 +10,7 @@ Con:
 
 #### Allegati
 
-[[Avviso scans.pdf\|Avviso scans.pdf]]
+[[Avviso scans.pdf]]
 
 ## ODG
 
