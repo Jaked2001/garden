@@ -13,7 +13,7 @@
 - [Classroom](https://classroom.google.com/c/NjIyOTUwODk3ODc5)
 🅿️ Programma: [[Università/3° Anno/1° Semestre/Ingegneria Sanitaria Ambientale/Programma - Ingegneria Sanitaria Ambientale\|Programma - Ingegneria Sanitaria Ambientale]]
 📖 Libri:
-- [[Ingegneria Sanitaria Ambientale - Sirini.pdf|Sirini P., Ingegneria Sanitaria-Ambientale. Principi, teorie e metodi di rappresentazione, McGraw-Hill, Milano, 2002]]
+- [[Ingegneria Sanitaria Ambientale - Sirini.pdf\|Sirini P., Ingegneria Sanitaria-Ambientale. Principi, teorie e metodi di rappresentazione, McGraw-Hill, Milano, 2002]]
 	- Copisteria via Cavour
 - Misiti A., Fondamenti di Ingegneria Ambientale, Nuova Italia Scientifica, Firenze 1994  
 - Metcalf & Eddy, Inc., Ingegneria delle Acque Reflue. Trattamento e Riuso, 5a ed., McGraw-Hill, Milano, 2006

@@ -198,6 +198,8 @@ Facciamo 2 ipotesi:
 	- I ordine: si mantiene la media
 	- II ordine: si mantiene la varianza
 - Ergodicità
+	- Il sistema si comporta come la sua media
+		- Posso analizzare il piccolo come se fosse il grande
 
 
 Processo **ergodico**. Ergodicità è un'ipotesi non dimostrabile. 

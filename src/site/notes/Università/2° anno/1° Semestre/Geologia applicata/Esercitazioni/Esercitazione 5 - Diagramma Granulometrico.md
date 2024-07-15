@@ -66,4 +66,4 @@ $
 # Esercitazione 5
 📆 Data: [[2022-10-20\|2022-10-20]]
 
-Soluzione: [[ES 5 - Analisi granulometriche - 20-10-2022.pdf]]
+Soluzione: [[ES 5 - Analisi granulometriche - 20-10-2022.pdf\|ES 5 - Analisi granulometriche - 20-10-2022.pdf]]

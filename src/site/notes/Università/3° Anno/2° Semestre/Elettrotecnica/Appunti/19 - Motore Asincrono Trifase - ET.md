@@ -4,7 +4,7 @@
 
 # [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET\|19 - Motore Asincrono Trifase - ET]]
 
-Nella figura sottostante è mostrato lo schema di una **macchina asincrona trifase**
+Nella figura sottostante è mostrato lo schema di una **macchina asincrona trifase**.
 
 ![19 - Schema costruttivo di una macchina asincrona trifase- ET 2024-07-03 12.58.18.png](/img/user/Excalidraw/19%20-%20Schema%20costruttivo%20di%20una%20macchina%20asincrona%20trifase-%20ET%202024-07-03%2012.58.18.png)
 
@@ -25,7 +25,7 @@ Lo schema di un motore reale è riportato nella figura sottostante:
 
 ![Schermata 2024-07-03 alle 13.08.40.png](/img/user/Schermata%202024-07-03%20alle%2013.08.40.png)
 
-Quando nelle spire passa corrente, si genera un [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/18 - Campo magnetico rotante\|campo magnetico rotante]].
+Quando nelle spire passa corrente, si genera un [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/18 - Campo magnetico rotante - ET\|campo magnetico rotante]].
 
 ## Principio di funzionamento
 
@@ -88,7 +88,7 @@ e quindi si avrà una fem indotta pari a:
 $$
 e_{r}(t) = - \frac{\mathrm{d}\phi_{r}}{\mathrm{d}t}  = \omega_{s}B_{s}S\sin(\omega_{s} t) 
 $$
-Pertanto, la pulsazione delle grandezze rotoriche, data un'unica coppia polare è pari alla velcoità angolare del campo inducente (statorico)
+Pertanto, la pulsazione delle grandezze rotoriche, data un'unica coppia polare è pari alla velocità angolare del campo inducente (statorico)
 $$
 \omega_{20} = \omega_{s}
 $$
@@ -115,7 +115,6 @@ cui corrisponde una velocità angolare. Quindi, la velocità angolare del campo 
 $$
 \omega_{r2} = \frac{\omega_{2}}{p} = \omega_{s}-\Omega_{rot}
 $$
-
 Guardiamo ora il sistema dal sistema di riferimento fisso dello statore. La velocità angolare $\omega_{R}$ del campo rotorico nel sistema di riferimento fisso è:
 $$
 \begin{align}
@@ -218,7 +217,7 @@ A [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincro
 
 La magnetizzazione del nucleo qui è diversa. In mezzo, per far funzionare la macchina, ci deve essere un traferro che separa il nucleo: le reattanze di dispersione sono più consistenti del trasformatore classico.
 
-A rotore bloccato, la pulsazione delle grandezze indotte rotoriche è proprio $\omega$. Allora, proprio come nel trasformatore, è rispettata l'ipotesi di isofrequenzialità.
+A rotore bloccato, la pulsazione delle grandezze indotte rotoriche è proprio $\omega$. Allora, proprio come nel trasformatore, è rispl,kytettata l'ipotesi di isofrequenzialità.
 
 Si ha quindi:
 $$
@@ -248,9 +247,8 @@ $$
 X_{drs} = \omega_{2}L_{dr} = s\omega L_{dr} = sX_{dr}
 $$
 
-
 Scriviamo [[Legge di Kirchhoff delle Tensioni (LKT)\|LKT]] al circuito rotorico:
-$$
+$$\large
 \begin{align}
 \overline{E}_{2s} &= (R_{r}+jX_{rds})\cdot \overline{I}_{2}  \\
 {\color{red} s} \overline{E}_{20} &= (R_{r}+j{\color{red} s}X_{rd})\cdot \overline{I}_{2} \\
@@ -413,8 +411,6 @@ I_{2}^{2} =  \frac{E_{20}^{2}}{Z_{r}^{2}} = \frac{E^{2}_{20}}{\frac{R_{r}^{2}}{s
 $$
 
 
-
-
 ### Coppia meccanica - MAT
 
 In generale, la potenza di un organo rotante è legata alla coppia, dalla velocità angolare:
@@ -434,7 +430,6 @@ dove:
 - $P_{m}:$ [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Potenza meccanica - MAT\|#Potenza meccanica - MAT]]
 
 ```
-
 
 Si ricordano le relazioni:
 $$
@@ -490,10 +485,9 @@ C_{m} = \frac{3p}{\omega} \frac{R_{r}}{\dfrac{R_{r}^{2}}{s} + sX_{dr}^{2}} \cdot
 $$
 
 
-
-
-
 #### Caratteristica coppia scorrimento
+
+#UNI/ET/Domanda 
 
 La [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Coppia meccanica - MAT\|#Coppia meccanica - MAT]] può essere quindi espressa come:
 $$
@@ -566,9 +560,6 @@ dove si osservi che $C_{MAX}$:
 
 
 
-
-
-
 ### Potenza meccanica - MAT
 
 Abbiamo detto essere
@@ -588,6 +579,8 @@ $
 ```
 
 ### Stabilità della caratteristica meccanica
+
+#UNI/ET/Domanda 
 
 Immaginiamo di avere il [[19 - Motore Asincrono Trifase - ET|MAT]] inizialmente funzionante, a regime. Sta lavorando a una coppia pari alla coppia resistente (che si oppone al moto del rotore)
 $$
@@ -637,7 +630,7 @@ $
 ```ad-Definizione
 title: Funzionamento stabile
 
-Si parla di **funzionamento stabile** del [[19 - Motore Asincrono Trifase - ET|MAT]] quando questo lavora con un valore di [[#Scorrimento]] *minore* a quello di massimo della coppia:
+Si parla di **funzionamento stabile** del [[19 - Motore Asincrono Trifase - ET|MAT]] quando questo lavora con un valore di [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Scorrimento\|#Scorrimento]] *minore* a quello di massimo della coppia:
 $
 s<s_{MAX}
 $
@@ -718,14 +711,34 @@ Se la coppia resistente è **minore** della coppia di spunto (coppia di avviamen
 
 Per avere avviamento corretto della macchina, non basta che la coppia di spunto sia maggiore di quella resistente, ma serve anche che l'avviamento sia abbastanza rapido.
 
+## Tipi di rotore
+
+### Rotore avvolto
+
+### Rotore a gabbia di scoiattolo
+
+![Schermata 2024-07-08 alle 16.06.37.png](/img/user/Schermata%202024-07-08%20alle%2016.06.37.png)
+
+I rotore a gabbia di scoiattolo è un rotore che, invece di avere avvolgimenti come nel [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Rotore avvolto\|#Rotore avvolto]], presenta barre conduttrici di $\rm Al, Cu$ o bronzo, cortocircuitate alle estremità da 2 anelli robusti, abbattendo così le $R_{r}$ (resistenze rotoriche).
+
+#### Rotore a doppia gabbia di scoiattolo
+
+![Schermata 2024-07-08 alle 16.09.48.png](/img/user/Schermata%202024-07-08%20alle%2016.09.48.png)
+
+Spesso, il [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Rotore a gabbia di scoiattolo\|#Rotore a gabbia di scoiattolo]] è in realtà costituito da due file di barre metalliche.
+- Esterna: di sezione $S_{e}$ piccola
+- Interna: di sezione $S_{i}$ grande
+
+
 ## Modalità di avviamento
+
+#UNI/ET/Domanda 
 
 - [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Avviamento reostatico\|#Avviamento reostatico]]
 - [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Avviamento nei motori a gabbia\|#Avviamento nei motori a gabbia]]
 - [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Avviamento con commutazione\|#Avviamento con commutazione]]
 
 ### Avviamento reostatico
-
 
 Si ricorda che per la coppia meccanica, lo [[Excalidraw/19 - Caratteristica meccanica coppia-scorrimento MAT - ET 2024-07-04 15.23.57#Punto di massimo\|scorrimento di massimo]], e il rispettivo massimo, sono dati da:
 $$
@@ -786,10 +799,8 @@ Il reostato dovrà pertanto essere rimosso gradualmente. Dovrò fare in modo che
 
 L'[[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Avviamento reostatico\|#Avviamento reostatico]] è utilizzabile soltanto nelle macchine a rotore avvolto, in cui gli avvolgimenti rotorici sono avvolti sui pacchi di lamierini rotorici utilizzando le cave, le quali però indeboliscono la struttura. 
 
-Spesso si usa un rotore detto [[Rotore a gabbia di scoiattolo\|Rotore a gabbia di scoiattolo]]. Questo è costituito da barre conduttrici di $\rm Al, Cu$ o bronzo, cortocircuitate alle estremità da 2 anelli robusti, abbattendo così le $R_{r}$
-
+Spesso si usa un rotore detto [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Rotore a gabbia di scoiattolo\|#Rotore a gabbia di scoiattolo]]. 
 Poiché però gli anelli di cc sono solidali al rotore, è precluso l'utilizzo del reostato di avviamento.
-
 
 Il problema maggiore nei motori a g.d.s. è che, per via della bassa resistenza, le correnti di spunto sono molto elevate ($I_{cc}$).
 
@@ -810,7 +821,7 @@ $$
 \Delta V_{\%} = \frac{R_{L}P+X_{L}Q}{V^{2}} \cdot 100
 $$
 
-Il motore è generlmente alimentato a $V = 220\,\rm V$. La caduta di tensione però deve rimanere contenuta in modo da limitare le correnti di avviamento. Se ciò non avviene, si finisce solo per aumentare la caduta percentuale, facendo diminuire la tensione di alimentazione con il risultato di avere correnti di avviamento elevate e una macchina che non parte.
+Il motore è generalmente alimentato a $V = 220\,\rm V$. La caduta di tensione però deve rimanere contenuta in modo da limitare le correnti di avviamento. Se ciò non avviene, si finisce solo per aumentare la caduta percentuale, facendo diminuire la tensione di alimentazione con il risultato di avere correnti di avviamento elevate e una macchina che non parte.
 
 Per ovviare a ciò si sfrutta l'[[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Avviamento con commutazione stella-triangolo\|#Avviamento con commutazione stella-triangolo]]
 
@@ -830,14 +841,81 @@ La coppia di spunto anche risulterà ridotta. Essendo essa proporzionale al quad
 $$
 C_{\triangle} = 3 C_{\star}
 $$
+#### Avviamento nei motori a doppia gabbia di scoiattolo
 
-❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗ chiedere appunti
-❗❗❗❗❗❗❗❗❗❗❗❗
+Nel [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Rotore a doppia gabbia di scoiattolo\|#Rotore a doppia gabbia di scoiattolo]] si è detto che le sezioni delle gabbie sono così relazionate:
+$$
+S_{e}<S_{i}
+$$
+Si possono calcolare le impedenze delle due gabbie:
+$$
+\begin{align}
+\dot Z_{i} &= R_{i} + jsX_{di} \\
+\dot Z_{e} &= R_{e} + jsX_{de}
+\end{align}
+$$
+È chiaro che la corrente totale che scorre nelle gabbie è la somma delle correnti delle singole gabbie:
+$$
+\overline{I}_{r} = \overline{I}_{i} + \overline{I}_{e}
+$$
+E lo stesso posso dire per le coppie:
+$$
+C_{m} = C_{mi} + C_{me}
+$$
+
+
+**AVVIAMENTO** - $s=1$
+
+![Schermata 2024-07-08 alle 16.29.16.png](/img/user/Schermata%202024-07-08%20alle%2016.29.16.png)
+
+In fase di avviamento, le impedenze diventano:
+$$
+\begin{align}
+\dot Z_{i} &= R_{i} + jX_{di} \\
+\dot Z_{e} &= R_{e} + jX_{de}
+\end{align}
+$$
+La resistenza rotorica, rispetto alla reattanza induttiva è trascurabile.
+Essendo, per via delle dimensioni
+$$
+X_{di} \gg X_{de} 
+$$
+sarà anche vero, in termini di impedenze:
+$$
+\dot Z_{i} \gg \dot Z_{e}
+$$
+Pertanto, la corrente di rotore, risulterà, in fase di avviamento, pari a quella della gabbia esterna
+$$
+\overline{I}{r} \simeq \overline{I}_{e}
+$$
+
+**VICINO AL SINCRONISMO** - $s\ll1$
+
+![Schermata 2024-07-08 alle 16.29.47.png](/img/user/Schermata%202024-07-08%20alle%2016.29.47.png)
+
+Una volta avviata, per velocità vicine al sincronismo, essendo lo [[#Scorrimento]] molto minore di 1, l'impedenza risulterà simile alla resistenza:
+$$
+\begin{align}
+\dot Z_{i} &= R_{i} + jsX_{di} \simeq  R_{i}\\
+\dot Z_{e} &= R_{e} + jsX_{de} \simeq  R_{e}
+\end{align}
+$$
+Essendo 
+$$
+R_{i}\ll R_{e} \quad\Longrightarrow\quad Z_{i}\ll Z_{e}
+$$
+Pertanto, la corrente rotorica sarà pari a quella della gabbia interna
+$$
+\overline{I}_{r} \simeq \overline{I}_{i}
+$$
 
 
 
-❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗ Rotore a doppia gabbia
-❗❗❗❗❗❗❗❗❗❗❗❗
+In condizioni di funzionamento intermedie la corrente si ripartirà tra le due gabbie e si avrà [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET#Caratteristica coppia scorrimento\|#Caratteristica coppia scorrimento]] intermedia tra le situazioni di $s =1$ e $s=0$.
+
+![Schermata 2024-07-08 alle 16.30.00.png](/img/user/Schermata%202024-07-08%20alle%2016.30.00.png)
+
+
+
+
 

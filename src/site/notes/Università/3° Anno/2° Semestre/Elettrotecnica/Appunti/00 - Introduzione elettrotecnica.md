@@ -341,6 +341,26 @@ $
 I conduttori generalmente non sono garantiti per una densità di corrente infinita. Il limite è in genere di $J_{MAX} = 4\,\rm \frac{A}{mm^{2}}$. Per una corrente nell'ordine di $10^{6}\,\rm A$ servirebbe un conduttore di circa $3\,\rm m^{2}$ di sezione, il che risulta alquanto sconveniente.
 ```
 
+## Elementi costruttivi
+
+### Nucleo ferromagnetico
+
+Costituiti da lamierini di acciaio al silicio a bassa cifra di perdita di spessore piccolo e ricoperti di vernice isolante.
+
+I tratti di nucleo dove sono alloggiati gli [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica#Avvolgimenti\|#Avvolgimenti]] sono detti **colonne**. I tratti di raccordo sono detti **gioghi**.
+
+### Avvolgimenti
+
+Sono costituiti da conduttori di Rame o Alluminio. Sono isolati esternamente mediante smalto sintetico.
+
+I conduttori sono avvolti per realizzare bobine formate da più spire. Le bobine sono montate coassialmente alle colonne del nucleo ferromagnetico.
+
+### Raffreddamento
+
+Il trasformatore dissipa potenza sia nel [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica#Nucleo ferromagnetico\|#Nucleo ferromagnetico]] che negli [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica#Avvolgimenti\|#Avvolgimenti]]. Le elevate temperatura potrebbero danneggiare la macchina. Sono quindi presenti dei canali con liquido refrigerante.
+
+Per potenze poco elevate il raffreddamento è a aria.
+
 # Trasformatore ideale
 
 #UNI/ET/Domanda 
@@ -394,7 +414,6 @@ $
 
 
 #### Ip 2- Tubo di flusso ideale
-
 
 ```ad-tip
 title: 2- Permeabilità magnetica del [[Ferro]] infinita
@@ -497,7 +516,7 @@ La legge di Hopkinson correla gli effetti delle grandezze elettriche (correnti) 
 title: Rapporto di trasformazione
 
 $
-n = \frac{N_{1}}{N_{2}}
+n = \frac{N_{1}}{N_{2}} = \frac{V_{1}}{V_{2}} = \frac{I_{2}}{I_{1}}
 $
 
 
@@ -572,6 +591,7 @@ $
 \dfrac{I_{1}}{I_{2}} =  \dfrac{1}{n}
 \end{cases}
 $
+
 #### Tipi di trasformatore ideale
 
 - [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica#Trasformatore elevatore o innalzatore\|#Trasformatore elevatore o innalzatore]]
@@ -647,9 +667,26 @@ $
 \eta  = \frac{P_{2}}{P_{1}} = 1
 $
 
+#### Trasferimento dell'impedenza
+
+![Trasformatore - Trasferimento delle impedenze - 2024-07-09 10.29.57.png](/img/user/Excalidraw/Trasformatore%20-%20Trasferimento%20delle%20impedenze%20-%202024-07-09%2010.29.57.png)
+
+
+Sia $\dot Z_{2}$ l'impedenza che si trova ai capi del secondario.
+Per definizione si ha:
+$
+\dot Z_{1} = \frac{\overline{V}_{1}}{\overline{I}_{1}}
+$
+Ricordando le [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica#Equazioni di trasferimento del trasformatore ideale\|#Equazioni di trasferimento del trasformatore ideale]]
+$
+\dot Z_{1} = \frac{\overline{V}_{1}}{\overline{I}_{1}} = \frac{n \overline{V}_{2}}{\frac{1}{n}\overline{I}_{2}} = n^{2} \dot{Z}_{2}
+$
+
 # Trasformatore reale
 
 Lo studio del **trasformatore reale** si effettua a partire dal [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica#Trasformatore ideale\|#Trasformatore ideale]] andando via via a rimuovere le [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica#Ipotesi di idealità\|#Ipotesi di idealità]].
+
+È progettato per avere il più possibile le proprietà del [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica#Trasformatore ideale\|#Trasformatore ideale]].
 
 ### Ipotesi trasformatore reale
 
@@ -703,8 +740,9 @@ che implica che bisogna spendere energia per magnetizzare il nucleo.
 $
 N_{1}\overline{I}_{1} \neq N_{2}\overline{I}_{2}
 $
-### Circuito equivalente reale'
+### Circuito equivalente reale
 
+#UNI/ET/Domanda 
 
 ![Trasformatore reale 2024-06-29 19.40.19.excalidraw.png](/img/user/Excalidraw/Trasformatore%20reale%202024-06-29%2019.40.19.excalidraw.png)
 
@@ -721,6 +759,8 @@ $
 \end{cases}
 $
 ### Funzionamento a vuoto
+
+#UNI/ET/Domanda 
 
 Per valutare l'energia spesa dal [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica#Trasformatore reale\|#Trasformatore reale]] lo si studia in una configurazione a vuoto. Nel secondario viene lasciato il [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET#Circuito aperto\|circuito aperto]] e quindi $\overline{I}_{2}=0$. 
 
@@ -813,6 +853,7 @@ $
 ❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗
 ❗❗❗❗❗❗❗❗❗❗❗❗
+
 
 
 </div></div>

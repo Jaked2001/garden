@@ -458,21 +458,21 @@ $$
 #### Rete D-Y
 
 ❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
+❗❗❗ COMPLETARE ❗❗❗ Non lo farò
 ❗❗❗❗❗❗❗❗❗❗❗❗
 
 #### Rete Y-D
 
 
 ❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
+❗❗❗ COMPLETARE ❗❗❗ Non lo farò
 ❗❗❗❗❗❗❗❗❗❗❗❗
 
 ### Rete ridotta monofase
 
 
 ❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
+❗❗❗ COMPLETARE ❗❗❗ Non lo farò
 ❗❗❗❗❗❗❗❗❗❗❗❗
 
 ## Potenza nei sistemi trifase
@@ -586,9 +586,10 @@ Qualora si volesse collegare il banco di condensatori a triangolo, sarà suffici
 $$
 C_{\triangle} = \frac{1}{3} C_{Y} 
 $$
+
 ❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗ 
-❗❗❗❗❗❗❗❗❗❗❗❗ motivi per preferire stella o triangolo
+❗❗❗❗❗❗❗❗❗❗❗❗ motivi per preferire stella o triangolo (non lo farò)
 
 
 

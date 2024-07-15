@@ -8,7 +8,6 @@
 
 ## Misura dell'altezza di pioggia
 
-
 Misurare l'altezza di pioggia consiste far si che piova all'interno di un contenitore attraverso una sezione $A$ per un tempo $t$. Si misura, nel tempo $t$, il volume del contenitore che è stato riempito e si calcola l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Altezza di pioggia\|#Altezza di pioggia]] dividendo per l'area della sezione.
 
 Bisogna necessariamente individuare una scala di tempo (1 h, 6 h, 1 gg).
@@ -21,7 +20,6 @@ Le osservazioni di ogni stazione di misura vengono raccolte in una tabella in cu
 ### Pluviometro
 
 ![Schermata 2024-03-23 alle 19.06.18.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-03-23%20alle%2019.06.18.png)
-
 
 
 ```ad-Definizione
@@ -39,7 +37,6 @@ Il pluviometro permette di calcolare:
 - [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Intensità di pioggia\|#Intensità di pioggia]]
 
 Esistono diversi tipi di pluviometri:
-- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro ordinario\|#Pluviometro ordinario]]
 - [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro a Sifone\|#Pluviometro a Sifone]]
 - [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro a Bilanciere\|#Pluviometro a Bilanciere]]
 
@@ -83,15 +80,15 @@ $$
 
 #### Tipi di pluviometro
 
-#### Pluviometro ordinario
-
-#### Pluviometro a Sifone
+##### Pluviometro a Sifone
 
 Necessita di un tempo di scarico in cui si perde la misura.
 
-#### Pluviometro a Bilanciere
+##### Pluviometro a Bilanciere
 
 Come il [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro a Sifone\|#Pluviometro a Sifone]] è una tipologia di [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro registratore\|#Pluviometro registratore]]. Permette di conoscere con continuità la distribuzione delle precipitazioni nell'arco delle 24 ore.
+
+![Schermata 2024-07-13 alle 17.09.21.png](/img/user/Schermata%202024-07-13%20alle%2017.09.21.png)
 
 È costituito da un bilanciere (B nel diagramma), formato da due vaschette triangolari (V) in cui affluisce l'acqua raccolta dall'imboccatura. Il bilanciere presenta alternativamente l'una o l'altra vaschetta. Quando una vaschetta si riempie, il peso dell'acqua fa basculare il bilanciere, che presenta all'imboccatura l'altra vaschetta, svuotando la prima in un imbuto I.
 
@@ -114,8 +111,7 @@ Sulla base delle misurazioni del [[Università/3° Anno/2° Semestre/Idrologia/A
 ![02 - Piogge Intense - Idro 2024-05-01 17.08.51.excalidraw.png](/img/user/Excalidraw/02%20-%20Piogge%20Intense%20-%20Idro%202024-05-01%2017.08.51.excalidraw.png)
 
 
-
-Tramite lo studio delle piogge possiamo valutare una delle forzanti di progetto.
+Tramite lo studio delle piogge possiamo valutare una delle forzanti di progetto (evento o una condizione esterna usata come variabile di progetto).
 
 L'andamento delle piogge è interessante per due fini:
 - Valutare cosa è già successo
@@ -123,7 +119,7 @@ L'andamento delle piogge è interessante per due fini:
 
 In realtà non siamo tanto interessati a sapere **quanto** piove, ma piuttosto a sapere **cosa succede** sul territorio quando piove in un certo modo.
 
-È pertanto utile studiare l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Idrogramma di piena\|#Idrogramma di piena]].
+È pertanto utile studiare l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Idrogramma di piena\|#Idrogramma di piena]] (Portata-Tempo).
 
 ![Schermata 2023-01-01 alle 01.10.04.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202023-01-01%20alle%2001.10.04.png)
 
@@ -144,11 +140,17 @@ Lo scopo dello studio delle scale di tempo è quello di riuscire a trovare un m
 
 OBIETTIVO: abbiamo una porzione di territorio e la scala di tempo. Dobbiamo trovare la PIOGGIA DI PROGETTO (valore massimo CAUTELATIVO), ossia dobbiamo cercare una SOLLECITAZIONE MASSIMA A FAVORE DI SICUREZZA.
 
-Vi è un limite fisico per le precipitazioni pari al contento di acqua nell’atmosfera ossia 12900 km3 , ma ovviamente questa quantità a livello ingegneristico può essere considerata pari a infinito; ci chiediamo allora quale potrebbe essere in una certa zona la max quantità di acqua che può cadere, ossia voglio trovare il massimo in una scala di tempo.
+Vi è un limite fisico per le precipitazioni pari al contenuto di acqua nell’atmosfera ossia $12'900\,\rm km^3$, ma ovviamente questa quantità a livello ingegneristico può essere considerata pari a infinito; ci chiediamo allora quale potrebbe essere in una certa zona la max quantità di acqua che può cadere, ossia voglio trovare il massimo in una scala di tempo.
+
+Per farlo mi appello a valori pre-esistenti.
 
 Piogge intense di breve durata: PIOGGE BREVI DI MASSIMA INTENSITÀ.
 
 ![Schermata 2023-01-01 alle 01.14.57.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202023-01-01%20alle%2001.14.57.png)
+
+I dati raccolti sono statisticamente dipendenti: ogni intervallo temporale comprende il precedente. (dipendenza fisica = dipendenza statistica)
+
+
 
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗ descrivi tabella!!!
@@ -162,9 +164,6 @@ Si ha che:
 $$
 \max S_{d} < \max S_{h}
 $$
-
-![02 - Piogge - Idro 2023-01-01 01.22.08.excalidraw.png](/img/user/Excalidraw/02%20-%20Piogge%20-%20Idro%202023-01-01%2001.22.08.excalidraw.png)
-
 
 Ingegneristicamente non esiste un valore massimo di intensità di pioggia in un punto.
 
@@ -182,12 +181,14 @@ $$
 $$
 Questo comportamento ci dice che questa grandezza è **scala invariante**: Se misuro a un giorno o a due giorni, la misura che ottengo raddoppiando la scala, è lo stesso che otterrei raddoppiando una scala più piccola.
 
-![02 - Piogge - Idro 2023-01-01 01.34.31.excalidraw.png](/img/user/Excalidraw/02%20-%20Piogge%20-%20Idro%202023-01-01%2001.34.31.excalidraw.png)
+La massima altezza di pioggia registrata è una grandezza indipendente dallo spazio e dipende solo dal tempo in cui però è scala invariante.
 
+```ad-example
+title: Esempio
 
-- [?] non ho capito questa cosa
+Immaginiamo di dover fare un progetto a Catania (relativamente secco). Se voglio essere sicuro sicuro che l'opera regga, uso il valore che deriva dal grafico sopra. Ovviamente però sto sovradimensionando parecchio.
 
-comportamento multifrattale
+```
 
 Prendere come forzante di progetto il massimo assoluto nel mondo porterebbe, nelle nostre zone, a sovradimensionare le opere.
 
@@ -196,6 +197,8 @@ Dobbiamo introdurre un modello di interpretazione dei dati che tenga conto anche
 ## Leggi altezza-durata-frequenza (Casi critici)
 
 Le leggi altezza-durata-frequenza legano l'**altezza** e la **durata** della pioggia alla **frequenza** con cui l'evento è superato.
+
+Sono necessarie a stabilire una legge di probabilità per trovare un valore massimo dell'altezza di pioggia e il rischio che si può presentare.
 
 Nella tabella sottostante sono riportati per diversi anni le altezze di pioggia massime durante l'anno misurate negli intervalli di tempo di 1, 3, 6, 12, 24 ore.
 
@@ -236,11 +239,12 @@ h = a t^{n}
 $$
 ossia
 $$
-h_{i}(t_{j}) = h_{1,i}t^{n}_{j}
+h_{i}(t_{j}) = h_{1,i}t^{n_{i}}_{j}
 $$
 dove:
 - $t_{j}= \{1 \,\rm h, 3\,\rm h, 6\,\rm h, 12\,\rm h, 24\,\rm h\}$
 - $i:$ numero di caso critico
+- $n:$ parametro
 
 Non vogliamo che le curve di approssimazione si intersechino.
 Quindi facciamo un modello semplice in cui $n$ è uguale per tutte le rette.
@@ -253,29 +257,12 @@ Quindi facciamo un modello semplice in cui $n$ è uguale per tutte le rette.
 
 Ogni retta ha la stessa probabilità di essere superata.
 
-se i parametri sono i seguenti:
+In questo caso viene $n = 0.288$
 
-![Schermata 2024-03-18 alle 09.34.49.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-03-18%20alle%2009.34.49.png)
 
-abbiamo un problema di adattamento di dati a una legge di probabilità.
 
-$$
-F_{Ns,i} = \frac{i}{n^{*}}
-$$
-con $n_{1,i}$ dove $i = 1,n^{*}$.
+#### Distribuzione di Gumbel (EV1)
 
-$$
-F_{NS,n^{*}}=1
-$$
-Allo statistico questa cosa non piace. [[Plotting position\|Plotting position]].
-
-Vogliamo passare da frequenze osservate a una legge di probabilità.
-
-Distribuzione normale: [[Università/2° anno/2° Semestre/Probabilità e statistica/Appunti/03. Variabili Aleatorie#Variabile Aleatoria Normale o Gaussiana\|03. Variabili Aleatorie#Variabile Aleatoria Normale o Gaussiana]]
-
-Teorema del limite centrale: comunque sommi variabili comunque distribuite, tende ad essere la distribuzione normale.
-
-**Distribuzione di Gumbel** (EV1):
 $$\Large
 \begin{align}
 \mathcal{P}(x) &= e^{-e^{-\alpha(x-\varepsilon)}} \\
@@ -286,7 +273,8 @@ I parametri da stimare sono:
 - $\alpha$:
 - $\varepsilon= \mu-0.45 \cdot \sigma$
 
-**Distribuzione di Freschet (EV2):**
+#### Distribuzione di Frechet (EV2)
+
 $$\Large
 \begin{align}
 \mathcal{P}(x) &= e^{-\left(\frac{x}{\varepsilon}\right)^-\alpha} \\
@@ -297,6 +285,8 @@ $$
 ![02 - Piogge Intense - Idro 2024-03-18 10.08.56.excalidraw.png](/img/user/Excalidraw/02%20-%20Piogge%20Intense%20-%20Idro%202024-03-18%2010.08.56.excalidraw.png)
 
 
+#### Stima dei parametri
+
 I parametri sono stimati con il [[Università/2° anno/2° Semestre/Probabilità e statistica/Appunti/04. Inferenza Statistica#Metodo dei momenti\|metodo dei momenti]].
 
 ![02 - Piogge Intense - Idro 2024-03-18 10.11.22.excalidraw.png](/img/user/Excalidraw/02%20-%20Piogge%20Intense%20-%20Idro%202024-03-18%2010.11.22.excalidraw.png)
@@ -306,29 +296,10 @@ Carta probabilistica di Gumbel. La funzione di probabilità cumulata è rapprese
 
 Questo vale da un'ora in su. 
 
-![02 - Piogge Intense - Idro 2024-03-18 10.15.56.excalidraw.png](/img/user/Excalidraw/02%20-%20Piogge%20Intense%20-%20Idro%202024-03-18%2010.15.56.excalidraw.png)
+### Casi critici per brevissime durate
 
 
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗ che è sto grafico???
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-
-- [?] che è sto grafico???
-
-$$
-h = a t^{n} \qquad 
-$$
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-
-
-$$
-\lim_{t \to 0} i = \lim_{t \to 0} \frac{h}{t} = \lim_{t \to 0} \left[a t^{n-1}\right] = \infty
-$$
-
-![02 - Piogge Intense - Idro 2024-03-18 10.24.04.excalidraw.png](/img/user/Excalidraw/02%20-%20Piogge%20Intense%20-%20Idro%202024-03-18%2010.24.04.excalidraw.png)
-
+Sono interessato a conoscere le altezze di pioggia per durate inferiori all'ora.
 
 ![Schermata 2024-03-18 alle 10.25.59.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-03-18%20alle%2010.25.59.png)
 

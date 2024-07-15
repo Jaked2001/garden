@@ -22,7 +22,7 @@ to: Esame 🔌 Elettrotecnica
 - Giulio Fabricatore, *Elettrotecnica e applicazioni. Reti, macchine, misure, impianti*, Liguori - se ce lo ritroviamo
 - Materiale didattico su pag google Slide e pag classroom
 
-[[Università/3° Anno/2° Semestre/Elettrotecnica/allegati/Elettrotecnica 1 - Principi - G. Chitarin.pdf]]
+[[Università/3° Anno/2° Semestre/Elettrotecnica/allegati/Elettrotecnica 1 - Principi - G. Chitarin.pdf\|Università/3° Anno/2° Semestre/Elettrotecnica/allegati/Elettrotecnica 1 - Principi - G. Chitarin.pdf]]
 
 🕰 Orario:
 - **Lunedì:** 15:00-17:00 - RM006 Aula 15
@@ -85,13 +85,14 @@ Eventuale prova [[Università/3° Anno/2° Semestre/Elettrotecnica/🔌 Elettrot
 
 🕒 Tempo: 90' + 60'
 Esercizi: 
-1. **1 esercizio** (90') in regime sinuosodale. Monofase o trifase
+1. **1 esercizio** (90') in regime sinusoidale. Monofase o trifase
 2. **2 domande** di teoria (60') su tutto il programma
 
 
 ### 🗣 Orale 
 
 Facoltativo
+
 
 
 ## 💯 Voto
@@ -104,38 +105,14 @@ Facoltativo
 
 # ✔️ To-Do
 
-
-```todoist
-filter: "#Università & /🔌 Elettrotecnica"
-autrefresh: 300
-```
-
-
 ___
 
-| File                                                                                                                                                                            | Tipo  | Stato         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------------- |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2023-03-15 - ET\|Ex 2023-03-15 - ET]]                                                                        | Esame | 🔴 Fare       |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]]                                                 | T     | 🪶 Scrivere   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/20 - Cenni di impianti elettrici - ET\|20 - Cenni di impianti elettrici - ET]]                                       | T     | 🪶 Scrivere   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET\|14 - Reti in regime sinusoidale - ET]]                                         | T     | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET\|15 - Reti trifasi - ET]]                                                                     | T     | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET\|19 - Motore Asincrono Trifase - ET]]                                             | T     | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET\|08 - Reti in regime stazionario - ET]]                                         | T     | 🪶🟡Scrivere  |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET\|03 - Introduzione allo studio delle reti elettriche - ET]] | T     | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET\|04 - Fenomeni di conduzione e resistori - ET]]                         | T     | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/05 - Generatori elettrici - ET\|05 - Generatori elettrici - ET]]                                                     | T     | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET\|06 - Bipoli e potenza elettrica - ET]]                                         | T     | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/07 - Proprietà generali delle reti elettriche - ET\|07 - Proprietà generali delle reti elettriche - ET]]             | T     | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/09 - Fenomeni dielettrici e condensatore - ET\|09 - Fenomeni dielettrici e condensatore - ET]]                       | T     | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/10 - Fenomeni magnetici ed induttori - ET\|10 - Fenomeni magnetici ed induttori - ET]]                               | T     | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET\|13 - Funzioni sinusoidali e fasori - ET]]                                   | T     | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/17 - Conversione elettromeccanica dell'energia - ET\|17 - Conversione elettromeccanica dell'energia - ET]]           | T     | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/18 - Campo magnetico rotante\|18 - Campo magnetico rotante]]                                                         | T     | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2023-01-11 - ET\|Ex 2023-01-11 - ET]]                                                                        | Esame | 🟡 Finire     |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/16 - Macchine elettriche - ET\|16 - Macchine elettriche - ET]]                                                       | T     | 🟡 Finire     |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Esercitazioni/Es 5 - Esercizi ET\|Es 5 - Esercizi ET]]                                                                       | Es    | 🟢 Fatto      |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2020-09-09 - ET\|Ex 2020-09-09 - ET]]                                                                        | Esame | 🟢 Fatto      |
+| File                                                                                                                                    | Tipo  | Stato         |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------------- |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2021-07-14 - ET\|Ex 2021-07-14 - ET]]                                | Esame | 🔴 Fare       |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]]         | T     | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET\|14 - Reti in regime sinusoidale - ET]] | T     | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2023-07-13 - ET\|Ex 2023-07-13 - ET]]                                | Esame | 🟡 Finire     |
 
 { .block-language-dataview}
 
@@ -154,22 +131,22 @@ La numerazione dei capitoli fa riferimento alla numerazione del libro di testo "
 | File                                                                                                                                                                            | Stato         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/00 - Introduzione elettrotecnica\|00 - Introduzione elettrotecnica]]                                                 | 🪶 Scrivere   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET\|03 - Introduzione allo studio delle reti elettriche - ET]] | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET\|04 - Fenomeni di conduzione e resistori - ET]]                         | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/05 - Generatori elettrici - ET\|05 - Generatori elettrici - ET]]                                                     | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET\|06 - Bipoli e potenza elettrica - ET]]                                         | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/07 - Proprietà generali delle reti elettriche - ET\|07 - Proprietà generali delle reti elettriche - ET]]             | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET\|08 - Reti in regime stazionario - ET]]                                         | 🪶🟡Scrivere  |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/09 - Fenomeni dielettrici e condensatore - ET\|09 - Fenomeni dielettrici e condensatore - ET]]                       | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/10 - Fenomeni magnetici ed induttori - ET\|10 - Fenomeni magnetici ed induttori - ET]]                               | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET\|13 - Funzioni sinusoidali e fasori - ET]]                                   | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET\|03 - Introduzione allo studio delle reti elettriche - ET]] | 🟢 Fatto      |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET\|04 - Fenomeni di conduzione e resistori - ET]]                         | 🟢 Fatto      |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/05 - Generatori elettrici - ET\|05 - Generatori elettrici - ET]]                                                     | 🟢 Fatto      |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET\|06 - Bipoli e potenza elettrica - ET]]                                         | 🟢 Fatto      |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/07 - Proprietà generali delle reti elettriche - ET\|07 - Proprietà generali delle reti elettriche - ET]]             | 🟢 Fatto      |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET\|08 - Reti in regime stazionario - ET]]                                         | 🟢 Fatto      |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/09 - Fenomeni dielettrici e condensatore - ET\|09 - Fenomeni dielettrici e condensatore - ET]]                       | 🟢 Fatto      |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/10 - Fenomeni magnetici ed induttori - ET\|10 - Fenomeni magnetici ed induttori - ET]]                               | 🟢 Fatto      |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET\|13 - Funzioni sinusoidali e fasori - ET]]                                   | 🟢 Fatto      |
 | [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET\|14 - Reti in regime sinusoidale - ET]]                                         | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET\|15 - Reti trifasi - ET]]                                                                     | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/16 - Macchine elettriche - ET\|16 - Macchine elettriche - ET]]                                                       | 🟡 Finire     |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/17 - Conversione elettromeccanica dell'energia - ET\|17 - Conversione elettromeccanica dell'energia - ET]]           | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/18 - Campo magnetico rotante\|18 - Campo magnetico rotante]]                                                         | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET\|19 - Motore Asincrono Trifase - ET]]                                             | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/20 - Cenni di impianti elettrici - ET\|20 - Cenni di impianti elettrici - ET]]                                       | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/15 - Reti trifasi - ET\|15 - Reti trifasi - ET]]                                                                     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/16 - Macchine elettriche - ET\|16 - Macchine elettriche - ET]]                                                       | 🟢 Fatto      |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/17 - Conversione elettromeccanica dell'energia - ET\|17 - Conversione elettromeccanica dell'energia - ET]]           | 🟢 Fatto      |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/18 - Campo magnetico rotante - ET\|18 - Campo magnetico rotante - ET]]                                               | 🟢 Fatto      |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/19 - Motore Asincrono Trifase - ET\|19 - Motore Asincrono Trifase - ET]]                                             | 🟢 Fatto      |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/20 - Cenni di impianti elettrici - ET\|20 - Cenni di impianti elettrici - ET]]                                       | 🟢 Fatto      |
 
 { .block-language-dataview}
 
@@ -192,11 +169,15 @@ ___
 ## Temi d'esame
 
 
-| File                                                                                                     | Stato     | PDF                                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2020-09-09 - ET\|Ex 2020-09-09 - ET]] | 🟢 Fatto  | <ul><li>[[9-09-2020 - Esame - ET.pdf\\|9-09-2020 - Esame - ET.pdf]]</li><li>[[9-09-2020 - Soluzione - ET.pdf\\|9-09-2020 - Soluzione - ET.pdf]]</li></ul> |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2023-01-11 - ET\|Ex 2023-01-11 - ET]] | 🟡 Finire | <ul><li>[[11-01-2023 - Esame - ET.pdf\\|11-01-2023 - Esame - ET.pdf]]</li></ul>                                                                           |
-| [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2023-03-15 - ET\|Ex 2023-03-15 - ET]] | 🔴 Fare   | <ul><li>[[2023-03-15 - Esame - ET.pdf\\|2023-03-15 - Esame - ET.pdf]]</li></ul>                                                                           |
+| File                                                                                                         | Tipologia | PDF                                                                                                                                                       | Stato     |
+| ------------------------------------------------------------------------------------------------------------ | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex - 2023-09-09 - ET\|Ex - 2023-09-09 - ET]] | \-        | \-                                                                                                                                                        | 🟢 Fatto  |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2020-09-09 - ET\|Ex 2020-09-09 - ET]]     | Monofase  | <ul><li>[[9-09-2020 - Esame - ET.pdf\\|9-09-2020 - Esame - ET.pdf]]</li><li>[[9-09-2020 - Soluzione - ET.pdf\\|9-09-2020 - Soluzione - ET.pdf]]</li></ul> | 🟢 Fatto  |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2021-07-14 - ET\|Ex 2021-07-14 - ET]]     | \-        | \-                                                                                                                                                        | 🔴 Fare   |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2023-01-11 - ET\|Ex 2023-01-11 - ET]]     | Trifase   | <ul><li>[[11-01-2023 - Esame - ET.pdf\\|11-01-2023 - Esame - ET.pdf]]</li></ul>                                                                           | 🟢 Fatto  |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2023-07-13 - ET\|Ex 2023-07-13 - ET]]     | Trifase   | <ul><li>[[2023-07-13 - Esame - ET.pdf\\|2023-07-13 - Esame - ET.pdf]]</li></ul>                                                                           | 🟡 Finire |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2023-03-15 - ET\|Ex 2023-03-15 - ET]]     | Trifase   | <ul><li>[[2023-03-15 - Esame - ET.pdf\\|2023-03-15 - Esame - ET.pdf]]</li></ul>                                                                           | 🟢 Fatto  |
+| [[Università/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2023-09-08 - ET\|Ex 2023-09-08 - ET]]     | Monofase  | <ul><li>[[2023-09-08 - Esame - ET.pdf\\|2023-09-08 - Esame - ET.pdf]]</li></ul>                                                                           | 🟢 Fatto  |
 
 { .block-language-dataview}
 

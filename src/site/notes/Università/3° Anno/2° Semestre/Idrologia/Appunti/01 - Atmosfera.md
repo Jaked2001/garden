@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/universita/3-anno/2-semestre/idrologia/appunti/01-atmosfera/"}
 ---
 
+
+
 # [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera\|01 - Atmosfera]]
+
 
 
 
@@ -40,7 +43,7 @@ L'atmosfera è costituita essenzialmente da in miscuglio di gas che avvolge il g
 Lo spessore dell'atmosfera non è precisamente definibile. 
 La sua densità diminuisce con l'altitudine, fino a sfumare nel vuoto pressoché assoluto dello spazio.
 
-La massa dell'atmosfera è valutata pari a circa $5\times 10^{5} \,\rm ton$ e contenuta al $75\%$ nei primi $15\,\rm km$ di spessore.
+La massa dell'atmosfera è valutata pari a circa $5\times 10^{15} \,\rm ton$ e contenuta al $75\%$ nei primi $15\,\rm km$ di spessore.
 
 Anche la composizione dell'atmosfera varia con l'altitudine. Al crescere della quota, l'aria si impoverisce degli elementi più pesanti, arricchendosi di quelli più leggeri.
 Già a $90\,\rm km$ di altezza è costituita quasi esclusivamente di [[Idrogeno\|Idrogeno]] e ioni.
@@ -48,7 +51,7 @@ Già a $90\,\rm km$ di altezza è costituita quasi esclusivamente di [[Idrogeno\
 ![Schermata 2024-03-16 alle 11.12.35.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-03-16%20alle%2011.12.35.png)
 
 
-Nei primi $10\div15 \,\rm km$ ([[Troposfera\|Troposfera]]) che costituiscono la parte dell'atmosfera interessata da moti orizzontali e verticali, la composizione dell'**atmosfera secca** è praticamente uniforme e non varia con l'altitudine.
+Nei primi $10\div15 \,\rm km$ ([[Troposfera\|Troposfera]]) che costituiscono la parte dell'atmosfera interessata da moti orizzontali e verticali, la composizione dell'**atmosfera secca** è praticamente uniforme e non varia con l'altitudine. Varia la densità.
 
 ```ad-note
 title: Osservazione
@@ -85,12 +88,14 @@ Le 6 zone individuate sono:
 
 È lecito, per le dimensioni del Sole e della Terra e per la distanza tra questi due corpi, considerare i raggi solari che impattano sulla Terra come **paralleli**.
 
+
 La'[[energia\|energia]] (espressa come potenza) emessa dal [[Sole\|Sole]] sotto forma di [[radiazione\|radiazione]] è assimilabile a quella emessa da un [[Corpo nero\|Corpo nero]] a temperatura di $6000\,\rm k$, descritta dalla [[Legge di Stefan-Boltzman\|Legge di Stefan-Boltzman]]:
 $$
 W = \sigma T^{4}
 $$
 dove
 - $\sigma = 0.826 \times 10^{-10} \,\rm \dfrac{cal}{cm^{2}min \cdot k^{4}}$
+
 
 Inoltre, secondo la [[Legge di Wein\|Legge di Wein]], anche la lunghezza d'onda $\lambda_{M}$ per cui lo spettro di emissione di un corpo nero è massimo dipende unicamente dalla temperatura:
 $$
@@ -103,6 +108,7 @@ In particolare, nel caso del Sole, si ha che lo spettro di emissione è massimo 
 
 Quasi la totalità dello spettro è compreso nel campo delle radiazioni a piccola lunghezza d'onda (minori di $4 \,\rm \mu m$).
 
+
 #### Insolazione
 
 ```ad-Definizione
@@ -110,8 +116,9 @@ title: Insolazione
 
 L'**insolazione** è l'intensità dell'irraggiamento su una superficie orizzonale. 
 
+%%
 Si misura in [[Langley]] ($\rm ly$) ed è pari a $1 \,\rm ly = 1 \,\rm \frac{cal}{cm^{2}d}$.
-
+%%
 ```
 
 Senza l'atmosfera l'insolazione nei punti della superficie terrestre dipenderebbe unicamente dall'orientamento della superficie rispetto ai raggi solari, dalla distanza della Terra dal Sole e dalla durata del giorno nel punto considerato.
@@ -132,11 +139,6 @@ Essendo la superficie terrestre riscaldata per irraggiamento, emette a sua volta
 
 ![Schermata 2024-03-17 alle 16.10.25.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-03-17%20alle%2016.10.25.png)
 
-
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗ bilancio energetico. Non l'ho capito
-❗❗❗❗❗❗❗❗❗❗❗❗❗
-
 ##### Albedo
 
 ```ad-Definizione
@@ -146,10 +148,14 @@ L'**albedo** è la quota-parte dell'energia incidente riflessa nello spazio dal 
 
 ```
 
+#### Scambi atmosferici
+
+Dipendono da:
+- Correnti atmosferiche - 85%
+- Correnti marine - 15%
 
 
 ## Distribuzione della temperatura
-
 
 La distribuzione della temperatura è variabile nel tempo. Presenta però delle caratteristiche generali.
 
@@ -167,7 +173,7 @@ dove:
 - $T$: temperatura
 ```
 
-Il gradiente termico viene considerato positivo se la temperatura diminuisce con l'aumentare della quota.
+**Il gradiente termico viene considerato positivo se la temperatura diminuisce con l'aumentare della quota.** (per questo motivo c'è il meno)
 
 L'atmosfera può essere suddivisa in quattro zone principali:
 - [[Troposfera\|Troposfera]]
@@ -226,8 +232,6 @@ La stratosfera si estende fino ai $25\div35 \,\rm km$ d'altitudine e termina con
 </div></div>
 
 
-![Schermata 2024-03-17 alle 21.34.47.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-03-17%20alle%2021.34.47.png)
-
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -247,9 +251,25 @@ L'ozono assorbe le radiazioni ultraviolette dell'irraggiamento solare, per cui l
 </div></div>
 
 
-❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗ Strati dell'atmosfera
-❗❗❗❗❗❗❗❗❗❗❗❗
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/termosfera/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+```ad-Definizione
+title: Termosfera
+
+La termosfera è lo strato sopra la [[Mesosfera]]. È la fascia più esterna dell'atmosfera costituita principalmente da idrogeno e ioni prodotti dalla radiazione a bassa lunghezza d'onda.
+
+```
+  
+Questa fascia ha gradiente negativo (temperatura aumenta dal basso verso l'alto).
+
+</div></div>
+
+
 
 ### Distribuzione orizzontale della temperatura al suolo
 
@@ -300,6 +320,7 @@ Si misura in *millibar* ($\rm mb$). Si può anche riferirla ala risalita del [[M
 
 ```
 
+
 $$
 \begin{align}
 1 \,\rm mb &= 0.750062 \,\rm mmHg \\
@@ -340,7 +361,7 @@ Le isobare relative ad una determinata altitudine sono quindi le linee luogo dei
 ```ad-Definizione
 title: Tensione del vapor d'acqua ($\tau$)
 
-La **tensione del vapor d'acqua** o più semplicemente **vapor d'acqua** è la pressione parziale del vapor d'acqua nell'atmosfera.
+La **tensione del vapor d'acqua** ($\tau$) o più semplicemente **vapor d'acqua** è la pressione parziale del vapor d'acqua nell'atmosfera.
 
 ```
 
@@ -348,6 +369,7 @@ Se si indica con $P_{d}$ la pressione dell'aria secca, la [[#Pressione atmosferi
 $$
 p = P_{d} + \tau
 $$
+
 ##### Umidità assoluta
 
 ```ad-Definizione
@@ -430,6 +452,8 @@ Possiamo distinguere tra
 
 ### Correnti verticali
 
+(correnti **convettive**)
+
 Quando l’aria sale, incontra temperature più basse, si espande e si raffredda. Raffreddandosi può dare luogo alla condensazione. Abbassandosi invece si comprime e si riscalda.
 
 Nella [[Troposfera]] il [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Gradiente termico verticale\|#Gradiente termico verticale]] è generalmente positivo (la temperatura diminuisce all'aumentare della quota).
@@ -438,7 +462,7 @@ Può avvenire in determinate circostanze che questo risulti negativo.
 
 Quando un volume d'aria aumenta di quota, è soggetta a **pressioni minori**. Questo la porta ad **espandersi** e a **raffreddarsi**.
 
-Il processo delle correnti verticali, in assenza di precipitazioni, può essere considerato adiabatico (senza scambi di calore con l'esterno).
+Il processo delle correnti verticali, in assenza di precipitazioni, può essere considerato [[adiabatico\|adiabatico]] (senza scambi di calore con l'esterno).
 Alla luce di ciò andiamo a definire
 - [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Gradiente adiabatico secco\|#Gradiente adiabatico secco]] - $\Gamma_{s}$
 - [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Gradiente adiabatico umido\|#Gradiente adiabatico umido]] - $\Gamma_{u}$
@@ -466,9 +490,14 @@ Il **gradiente adiabatico umido** è il decremento della temperatura per unità 
 
 ```
 
+##### Gradiente pseudo-adiabatico
+
+il gradiente con condensazione che ha luogo quando il vapor d'acqua condensato si allontana sotto forma di precipitazione, sottraendo calore al sistema
+
 #### Stabilità dell'atmosfera
 
 ![Schermata 2024-03-23 alle 18.50.15.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/Schermata%202024-03-23%20alle%2018.50.15.png)
+
 
 A seconda che un volume d'aria, spostato in senso verticale, tenda o meno a tornare nella sua posizione di origine, distinguiamo fra:
 - [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Atmosfera stabile\|#Atmosfera stabile]]
@@ -492,19 +521,23 @@ A sua volta l'atmosfera stabile può essere
 title: Atmosfera assolutamente stabile
 
 L'atmosfera si dice **assolutamente stabile** se il [[#Gradiente termico verticale]] $\gamma$ è minore (anche, quindi, se si è in presenza di un'[[#inversione]]) sia di $\Gamma_{s}$ sia di $\Gamma_{u}$.
+
+
 Se si solleva una massa d'aria la sua temperatura risulta minore e la sua densità maggiore di quella dell'aria che la circonda ed essa tende a scendere e a riassumere la sua posizione iniziale.
 
 ```
 
+
 ###### Atmosfera condizionalmente stabile
 
-
 ```ad-Definizione
-title: Atmosfera condizionalmente stabile
+title: Atmosfera condizionatamente stabile
 
-L'atmosfera si dice **condizionalmente stabile** se il [[#Gradiente termico verticale]] $\gamma$ è minore di $\Gamma_{s}$ ma **NON** di $\Gamma_{u}$.
+L'atmosfera si dice **condizionatamente stabile** se il [[#Gradiente termico verticale]] $\gamma$ è minore di $\Gamma_{s}$ ma **NON** di $\Gamma_{u}$.
 
-In questo caso l'aria è stabile finché non vi è condensazione. Se ha luogo la condensazione, l'aria, spostandosi verticalmente, cambia temperatura secondo la curva U e, venendo a trovarsi ad una temperatura superiore a quella dell'aria che la circonda, tende ad innalzarsi ulteriormente, allontanandosi ancora dalla sua posizione originaria.
+In questo caso l'aria è stabile *finché* non vi è condensazione.
+
+Se ha luogo la condensazione, l'aria, spostandosi verticalmente, cambia temperatura secondo la curva U e, venendo a trovarsi ad una temperatura superiore a quella dell'aria che la circonda, tende ad innalzarsi ulteriormente, allontanandosi ancora dalla sua posizione originaria.
 ```
 
 
@@ -513,9 +546,10 @@ In questo caso l'aria è stabile finché non vi è condensazione. Se ha luogo la
 ```ad-Definizione
 title: Atmosfera instabile
 
-L'atmosfera si dice **stabile** quando un volume elementare d'aria, spostato in senso verticale, tende ad allontanarsi ulteriormente.
+L'atmosfera si dice **instabile** quando un volume elementare d'aria, spostato in senso verticale, tende ad allontanarsi ulteriormente.
 
 ```
+
 
 ###### Atmosfera assolutamente instabile
 
@@ -584,6 +618,7 @@ Per la [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Legg
 Al suolo è presente una componente **centrifuga**, la forza $\vec{C}$ che è diretta perpendicolarmente alle isobare e sempre verso l'esterno.
 
 L'anticiclone è alimentato da una corrente centrale **discendente**.
+
 ##### Sistema ciclonico
 
 ![Schermata 2024-05-01 alle 12.42.55.png|Ciclone nell'emisfero settentrionale](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-05-01%20alle%2012.42.55.png)
@@ -599,10 +634,64 @@ Il ciclone è alimentato da una corrente centrale **ascendente**.
 ### Circolazione generale dell'atmosfera
 
 
+La circolazione atmosferica opera circa l'85% del trasporto di energia.
+
+Se la Terra fosse ferma, il trasporto avverrebbe secondo lo scema della [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Cella di Hadley\|#Cella di Hadley]]: l'aria calda si solleverebbe nella zona equatoriale, migrando verso i poli. Poi torna fredda all'equatore basso.
+
+Il semplice schema della cella di Hadley è completamente alterato dalla rotazione Terrestre.
+La Terra gira da Occidente verso Oriente. L'aria ferma all'Equatore è animata da una velocità assoluta verso est (pari a quella della Terra). Ai poli invece l'aria è ferma. Pertanto, nel moto da Equatore a Polo, l'aria tende ad essere deviata, rispetto al suolo, verso ovest.
+
+![Schermata 2024-07-13 alle 15.37.38.png](/img/user/Schermata%202024-07-13%20alle%2015.37.38.png)
+
+
+
+
+
+
+
+
 ❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗
 ❗❗❗❗❗❗❗❗❗❗❗❗
 
+
+
+I monsoni: Una delle anomalie più marcate introdotte dalla distribuzione dei mari e delle terre emerse nella circolazione generale dell'atmosfera. Interessano tutta la fascia meridionale del continente asiatico, e sono 2:
+- Monsone invernale
+- Monsone estivo:
+	- Vento costante ed estremamente umido.
+	- Il suo innalzamento sulla catena dell'Hymalaya genera delle precipitazioni intensissime sulle regioni pedemontane (alla base dei monti)
+
+# Fronti
+
+**Massa d'aria fredda:** Se va verso una regione più calda
+**Massa d'aria calda:** Se va verso una regione più fredda
+
+Quando una massa d'aria calda transita in una regione più fredda, passa sopra di essa. Da origine a precipitazioni, in prossimità del suolo (piogge estese di bassa intensità ma durature nel tempo)
+
+![Schermata 2024-07-13 alle 16.20.44.png](/img/user/Schermata%202024-07-13%20alle%2016.20.44.png)
+
+
+
+Quando una massa di aria fredda transita in una regione più calda, passa al di sotto di essa (essendo più pesante) e solleva quella calda bruscamente. Questo provoca **intense precipitazioni di breve durata**.
+
+![Schermata 2024-07-13 alle 16.21.45.png](/img/user/Schermata%202024-07-13%20alle%2016.21.45.png)
+
+
+
+**ZONA FRONTALE**: Zona che separa due masse d'aria
+**SUPERFICIE FRONTALE:** La superficie di contatto con l'aria calda
+
+**FRONTE:** intersezione della superficie frontale col suolo.
+
+Se le masse d'aria sono in movimento il fronte si dice **mobile**.
+
+**FRONTE CALDO:** Fronte mobile in cui l'aria calda avanza su quella fredda
+**FRONTE FREDDO:** Fronte mobile in cui l'aria fredda avanza verso quella calda.
+
+**FRONTE OCCLUSO:** Quando un fronte freddo, che avanza più rapidamente di quello caldo, raggiunge un fronte caldo, sollevando completamente l'aria calda dal contatto col suolo
+
+![Schermata 2024-07-13 alle 16.30.14.png](/img/user/Schermata%202024-07-13%20alle%2016.30.14.png)
 
 # Precipitazioni
 ## Genesi delle precipitazioni
@@ -615,14 +704,38 @@ Si formano così minutissime goccioline, il cui diametro è dell'ordine di grand
 
 ![Schermata 2024-05-01 alle 13.32.54.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-05-01%20alle%2013.32.54.png)
 
+L'aumento dell'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Umidità relativa\|#Umidità relativa]] dell'aria può essere dovuta a 2 cause:
+- **Aumento dell'umidità assoluta dell'aria:** Dà origine a un aumento dell'acqua nell'aria che pertanto provoca:
+	- Nebbia
+	- Nubi
+	- Rugiada
+- **Diminuzione della temperatura dell'aria**
 
-❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗
+Le goccioline d'acqua o particelle di ghiaccio che compongono le nubi, sono mantenute in sospensione dalla turbolenza dell'aria.
 
-Completare:
-- cause aumento umidità relativa
-- tipi di nubi
+## Nubi
+
+Le nubi hanno forme diversissime e la classificazione è abbastanza complessa.
+
+- Stratiformi: generate da contatto di aria calda con strati più freddi o lento sollevamento di aria calda sopra l'aria fredda (fronte caldo)
+- Nubi cumuliformi: Generate da sollevamento relativamente brusco di aria calda ad opera di aria fredda, da un generale innalzamento di una massa d'aria, o da correnti convettive dovute ad instabilità verticale.
+
+
+## Inizio precipitazioni
 
 Le precipitazioni iniziano quando le goccioline - dapprima tanto minute da rimanere in sospensione - crescono.
+
+
+### Precipitazioni occulte
+
+```ad-Definizione
+title: Precipitazioni occulte
+
+Le precipitazioni occulte consistono nel passaggio di acqua dall'atmosfera al terreno, senza che si generi una vera e propria precipitazione.
+
+```
+
+Sono causate da:
+- Condensazione del vapor d'acqua per contatto con superfici a temperatura minore al [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Punto di rugiada\|#Punto di rugiada]]
+- Congelamento rapido di goccioline d'acqua al contatto con superfici esposte alle correnti d'aria
 

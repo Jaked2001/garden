@@ -105,7 +105,7 @@ I was historian, from humanities. Everyone was male. Everyone was economist or e
 
 
 
-![[Recording 20240509162259.webm]]
+![[Recording 20240509162259.webm\|Recording 20240509162259.webm]]
 
 
 

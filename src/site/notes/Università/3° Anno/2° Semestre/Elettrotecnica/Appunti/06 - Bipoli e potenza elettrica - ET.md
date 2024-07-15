@@ -47,7 +47,7 @@ dove $P$ ha le dimensioni di una **potenza**.
 ![03 - Introduzione allo studio delle reti elettriche - ET 2024-03-24 13.43.47.excalidraw.png](/img/user/Excalidraw/03%20-%20Introduzione%20allo%20studio%20delle%20reti%20elettriche%20-%20ET%202024-03-24%2013.43.47.excalidraw.png)
 
 
-Nella **convenzione dell'utilizzatore**, il riferimento di corrente esce dal terminale contrassegnato positivo per la tensione.
+Nella **convenzione del generatore**, il riferimento di corrente esce dal terminale contrassegnato positivo per la tensione.
 
 La quantità $V_{AB}I = P$, nei [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET#Bipolo\|bipoli]] convenzionati da generatori, è detta **potenza uscente** ($P$ può essere sia positivo che negativo a seconda dei valori di tensione e corrente).
 

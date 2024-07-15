@@ -101,6 +101,7 @@ Sul piano $V-I$
 
 ### Rendimento e adattamento del carico
 
+#UNI/ET/Domanda 
 
 Si consideri un [[Generatore reale di tensione\|Generatore reale di tensione]] $E$ con resistenza interna $R_{i}$ collegati a un carico (utilizzatore) rappresentabile da un [[Resistore\|Resistore]] $R_{u}$.
 
@@ -120,7 +121,7 @@ Si vanno ora a calcolare le [[Università/3° Anno/2° Semestre/Elettrotecnica/A
 
 La potenza [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata\|potenza erogata]] dal generatore **reale**, uguale alla potenza entrante al carico è
 $
-P = VI = \frac{R_{u}E^{2}}{(R_{i}+R_{u})^{2}}E
+P = VI = \frac{R_{u}E^{2}}{(R_{i}+R_{u})^{2}}
 $
 
 La [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET#Potenza dissipata per Effetto Joule\|potenza dissipata per Effetto Joule]] dalla resistenza interna al generatore è:
@@ -201,6 +202,8 @@ La stessa relazione vale quando il carico $R_{u}$ è alimentato da una generica 
 
 La potenza trasferita vale $P = \frac{V_{0}^{2}}{4R_{i}}$. Sul rendimento però non si può dire nulla in quanto il generatore equivalente non è significativo della rete reale dal punto di vista energetico.
 
+
+
 </div></div>
 
 
@@ -251,6 +254,7 @@ Sul piano $V-I$
 
 ### Rendimento e adattamento del carico
 
+#UNI/ET/Domanda 
 
 Si consideri un [[Generatore reale di tensione]] $E$ con resistenza interna $R_{i}$ collegati a un carico (utilizzatore) rappresentabile da un [[Resistore]] $R_{u}$.
 
@@ -270,7 +274,7 @@ Si vanno ora a calcolare le [[Università/3° Anno/2° Semestre/Elettrotecnica/A
 
 La potenza [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata\|potenza erogata]] dal generatore **reale**, uguale alla potenza entrante al carico è
 $
-P = VI = \frac{R_{u}E^{2}}{(R_{i}+R_{u})^{2}}E
+P = VI = \frac{R_{u}E^{2}}{(R_{i}+R_{u})^{2}}
 $
 
 La [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET#Potenza dissipata per Effetto Joule\|potenza dissipata per Effetto Joule]] dalla resistenza interna al generatore è:
@@ -350,6 +354,8 @@ $
 La stessa relazione vale quando il carico $R_{u}$ è alimentato da una generica [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Rete elettrica\|rete elettrica]] lineare ai nodi A e B. Rappresentando la rete con il [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Teorema di Thévenin\|teorema di Thévenin]] con $E_{eq} = E_{0}$ e $R_{eq} = R_{i}$, la condizione di adattamento è ancora $R_{u}= R_{i} =(R_{eq})$.
 
 La potenza trasferita vale $P = \frac{V_{0}^{2}}{4R_{i}}$. Sul rendimento però non si può dire nulla in quanto il generatore equivalente non è significativo della rete reale dal punto di vista energetico.
+
+
 
 </div></div>
 

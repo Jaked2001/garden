@@ -123,9 +123,9 @@ Ricavare la giacitura dell'asse.
 Il piano assiale, contiene l’asse che contiene il punto di cerniera tra i due piani.
 ```
 
-[[ES 7.4.2 Reticolo stereografico - 14-11-2022.pdf]]
+[[ES 7.4.2 Reticolo stereografico - 14-11-2022.pdf\|ES 7.4.2 Reticolo stereografico - 14-11-2022.pdf]]
 ## Esercitazione 7.4.3
-[[ES 7.4.3 Reticolo stereografico - 14-11-2022.pdf]]
+[[ES 7.4.3 Reticolo stereografico - 14-11-2022.pdf\|ES 7.4.3 Reticolo stereografico - 14-11-2022.pdf]]
 ## Esercitazione 7.4.4
 [[ES 7.4.4 Reticolo stereografico - 14-11-2022.pdf]]
 
@@ -146,7 +146,7 @@ Fine Proiezioni: 20:01
 3. Per i punti di intersezione al punto 1 trovare i corrispettivi angoli di Pitch (acuti).
    PS. Ti ricordo che l’angolo di PITCH AB è definito dall’angolo della linea dell’intersezione che un piano B provoca sul piano A misurata rispetto all’orizzontale. ( Ne sono 6: AB. BA, AC, CA.. ecc).
 
-[[ES 7.6 Proiezioni Stereografiche.pdf]]
+[[ES 7.6 Proiezioni Stereografiche.pdf\|ES 7.6 Proiezioni Stereografiche.pdf]]
 
 ## Esercitazione 7.6.2
 #Finire 

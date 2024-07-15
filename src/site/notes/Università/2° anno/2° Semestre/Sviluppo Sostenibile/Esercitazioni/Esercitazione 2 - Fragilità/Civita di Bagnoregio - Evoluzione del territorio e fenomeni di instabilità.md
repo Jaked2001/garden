@@ -3,7 +3,7 @@
 ---
 
 
-PDF:: [[Civita di Bagnoregio - Evoluzione del territorio e fenomeni di instabilità - SSAT - Giovanni Di Buduo.pdf]]
+PDF:: [[Civita di Bagnoregio - Evoluzione del territorio e fenomeni di instabilità - SSAT - Giovanni Di Buduo.pdf\|Civita di Bagnoregio - Evoluzione del territorio e fenomeni di instabilità - SSAT - Giovanni Di Buduo.pdf]]
 
 
 

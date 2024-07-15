@@ -234,6 +234,8 @@ Si noti che conoscere la potenza complessa significa avere ben 4 informazioni:
 
 ```
 
+
+
 ## Bipoli ideali in regime sinusoidale
 
 ### Generatori ideali in regime sinusoidale
@@ -582,7 +584,6 @@ e ha unità di misura omogenee con quella della [[04 - Fenomeni di conduzione e 
 
 ## Impedenza e Ammettenza
 
-
 | Bipolo           |                                              |          Impedenza - $\dot Z$          | Ammettenza - $\dot Y$                  |
 | ---------------- | -------------------------------------------- | :------------------------------------: | -------------------------------------- |
 | [[Resistore\|Resistore]]    | ![Resistore sinusoidale.excalidraw.png](/img/user/Excalidraw/Resistore%20sinusoidale.excalidraw.png)    |          $$\dot{Z}_{R} = R$$           | $$\dot{Z}_{R} = \frac{1}{R}$$          |
@@ -823,9 +824,6 @@ Il diagramma è stato così ottenuto:
 3. Sommo a $\color{red}\overline{V}_R$ il fasore ${\color{blue}\overline{V}_{L}}= j \omega L{\color{green}\overline{I}}$ a 90° rispetto a ${\color{red}\overline{V}_{R}}$ (si ricordi che la tensione, nell'[[Induttore\|induttore]] si trova in [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|quadratura in anticipo]] rispetto alla corrente)
 4. Sommo a ${\color{blue}\overline{V}_{L}}$ il fasore ${\color{pink}\overline{V}_{C}} = -j \dfrac{1}{\omega C}{\color{green}\overline{I}}$ allineato con ${\color{blue}\overline{V}_{L}}$ ma diretto nel verso opposto (ricordo che ${\color{pink}\overline{V}_{C}}<{\color{blue}\overline{V}_{L}}$)
 Si ottiene così il fasore di ${\color{orange}\overline{V}}$ come somma di tutte le cadute di tensione e si osserva, come previsto, che ${\color{green}\overline{I}}$ appare in ritardo rispetto a ${\color{orange}\overline{V}}$.
-
-
-
 
 #### Comportamento Ohmico-Capacitivo - Serie RLC
 

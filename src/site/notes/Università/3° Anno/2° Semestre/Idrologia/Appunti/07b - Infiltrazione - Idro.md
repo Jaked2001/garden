@@ -4,14 +4,16 @@
 
 # [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07b - Infiltrazione - Idro\|07b - Infiltrazione - Idro]]
 
-L'infiltrazione ha luogo attraverso la superficie del suolo durante e dopo gli eventi meteorici. 
+L'infiltrazione ha luogo attraverso la superficie del suolo durante e dopo gli eventi meteorici.
+
+Avviene quando coesistono nello stesso ambiente: aria, acqua e matrice solida.
 
 I fattori che influenzano le modalità di infiltrazione sono vari:
-- Quelli che influenzano la quantità d'acqua disponibile
+- Quelli che influenzano la **quantità d'acqua disponibile**
 	- Tipo di precipitazione (pioggia, neve o grandine)
 	- Andamento spazio-temporale dell'intensità della precipitazione
 	- Morfologia della superficie del suolo (pendenza dei versanti, presenza di depressioni superficiali)
-- Quelli che influenzano l'attitudine del terreno a lasciare infiltrare l'acqua:
+- Quelli che influenzano l'**attitudine del terreno a lasciare infiltrare l'acqua:**
 	- Caratteristiche fisico-chimiche del materiale costituente il suolo (roccia o materiale sciolto, composizione mineralogica, assortimento granulometrico, presenza di una struttura)
 	- Uso del suolo (copertura vegetale, presenza di apparati radicali, trattamenti meccanici quali aratura o dissodamento, drenaggi)
 	- Condizioni iniziali di umidità
@@ -19,7 +21,7 @@ I fattori che influenzano le modalità di infiltrazione sono vari:
 
 
 I secondi si possono distinguere in due categorie:
-- Fattori **costanti nel tempo**
+- Fattori **costanti nel tempo** (o variabili su tempi molto lunghi)
 	- Morfologia della superficie del suolo
 	- Caratteristiche fisico-chimiche del materiale del suolo
 - Fattori **dipendenti dal tempo**
@@ -27,11 +29,13 @@ I secondi si possono distinguere in due categorie:
 
 ## Modellazione dell'infiltrazione
 
-I modelli fisico-matematici dell'infiltrazione si riferiscono al moto dell'acqua attraverso un mezzo poroso omogeneo.
+I modelli fisico-matematici dell'infiltrazione si riferiscono al moto dell'acqua attraverso un **mezzo poroso omogeneo**.
 
-A una certa profondità dalla superficie del suolo si individua una **superficie libera della falda** che separa la zona in cui il mezzo è completamente saturo d'acqua da quella in cui i meati lasciati liberi dallo scheletro solido sono solo parzialmente occupati da acqua - Terreno non saturo
+A una certa profondità dalla superficie del suolo si individua una **superficie libera della falda** che separa la zona in cui il mezzo è completamente saturo d'acqua da quella in cui i meati lasciati liberi dallo scheletro solido sono solo parzialmente occupati da acqua - **Terreno non saturo**
 
-Il processo di infiltrazione avviene attraverso la zona non satura del terreno (a meno che la superficie libera della falda coincide con la superficie del terreno).
+Nei terreni saturi si può applicare la [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/Moti di filtrazione/02. Moti di Filtrazione#Legge di D'Arcy\|Legge di D'Arcy]]. Nel caso di mezzi non saturi entrano in gioco forze di natura capillari di cui la legge di D'Arcy non tiene conto.
+
+Il processo di infiltrazione avviene attraverso la zona non satura del terreno (a meno che la superficie libera della falda coincida con la superficie del terreno).
 
 ### Definizioni
 
@@ -41,6 +45,9 @@ L'**umidità del suolo** è
 $$
 \theta= \frac{W_{a}}{W_{t}}
 $$
+dove:
+- $W_{a}:$ Volume d'acqua nel suolo
+- $W_{t}:$ Volume totale del suolo
 
 La [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/00. Caratteristiche generali delle terre#Porosità\|porosità]]:
 
@@ -84,10 +91,14 @@ title: Acqua di detenzione
 
 L'**acqua di detenzione** o di **ritenzione** è il totale dell'acqua tra adsorbimento, adesione e capillare isolata:
 $
-W_{d} = \text{adsorbimento} + \text{adesione} + \text{capillare isolata}
+W_{r} = \text{adsorbimento} + \text{adesione} + \text{capillare isolata}
 $
 
 ```
+
+L'acqua di ritenzione non può essere estratta per gravità o pompaggio.
+
+Essa costituisce di fatto il livello minimo di acqua che si trova nel terreno.
 
 #### Acqua libera
 
@@ -95,11 +106,11 @@ $
 title: Acqua libera ($W_{e}$)
 
 $
-W_{e} = W_{a} - W_{d}
+W_{e} = W_{a} - W_{r}
 $
 dove:
 - $W_{a}:$ [[#Volume d'acqua]]
-- $W_{d}:$ ???
+- $W_{r}:$ [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07b - Infiltrazione - Idro#Acqua di ritenzione\|#Acqua di ritenzione]]
 ```
 
 
@@ -108,11 +119,11 @@ dove:
 ```ad-Definizione
 title: Porosità efficace
 $
-n_{e} = \frac{W_{v}-W_{d}}{W_{t}}
+n_{e} = \frac{W_{v}-W_{r}}{W_{t}}
 $
 dove:
 - $W_{v}:$ [[#Volume dei vuoti]]
-- $W_{d}:$ ???
+- $W_{r}:$ [[#Acqua di ritenzione]]
 - $W_{t}:$ Volume totale del suolo
 ```
 
@@ -123,10 +134,10 @@ dove:
 title: Capacità specifica di detenzione
 
 $
-n_{d} = \frac{W_{d}}{W_{t}}
+n_{d} = \frac{W_{r}}{W_{t}}
 $
 dove:
-- $W_{d}:$ ???
+- $W_{r}:$ [[#Acqua di ritenzione]]
 - $W_{t}:$ Volume totale del suolo
 ```
 
@@ -177,19 +188,23 @@ Si forma ristagno dell'acqua in superficie, come una pozzanghera. Pond infatti i
 ![07b - Infiltrazione - Idro 2024-05-05 20.05.56.excalidraw.png](/img/user/Excalidraw/07b%20-%20Infiltrazione%20-%20Idro%202024-05-05%2020.05.56.excalidraw.png)
 
 
+
+
 Il diagramma sopra mostra l'andamento dell'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/07b - Infiltrazione - Idro#Umidità del suolo\|#Umidità del suolo]] nel sottosuolo. 
 
 Si notino intanto le due fasce sottostanti:
-- Frangia capillare
+- Frangia capillare (satura)
 	- La zona che contiene parte dell'acqua che risale dalla falda per capillarità
 - Zona satura
 	- La zona contenente l'acqua - la falda acquifera
 
 Al di sopra di queste due fasce si instaurano i [[Università/3° Anno/1° Semestre/Fondamenti di Geotecnica/Appunti/Moti di filtrazione/02. Moti di Filtrazione\|Moti di Filtrazione]].
 
-In <mark style="background: #D2B3FFA6;">viola</mark> è raffigurato l'andamento dell'umidità in condizioni "di riposo" - quando non piove. In particolare notiamo che l'umidità iniziale è pari a $\color{purple}\theta_{i}$.
+In <mark style="background: #D2B3FFA6;">viola</mark> è raffigurato l'andamento dell'umidità in condizioni "di riposo" - quando non piove. In particolare notiamo che l'umidità iniziale è pari a $\color{purple}\theta_{i}$. $\theta_{i}$ sarà sicuramente maggiore di $\theta_{r}$ (umidità con [[#Acqua di ritenzione]]).-
 
-Quando comincia a piovere, con [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Intensità di pioggia\|intensità di pioggia]] $i$, il suolo diventa più umido ma dopo un tempo $t_{1}$ solo un piccolo spessore di suolo risente dell'aumento di umidità: la prima <mark style="background: #FFB86CA6;">linea arancione</mark>. Man mano che passa il tempo l'umidità aumenta sempre di più fino a quando al suolo si raggiunge la saturazione. È a questo punto che può crearsi in superficie un [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07b - Infiltrazione - Idro#Battente idrico\|#Battente idrico]]. Il tempo necessario a raggiungere questa condizione è detto [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07b - Infiltrazione - Idro#Tempo di ponding\|#Tempo di ponding]].
+Quando comincia a piovere, con [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Intensità di pioggia\|intensità di pioggia]] $i$, il suolo diventa più umido ma dopo un tempo $t_{1}$ solo un piccolo spessore di suolo risente dell'aumento di umidità: la prima <mark style="background: #FFB86CA6;">linea arancione</mark>. Man mano che passa il tempo l'umidità aumenta sempre di più fino a quando al suolo si raggiunge la saturazione. È a questo punto che può crearsi in superficie un [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07b - Infiltrazione - Idro#Battente idrico\|#Battente idrico]]. Il tempo necessario a raggiungere questa condizione è detto [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07b - Infiltrazione - Idro#Tempo di ponding\|#Tempo di ponding]]. Questo avviene quando l'umidità del suolo eguaglia la porosità (tutti i vuoi sono riempiti d'acqua - saturazione).
+
+Se sul grafico sopra prendo in considerazione una linea orizzontale (a una data profondità) per ogni istante (ovvero per ogni profilo di umidità) posso calcolare la quantità di acqua e aria nel terreno. Questa linea prende il nome di **Fronte di Green-Ampt**.
 
 ### Modellazione
 
@@ -198,8 +213,8 @@ Lo studio dell'acqua attraverso un mezzo poroso non saturo si affronta classicam
 ```ad-tip
 title: Ipotesi
 
-- Il suolo è visto come un mezzo continuo equivalente nel quale coesistono le tre fasi: aria, acqua, scheletro solido.
-- Lo scheletro solido è indeformabile
+- Il suolo è visto come un **mezzo continuo equivalente** nel quale coesistono le tre fasi: aria, acqua, scheletro solido.
+- Lo scheletro solido è **indeformabile**
 - L'aria all'interno dei meati è costantemente in contatto con l'atmosfera
 
 ```
@@ -210,5 +225,13 @@ Si introducono le variabili:
 - $\theta(x,y,z,t):$ [[Università/2° anno/1° Semestre/Geologia applicata/Lezioni/07. Proprietà Fisiche delle Rocce#Contenuto d'acqua\|contenuto d'acqua]] volumetrico
 - $\boldsymbol{v}(x,y,z,t):$ Vettore della velocità di filtrazione (specific discharge)
 	- $v_{j}:$ Componente del vettore velocità rappresentante la portata che attraversa una superficie unitaria di normale $\boldsymbol{\hat{j}}$
-	- $H(x,y,z,t) = z+h(x,y,z,t):$ potenziale del campo vettoriale della velocità
+	- $H(x,y,z,t) = z+h(x,y,z,t):$ potenziale del campo vettoriale della velocità - carico idraulico
+		- Carico totale = profondità + risalita capillare
 
+![Schermata 2024-07-15 alle 10.40.16.png|350](/img/user/Schermata%202024-07-15%20alle%2010.40.16.png)
+
+L'acqua, per vie delle forze elettriche di adesione alle particelle e di coesione tra molecole d'acqua si incurva formano un **menisco** all'interno del **meato**. L'angolo tra l'acqua e il solido è detto *angolo di contatto*.
+
+La concavità del menisco è dovuta alla differenza di pressione esercitata dall'aria e dall'acqua. In  particolare, la concavità sarà verso l'alto quando la pressione dell'aria è maggiore di quella dell'acqua.
+
+La differenza tra le due pressioni prende il nome di **PRESSIONE **

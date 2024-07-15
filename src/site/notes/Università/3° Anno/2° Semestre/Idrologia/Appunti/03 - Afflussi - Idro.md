@@ -28,15 +28,15 @@ title: Fattore di ragguaglio ($R$ oppure $C_{R}$)
 
 Il **Fattore - o coefficiente - di ragguaglio** è l'[[02 - Piogge Intense - Idro#Altezza di pioggia|altezza di pioggia]] media sull'area fratto quella misurata sul punto.
 $
-R = \frac{H_{A}}{H_{P}}
+R = \frac{h_{\delta, A}}{h_{\delta}}
 $
 dove:
-- $H_{A}:$ [[02 - Piogge Intense - Idro#Altezza di pioggia|altezza di pioggia]] media sull'area
-- $H_{P}:$ [[02 - Piogge Intense - Idro#Altezza di pioggia|altezza di pioggia]] misurata in un punto 
+- $h_{\delta, A}:$ [[02 - Piogge Intense - Idro#Altezza di pioggia|altezza di pioggia]] media sull'area
+- $h_{\delta}:$ [[02 - Piogge Intense - Idro#Altezza di pioggia|altezza di pioggia]] misurata in un punto 
 
 Possiamo anche scrivere:
 $
-H_{A} = C_{R} \cdot H_{P}
+h_{\delta, A} = R \cdot h_{\delta}
 $
 
 ```
@@ -53,10 +53,12 @@ $R$ aumenta
 - al *diminuire* dell'**Area**
 - al *diminuire* del **tempo di ritorno** ($T_{R}$) = il tempo tra due eventi considerati estremi
 
+[[Tempo di ritorno\|Tempo di ritorno]]
+
 Quando ho a disposizione, in un'area di interesse, più misure, posso usare tre metodi per definire un'altezza media per quell'area:
 - [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro#Metodo della media\|#Metodo della media]]
-	- Vincolo matematico: Se i punti sono distribuiti nell'area in modo uniforme
-	- Vincolo fisico: distanza dal mare, esposizione dei versanti, quota costanti nell'area
+	- *Vincolo matematico:* Se i punti sono distribuiti nell'area in modo uniforme
+	- *Vincolo fisico:* distanza dal mare, esposizione dei versanti, quota costanti nell'area
 - [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro#Metodo dei poligoni di Thiessen\|#Metodo dei poligoni di Thiessen]]
 - [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro#Metodo delle isoiete\|#Metodo delle isoiete]]
 
@@ -82,10 +84,15 @@ $$
 w_{i} = \frac{1}{N}
 $$
 
+La posso usare quando:
+- L'area è vicina al mare
+- Non ci sono notevoli variazioni di quota
+- L'area non è esposta a versanti
 
 #### Metodo dei topoieti
 
-Il metodo dei Topoieti, o metodo dei Poligoni di Thiessen (vd. anche: [[Università/2° anno/2° Semestre/GIS/GIS 1/5. DEM#Poligoni di Thiessen\|poligoni di Thiessen - GIS]]) è un metodo di [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro#Ragguaglio spaziale delle piogge\|#Ragguaglio spaziale delle piogge]].
+**Il m
+Metodo dei Topoieti**, o metodo dei **Poligoni di Thiessen** (vd. anche: [[Università/2° anno/2° Semestre/GIS/GIS 1/5. DEM#Poligoni di Thiessen\|poligoni di Thiessen - GIS]]) è un metodo di [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro#Ragguaglio spaziale delle piogge\|#Ragguaglio spaziale delle piogge]].
 
 ![03 - Afflussi - Idro 2024-03-18 11.14.41.excalidraw.png](/img/user/Excalidraw/03%20-%20Afflussi%20-%20Idro%202024-03-18%2011.14.41.excalidraw.png)
 
@@ -124,7 +131,9 @@ Ho dubbi su un pluviometro ma non su un altro. Faccio la cumulata su quello di r
 ![Schermata 2024-03-18 alle 11.25.05.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/Schermata%202024-03-18%20alle%2011.25.05.png)
 
 
-
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗ FINIRE DI STUDIARE DALLE ESERCITAZIONI (7)
+❗❗❗❗❗❗❗❗❗❗❗❗
 
 
 

@@ -12,39 +12,54 @@ title: Perdite idrogeologiche
 Le **perdite idrogeologiche** sono l'insieme dei volumi di portata che entra nel bacino e si perde durante il [[05 - Deflussi - Idro|Deflusso]] senza mai raggiungere la sezione finale.
 
 Costituiscono perdita idrogeologica:
-- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Evapotraspirazione\|#Evapotraspirazione]]
-- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Intercettazione della vegetazione\|#Intercettazione della vegetazione]]
-- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Invaso nelle depressioni\|#Invaso nelle depressioni]]
-- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Infiltrazione nel suolo\|#Infiltrazione nel suolo]]
+- [[#Evapotraspirazione]]
+- [[#Intercettazione della vegetazione]]
+- [[#Invaso nelle depressioni]]
+- [[#Infiltrazione nel suolo]]
 
 ```
 
+Il calcolo delle perdite idrologiche ci permette di sapere qual è la quotaparte di pioggia che raggiunge la sezione finale.
+
 ### Pioggia netta
 
-La pioggia netta è la differenza tra la pioggia e le [[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Perdite idrogeologiche\|#Perdite idrogeologiche]]:
-$$
+```ad-Definizione
+title: Pioggia netta
+
+La **pioggia netta** è la differenza tra la pioggia e le [[#Perdite idrogeologiche]]:
+$
 p(t) = i(t) - e(t) - v(t)- s(t) - f(t)
-$$
+$
 dove:
-- $p(t):$ Pioggia lorda
-- $i(t):$ [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Intensità istantanea di pioggia\|Intensità istantanea di pioggia]]
+- $p(t):$ [[02 - Piogge Intense - Idro#Intensità di pioggia|intensità di pioggia]] netta
+- $i(t):$ [[02 - Piogge Intense - Idro#Intensità istantanea di pioggia|Intensità di pioggia]] lorda
 - $e(t):$ Intensità di [[#Evapotraspirazione]]
 - $\nu(t):$ Intensità di [[#Intercettazione della vegetazione]]
-- $s(t):$ Intensità di [[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Invaso nelle depressioni\|#Invaso nelle depressioni]]
+- $s(t):$ Intensità di [[#Invaso nelle depressioni]]
 - $f(t):$ Intensità di [[#Infiltrazione nel suolo]]
+
+```
+
 
 In realtà alcuni di questi termini possono essere trascurati:
 $$
-p(t) = i(t) - \cancel{e(t)} - \cancel{v(t)} - \cancel{s(t)} - f(t)
+p(t) = i(t) - \cancel{e(t)} - \cancel{v(t)} - s(t) - f(t)
 $$
+Elimino:
+- Su scala annuale: trascuro $v(t)$
+- Negli eventi di piena: trascuro $e(t)$
+
 in particolare quando piove e se considero una scala annuale.
 $$
-p(t) = i(t) - f(t)
+p(t) = i(t) - s(t) - f(t)
 $$
+
 
 ## Evapotraspirazione
 
-Si tratta dell'unione di due fenomeni: evaporazione e traspirazione.
+Si tratta dell'unione di due fenomeni:
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Evaporazione\|#Evaporazione]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Traspirazione\|#Traspirazione]]
 
 ### Evaporazione
 
@@ -52,7 +67,13 @@ L'evaporazione è un fatto statistico.
 
 #### Intensità di evaporazione
 
-L'intensità di evaporazione è pari alla differenza del flusso volumetrico d'acqua che passa allo stato di vapore e quello dell'acqua che passa allo stato liquido.
+```ad-Definizione
+title: Intensità di evaporazione
+
+L'**intensità di evaporazione** è pari alla differenza del flusso volumetrico d'acqua che passa allo stato di vapore e quello dell'acqua che passa allo stato liquido.
+
+```
+
 
 Dobbiamo infatti immaginare che allo stesso tempo ci saranno delle molecole che, dotate di un'**energia cinetica particolarmente elevata** passano allo stato di vapore e allo stesso tempo delle molecole di vapore che, **urtando la superficie libera del liquido**, lo penetrano.
 
@@ -99,7 +120,6 @@ Quest'ultima è data dalla diminuzione dell'altezza d'acqua negli apparecchi, cu
 ##### Formula di Conti (evaporazione laghi)
 
 Nei casi dei laghi si adopera la Formula di Conti:
-
 $$
 E_{j} = k_{j}T_{j} \frac{p_{n}}{p_{j}}
 $$
@@ -109,6 +129,8 @@ dove:
 - $p_{n}:$ Pressione normale al livello del mare
 - $p_{j}:$ Pressione atmosferica media del mese $j-$esimo
 - $k_{j}:$ Coefficiente sperimentale che dipende dal mese che si considera:
+
+La formula di Conti è una legge empirica che fornisce l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Evaporazione\|#Evaporazione]] in un mese.
 
 | Mese      | $k_j$ |
 | --------- | ----- |
@@ -139,7 +161,7 @@ Si tratta dell'acqua usata per:
 ```ad-Definizione
 title: Evapotraspirazione
 
-L'**evapotraspirazione** è qiundi la somma dei contributi di [[#Evaporazione]] e [[#Traspirazione]].
+L'**evapotraspirazione** è quindi la somma dei contributi di [[#Evaporazione]] e [[#Traspirazione]].
 
 ```
 
@@ -175,7 +197,7 @@ $
 
 ```
 
-
+.
 
 ```ad-note
 title: Osservazione
@@ -183,7 +205,7 @@ L'[[#Evapotraspirazione]] è un fenomeno influenzato dal vento.
 
 Infatti, in presenza di vento vi è un continuo ricambio d'aria al di sopra della superficie evapotraspirante. 
 
-Senza vento di contro, l'aria arriva a saturazione impedendo il processo.
+Senza vento, di contro, l'aria arriva a saturazione impedendo il processo.
 
 ```
 
@@ -209,14 +231,6 @@ Il **lisimetro** è lo strumento adibito alla misura dell'[[#Evapotraspirazione]
 #### Formula di Thorntwaite
 
 La **Formula di Thorntwaite** è usata per conteggiare l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Evapotraspirazione potenziale\|#Evapotraspirazione potenziale]] mensile:
-$$
-E_{p,j} = 16 a_{j} \left( \frac{10}{I}T_{j} \right)^{\alpha}
-$$
-dove:
-- $a_{j}:$ frazione di ore diurne
-- $T_{j}:$ temperatura media
-- $I= \sum\limits_{j=1}^{12}\left[0.09 \cdot T_{j}^{1.5} \right]$
-- $\alpha = \dfrac{1.6}{100}I + 0.5$
 
 #### Equazione di Penman-Monteith
 
@@ -229,25 +243,18 @@ L'**equazione di Penman-Monteith** è un'equazione teorica ricavata da:
 #### Formula di Turc
 
 La **Formula di Turc** permette il conteggio dell'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Evapotraspirazione effettiva\|#Evapotraspirazione effettiva]] annua:
-$$
-E = \dfrac{h}{\sqrt{0.9+ \left( \dfrac{h}{L} \right)^{2}}}
-$$
-dove:
-- $L= 300 + 25\cdot T + 0.05 \cdot T^{3}$
-- $E:$ Altezza annua dell'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Evapotraspirazione effettiva\|#Evapotraspirazione effettiva]] $[\rm mm]$
-- $h:$ [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Altezza di pioggia\|Altezza di precipitazione]] $[\rm mm]$
+
 
 ## Intercettazione della vegetazione
 
-```ad-Definizione
-title: Intensità dell'intercettazione ($\nu(t)$)
+Intercettazione della vegetazione è il volume d'acqua che cade sulla vegetazione formando un velo idrico il quale successivamente evapora.
+- Per fenomeni di modesta intensità e intermittenti, le perdite per intercettazione sono consistenti
+- Per un singolo evento di piena le perdite per intercettazioni sono modeste.
 
-$
-\nu(t) = i(t) e^{-\dfrac{h(t)}{V_{MAX}}} \quad \rm \left[ \frac{mm}{h} \right]
-$
+![Schermata 2024-07-14 alle 18.16.56.png](/img/user/Schermata%202024-07-14%20alle%2018.16.56.png)
 
-```
-
+- $v(t):$ Intensità di intercettazione
+- $V(t):$ Volume d'acqua accumulato dalle piante
 
 ## Invaso nelle depressioni
 
@@ -257,20 +264,4 @@ title: Invaso delle depressioni
 L'**invaso delle depressioni** è costituito dal volume d'acqua che si accumula nelle depressioni del terreno e non defluisce, ma dopo l'evento evapora o s'infiltra gradualmente.
 
 ```
-
-### Intensità d'invaso
-
-L'[[#Invaso nelle depressioni]] si misura in termini di **intensità di invaso**
-
-```ad-Definizione
-title: Intensità d'invaso ($s(t)$)
-L'**intensità d'invaso** è dato dalla seguente:
-$
-s(t) = \left[ i(t) - \nu(t) - f(t) \right] e^{- \dfrac{h(t) - V(t)-F(t)}{S_{MAX}}}
-$
-```
-
-
-
-## Infiltrazione nel suolo
 

@@ -26,27 +26,27 @@ title: Domande
 
 
 
-| File                                                                                                                                               | Tipo      | Stato    | Materia | dg-publish |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | -------- | ------- | ---------- |
-| [[Università/2° anno/2° Semestre/GIS/🌍 GIS 1 & 2\|🌍 GIS 1 & 2]]                                                                               | Corso     | 🟢       | GIS     | true       |
-| [[Università/2° anno/2° Semestre/GIS/GIS 1/Elaborati/Elaborato 1 - Quota\|Elaborato 1 - Quota]]                                                 | Elaborato | 🟢 Fatto | GIS     | \-         |
-| [[Università/2° anno/2° Semestre/GIS/GIS 1/Elaborati/Elaborato 2 - Uso suolo\|Elaborato 2 - Uso suolo]]                                         | Elaborato | 🟢 Fatto | GIS     | false      |
-| [[Università/2° anno/2° Semestre/GIS/GIS 2/Elaborati/Elaborato 5 - Analisi di idoneità\|Elaborato 5 - Analisi di idoneità]]                     | Es        | 🟢 Fatto | GIS 2   | \-         |
-| [[Università/2° anno/2° Semestre/GIS/GIS 1/0. Introduzione\|0. Introduzione]]                                                                   | T         | 🟢 Fatto | GIS 1   | true       |
-| [[Università/2° anno/2° Semestre/GIS/GIS 1/1. Rappresentazione della terra e del territorio\|1. Rappresentazione della terra e del territorio]] | T         | 🟢 Fatto | GIS 1   | false      |
-| [[Università/2° anno/2° Semestre/GIS/GIS 1/2. Cartografia e GIS\|2. Cartografia e GIS]]                                                         | T         | 🟢 Fatto | GIS 1   | true       |
-| [[Università/2° anno/2° Semestre/GIS/GIS 1/3. Acquisizione dati\|3. Acquisizione dati]]                                                         | T         | 🟢 Fatto | GIS 1   | true       |
-| [[Università/2° anno/2° Semestre/GIS/GIS 1/4. Curve livello\|4. Curve livello]]                                                                 | T         | 🟢 Fatto | GIS 1   | true       |
-| [[Università/2° anno/2° Semestre/GIS/GIS 1/5. DEM\|5. DEM]]                                                                                     | T         | 🟢 Fatto | GIS 1   | true       |
-| [[Università/2° anno/2° Semestre/GIS/GIS 1/6. Uso Suolo\|6. Uso Suolo]]                                                                         | T         | 🟢 Fatto | GIS 1   | true       |
-| [[Università/2° anno/2° Semestre/GIS/GIS 1/7. Cambiamenti uso suolo\|7. Cambiamenti uso suolo]]                                                 | T         | 🟢 Fatto | GIS 1   | true       |
-| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/1. Area di Studio\|1. Area di Studio]]                                                       | T         | 🟢 Fatto | GIS 2   | true       |
-| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/2. Indicatori\|2. Indicatori]]                                                               | T         | 🟢 Fatto | GIS 2   | true       |
-| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/3. Analisi Spaziale\|3. Analisi Spaziale]]                                                   | T         | 🟢 Fatto | GIS 2   | true       |
-| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/5. GIS e Analisi Urbanistica\|5. GIS e Analisi Urbanistica]]                                 | T         | 🟢 Fatto | GIS 2   | true       |
-| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/6. Spazializzazione indicatori\|6. Spazializzazione indicatori]]                             | T         | 🟢 Fatto | GIS 2   | true       |
-| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/7. Telerilevamento\|7. Telerilevamento]]                                                     | T         | 🟢 Fatto | GIS 2   | true       |
-| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/9. Analisi di idoneità\|9. Analisi di idoneità]]                                             | T         | 🟢 Fatto | GIS 2   | true       |
+| File                                                                                                                                               | Tipo      | Stato    | Materia |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | -------- | ------- |
+| [[Università/2° anno/2° Semestre/GIS/🌍 GIS 1 & 2\|🌍 GIS 1 & 2]]                                                                               | Corso     | 🟢       | GIS     |
+| [[Università/2° anno/2° Semestre/GIS/GIS 1/Elaborati/Elaborato 1 - Quota\|Elaborato 1 - Quota]]                                                 | Elaborato | 🟢 Fatto | GIS     |
+| [[Università/2° anno/2° Semestre/GIS/GIS 1/Elaborati/Elaborato 2 - Uso suolo\|Elaborato 2 - Uso suolo]]                                         | Elaborato | 🟢 Fatto | GIS     |
+| [[Università/2° anno/2° Semestre/GIS/GIS 2/Elaborati/Elaborato 5 - Analisi di idoneità\|Elaborato 5 - Analisi di idoneità]]                     | Es        | 🟢 Fatto | GIS 2   |
+| [[Università/2° anno/2° Semestre/GIS/GIS 1/0. Introduzione\|0. Introduzione]]                                                                   | T         | 🟢 Fatto | GIS 1   |
+| [[Università/2° anno/2° Semestre/GIS/GIS 1/1. Rappresentazione della terra e del territorio\|1. Rappresentazione della terra e del territorio]] | T         | 🟢 Fatto | GIS 1   |
+| [[Università/2° anno/2° Semestre/GIS/GIS 1/2. Cartografia e GIS\|2. Cartografia e GIS]]                                                         | T         | 🟢 Fatto | GIS 1   |
+| [[Università/2° anno/2° Semestre/GIS/GIS 1/3. Acquisizione dati\|3. Acquisizione dati]]                                                         | T         | 🟢 Fatto | GIS 1   |
+| [[Università/2° anno/2° Semestre/GIS/GIS 1/4. Curve livello\|4. Curve livello]]                                                                 | T         | 🟢 Fatto | GIS 1   |
+| [[Università/2° anno/2° Semestre/GIS/GIS 1/5. DEM\|5. DEM]]                                                                                     | T         | 🟢 Fatto | GIS 1   |
+| [[Università/2° anno/2° Semestre/GIS/GIS 1/6. Uso Suolo\|6. Uso Suolo]]                                                                         | T         | 🟢 Fatto | GIS 1   |
+| [[Università/2° anno/2° Semestre/GIS/GIS 1/7. Cambiamenti uso suolo\|7. Cambiamenti uso suolo]]                                                 | T         | 🟢 Fatto | GIS 1   |
+| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/1. Area di Studio\|1. Area di Studio]]                                                       | T         | 🟢 Fatto | GIS 2   |
+| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/2. Indicatori\|2. Indicatori]]                                                               | T         | 🟢 Fatto | GIS 2   |
+| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/3. Analisi Spaziale\|3. Analisi Spaziale]]                                                   | T         | 🟢 Fatto | GIS 2   |
+| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/5. GIS e Analisi Urbanistica\|5. GIS e Analisi Urbanistica]]                                 | T         | 🟢 Fatto | GIS 2   |
+| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/6. Spazializzazione indicatori\|6. Spazializzazione indicatori]]                             | T         | 🟢 Fatto | GIS 2   |
+| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/7. Telerilevamento\|7. Telerilevamento]]                                                     | T         | 🟢 Fatto | GIS 2   |
+| [[Università/2° anno/2° Semestre/GIS/GIS 2/Appunti/9. Analisi di idoneità\|9. Analisi di idoneità]]                                             | T         | 🟢 Fatto | GIS 2   |
 
 { .block-language-dataview}
 

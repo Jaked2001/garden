@@ -64,7 +64,7 @@ Figura 4.1
 
 
 
-[[SezioniGeologiche-2.pdf]]
+[[SezioniGeologiche-2.pdf\|SezioniGeologiche-2.pdf]]
 ___
 # Sezione 9.1
 📅 Data: [[_Giornaliera/2022-12-01\|2022-12-01]]

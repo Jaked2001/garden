@@ -90,7 +90,8 @@ Dobbiamo trovare un modo di trasformare quello che misuriamo effettivamente e la
 
 ### Formula Z-R di Marshall & Palmer
 
-Applichiamo un filtro. 
+Applichiamo un filtro.
+
 ```ad-Teo
 title: Formula Z-R di Marshall & Palmer
 
@@ -145,6 +146,19 @@ Usando le stazioni pluviografiche presenti al suolo, calibro il radar in modo ch
 ![Schermata 2024-03-19 alle 09.01.42.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-03-19%20alle%2009.01.42.png)
 
 Al suolo, usiamo modelli idrologici in coordinate cartesiane. Il radar, restituisce valori in coordinate polari.
+
+
+### Mosaicatura radar
+
+![Schermata 2024-07-14 alle 10.17.49.png](/img/user/Schermata%202024-07-14%20alle%2010.17.49.png)
+
+Per aumentaer l'accuratezza dei dati radar, si cerca di far si che ogni porzione del territorio sia investito da almeno 3 radar. Si avranno quindi:
+- Zone a **mosaicatura parziale** (verde)
+- Zone a **mosaicatura completa** (rosso)
+
+Si effettua così il *data fusion*
+
+### Misure satellitari
 
 Per evitare alcuni problemi, si può pensare di mettere i radar sul satellite.
 

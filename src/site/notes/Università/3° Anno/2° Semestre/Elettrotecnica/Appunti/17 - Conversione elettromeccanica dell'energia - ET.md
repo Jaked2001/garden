@@ -129,7 +129,7 @@ Si genera pertanto un'onda quadra che può essere resa "più dolce" in vari modi
 $$
 \begin{align}
 B(\theta) &= - \frac{4}{\pi } \frac{\mu_{0}Ni}{2\delta} \cos\theta \to \text{min} \\
-B(\theta) &= \frac{4}{\pi } \frac{\mu_{0}Ni}{2\delta} \cos\theta \to \text{min}
+B(\theta) &= \frac{4}{\pi } \frac{\mu_{0}Ni}{2\delta} \cos\theta \to \text{max}
 \end{align}
 $$
 
@@ -155,7 +155,7 @@ Se immaginiamo di percorrere in senso orario la macchina elettrica che stiamo an
 
 ## Alimentazione con corrente sinusoidale
 
-immaginiamo ora di alimentare la spira con una [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Regime sinusoidale\|corrente sinusoidale]]:
+Immaginiamo ora di alimentare la spira con una [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Regime sinusoidale\|corrente sinusoidale]]:
 $$
 i(t) = \sqrt{2}I\sin(\omega t)
 $$
@@ -165,9 +165,12 @@ B_{\text{MAX}}(t) = \frac{\mu_{0}Ni(t)}{2\delta} = \frac{\mu_{0}N\sqrt{2}I}{2\de
 $$
 A questo punto, a seconda di quante volte il filo percorre andata e ritorno (numero di polarità/2) si ha:
 - $B(\theta,t) = - \dfrac{4}{\pi} \dfrac{\mu_{0}Ni(t)}{2\delta} \cos(\theta):$ per [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/17 - Conversione elettromeccanica dell'energia - ET#Alimentazione con 1 coppia polare\|#Alimentazione con 1 coppia polare]]
-- $B(\theta,t) = - \dfrac{4}{\pi} \dfrac{\mu_{0}Ni(t)}{2\delta} \cos(\theta):$ per [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/17 - Conversione elettromeccanica dell'energia - ET#Alimentazione con 2 coppie polari\|#Alimentazione con 2 coppie polari]]
+- $B(\theta,t) = - \dfrac{4}{\pi} \dfrac{\mu_{0}Ni(t)}{2\delta} \cos(2\theta):$ per [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/17 - Conversione elettromeccanica dell'energia - ET#Alimentazione con 2 coppie polari\|#Alimentazione con 2 coppie polari]]
 
-
+$$
+B(\theta,t) = - \dfrac{4}{\pi} \dfrac{\mu_{0}Ni(t)}{2\delta} \cos(p\theta)
+$$
+per p coppie polari
 
 
 

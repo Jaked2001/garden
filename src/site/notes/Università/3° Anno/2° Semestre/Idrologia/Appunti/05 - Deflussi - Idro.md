@@ -6,7 +6,6 @@
 
 
 
-
 ## Grandezze sui deflussi
 
 - [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro#Livello idrico\|#Livello idrico]]
@@ -18,7 +17,7 @@
 
 ```ad-Definizione
 title: Livello idrico
-Il livello idrico è la quota della superficie libera della corrente, misurata a partire da una quota di riferimento arbitraria.
+Il **livello idrico** è la quota della superficie libera della corrente, misurata a partire da una quota di riferimento arbitraria.
 
 ```
 
@@ -34,6 +33,8 @@ Il **deflusso** è definito come il volume d'acqua che transita da una sezione i
 
 ```
 
+È un volume.
+
 ### Portata
 
 ```ad-Definizione
@@ -43,7 +44,7 @@ $
 Q(t) = \frac{\partial D(t)}{\partial t}
 $
 dove:
-- $D(t):$ BOH???
+- $D(t):$ [[#Deflusso]]
 ```
 
 #### Portata media
@@ -51,12 +52,13 @@ dove:
 $$
 \overline{Q} = \frac{D}{\Delta t}
 $$
-## Altezza idrometrica
 
+## Altezza idrometrica
+ 
 ```ad-Definizione
 title: Altezza idrometrica
 
-L'altezza idrometrica è la quota idrica misurata a partire dallo *zero idrometrico*.
+L'**altezza idrometrica** è la quota idrica misurata a partire dallo *zero idrometrico*.
 
 ```
 
@@ -125,17 +127,61 @@ La misura delle portate permette di ricavare la scala di deflusso o scala delle 
 
 In pratica, a partire da un set finito di dati in cui si conoscono sia l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro#Altezza idrometrica\|#Altezza idrometrica]] che la [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro#Portata\|#Portata]] si cerca un modello che leghi le due quantità. Fatto ciò, si potrà misurare solo l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro#Altezza idrometrica\|#Altezza idrometrica]] di un corso d'acqua e ricavare, grazie al modello, le portate medie giornaliere.
 
+Può essere descritto da un modello semplice esponenziale.
+
+### Annali idrologici
+
+Gli annali idrologici contengono 2 tipi di dati:
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro#Scala numerica delle portate\|#Scala numerica delle portate]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro#Portate giornaliere\|#Portate giornaliere]]
+
+#### Scala numerica delle portate
+
+![Schermata 2024-07-14 alle 10.51.20.png](/img/user/Schermata%202024-07-14%20alle%2010.51.20.png)
+
+La **scala numerica delle portate** è una tabella che contiene:
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro#Altezza idrometrica\|#Altezza idrometrica]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro#Portata\|#Portata]]
+
+#### Portate medie giornaliere
+
+![Schermata 2024-07-14 alle 10.51.57.png](/img/user/Schermata%202024-07-14%20alle%2010.51.57.png)
+
+Le **portate medie giornaliere** sono raccolte in una tabella in cui mese per mese, per ogni giorno del mese, sono riportate le [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro#Portata media\|portate medie]].
+
+La tabella delle portate medie giornaliere è estrapolata dai dati nella [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro#Scala numerica delle portate\|#Scala numerica delle portate]].
+
+### Deflusso totale
+
+![Schermata 2024-07-14 alle 11.06.19.png](/img/user/Schermata%202024-07-14%20alle%2011.06.19.png)
+
+Nel grafico sottostante è riportato l'andamento della portata giornaliera giorno per giorno. Si noti che c'è una fascia che ha sempre un certo valore di portata ([[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro#Deflusso di base\|#Deflusso di base]]).
+
+DEFLUSSO = [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05a - Deflusso di base - Idro\|DEFLUSSO DI BASE]] + DEFLUSSO DI RUSCELLAMENTO
+
 ## Piena
 
 Nello studio delle piene interessano:
 - La portata di colmo
 - L'idrogramma di piena
 
-I modelli probabilistici 
+![Schermata 2024-07-14 alle 11.08.26.png](/img/user/Schermata%202024-07-14%20alle%2011.08.26.png)
+
+L'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Ietogramma\|idrogramma di piena]] è un grafico su cui è riportata la portata in funzione del tempo durante un evento di piena.
+Si individuano:
+- <mark style="background: #BBFABBA6;">Curva di concentrazione</mark>
+- <mark style="background: #FFB86CA6;">Curva di esaurimento</mark>
+
 
 ### Modelli probabilistici di piena
 
 I Modelli probabilistici di piena attribuiscono una probabilità di non superamento alla portata di colmo.
+
+Posso adottare 2 tipi di modelli:
+- Superamento di soglia
+	- Considero tutti gli eventi che superano una certa soglia
+- Massimi annuali
+	- Considero solo l'evento massimo di un anno
 
 La serie di colmi di piena è dotata di forte **persistenza**: Le piene precedenti lasciano il bacino umido e aumentano l'importanza delle piene successive.
 
@@ -149,6 +195,19 @@ I massimi colmi dell'anno invece possono essere considerati *indipendenti*; ques
 Questo è vero se si usa l'anno idrologico. Con l'anno solare potrebbe non essere vero. Infatti potremmo avere un evento di colmo a fine dicembre e uno a inizio gennaio. Questi sarebbero sicuramente correlati, ma li andrei a considerare come indipendenti (sbagliando) se supponessi che avvengono in 2 anni differenti.
 ```
 
-Si può quindi ipotizzare che i massimi colmi siano eventi equidistribuiti: che abbiano cioè tutti la stessa distribuzione di probabilità
+Si può quindi ipotizzare che i massimi colmi siano eventi equidistribuiti: che abbiano cioè tutti la stessa distribuzione di probabilità.
+
+La [[Università/2° anno/2° Semestre/Probabilità e statistica/Appunti/03. Variabili Aleatorie#Variabile Aleatoria Normale o Gaussiana\|distribuzione normale]] non descrive bene le piene in quanto non tiene conto delle code.
+
+Per la descrizione delle piene si usa principalmente la [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 06 - Statistica per l'idrologia - Idro#Distribuzione Gumbel\|Distribuzione di Gumbel]]
+
+$$
+P(x) = e^{[-e^{\alpha(x-\varepsilon)}]}
+$$
+che dipende da 2 parametri:
+$$
+\alpha = \frac{1.2825}{\sigma } \qquad \varepsilon = \mu - 0.45006 \sigma 
+$$
+
 
 
