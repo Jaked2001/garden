@@ -80,7 +80,7 @@ P(x) &= \frac{1}{\sqrt{2 \pi \sigma^{2}}} \int_{-\infty}^{x} e^{- \dfrac{(x-\mu)
 \end{align}
 $$
 
-
+ 
 In excel possono essere calcolate facilmente facendo uso di 2 formule, rispettivamente:
 
 | Parametro | Formula excel                                                  |
