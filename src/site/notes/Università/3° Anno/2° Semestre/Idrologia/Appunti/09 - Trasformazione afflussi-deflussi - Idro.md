@@ -122,3 +122,14 @@ Q(t) = P\left(1 - e^{\frac{t}{k}}\right) + Q_{0}e^{- \frac{t}{k}}
 $$
 
 
+
+
+
+
+
+
+
+
+
+
+

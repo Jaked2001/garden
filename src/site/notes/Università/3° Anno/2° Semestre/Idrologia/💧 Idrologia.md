@@ -95,7 +95,8 @@ NON PREVISTO (a parte il test finale)
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 14 - Fognature - Idro\|Es 14 - Fognature - Idro]]                                       | Es    | 🔴 Fare       |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro\|04 - Statistica - Idro]]                                                 | T     | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04b - Statistica e Tempo di Ritorno - Idro\|04b - Statistica e Tempo di Ritorno - Idro]]         | T     | 🪶 Scrivere   |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/10 - IUH - Idro\|10 - IUH - Idro]]                                                               | T     | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/14 - Opere di captazione - Idro\|14 - Opere di captazione - Idro]]                               | T     | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/18 - Serbatoi - Idro\|18 - Serbatoi - Idro]]                                                     | T     | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/00 - Presentazione corso idrologia\|00 - Presentazione corso idrologia]]                         | T     | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro\|02 - Piogge Intense - Idro]]                                         | T     | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07a - Evaporazione - Idro\|07a - Evaporazione - Idro]]                                           | T     | 🪶🟡 Scrivere |
@@ -107,6 +108,13 @@ NON PREVISTO (a parte il test finale)
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05a - Deflusso di base - Idro\|05a - Deflusso di base - Idro]]                                   | T     | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro\|06 - Perdite - Idro]]                                                       | T     | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/08 - Bacino Imbrifero - Idro\|08 - Bacino Imbrifero - Idro]]                                     | T     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/10 - IUH - Idro\|10 - IUH - Idro]]                                                               | T     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/11 - GIUH - Idro\|11 - GIUH - Idro]]                                                             | T     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/12 - Propagazione piene - Idro\|12 - Propagazione piene - Idro]]                                 | T     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/13 - Opere di approvvigionamento idrico - Idro\|13 - Opere di approvvigionamento idrico - Idro]] | T     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/15 - Adduzione - Idro\|15 - Adduzione - Idro]]                                                   | T     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/16 - Manufatti Acquedotti - Idro\|16 - Manufatti Acquedotti - Idro]]                             | T     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/17 - Tubazioni - Idro\|17 - Tubazioni - Idro]]                                                   | T     | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 02 - Foronomia - Idro\|Es 02 - Foronomia - Idro]]                                       | Es    | 🟡 Finire     |
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 06 - Statistica per l'idrologia - Idro\|Es 06 - Statistica per l'idrologia - Idro]]     | Es    | 🟡 Finire     |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07b - Infiltrazione - Idro\|07b - Infiltrazione - Idro]]                                         | T     | 🟡 Finire     |
@@ -123,23 +131,31 @@ ___
 # 👉🏻 Indice del corso
 
 
-| File                                                                                                                                               | Stato         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/00 - Presentazione corso idrologia\|00 - Presentazione corso idrologia]]                     | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera\|01 - Atmosfera]]                                                             | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro\|02 - Piogge Intense - Idro]]                                     | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro\|03 - Afflussi - Idro]]                                                 | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03a - Misure Radar - Idro\|03a - Misure Radar - Idro]]                                       | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro\|04 - Statistica - Idro]]                                             | 🪶 Scrivere   |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04b - Statistica e Tempo di Ritorno - Idro\|04b - Statistica e Tempo di Ritorno - Idro]]     | 🪶 Scrivere   |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro\|05 - Deflussi - Idro]]                                                 | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05a - Deflusso di base - Idro\|05a - Deflusso di base - Idro]]                               | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro\|06 - Perdite - Idro]]                                                   | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07a - Evaporazione - Idro\|07a - Evaporazione - Idro]]                                       | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07b - Infiltrazione - Idro\|07b - Infiltrazione - Idro]]                                     | 🟡 Finire     |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/08 - Bacino Imbrifero - Idro\|08 - Bacino Imbrifero - Idro]]                                 | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/09 - Trasformazione afflussi-deflussi - Idro\|09 - Trasformazione afflussi-deflussi - Idro]] | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/10 - IUH - Idro\|10 - IUH - Idro]]                                                           | 🪶 Scrivere   |
+| File                                                                                                                                                   | Stato         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/00 - Presentazione corso idrologia\|00 - Presentazione corso idrologia]]                         | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera\|01 - Atmosfera]]                                                                 | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro\|02 - Piogge Intense - Idro]]                                         | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro\|03 - Afflussi - Idro]]                                                     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03a - Misure Radar - Idro\|03a - Misure Radar - Idro]]                                           | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro\|04 - Statistica - Idro]]                                                 | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04b - Statistica e Tempo di Ritorno - Idro\|04b - Statistica e Tempo di Ritorno - Idro]]         | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro\|05 - Deflussi - Idro]]                                                     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05a - Deflusso di base - Idro\|05a - Deflusso di base - Idro]]                                   | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro\|06 - Perdite - Idro]]                                                       | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07a - Evaporazione - Idro\|07a - Evaporazione - Idro]]                                           | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07b - Infiltrazione - Idro\|07b - Infiltrazione - Idro]]                                         | 🟡 Finire     |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/08 - Bacino Imbrifero - Idro\|08 - Bacino Imbrifero - Idro]]                                     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/09 - Trasformazione afflussi-deflussi - Idro\|09 - Trasformazione afflussi-deflussi - Idro]]     | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/10 - IUH - Idro\|10 - IUH - Idro]]                                                               | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/11 - GIUH - Idro\|11 - GIUH - Idro]]                                                             | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/12 - Propagazione piene - Idro\|12 - Propagazione piene - Idro]]                                 | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/13 - Opere di approvvigionamento idrico - Idro\|13 - Opere di approvvigionamento idrico - Idro]] | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/14 - Opere di captazione - Idro\|14 - Opere di captazione - Idro]]                               | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/15 - Adduzione - Idro\|15 - Adduzione - Idro]]                                                   | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/16 - Manufatti Acquedotti - Idro\|16 - Manufatti Acquedotti - Idro]]                             | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/17 - Tubazioni - Idro\|17 - Tubazioni - Idro]]                                                   | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/18 - Serbatoi - Idro\|18 - Serbatoi - Idro]]                                                     | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
@@ -157,7 +173,7 @@ ___
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 04 - Correnti in pressione - Idro\|Es 04 - Correnti in pressione - Idro]]               | 🔴 Fare   | \-                                                                                                                                                                                                                    | March 12, 2024 |
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 05 - Dati Idrologici - Idro\|Es 05 - Dati Idrologici - Idro]]                           | 🟢 Fatto  | <ul><li>[[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/allegati/Es 5 - Dati Idrologici - Idro.pdf\\|Es 5 - Dati Idrologici - Idro.pdf]]</li></ul>                                                           | March 19, 2024 |
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 06 - Statistica per l'idrologia - Idro\|Es 06 - Statistica per l'idrologia - Idro]]     | 🟡 Finire | <ul><li>[[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/allegati/Es 6 - Statistica per l'idrologia - Idro.pdf\\|Es 6 - Statistica per l'idrologia - Idro.pdf]]</li></ul>                                     | April 08, 2024 |
-| [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 07 - Piogge di progetto - Idro\|Es 07 - Piogge di progetto - Idro]]                     | 🔴 Fare   | \-                                                                                                                                                                                                                    | \-             |
+| [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 07 - Piogge di progetto - Idro\|Es 07 - Piogge di progetto - Idro]]                     | 🔴 Fare   | <ul><li>[[Es 7 - Piogge di Progetto - Idro.pdf\\|Es 7 - Piogge di Progetto - Idro.pdf]]</li><li>[[Es 7 - Piogge di Progetto - Slide - Idro.pdf\\|Es 7 - Piogge di Progetto - Slide - Idro.pdf]]</li></ul>             | \-             |
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 08 - Perdite idrologiche 1 - Idro\|Es 08 - Perdite idrologiche 1 - Idro]]               | 🔴 Fare   | <ul><li>[[Es 8 - perdite idrologiche 1 - Idro.pdf\\|Es 8 - perdite idrologiche 1 - Idro.pdf]]</li><li>[[Es 8 - perdite idrologiche 1 - Slide - Idro.pdf\\|Es 8 - perdite idrologiche 1 - Slide - Idro.pdf]]</li></ul> | \-             |
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 09 - Idro\|Es 09 - Idro]]                                                               | 🔴 Fare   | \-                                                                                                                                                                                                                    | \-             |
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 10 - Modelli afflussi-deflussi - Idro\|Es 10 - Modelli afflussi-deflussi - Idro]]       | 🔴 Fare   | \-                                                                                                                                                                                                                    | \-             |

@@ -195,3 +195,51 @@ Essendo
 ❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗
 ❗❗❗❗❗❗❗❗❗❗❗❗
+
+## Modelli lineari
+
+### Modello cinematico
+
+
+![Schermata 2024-07-17 alle 14.29.21.png](/img/user/Schermata%202024-07-17%20alle%2014.29.21.png)
+
+
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗ scrivere (in teoria l'ho già capita)
+❗❗❗❗❗❗❗❗❗❗❗❗
+
+### Modello dell'invaso lineare - esponenziale
+
+Sia data l'equazione di bilancio di massa di un qualche bacino.
+$$
+I-Q = \frac{dW}{dt}
+$$
+Sia però
+$$
+W = kQ
+$$
+dove:
+- $k:$ La costante di invaso lineare
+	- Sta dicendo che l'accumulo all'interno è proporzionale al deflusso
+Quindi diventa
+$$
+I(t) - Q(t) = k \frac{dQ(t)}{dt}
+$$
+che scrivo come
+$$
+\frac{\mathrm{d}Q}{\mathrm{d}t} + \frac{1}{k} Q(t) = \frac{1}{k}I(t) 
+$$
+Moltiplico entrambi i membri per una quantità positiva:
+
+
+
+
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗
+
+
+
+
+
+
