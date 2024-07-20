@@ -24,6 +24,8 @@ to: 💧 Idrologia
 - Chow V.T., Maidment D.R., Mays L.W., "Applied Hydrology", Mc Graw Hill
 **🔑 Classroom:** 36t7w7k
 
+
+
 **🕰 Orario:**
 - **Lunedì:** 08:00-12:00 - RM031 Aula 21
 - **Martedì:** 08:00-12:00 - RM034 Aula 36
@@ -97,10 +99,11 @@ NON PREVISTO (a parte il test finale)
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/04b - Statistica e Tempo di Ritorno - Idro\|04b - Statistica e Tempo di Ritorno - Idro]]         | T     | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/14 - Opere di captazione - Idro\|14 - Opere di captazione - Idro]]                               | T     | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/18 - Serbatoi - Idro\|18 - Serbatoi - Idro]]                                                     | T     | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/23 - Manufatti fognature - Idro\|23 - Manufatti fognature - Idro]]                               | T     | 🪶 Scrivere   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/00 - Presentazione corso idrologia\|00 - Presentazione corso idrologia]]                         | T     | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro\|02 - Piogge Intense - Idro]]                                         | T     | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07a - Evaporazione - Idro\|07a - Evaporazione - Idro]]                                           | T     | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/09 - Trasformazione afflussi-deflussi - Idro\|09 - Trasformazione afflussi-deflussi - Idro]]     | T     | 🪶🟡 Scrivere |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/10 - IUH - Idro\|10 - IUH - Idro]]                                                               | T     | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera\|01 - Atmosfera]]                                                                 | T     | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro\|03 - Afflussi - Idro]]                                                     | T     | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03a - Misure Radar - Idro\|03a - Misure Radar - Idro]]                                           | T     | 🟠 Studiare   |
@@ -108,13 +111,15 @@ NON PREVISTO (a parte il test finale)
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05a - Deflusso di base - Idro\|05a - Deflusso di base - Idro]]                                   | T     | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro\|06 - Perdite - Idro]]                                                       | T     | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/08 - Bacino Imbrifero - Idro\|08 - Bacino Imbrifero - Idro]]                                     | T     | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/10 - IUH - Idro\|10 - IUH - Idro]]                                                               | T     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/09 - Trasformazione afflussi-deflussi - Idro\|09 - Trasformazione afflussi-deflussi - Idro]]     | T     | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/11 - GIUH - Idro\|11 - GIUH - Idro]]                                                             | T     | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/12 - Propagazione piene - Idro\|12 - Propagazione piene - Idro]]                                 | T     | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/13 - Opere di approvvigionamento idrico - Idro\|13 - Opere di approvvigionamento idrico - Idro]] | T     | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/15 - Adduzione - Idro\|15 - Adduzione - Idro]]                                                   | T     | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/16 - Manufatti Acquedotti - Idro\|16 - Manufatti Acquedotti - Idro]]                             | T     | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/17 - Tubazioni - Idro\|17 - Tubazioni - Idro]]                                                   | T     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/19 - Rete di distribuzione\|19 - Rete di distribuzione]]                                         | T     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/20 - Inquinamento - Idro\|20 - Inquinamento - Idro]]                                             | T     | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 02 - Foronomia - Idro\|Es 02 - Foronomia - Idro]]                                       | Es    | 🟡 Finire     |
 | [[Università/3° Anno/2° Semestre/Idrologia/Esercitazioni/Es 06 - Statistica per l'idrologia - Idro\|Es 06 - Statistica per l'idrologia - Idro]]     | Es    | 🟡 Finire     |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07b - Infiltrazione - Idro\|07b - Infiltrazione - Idro]]                                         | T     | 🟡 Finire     |
@@ -146,8 +151,8 @@ ___
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07a - Evaporazione - Idro\|07a - Evaporazione - Idro]]                                           | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07b - Infiltrazione - Idro\|07b - Infiltrazione - Idro]]                                         | 🟡 Finire     |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/08 - Bacino Imbrifero - Idro\|08 - Bacino Imbrifero - Idro]]                                     | 🟠 Studiare   |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/09 - Trasformazione afflussi-deflussi - Idro\|09 - Trasformazione afflussi-deflussi - Idro]]     | 🪶🟡 Scrivere |
-| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/10 - IUH - Idro\|10 - IUH - Idro]]                                                               | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/09 - Trasformazione afflussi-deflussi - Idro\|09 - Trasformazione afflussi-deflussi - Idro]]     | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/10 - IUH - Idro\|10 - IUH - Idro]]                                                               | 🪶🟡 Scrivere |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/11 - GIUH - Idro\|11 - GIUH - Idro]]                                                             | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/12 - Propagazione piene - Idro\|12 - Propagazione piene - Idro]]                                 | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/13 - Opere di approvvigionamento idrico - Idro\|13 - Opere di approvvigionamento idrico - Idro]] | 🟠 Studiare   |
@@ -156,10 +161,13 @@ ___
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/16 - Manufatti Acquedotti - Idro\|16 - Manufatti Acquedotti - Idro]]                             | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/17 - Tubazioni - Idro\|17 - Tubazioni - Idro]]                                                   | 🟠 Studiare   |
 | [[Università/3° Anno/2° Semestre/Idrologia/Appunti/18 - Serbatoi - Idro\|18 - Serbatoi - Idro]]                                                     | 🪶 Scrivere   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/19 - Rete di distribuzione\|19 - Rete di distribuzione]]                                         | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/20 - Inquinamento - Idro\|20 - Inquinamento - Idro]]                                             | 🟠 Studiare   |
+| [[Università/3° Anno/2° Semestre/Idrologia/Appunti/23 - Manufatti fognature - Idro\|23 - Manufatti fognature - Idro]]                               | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
-
+    
 ___
 
 

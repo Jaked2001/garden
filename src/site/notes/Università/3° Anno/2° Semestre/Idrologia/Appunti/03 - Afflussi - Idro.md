@@ -91,8 +91,8 @@ La posso usare quando:
 
 #### Metodo dei topoieti
 
-**Il m
-Metodo dei Topoieti**, o metodo dei **Poligoni di Thiessen** (vd. anche: [[Università/2° anno/2° Semestre/GIS/GIS 1/5. DEM#Poligoni di Thiessen\|poligoni di Thiessen - GIS]]) è un metodo di [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro#Ragguaglio spaziale delle piogge\|#Ragguaglio spaziale delle piogge]].
+
+**Il Metodo dei Topoieti**, o metodo dei **Poligoni di Thiessen** (vd. anche: [[Università/2° anno/2° Semestre/GIS/GIS 1/5. DEM#Poligoni di Thiessen\|poligoni di Thiessen - GIS]]) è un metodo di [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro#Ragguaglio spaziale delle piogge\|#Ragguaglio spaziale delle piogge]].
 
 ![03 - Afflussi - Idro 2024-03-18 11.14.41.excalidraw.png](/img/user/Excalidraw/03%20-%20Afflussi%20-%20Idro%202024-03-18%2011.14.41.excalidraw.png)
 

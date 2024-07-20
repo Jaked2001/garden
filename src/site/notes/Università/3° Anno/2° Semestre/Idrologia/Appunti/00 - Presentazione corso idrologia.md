@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/universita/3-anno/2-semestre/idrologia/appunti/00-presentazione-corso-idrologia/"}
 ---
 
+
 # [[Università/3° Anno/2° Semestre/Idrologia/Appunti/00 - Presentazione corso idrologia\|00 - Presentazione corso idrologia]]
 
 Obiettivi corso. Fornire:

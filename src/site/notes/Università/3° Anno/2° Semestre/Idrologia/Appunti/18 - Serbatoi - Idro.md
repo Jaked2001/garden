@@ -7,3 +7,21 @@
 Vedere da idrobibbia
 
 ![[18 - Serbatoi - Slide-app - Idro.pdf]]
+
+
+## Serbatoio
+
+### Funzioni dei serbatoi
+
+- Antincendio
+- Riserva
+- Compensazione
+- Discontinuità idraulica
+
+
+
+
+
+
+
+
