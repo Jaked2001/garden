@@ -320,7 +320,6 @@ Si misura in *millibar* ($\rm mb$). Si può anche riferirla ala risalita del [[M
 
 ```
 
-
 $$
 \begin{align}
 1 \,\rm mb &= 0.750062 \,\rm mmHg \\

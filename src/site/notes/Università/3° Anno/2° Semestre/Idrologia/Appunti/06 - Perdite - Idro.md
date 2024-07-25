@@ -12,10 +12,10 @@ title: Perdite idrogeologiche
 Le **perdite idrogeologiche** sono l'insieme dei volumi di portata che entra nel bacino e si perde durante il [[05 - Deflussi - Idro|Deflusso]] senza mai raggiungere la sezione finale.
 
 Costituiscono perdita idrogeologica:
-- [[#Evapotraspirazione]]
+- [[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Evapotraspirazione\|#Evapotraspirazione]]
 - [[#Intercettazione della vegetazione]]
 - [[#Invaso nelle depressioni]]
-- [[#Infiltrazione nel suolo]]
+- [[07b - Infiltrazione - Idro|Infiltrazione nel suolo]]
 
 ```
 
@@ -33,10 +33,10 @@ $
 dove:
 - $p(t):$ [[02 - Piogge Intense - Idro#Intensità di pioggia|intensità di pioggia]] netta
 - $i(t):$ [[02 - Piogge Intense - Idro#Intensità istantanea di pioggia|Intensità di pioggia]] lorda
-- $e(t):$ Intensità di [[#Evapotraspirazione]]
+- $e(t):$ Intensità di [[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Evapotraspirazione\|#Evapotraspirazione]]
 - $\nu(t):$ Intensità di [[#Intercettazione della vegetazione]]
 - $s(t):$ Intensità di [[#Invaso nelle depressioni]]
-- $f(t):$ Intensità di [[#Infiltrazione nel suolo]]
+- $f(t):$ Intensità di [[07b - Infiltrazione - Idro|Infiltrazione]]
 
 ```
 
@@ -49,7 +49,7 @@ Elimino:
 - Su scala annuale: trascuro $v(t)$
 - Negli eventi di piena: trascuro $e(t)$
 
-in particolare quando piove e se considero una scala annuale.
+In particolare quando piove e se considero una scala annuale.
 $$
 p(t) = i(t) - s(t) - f(t)
 $$
@@ -131,6 +131,8 @@ dove:
 - $k_{j}:$ Coefficiente sperimentale che dipende dal mese che si considera:
 
 La formula di Conti è una legge empirica che fornisce l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Evaporazione\|#Evaporazione]] in un mese.
+
+In Italia evapora $1 \,\rm cm$ al giorno d'acqua dai laghi.
 
 | Mese      | $k_j$ |
 | --------- | ----- |
@@ -228,9 +230,14 @@ Il **lisimetro** è lo strumento adibito alla misura dell'[[#Evapotraspirazione]
 
 ### Formule di evapotraspirazione
 
+Esistono varie formule per descrivere l'[[#Evapotraspirazione]]
+
 #### Formula di Thorntwaite
 
 La **Formula di Thorntwaite** è usata per conteggiare l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Evapotraspirazione potenziale\|#Evapotraspirazione potenziale]] mensile:
+Lega l'[[#Evapotraspirazione]] a:
+- Temperatura
+- Irraggiamento diurno
 
 #### Equazione di Penman-Monteith
 
@@ -242,7 +249,7 @@ L'**equazione di Penman-Monteith** è un'equazione teorica ricavata da:
 
 #### Formula di Turc
 
-La **Formula di Turc** permette il conteggio dell'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Evapotraspirazione effettiva\|#Evapotraspirazione effettiva]] annua:
+La **Formula di Turc** permette il conteggio dell'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Evapotraspirazione effettiva\|#Evapotraspirazione effettiva]] annua.
 
 
 ## Intercettazione della vegetazione

@@ -33,12 +33,26 @@ $$
 Q_{n}(t) = Q_{m}(t) + P(t)
 $$
 dove:
-- $Q_{m}(t):$ Portate misurate
+- $Q_{n}(t):$ Portata naturale
+- $Q_{m}(t):$ Portata misurata
 - $P(t):$ Prelievi
 
 Occorre pertanto la ricostruzione storica dei prelievi.
 
 ## Curve di durata
+
+```ad-Definizione
+title: Curva di durata
+
+Una **curva di durata** è realizzata a partire dal grafico delle portate nel tempo. Di ogni valore di portata si riporta quante volte è stato superato o uguagliato in un anno e la serie così ottenuta è ordinata in ordine decrescente. 
+
+Gode delle seguenti caratteristiche:
+- Tutti i giorni ($D(Q) = 365$) è verificata la portata $Q_{min}$
+- Un solo giorno si verifica la portata $Q_{max}$
+
+
+```
+
 
 Le curve di durata sono un utile strumento di diagnosi dei corpi d'acqua.
 In particolare:
@@ -51,9 +65,6 @@ La curva di durata raffigura per quanto tempo è rispettata una data portata.
 
 ![Schermata 2024-05-03 alle 17.50.24.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/Schermata%202024-05-03%20alle%2017.50.24.png)
 
-In particolare dice che:
-- Tutti i giorni ($D(Q) = 365$) è verificata la portata $Q_{min}$
-- Un solo giorno si verifica la portata $Q_{max}$
 
 La curva è chiaramente sempre **monotona decrescente**.
 
@@ -61,9 +72,9 @@ La curva è chiaramente sempre **monotona decrescente**.
 
 Vediamo che la portata massima di picco si è verificata una sola volta. La seconda portata massima si è verificata 2 volte: Quando il picco è stato proprio quello e quando si è verificato il primo picco. E così via...
 
-Occorre una legge di probabilità delle portate minime: userò una distribuzione appropriata a modellare i valori estremi.
+Occorre una legge di probabilità delle portate minime: userò una distribuzione appropriata a modellare i valori estremi. Si considerano le portate minime di tutti gli anni di osservazione come realizzazione di un'unica variabile casuale.
 
-Si usa la Distribuzione del minimo valore di tipo EV3:
+Si usa la Distribuzione del minimo valore di tipo EV3 ([[Distribuzione di Weibull\|Distribuzione di Weibull]]):
 $$
 \mathcal{P}(X\ge x) = 1- \mathcal{P}(x) = 1 - e^{- \left( \dfrac{x-x_{0}}{\varepsilon- x_{0}} \right)^\frac{1}{\lambda}}
 $$
@@ -82,7 +93,7 @@ Per lo studio delle portate minime bisogna fare attenzione alla carta idrogeolog
 
 ## Curva di esaurimento
 
-Per stimare le portate minime facciamo uso delle **curve di esaurimento** - costituiscono la seconda parte dell'idrogramma di piena.
+Per stimare le portate minime si fa uso delle **curve di esaurimento** - costituiscono la seconda parte dell'idrogramma di piena.
 
 Durante il periodo non influenzato dalla pioggia, le portate d'esaurimento alle sorgenti dipendono dal grado di riempimento delle falde (come le falde restituiscono acqua alla superficie nel periodo non influenzato).
 
@@ -110,9 +121,9 @@ $$
 dove:
 - $t:$ tempo
 - $W_{t}(t):$ il volume totale invasato nell'acquifero
-- $I_{e}(t):$ infiltrazione efficace
-- $D(t):$ il deflusso superficiale di base nei corsi d'acqua alimentati dall'acquifero
-- $F(t):$ lo scambio sotterraneo con altri acquiferi e le perdite in mare
+- $I_{e}(t):$ *Infiltrazione efficace*
+- $D(t):$ Il *deflusso superficiale di base* nei corsi d'acqua alimentati dall'acquifero
+- $F(t):$ Lo *scambio sotterraneo* con altri acquiferi e le *perdite in mare*
 
 L'equazione
 $$
@@ -120,11 +131,21 @@ $$
 $$
 può avere come soluzione:
 - Esponenziale: $Q(t) = Q_{0}e^{- \frac{t-t_{0}}{k}}$
-- Potenziale
-- Esponenziale multipla
+- Potenziale: $Q(t) = Q_{0}[ 1-a(t-t_{0})]^{k}$
+- Esponenziale multipla:
+
+Le curve di esaurimento quindi rappresentano l'andamento nel tempo del deflusso di un corso d'acqua dopo un evento di pioggia.
+
+Come capire da dove comincia il **deflusso di base** nell'idrogramma di piena? Conviene usare il log naturale della portata. In questo modo, la parte finale risulterà rettilinea. La parte rettilinea è dove comincia il deflusso di base
 
 
-Come capisco da dove comincia il deflusso di base nell'idrogramma di piena? Conviene usare il log naturale della portata. In questo modo, la parte finale risulterà rettilinea. La parte rettilinea è dove comincia il deflusso di base
+```ad-note
+title: Osservazione
+
+La curva di esaurimento è tipica di un certo corso d'acqua, indipendente dalla portata di picco. Quindi, eventi diversi, avranno comunque curve di esaurimento con andamento uguale.
+```
+
+-
 
 ```ad-note
 title: Risposte di ChatGPT
@@ -135,11 +156,11 @@ Il deflusso di base è la componente del deflusso fluviale che proviene dalle so
 Le curve di esaurimento sono strettamente legate al deflusso di base in quanto, durante la fase di recessione, il flusso d'acqua nel fiume tende progressivamente a ridursi fino a raggiungere il deflusso di base. L'andamento della curva di esaurimento può quindi essere utilizzato per stimare la quantità e la durata del deflusso di base.
 
 
-da che punto dell'idrogramma di piena inizia la curva di esaurimento
-ChatGPT
+**Da che punto dell'idrogramma di piena inizia la curva di esaurimento?**
+
 La curva di esaurimento inizia dal punto di massimo dell'idrogramma di piena, noto come il picco di piena. Questo punto rappresenta il momento in cui il deflusso del corso d'acqua raggiunge il suo massimo livello a seguito di un evento di pioggia o fusione di neve. Dopo il picco, il deflusso inizia a diminuire gradualmente, segnando l'inizio della fase di recessione o esaurimento. La curva di esaurimento segue questo andamento decrescente del deflusso fino a stabilizzarsi sul deflusso di base.
 
-mentre l'esaurimento cos'è?
+**Mentre l'esaurimento cos'è?**
 ChatGPT
 In idrologia, l'esaurimento si riferisce alla fase del ciclo idrologico durante la quale il flusso di un corso d'acqua diminuisce dopo aver raggiunto il picco di piena. Questa fase di riduzione del deflusso avviene a seguito di un evento di precipitazione o fusione di neve che ha aumentato temporaneamente il livello dell'acqua nel fiume o nel torrente.
 
@@ -149,8 +170,9 @@ Ricarica delle falde acquifere: Parte dell'acqua inizia a infiltrarsi nel suolo 
 Riduzione del deflusso superficiale: L'acqua che scorre in superficie diminuisce man mano che le sorgenti temporanee di deflusso (come l'acqua piovana o il disgelo) si esauriscono.
 La durata e la forma della curva di esaurimento possono variare a seconda di diversi fattori, come la morfologia del bacino idrografico, la permeabilità del suolo, la vegetazione e le condizioni climatiche.
 
-in che punto finisce la curva di esaurimento e inizia la curva del deflusso di base?
-ChatGPT
+
+**In che punto finisce la curva di esaurimento e inizia la curva del deflusso di base?**
+
 La curva di esaurimento termina e inizia la curva del deflusso di base nel punto in cui il deflusso del corso d'acqua si stabilizza e raggiunge un valore minimo relativamente costante, che rappresenta il flusso sostenuto principalmente dalle acque sotterranee. Questo punto non è sempre facile da individuare esattamente, ma in generale si verifica quando l'effetto degli eventi di pioggia o di fusione della neve è completamente smaltito, e il flusso del fiume è mantenuto solo dalle sorgenti sotterranee.
 
 In sintesi:
@@ -163,5 +185,3 @@ La transizione tra queste due fasi è continua e graduale, e il punto di separaz
 
 
 ![Schermata 2024-05-04 alle 16.53.01.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/Schermata%202024-05-04%20alle%2016.53.01.png)
-
-La curva di esaurimento è tipica di un certo corso d'acqua, indipendente dalla portata di picco. Quindi, eventi diversi, avranno comunque curve di esaurimento con andamento uguale.

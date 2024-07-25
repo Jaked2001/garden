@@ -265,7 +265,7 @@ In questo caso viene $n = 0.288$
 
 $$\Large
 \begin{align}
-\mathcal{P}(x) &= e^{-e^{-\alpha(x-\varepsilon)}} \\
+P(x) &= e^{-e^{-\alpha(x-\varepsilon)}} \\
 p(x) &= \alpha e^{-e^{-\alpha(x-\varepsilon)}-\alpha(x-\varepsilon)}
 \end{align}
 $$
@@ -277,7 +277,7 @@ I parametri da stimare sono:
 
 $$\Large
 \begin{align}
-\mathcal{P}(x) &= e^{-\left(\frac{x}{\varepsilon}\right)^-\alpha} \\
+P(x) &= e^{-\left(\frac{x}{\varepsilon}\right)^-\alpha} \\
 p(x) &= 
 \end{align}
 $$

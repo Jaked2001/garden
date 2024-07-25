@@ -46,14 +46,22 @@ Derivando $S(t)$ e sostituendo nell'equazione di continuità posso scrivere:
 $$
 \begin{align}
 I(t) - Q(t) = \frac{dS(t)}{dt} &= \sum_{i=1}^{n}a_{i} \frac{\mathrm{d}^{1}Q}{\mathrm{d}t^{i}} + \sum_{j=1}^{m}b_{j} \frac{\mathrm{d}^{1}I}{\mathrm{d}t^{i}} = \\
-\left( I - \sum_{j=1}^{m}b_{j} \frac{\mathrm{d}^{1}I}{\mathrm{d}t^{i}} \right) &= \left( Q-\sum_{i=1}^{n}a_{i} \frac{\mathrm{d}^{1}Q}{\mathrm{d}t^{i}}  \right) \\
-\left( 1 - \sum_{j=1}^{m}b_{j} \frac{\mathrm{d}^{1}}{\mathrm{d}t^{i}} \right)I &= \left( 1-\sum_{i=1}^{n}a_{i} \frac{\mathrm{d}^{1}Q}{\mathrm{d}t^{i}}  \right)Q  \\
+\left( I - \sum_{j=1}^{m}b_{j} \frac{\mathrm{d}^{1}I}{\mathrm{d}t^{i}} \right) &= \left( Q+\sum_{i=1}^{n}a_{i} \frac{\mathrm{d}^{1}Q}{\mathrm{d}t^{i}}  \right) \\
+\left( 1 - \sum_{j=1}^{m}b_{j} \frac{\mathrm{d}^{1}}{\mathrm{d}t^{i}} \right)I &= \left( 1+\sum_{i=1}^{n}a_{i} \frac{\mathrm{d}^{1}Q}{\mathrm{d}t^{i}}  \right)Q  \\
 M(j)I &= N(i)Q 
 \end{align}
 $$
 Dove ho sostituito le parentesi con $M$ e $N$ che risultano essere 2 operatori differenziali.
 
 ![Schermata 2024-07-16 alle 17.39.32.png](/img/user/Schermata%202024-07-16%20alle%2017.39.32.png)
+
+Il sistema da risolvere, con tanto di condizioni al contorno sarà pertanto:
+$$
+\begin{cases}
+Q(t) = \dfrac{M(D)}{N(D)} I(t) = \Omega(t)I(t) \\
+Q(0) = Q_{0} \,, \qquad \dfrac{\mathrm{d}^{i}Q(0)}{\mathrm{d}t^{i}} = Q_{i} 
+\end{cases}
+$$
 
 ❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗ Condizioni al contorno
@@ -76,22 +84,26 @@ $$
 $$
 In particolare si noti che, prima dell'impulso, sicuramente la risposta sarà nulla. Posso scrivere l'integrale con estremi:
 $$
-\int_{\tau}^{\infty} u(t-\tau) \, dt = 1
+\int_{\tau}^{\infty} u(t-\tau) \, d\tau  = 1
 $$
 Dove si è anche operata una traslazione della funzione di risposta $u$ di un tempo $\tau$ verso destra
 L'integrale che vale:
 - $u(t-\tau) = 0$ per $t \leq \tau$
-- $u(t-\tau) >0$ per $t>0$
+- $u(t-\tau) >0$ per $t>\tau$
 
 Si osservi che la funzione $u(t-\tau)$ ha le stesse proprietà di una funzione di distribuzione di probabilità.
 
 La risposta $u(t-\tau)$ prende il nome di **idrogramma unitario istantaneo**.
 
-Qualora la portata in ingresso $I(t)$ non fosse unitaria, la risposta sarebbe data da:
+A questo punto si potrebbe pensare di vedere un segnale in ingresso generico $I$ come una somma opportuna di impulsi unitari. Si potrebbe così scrivere la portata di deflusso come il seguente integrale:
 $$
 Q(t) = \int_{-\infty }^{t} I(\tau)u(t-\tau) \, d\tau 
 $$
-che è detto **INTEGRALE DI CONVOLUZIONE**
+che è detto **INTEGRALE DI CONVOLUZIONE**: esso fornisce quindi la risposta a un segnale non unitario e non istantaneo.
+
+Scrivendo$i(\tau)$ siamo in grado di descrivere qualsiasi segnale in ingresso. Infatti, sia $\tau$ l’istante di un impulso, se sommiamo tanti impulsi possiamo definire un segnale diverso. In effetti, integrando in $\tau$ stiamo sommando gli effetti di tanti impulsi definendo la risposta a un segnale qualunque. Questa operazione si può effettuare proprio per l’ipotesi di linearità.
+
+
 
 ### Risposta a un segnale unitario
 
@@ -100,7 +112,7 @@ title: Attenzione
 
 D'ora in poi la risposta unitaria verrà rappresentata graficamente con alcune curve che sembrano avere un andamento specifico. In realtà, senza prima definire il modello di [[09 - Trasformazione afflussi-deflussi - Idro|Trasformazione flussi-deflussi]] che si vuole utilizzare, l'andmanto della $u(t-\tau)$ è da considerarsi generico.
 
-SPOILER: Nei seguenti grafici spesso si è usata la risposta del [[#Modello dell'invaso lineare - esponenziale]] che verrà introdotta in seguito.
+SPOILER: Nei seguenti grafici spesso si è usata la risposta del [[Università/3° Anno/2° Semestre/Idrologia/Appunti/10 - IUH - Idro#Modello dell'invaso lineare - esponenziale\|#Modello dell'invaso lineare - esponenziale]] che verrà introdotta in seguito.
 
 ```
 
@@ -138,7 +150,7 @@ $$
 
 In questo caso il segnale in ingresso ha ancora volume unitario. Esso però perdura nel tempo, in particolare per un tempo $\Delta t$ e avrà quindi intensità (altezza del rettangolo rosso) $\frac{1}{\Delta t}$ (in modo che sia base $\times$ altezza = $\Delta t\dfrac{1}{\Delta t} =1$).
 
-Posso vedere questo segnale come un insieme di tanti impulsi unitari (quelli da cui ho definito lo IUH). Pertanto, integrando lo IUH ($u(l)$) nell'intervallo in cui ho il segnale possono ottenere che, in un generico istante $t$, la risposta è
+Posso vedere questo segnale come un insieme di tanti impulsi unitari (quelli da cui ho definito lo IUH). Pertanto, integrando lo IUH ($u(l)$) nell'intervallo in cui ho il segnale posso ottenere che, in un generico istante $t$, la risposta è
 $$
 h(t) = \frac{1}{\Delta t}\int_{t-\Delta t}^{t} u(l)\, dl
 $$
@@ -219,6 +231,7 @@ $$
 \frac{1}{\Delta t} \int_{(m-1)\Delta t}^{m\Delta t} u(n\Delta t - \tau ) \, d\tau = h
 $$
 Pertanto la portata $Q$ può essere scritta, operando in mezzo un cambio di variabile che qui è omesso, come:
+
 ```ad-Teo
 title: Integrale di convoluzione discretizzato
 
@@ -234,14 +247,9 @@ Essendo
 - $m:$ Il numero dell'intervallo $\Delta t$ tra 0 e $n\Delta t$
 Si ha così l'**integrale di convoluzione discretizzato**
 
+## Modelli integrali concentrati
 
-[[Università/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/06. Teoria Elementare della domanda e dell'offerta#Ottimo di Pareto\|06. Teoria Elementare della domanda e dell'offerta#Ottimo di Pareto]]
-
-❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗
-
-## Formula razionale - Mulvaney
+### Formula razionale - Mulvaney
 
 ```ad-Teo
 title: Formula razionale o Formula di Mulvaney
@@ -258,19 +266,138 @@ dove:
 
 ```
 
+### Formula di Kirpich
+
+La formula di Kirpich può essere usata per aree poco estese, sotto i $15\,\rm km^{2}$.
+$$
+\tau_{b} = 0.000325\cdot L^{0.77}J^{-0.385}
+$$
+dove:
+- $L:$ Lunghezza asta principale
+- $J:$ Pendenza media del bacino
+
+
+### Formula di Giandotti
+
+Applicabile su superfici di almeno $100\,\rm km^{2}$ in sezione di chiusura
+$$
+\tau_{b} = \frac{4\sqrt{A_{b}} + 1.5L_{b}}{0.8 \sqrt{y_{m}}}
+$$
+dove:
+- $A_{b}:$ Area bacino
+- $L_{b}:$ Lunghezza dell'asta principale del bacino
+- $Y_{m}:$ Altitudine media del bacino rispetto alla sezione di chiusura
+
+### Formula di Ventura
+
+$$
+\tau_{b} = 0.127 A_{b}^{0.5}J^{-0.5}
+$$
 
 
 ## Modelli lineari
 
 ### Modello cinematico
 
+Il **modello cinematico lineare** trasforma la portata in entrata $q_{e}$ nella portata in uscita $q_{u}$ attraverso una traslazione di un tempo $\tau$ senza modificarne il valore:
+$$
+q_{u}(t) = q_{e}(t-\tau)
+$$
+essendo $\tau$ il [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Tempo di Corrivazione\|tempo di corrivazione]].
+
+```ad-tip
+title: Ipotesi
+
+Ipotesi del modello cinematico:
+- La formazione della piena è dovuta solo al trasferimento di volumi d'acqua all'interno del bacino;
+- Ogni goccia di pioggia che cade sulla superficie segue un percorso invariabile nel tempo e che dipende solo dal punto in cui essa è caduta;
+- La velocità con cui la goccia si muove lungo la superficie non è influenzata dalla presenza di altre gocce;
+- La portata nella sezione di chiusura in un dato istante è data dalla somma delle portate elementari, provenienti dalle diverse parti del bacino, che pervengono alla sezione di chiusura in quellistante.
+```
+
 
 ![Schermata 2024-07-17 alle 14.29.21.png](/img/user/Schermata%202024-07-17%20alle%2014.29.21.png)
 
+Individuato il bacino, si cercano le [[Università/3° Anno/2° Semestre/Idrologia/Appunti/10 - IUH - Idro#Linee isocorrive\|#Linee isocorrive]]. Si considera pertanto una superficie infinitesima (quella blu nel disegno sopra) dalla isocorriva $\tau$ a quella $\tau+d \tau$. Questa ha area $dA(\tau)$. La portata infinitesima in uscita dovuta all'acqua caduta in quest'area è
+$$
+dQ(t) = p(t-\tau )dA(\tau )
+$$
+La portata si ottiene quindi dall'integrale di $dQ(t)$ per l'area che varia da 0 (sezione di chiusura) ad una corrispondente alla "distanza" $\tau = t$:
+$$
+Q(t)= \int_{0}^{A(t)} p(t-\tau ) \,dA(\tau)
+$$
+Dividendo per $A_{b}$ (area del bacino) si ottiene la portata specifica per unità di area:
+$$
+q(t) = \frac{Q(t)}{A_{b}} = \int_{0}^{A(t)} p(t-\tau ) \, \frac{dA(\tau)}{A_{b}}
+$$
+Divido e moltiplico per $d\tau$:
+$$
+q(t) = \int_{0}^{A(t)} p(t-\tau ) \frac{1}{A_{b}} \, \frac{dA(\tau)}{d\tau } d\tau 
+$$
+applico la trasformazione $\theta= t-\tau$ e definisco l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/10 - IUH - Idro#Idrogramma Unitario Istantaneo - IUH\|#Idrogramma Unitario Istantaneo - IUH]] $u(\theta)$:
+$$
+u(\tau) = \frac{dA(\tau)}{A_{b}d\tau } =
+\left[\begin{align}
+\theta  &= t-\tau \\
+d\theta &= -d\tau 
+\end{align} \right] 
+=  - \frac{dA(t-\theta)}{A_{b}d\theta}
+$$
+Scrivo pertanto l'integrale della portata come
+$$
+q(t) = \int_{0}^{t} p(\theta )u(t-\theta ) \, d\theta 
+$$
 
-❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗ scrivere (in teoria l'ho già capita)
-❗❗❗❗❗❗❗❗❗❗❗❗
+#### IUH di risposta a segnale rettangolare - Modello cinematico
+
+Si immagini una pioggia di durata $t_{p}$. Sia $\tau_{b}$ il [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Tempo di Corrivazione\|tempo di corrivazione]]
+- $\boldsymbol{t_{p}<\tau_{b}}$ - *Durata di pioggia è minore del tempo di corrivazione del bacino*
+Finché piove, la portata alla sezione di chiusura continua ad aumentare senza mai eguagliare l'intensità di pioggia. Quando non piove più, in chiusura la portata rimarrà costante fino a quando non viene raggiunto il tempo di corrivazione del bacino. Successivamente la portata comincerà a diminuire fino ad arrivare a 0.
+
+![Schermata 2024-07-20 alle 16.29.28.png|350](/img/user/Schermata%202024-07-20%20alle%2016.29.28.png)
+
+Il tratto di portata crescente è descritto da:
+$$
+q(t) = p \frac{t}{\tau_{b}}
+$$
+
+- $\boldsymbol{t_{p}= \tau_{b}}$ - *Durata di pioggia è uguale al tempo di corrivazione del bacino*
+Finché piove, la portata alla sezione di chiusura continua ad aumentare fino ad eguagliare l'intensità di pioggia proprio dopo un tempo pari al tempo di corrivazione. A questo punto smette di piovere e la portata in chiusura torna a diminuire, fino a zero.
+
+![Schermata 2024-07-20 alle 16.29.59.png|350](/img/user/Schermata%202024-07-20%20alle%2016.29.59.png)
+
+$$
+\begin{cases}
+t<t_{p} &\qquad q(t) = p \frac{t}{\tau_{b}} \\
+t = t_{p} &\qquad q(t) = p(t)
+\end{cases}
+$$
+
+- $\boldsymbol{t_{p} > \tau_{b}}$ - *Durata di pioggia uguale al tempo di corrivazione del bacino*
+La portata alla sezione di chiusura continua ad aumentare fino ad eguagliare l'intensità di pioggia dopo un tempo pari al tempo di corrivazione del bacino. A questo punto la portata in uscita e l'intensità di pioggia si mantengono uguali fino a quando non smette di piovere in $t_{p}$; a questo punto la portata torna a diminuire fino a zero
+
+![Schermata 2024-07-20 alle 16.40.21.png|350](/img/user/Schermata%202024-07-20%20alle%2016.40.21.png)
+
+```ad-attention
+title: Attenzione
+
+La stima del [[02 - Piogge Intense - Idro#Tempo di Corrivazione|tempo di corrivazione]] è un parametro estremamente importante da stimare correttamente. Sbagliare il tempo di corrivazione, che sia per difetto o per eccesso, porta in ogni caso a stimare erroneamente le portate in chiusura sempre per **difetto**. Questo ovviamente non è cautelativo.
+
+```
+
+
+![Pasted image 20240720164535.png](/img/user/Pasted%20image%2020240720164535.png)
+
+
+#### Linee isocorrive
+
+```ad-Definizione
+title: Linee isocorrive
+
+Le linee isocorrive sono il luogo dei punti che connettono i punti del bacino ad egual [[02 - Piogge Intense - Idro#Tempo di Corrivazione|tempo di corrivazione]].
+
+```
+
 
 ### Modello dell'invaso lineare - esponenziale
 
@@ -289,21 +416,28 @@ Quindi diventa
 $$
 I(t) - Q(t) = k \frac{dQ(t)}{dt}
 $$
-che scrivo come
+Si dimostra che l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/10 - IUH - Idro#Idrogramma Unitario Istantaneo - IUH\|#Idrogramma Unitario Istantaneo - IUH]] dell'invaso lineare è dato da
+$$ \LARGE
+u(t) = \frac{1}{k} e^{-\frac{t-\tau_{b}}{k}}
 $$
-\frac{\mathrm{d}Q}{\mathrm{d}t} + \frac{1}{k} Q(t) = \frac{1}{k}I(t) 
+Si osservi che l'IUH dell'invaso lineare corrisponde alla distribuzione di probabilità [[Università/2° anno/2° Semestre/Probabilità e statistica/Appunti/03. Variabili Aleatorie#Variabile Aleatoria Esponenziale\|esponenziale]].
+
+![Schermata 2024-07-20 alle 17.04.44.png](/img/user/Schermata%202024-07-20%20alle%2017.04.44.png)
+
+Si può pertanto scrivere l'integrale di convoluzione:
 $$
-Moltiplico entrambi i membri per una quantità positiva:
+Q(t) = \int_{0}^{t} I(\tau) \frac{1}{k} e^{-(t-\tau_{b})/k} \, d\tau
+$$
+#### IUH di Nash
 
+![Schermata 2024-07-20 alle 17.05.08.png|500](/img/user/Schermata%202024-07-20%20alle%2017.05.08.png)
 
+All'atto pratico, il [[#Modello dell'invaso lineare - esponenziale]] è applicato attraverso il modello di Nash. Questo consiste nel porre in serie tanti invasi lineari, sfruttando di volta in volta l'uscita del precedente come segnale del successivo. Combinando gli effetti si arriva all'equazione dello IUH riportata di seguito:
+$$
+u(t) = \frac{1}{\Gamma(\alpha)k} \left( \frac{t}{k} \right)^{\alpha - 1} e^{- t/k}
+$$
+dove:
+- $\Gamma(\alpha):$ [[Università/2° anno/2° Semestre/Probabilità e statistica/Appunti/03. Variabili Aleatorie#Funzione Gamma\|funzione gamma]] - rappresenta un'interpolazione del fattoriale ai numeri non interi
 
-
-❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗
-
-
-
-
-
+![Schermata 2024-07-20 alle 17.08.42.png](/img/user/Schermata%202024-07-20%20alle%2017.08.42.png)
 

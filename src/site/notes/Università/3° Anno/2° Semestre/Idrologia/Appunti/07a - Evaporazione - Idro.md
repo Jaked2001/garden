@@ -27,7 +27,7 @@ dove:
 - $W:$ Volume del corpo idrico
 - $\rho:$ Densità dell'acqua
 - $C:$ Calore specifico dell'acqua
-- $\Delta T$: Variazione di temperatura dell'acqua nell'intervallo $\Delta T$
+- $\Delta T$: Variazione di temperatura dell'acqua nell'intervallo $\Delta t$
 - $R_{n}:$ Flusso d'energia **radiante netta** in $\Delta t$
 - $H_{S}:$ Flusso di **calore sensibile** dall'acqua all'atmosfera in $\Delta t$
 - $H_{l}:$ Flusso di **calore latente** dell'acqua evaporata in $\Delta t$
@@ -51,12 +51,12 @@ dove:
 
 Posso ricavare $H_{l}$ con la seguente:
 $$
-H_{l} = \lambda_{e} \Phi_{\nu,z} = \lambda_{e}\rho E
+H_{l} = \lambda_{e} \Phi_{\nu,z} = \boldsymbol{\lambda_{e}\rho E}
 $$
 dove:
 - $\Phi_{\nu,z}:$ Flusso verticale della massa di vapore
 	- È dato proprio da $\rho E$ dove $E$ è l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Altezza di evaporazione\|altezza di evaporazione]]
-- $\lambda_{e}:$ Calore latente di evaporazione
+- $\lambda_{e}:$ [[Calore latente di evaporazione\|Calore latente di evaporazione]]
 
 Posso sostituire $H_{l}$ nell'equazione di bilancio e dividerla tutta per $H_{l}$
 $$
@@ -86,20 +86,38 @@ dove:
 - $E_{r}$ è un termine che deriva dall'irraggiamento: è l'evaporazione che avrebbe luogo se il flusso di calore sensibile fosse trascurabile ($H_{s} = 0$). Con $H_{s}=0$, $\beta= 0$
 ```
 
+Inoltre si dimostra che si può scrivere $\beta$ come:
+$$
+\beta = \gamma \dfrac{T_{a}- T_{l}}{e_{v,a}-e_{vs,l}}
+$$
+Da cui si può riscrivere l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/07a - Evaporazione - Idro#07a - Evaporazione - Idro\|evaporazione]]:
+$$
+E = \frac{E_{r}}{1+\gamma \dfrac{T_{a}- T_{l}}{e_{v,a}-e_{vs,l}}}
+$$
 
-![Schermata 2024-05-05 alle 11.31.08.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-05-05%20alle%2011.31.08.png)
-
-![Schermata 2024-05-05 alle 11.31.36.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-05-05%20alle%2011.31.36.png)
-
-![Schermata 2024-05-05 alle 11.31.44.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-05-05%20alle%2011.31.44.png)
-
-![Schermata 2024-05-05 alle 11.32.09.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/Schermata%202024-05-05%20alle%2011.32.09.png)
+Il metodo energetico tiene conto dell'effetto che ha l'irragiamento. All'aumentare di questo aumenta l'evapotraspirazione
 
 ## Metodo aerodinamico
 
-❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗
+![Pasted image 20240724155719.png](/img/user/Pasted%20image%2020240724155719.png)
+
+Il metodo aerodinamico modella l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Evapotraspirazione\|evapotraspirazione]] studiando l'effetto che ha lo spostamento d'aria sulla superficie dell'acqua.
+
+Infatti, un maggiore vento, provoca un maggiore ricambio d'aria che porta aria meno umida sopra lo specchio d'acqua che ha quindi modo di evaporare più facilmente.
+
+Si cerca pertanto una relazione che leghi lo sforzo tangenziale del vento con la sua velocità.
+$$
+\tau = -\rho_{a}k_{m} \frac{\mathrm{d}v}{\mathrm{d}z} 
+$$
+
+
+Si dimostra che:
+$$
+E = B(e_{vs,l}-e_{v,a})
+$$
+dove:
+- $e_{vs,l}:$ Superficie evaporante
+
 
 ## Metodo combinato di Penman-Monteith
 
@@ -110,9 +128,15 @@ E = \frac{E_{r}}{1+\beta }
 $$
 
 Il [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07a - Evaporazione - Idro#Metodo aerodinamico\|#Metodo aerodinamico]] tiene conto dell'evaporazione dovuta agli effetti del vento.
+$$
+E = B(e_{vs,l}-e_{v,a})
+$$
 
-È necessario combinare i due effetti per avere una valutazione completa dell'evaporazione. Si ottiene così
+È necessario combinare i due effetti per avere una valutazione completa dell'evaporazione. Si ottiene così l'espressione seguente conosciuta anche col nome di [[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Equazione di Penman-Monteith\|Penman-Monteith]]
 
 $$
 E = \frac{\gamma E_{a}-\Delta_{e}E_{r}}{\gamma + \Delta_{e}}
 $$
+dove:
+- $E_{a}:$ evaporazione calcolata con il metodo della diffusione turbolenta - quella a cui si raggiunge la saturazione alla quota lago
+- $E_{r}$ è un termine che deriva dall'irraggiamento: è l'evaporazione che avrebbe luogo se il flusso di calore sensibile fosse trascurabile ($H_{s} = 0$). Con $H_{s}=0$, $\beta= 0$

@@ -27,6 +27,8 @@ La differenza tra tutto quello che entra e tutto quello che esce fornisce la var
 
 ## Modellazione afflussi-deflussi
 
+È praticamente impossibile rappresentare la [[Università/3° Anno/2° Semestre/Idrologia/Appunti/09 - Trasformazione afflussi-deflussi - Idro\|trasformazione afflussi-deflussi]] con un modello fisicamente basato a causa della complessità dei fenomeni in gioco e all'elevato numero di parametri da conoscere.
+
 ### Modelli lineari e stazionari
 
 ```ad-Definizione
@@ -35,14 +37,14 @@ title: Modello lineare
 I modelli che sfruttiamo sono, in particolare, **modelli lineari**.
 
 Sia 
-$p = K_{1}p' +K_{2}p'' = K_{1}p' +K_{2}p''$
+$p = K_{1}p' +K_{2}p''$
 l’ingresso al sistema costituito dalla combinazione lineare degli ingressi $p'$  e $p''$, gli corrisponde un’uscita
-$q = K_{1}q' +K_{2}q'' = K_{1}q' + K_{2}q''$
+$q = K_{1}q' +K_{2}q''$
 anch’essa combinazione lineare delle due uscite $q'$ e $q''$.
 
 ```
 
-In realtà ci sono alcuni fenomeni, come l’infiltrazione, che non possono essere descritti in forma lineare. Se però consideriamo dei casi in cui l’infiltrazione sia trascurabile – come nel caso di terreni impermeabili - possiamo adoperare il modello lineare senza eccessivi problemi. Negli altri casi i modelli lineari possono ancora essere considerati a patto di ignorare la quota-parte dell’acqua che non può essere descritta con linearità.
+In realtà ci sono alcuni fenomeni, come l’[[Università/3° Anno/2° Semestre/Idrologia/Appunti/07b - Infiltrazione - Idro\|Infiltrazione]], che non possono essere descritti in forma lineare. Se però consideriamo dei casi in cui l’infiltrazione sia trascurabile – come nel caso di terreni impermeabili - possiamo adoperare il modello lineare senza eccessivi problemi. Negli altri casi i modelli lineari possono ancora essere considerati a patto di ignorare la quota-parte dell’acqua che non può essere descritta con linearità.
 
 ```ad-Definizione
 title: Modello stazionario
@@ -54,7 +56,7 @@ Si dice **stazionario** un sistema tale che, a due ingressi uguali sfasati di un
 
 ### Modelli completi
 
-Sono concepiti per rappresentare il comportamento del bacino in qualsiasi situazione idrometeorologica. Simulano la trasformazione A/D in qualsiasi condizione di intensità dell’evento di pioggia. Considerano tutti i fenomeni che contribuiscono alla trasformazione (evapotraspirazione, infiltrazione, immagazzinamento negli invasi superficiali...)
+Sono concepiti per rappresentare il comportamento del bacino in qualsiasi situazione idrometeorologica. Simulano la trasformazione A/D in qualsiasi condizione di intensità dell’evento di pioggia. Considerano tutti i fenomeni che contribuiscono alla trasformazione ([[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Evapotraspirazione\|evapotraspirazione]], [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07b - Infiltrazione - Idro\|Infiltrazione]], immagazzinamento negli invasi superficiali...)
 
 Per via della grande complessità del problema, è praticamente impossibile rappresentare la trasformazione afflussi-deflussi attraverso un *modello matematico fisicamente basato*.
 
@@ -87,7 +89,7 @@ Un tipico approccio al [[Università/3° Anno/2° Semestre/Idrologia/Appunti/09 
 
 Questi sfruttano il fatto che, durante un evento di pioggia di piena, si possono fare alcune ipotesi:
 - L'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/06 - Perdite - Idro#Evapotraspirazione\|evapotraspirazione]] è trascurabile
-- Si tiene conto solo delle perdite per [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07b - Infiltrazione - Idro#Infiltrazione\|07b - Infiltrazione - Idro#Infiltrazione]]
+- Si tiene conto solo delle perdite per [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07b - Infiltrazione - Idro\|Infiltrazione]]
 
 La formazione dei deflussi superficiali avviene essenzialmente in 2 modi: 
 - **Trasferimento della massa liquida:** la goccia d’acqua che cade sulla superficie scorre a velocità variabile; si presenta alla sezione di chiusura del bacino con le altre gocce dopo un certo tempo dal momento in cui è precipitata 
@@ -95,7 +97,7 @@ La formazione dei deflussi superficiali avviene essenzialmente in 2 modi: 
 
 Le perdite sono calcolati con il [[Università/3° Anno/2° Semestre/Idrologia/Appunti/09 - Trasformazione afflussi-deflussi - Idro#Coefficiente di deflusso\|#Coefficiente di deflusso]].
 
-Per quanto riguarda i modelli di piena, la durata dei fenomeni da modellare, che dipende dalle dimensioni del bacino, è di solito molto limitata, dellordine delle ore o, per bacini molto estesi, dei giorni. Ciò implica che a rigore non sarebbe possibile definire un coefficiente di deflusso rappresentativo del comportamento del bacino in qualsiasi condizione. In altre parole, il deflusso attraverso la sezione di chiusura di un assegnato bacino, conseguente ad un identico afflusso di pioggia, non è sempre lo stesso in quanto dipende dalle condizioni in cui si trova il bacino allinizio della precipitazione.
+Per quanto riguarda i modelli di piena, la durata dei fenomeni da modellare, che dipende dalle dimensioni del bacino, è di solito molto limitata, dell'ordine delle ore o, per bacini molto estesi, dei giorni. Ciò implica che a rigore non sarebbe possibile definire un coefficiente di deflusso rappresentativo del comportamento del bacino in qualsiasi condizione. In altre parole, il deflusso attraverso la sezione di chiusura di un assegnato bacino, conseguente ad un identico afflusso di pioggia, non è sempre lo stesso in quanto dipende dalle condizioni in cui si trova il bacino allinizio della precipitazione.
 
 
 
@@ -109,6 +111,49 @@ Da qui in poi leggere direttamente nello [[Università/3° Anno/2° Semestre/Idr
 
 ### Pioggia netta
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/universita/3-anno/2-semestre/idrologia/appunti/06-perdite-idro/#pioggia-netta" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+### Pioggia netta
+
+```ad-Definizione
+title: Pioggia netta
+
+La **pioggia netta** è la differenza tra la pioggia e le [[#Perdite idrogeologiche]]:
+$
+p(t) = i(t) - e(t) - v(t)- s(t) - f(t)
+$
+dove:
+- $p(t):$ [[02 - Piogge Intense - Idro#Intensità di pioggia|intensità di pioggia]] netta
+- $i(t):$ [[02 - Piogge Intense - Idro#Intensità istantanea di pioggia|Intensità di pioggia]] lorda
+- $e(t):$ Intensità di [[#Evapotraspirazione]]
+- $\nu(t):$ Intensità di [[#Intercettazione della vegetazione]]
+- $s(t):$ Intensità di [[#Invaso nelle depressioni]]
+- $f(t):$ Intensità di [[07b - Infiltrazione - Idro|Infiltrazione]]
+
+```
+
+
+In realtà alcuni di questi termini possono essere trascurati:
+$
+p(t) = i(t) - \cancel{e(t)} - \cancel{v(t)} - s(t) - f(t)
+$
+Elimino:
+- Su scala annuale: trascuro $v(t)$
+- Negli eventi di piena: trascuro $e(t)$
+
+In particolare quando piove e se considero una scala annuale.
+$
+p(t) = i(t) - s(t) - f(t)
+$
+
+
+
+</div></div>
+
+
 Posso introdurre il [[Università/3° Anno/2° Semestre/Idrologia/Appunti/07b - Infiltrazione - Idro#Curve Number\|Curve Number (CN)]] che permette la valutazione delle perdite tenendo conto della precipitazione caduta nei 5 giorni precedenti.
 
 Questo si fa solo se l'evento di pioggia è reale, non probabilistico.
@@ -118,7 +163,7 @@ Se l'evento è probabilistico introduco il concerto di **pioggia netta** definit
 ### Modello cinematico
 
 Il **modello cinematico** è un modello concettuale molto semplice basato su alcune ipotesi semplificative:
-- La formazione della piena è dovuta solo al trasferimento di volumi d'acqua allinterno del bacino;
+- La formazione della piena è dovuta solo al trasferimento di volumi d'acqua all'interno del bacino;
 - Ogni goccia di pioggia che cade sulla superficie segue un percorso invariabile nel tempo e che dipende solo dal punto in cui essa è caduta;
 - La velocità con cui la goccia si muove lungo la superficie non è influenzata dalla presenza di altre gocce;
 - La portata nella sezione di chiusura in un dato istante è data dalla somma delle portate elementari, provenienti dalle diverse parti del bacino, che pervengono alla sezione di chiusura in quellistante.

@@ -3,7 +3,7 @@
 ---
 
 # [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro\|03 - Afflussi - Idro]]
-!
+
 
 
 Essendo le precipitazioni fortemente dipendenti dallo spazio, l'afflusso pluviometrico non può essere calcolato, su un intera regione, semplicemente attribuendo a tutta l'area l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Altezza di pioggia\|altezza di pioggia]] di un'unico [[Università/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro#Pluviometro\|pluviometro]].
@@ -51,9 +51,9 @@ $R$ è funzione della frequenza.
 $R$ aumenta
 - all'*aumentare* della **durata**
 - al *diminuire* dell'**Area**
-- al *diminuire* del **tempo di ritorno** ($T_{R}$) = il tempo tra due eventi considerati estremi
+- al *diminuire* dell'intensità e quindi del **[[Tempo di ritorno\|tempo di ritorno]]** ($T_{R}$) = il tempo tra due eventi considerati estremi
 
-[[Tempo di ritorno\|Tempo di ritorno]]
+
 
 Quando ho a disposizione, in un'area di interesse, più misure, posso usare tre metodi per definire un'altezza media per quell'area:
 - [[Università/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro#Metodo della media\|#Metodo della media]]

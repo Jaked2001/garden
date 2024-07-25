@@ -54,7 +54,7 @@ $$
 $$
 
 ## Altezza idrometrica
- 
+
 ```ad-Definizione
 title: Altezza idrometrica
 
@@ -62,7 +62,8 @@ L'**altezza idrometrica** è la quota idrica misurata a partire dallo *zero idro
 
 ```
 
-- [?] Che cambia tra [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro#Altezza idrometrica\|#Altezza idrometrica]] e [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro#Livello idrico\|#Livello idrico]]?
+- [?] Che cambia tra [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro#Altezza idrometrica\|#Altezza idrometrica]] e [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro#Livello idrico\|#Livello idrico]]? Forse lo 0 idrometrico è il punto più basso della sezione del fiume, lo zero di riferimento del livello idrico è una quota a "caso" scelta arbitrariamente
+
 
 Siamo interessati alla [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro#Misura dell'altezza idrometrica\|#Misura dell'altezza idrometrica]]
 
@@ -121,13 +122,18 @@ Per questo oggi si usa il mulinello da **teleferica**:
 
 #### Scala di deflusso
 
-La misura delle portate permette di ricavare la scala di deflusso o scala delle portate:
+La misura delle portate permette di ricavare la scala di deflusso o scala delle portate. Essa rappresenta la relazione che intercorre tra l'altezza idrometrica e la portata nella sezione.
 
 ![Schermata 2024-05-03 alle 14.48.22.png](/img/user/Universit%C3%A0/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/Schermata%202024-05-03%20alle%2014.48.22.png)
 
 In pratica, a partire da un set finito di dati in cui si conoscono sia l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro#Altezza idrometrica\|#Altezza idrometrica]] che la [[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro#Portata\|#Portata]] si cerca un modello che leghi le due quantità. Fatto ciò, si potrà misurare solo l'[[Università/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro#Altezza idrometrica\|#Altezza idrometrica]] di un corso d'acqua e ricavare, grazie al modello, le portate medie giornaliere.
 
-Può essere descritto da un modello semplice esponenziale.
+Può essere descritto da un modello semplice esponenziale:
+$$
+h = \alpha Q^\beta 
+$$
+Si osservi come la maggior parte dei punti sia concentrata per valori bassi di portata. Infatti, valori elevati (sopra i valori ordinari per quel determinato corso d'acqua) rappresentano situazioni straordinarie (come le piene), cioè che non si verificano molto spesso e per le quali quindi si hanno meno dati a disposizione. Questi valori sono però importanti per il corretto dimensionamento delle opere di difesa del territorio.
+
 
 ### Annali idrologici
 
@@ -178,12 +184,13 @@ Si individuano:
 I Modelli probabilistici di piena attribuiscono una probabilità di non superamento alla portata di colmo.
 
 Posso adottare 2 tipi di modelli:
-- Superamento di soglia
+- **Superamento di soglia**
 	- Considero tutti gli eventi che superano una certa soglia
-- Massimi annuali
+	- Eventi di piena così trovati potrebbero non essere indipendenti (avvenendo in un tempo ristretto l'uno dall'altro)
+- **Massimi annuali**
 	- Considero solo l'evento massimo di un anno
 
-La serie di colmi di piena è dotata di forte **persistenza**: Le piene precedenti lasciano il bacino umido e aumentano l'importanza delle piene successive.
+La serie di colmi di piena è dotata di forte **[[Persistenza\|Persistenza]]**: Le piene precedenti lasciano il bacino umido e aumentano l'importanza delle piene successive.
 
 Per questo motivo, le portate al colmo non possono essere considerate eventi indipendenti.
 
@@ -195,7 +202,7 @@ I massimi colmi dell'anno invece possono essere considerati *indipendenti*; ques
 Questo è vero se si usa l'anno idrologico. Con l'anno solare potrebbe non essere vero. Infatti potremmo avere un evento di colmo a fine dicembre e uno a inizio gennaio. Questi sarebbero sicuramente correlati, ma li andrei a considerare come indipendenti (sbagliando) se supponessi che avvengono in 2 anni differenti.
 ```
 
-Si può quindi ipotizzare che i massimi colmi siano eventi equidistribuiti: che abbiano cioè tutti la stessa distribuzione di probabilità.
+Si può quindi ipotizzare che i massimi colmi siano eventi *equidistribuiti*: che abbiano cioè tutti la stessa distribuzione di probabilità.
 
 La [[Università/2° anno/2° Semestre/Probabilità e statistica/Appunti/03. Variabili Aleatorie#Variabile Aleatoria Normale o Gaussiana\|distribuzione normale]] non descrive bene le piene in quanto non tiene conto delle code.
 
