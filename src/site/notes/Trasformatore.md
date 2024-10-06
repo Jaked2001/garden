@@ -228,7 +228,7 @@ $
 ![Trasformatore - Circuito equivalente ideale 2024-06-28 19.44.51.excalidraw.png](/img/user/Excalidraw/Trasformatore%20-%20Circuito%20equivalente%20ideale%202024-06-28%2019.44.51.excalidraw.png)
 
 
-Il [[Trasformatore#Trasformatore ideale\|#Trasformatore ideale]] può essere rappresentato in una [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Rete elettrica\|rete elettrica]] dal circuito equivalente disegnato sopra.
+Il [[Trasformatore#Trasformatore ideale\|#Trasformatore ideale]] può essere rappresentato in una [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Rete elettrica\|rete elettrica]] dal circuito equivalente disegnato sopra.
 
 Sia
 $$
@@ -349,11 +349,11 @@ $$
 
 #### Trasparenza delle potenze - trasformatore ideale
 
-Nel [[Trasformatore#Trasformatore ideale\|#Trasformatore ideale]] deve essere risultare che la somma delle [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza complessa\|potenze complesse]] in ingresso e in uscita sia pari a 0:
+Nel [[Trasformatore#Trasformatore ideale\|#Trasformatore ideale]] deve essere risultare che la somma delle [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza complessa\|potenze complesse]] in ingresso e in uscita sia pari a 0:
 $$
 \dot{P} = \dot{P}_{1}+\dot{P}_{2} = 0
 $$
-Ricordando la definizione di [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza complessa\|potenza complessa]] infatti:
+Ricordando la definizione di [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza complessa\|potenza complessa]] infatti:
 $$
 \begin{align}
 \dot{P}_{1}+\dot{P}_{2} &= \overline{V}_{1}\overline{I}_{1}^{*} - \overline{V}_{2}\overline{I}_{2}^{*} = \\
@@ -400,7 +400,7 @@ $$
 \sigma_{\rm Cu} &= 5.8\times10^{7} \,\rm \frac{S}{m}
 \end{align}
 $$
-Pertanto la [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET#Potenza dissipata per Effetto Joule\|potenza dissipata per Effetto Joule]] NON è nulla:
+Pertanto la [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET#Potenza dissipata per Effetto Joule\|potenza dissipata per Effetto Joule]] NON è nulla:
 $$
 P_{J} \neq 0
 $$
@@ -463,14 +463,14 @@ $$
 
 #UNI/ET/Domanda 
 
-Per valutare l'energia spesa dal [[Trasformatore#Trasformatore reale\|#Trasformatore reale]] lo si studia in una configurazione a vuoto. Nel secondario viene lasciato il [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET#Circuito aperto\|circuito aperto]] e quindi $\overline{I}_{2}=0$. 
+Per valutare l'energia spesa dal [[Trasformatore#Trasformatore reale\|#Trasformatore reale]] lo si studia in una configurazione a vuoto. Nel secondario viene lasciato il [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET#Circuito aperto\|circuito aperto]] e quindi $\overline{I}_{2}=0$. 
 
 ![Trasformatore a vuoto 2024-06-30 12.13.57.excalidraw.png](/img/user/Excalidraw/Trasformatore%20a%20vuoto%202024-06-30%2012.13.57.excalidraw.png)
 
 
 Il primario è ancora alimentato a una tensione $\overline{V}_{1}$, il secondario è aperto.
 
-Vi saranno delle perdite di [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza attiva - reale\|potenza attiva]] nel nucleo.
+Vi saranno delle perdite di [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza attiva - reale\|potenza attiva]] nel nucleo.
 
 La [[Trasformatore#Legge di Hopkinson\|#Legge di Hopkinson]] diventa:
 $$

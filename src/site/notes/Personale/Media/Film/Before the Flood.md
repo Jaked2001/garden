@@ -103,7 +103,7 @@ Ultimamente quella spinta si è un po' ripresa. Fridays for Future: non delegano
 L'agenda politica dei paesi è anche molto condizionato da lobby di interesse. 
 Per far si che questi interessi non agiscano sulle aziende in maniera così pressante occorre reimmaginare una realtà per alcune aziende.
 
-La transizione ecologia nasconde e rischia di fermarsi dietro il [[Università/2° anno/2° Semestre/Sviluppo Sostenibile/Appunti/04. Biosfera#Secondo principio della termodinamica\|secondo principio della termodinamica]]. Ogni azione produce uno scarto, non recuperabile in termini reversibili.
+La transizione ecologia nasconde e rischia di fermarsi dietro il [[Università/Triennale/2° anno/2° Semestre/Sviluppo Sostenibile/Appunti/04. Biosfera#Secondo principio della termodinamica\|secondo principio della termodinamica]]. Ogni azione produce uno scarto, non recuperabile in termini reversibili.
 
 Una cosa fondamentale: cambio di stile di vita. 
 Quello riduce l'impatto. Il resto è adattamento.

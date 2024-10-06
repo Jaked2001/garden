@@ -18,7 +18,7 @@ Food Valley o Gru Valley
 
 [[Edoardo Salzano\|Edoardo Salzano]] - Urbanista
 
-Secondo [[Edoardo Salzano\|Edoardo Salzano]] il [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT#Territorio\|territorio]] è sfruttato semplicemente come merce per costruire.
+Secondo [[Edoardo Salzano\|Edoardo Salzano]] il [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT#Territorio\|territorio]] è sfruttato semplicemente come merce per costruire.
 
 Una volta il territorio era considerato per ciò che dava. Oggi è solo uno strumento per costruzione di case/capannoni spesso inutili perché restano vuoti.
 

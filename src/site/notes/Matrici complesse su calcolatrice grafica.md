@@ -7,7 +7,7 @@
 
 Questo software, chiamato [[SIMEQ\|SIMEQ]], compatibile con la calcolatrice grafica [[TI-84 Plus CE-T\|TI-84 Plus CE-T]] permette di risolvere sistemi di equazioni a coefficienti complessi.
 
-Torna molto utile per risolvere i problemi di [[Università/3° Anno/2° Semestre/Elettrotecnica/🔌 Elettrotecnica\|🔌 Elettrotecnica]].
+Torna molto utile per risolvere i problemi di [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/🔌 Elettrotecnica\|🔌 Elettrotecnica]].
 
 ## Come si usa
 

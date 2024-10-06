@@ -22,7 +22,7 @@ Si indica con il simbolo:
 
 ### Caratteristica esterna
 
-La [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET#Caratteristica esterna\|caratteristica esterna]] del [[Generatore ideale di tensione#Generatore ideale di tensione\|#Generatore ideale di tensione]] è
+La [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET#Caratteristica esterna\|caratteristica esterna]] del [[Generatore ideale di tensione#Generatore ideale di tensione\|#Generatore ideale di tensione]] è
 $$
 V = E_{s} \quad \forall I
 $$

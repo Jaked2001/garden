@@ -48,7 +48,7 @@ $$
 ![Condensatore sinusoidale.excalidraw.png](/img/user/Excalidraw/Condensatore%20sinusoidale.excalidraw.png)
 
 
-Il [[Condensatore\|Condensatore]], [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Convenzione dell'utilizzatore\|convenzionato da utilizzatore]], dotato di [[Condensatore#Capacità\|#Capacità]] costante $C$, rispetta sempre la relazione:
+Il [[Condensatore\|Condensatore]], [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Convenzione dell'utilizzatore\|convenzionato da utilizzatore]], dotato di [[Condensatore#Capacità\|#Capacità]] costante $C$, rispetta sempre la relazione:
 $$
 i(t) = C \frac{dv(t)}{dt}
 $$
@@ -69,7 +69,7 @@ $
 ```
 
 
-quindi la tensione, in un induttore a regime sinusoidale, si trova in *[[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|quadratura in ritardo]]* sulla corrente.
+quindi la tensione, in un induttore a regime sinusoidale, si trova in *[[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|quadratura in ritardo]]* sulla corrente.
 
 ![Condensatore 2024-06-20 14.29.31.excalidraw.png](/img/user/Excalidraw/Condensatore%202024-06-20%2014.29.31.excalidraw.png)
 
@@ -80,16 +80,16 @@ X_{C} =- \frac{1}{\omega C}
 $$
 che viene definito [[Condensatore#Reattanza capacitiva\|#Reattanza capacitiva]]
 
-La [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza istantanea\|potenza istantanea]] assorbita è sinusoidale di ampiezza $VI$. In un quarto di periodo è positiva e da luogo a lavoro assorbito immagazzinato in forma di energia capacitiva: $w_{C}(t) = C \frac{v^{2}}{2}$ che viene poi restituita nel quarto di periodo successivo.
+La [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza istantanea\|potenza istantanea]] assorbita è sinusoidale di ampiezza $VI$. In un quarto di periodo è positiva e da luogo a lavoro assorbito immagazzinato in forma di energia capacitiva: $w_{C}(t) = C \frac{v^{2}}{2}$ che viene poi restituita nel quarto di periodo successivo.
 
-Il [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Fattore di potenza\|fattore di potenza]] $\cos(\varphi) = 0$ è nullo e quindi [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza attiva - reale\|potenza attiva]] assorbita $P=0$
+Il [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Fattore di potenza\|fattore di potenza]] $\cos(\varphi) = 0$ è nullo e quindi [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza attiva - reale\|potenza attiva]] assorbita $P=0$
 $$
 P= 0 \qquad Q=-A = -VI = X_{C}I^{2}
 $$
 
 ___
 
-Il condensatore in regime sinusoidale può essere descritto anche facendo riferimento alle grandezze [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Fasore\|fasoriali]].
+Il condensatore in regime sinusoidale può essere descritto anche facendo riferimento alle grandezze [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Fasore\|fasoriali]].
 $$
 \begin{align}
 i(t) &\Longrightarrow \overline{I} = Ie^{j\beta} \\

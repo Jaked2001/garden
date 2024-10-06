@@ -20,4 +20,4 @@ La I Legge di Ohm può anche essere scritta nella forma:
 $$
 I = \frac{1}{R}V = GV
 $$
-dove G prende il nome di [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET#Conduttanza\|conduttanza]].
+dove G prende il nome di [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET#Conduttanza\|conduttanza]].

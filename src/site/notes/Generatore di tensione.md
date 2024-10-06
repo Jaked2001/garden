@@ -30,7 +30,7 @@ Si indica con il simbolo:
 
 ### Caratteristica esterna
 
-La [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET#Caratteristica esterna\|caratteristica esterna]] del [[Generatore di tensione#Generatore ideale di tensione\|#Generatore ideale di tensione]] è
+La [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET#Caratteristica esterna\|caratteristica esterna]] del [[Generatore di tensione#Generatore ideale di tensione\|#Generatore ideale di tensione]] è
 $
 V = E_{s} \quad \forall I
 $
@@ -90,7 +90,7 @@ $
 
 ### Caratteristica esterna
 
-La [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET#Caratteristica esterna\|caratteristica esterna]] del [[Generatore di tensione#Generatore reale di tensione\|#Generatore reale di tensione]] è
+La [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET#Caratteristica esterna\|caratteristica esterna]] del [[Generatore di tensione#Generatore reale di tensione\|#Generatore reale di tensione]] è
 $
 V = E - RI_{s}
 $
@@ -117,14 +117,14 @@ $
 V = IR_{u} = \frac{R_{u}}{R_{i}+R_{u}}E
 $
 
-Si vanno ora a calcolare le [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza\|potenze]] in gioco.
+Si vanno ora a calcolare le [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza\|potenze]] in gioco.
 
-La potenza [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata\|potenza erogata]] dal generatore **reale**, uguale alla potenza entrante al carico è
+La potenza [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata\|potenza erogata]] dal generatore **reale**, uguale alla potenza entrante al carico è
 $
 P = VI = \frac{R_{u}E^{2}}{(R_{i}+R_{u})^{2}}
 $
 
-La [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET#Potenza dissipata per Effetto Joule\|potenza dissipata per Effetto Joule]] dalla resistenza interna al generatore è:
+La [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET#Potenza dissipata per Effetto Joule\|potenza dissipata per Effetto Joule]] dalla resistenza interna al generatore è:
 $
 P_{d} = R_{i}I^{2} = \frac{R_{i}E^{2}}{(R_{i}+R_{u})^{2}}
 $
@@ -133,7 +133,7 @@ $
 P_{g} = EI = I = \frac{E^{2}}{R_{i}+R_{u}}
 $
 
-Inoltre, per il [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/05 - Generatori elettrici - ET#Bilancio di potenza di un generatore\|bilancio di potenza di un generatore]], la [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata\|potenza erogata]] è scrivibile come:
+Inoltre, per il [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/05 - Generatori elettrici - ET#Bilancio di potenza di un generatore\|bilancio di potenza di un generatore]], la [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata\|potenza erogata]] è scrivibile come:
 $
 P = P_{g}-P_{d}
 $
@@ -143,7 +143,7 @@ $
 ```ad-Definizione
 title: Rendimento del generatore reale di tensione
 
-Si definisce **rendimento del [[Generatore reale di tensione\|Generatore reale di tensione]]** il rapporto tra [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata\|potenza erogata]] e potenza generata.
+Si definisce **rendimento del [[Generatore reale di tensione\|Generatore reale di tensione]]** il rapporto tra [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata\|potenza erogata]] e potenza generata.
 $
 \eta = \frac{P}{P_{g}} = \frac{P_{g}-P_{d}}{P_{g}} = \frac{R_{u}}{R_{i}+R_{u}}
 $
@@ -157,7 +157,7 @@ $
 
 La condizione di adattamento del carico è la condizione in cui la Potenza trasferita al carico è massima (e quindi lo è anche il [[Generatore di tensione#Rendimento\|#Rendimento]]).
 
-Calcolando la derivata della [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata\|potenza erogata]] e ponendola uguale a zero si può ricavare il suo massimo.
+Calcolando la derivata della [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata\|potenza erogata]] e ponendola uguale a zero si può ricavare il suo massimo.
 $
 P = VI = \frac{R_{u}E^{2}}{(R_{i}+R_{u})^{2}}
 $
@@ -198,7 +198,7 @@ $
 ```
 
 
-La stessa relazione vale quando il carico $R_{u}$ è alimentato da una generica [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Rete elettrica\|rete elettrica]] lineare ai nodi A e B. Rappresentando la rete con il [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Teorema di Thévenin\|teorema di Thévenin]] con $E_{eq} = E_{0}$ e $R_{eq} = R_{i}$, la condizione di adattamento è ancora $R_{u}= R_{i} =(R_{eq})$.
+La stessa relazione vale quando il carico $R_{u}$ è alimentato da una generica [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Rete elettrica\|rete elettrica]] lineare ai nodi A e B. Rappresentando la rete con il [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Teorema di Thévenin\|teorema di Thévenin]] con $E_{eq} = E_{0}$ e $R_{eq} = R_{i}$, la condizione di adattamento è ancora $R_{u}= R_{i} =(R_{eq})$.
 
 La potenza trasferita vale $P = \frac{V_{0}^{2}}{4R_{i}}$. Sul rendimento però non si può dire nulla in quanto il generatore equivalente non è significativo della rete reale dal punto di vista energetico.
 
@@ -243,7 +243,7 @@ $
 
 ### Caratteristica esterna
 
-La [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET#Caratteristica esterna\|caratteristica esterna]] del [[Generatore di tensione#Generatore reale di tensione\|#Generatore reale di tensione]] è
+La [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/06 - Bipoli e potenza elettrica - ET#Caratteristica esterna\|caratteristica esterna]] del [[Generatore di tensione#Generatore reale di tensione\|#Generatore reale di tensione]] è
 $
 V = E - RI_{s}
 $
@@ -270,14 +270,14 @@ $
 V = IR_{u} = \frac{R_{u}}{R_{i}+R_{u}}E
 $
 
-Si vanno ora a calcolare le [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza\|potenze]] in gioco.
+Si vanno ora a calcolare le [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza\|potenze]] in gioco.
 
-La potenza [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata\|potenza erogata]] dal generatore **reale**, uguale alla potenza entrante al carico è
+La potenza [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata\|potenza erogata]] dal generatore **reale**, uguale alla potenza entrante al carico è
 $
 P = VI = \frac{R_{u}E^{2}}{(R_{i}+R_{u})^{2}}
 $
 
-La [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET#Potenza dissipata per Effetto Joule\|potenza dissipata per Effetto Joule]] dalla resistenza interna al generatore è:
+La [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/04 - Fenomeni di conduzione e resistori - ET#Potenza dissipata per Effetto Joule\|potenza dissipata per Effetto Joule]] dalla resistenza interna al generatore è:
 $
 P_{d} = R_{i}I^{2} = \frac{R_{i}E^{2}}{(R_{i}+R_{u})^{2}}
 $
@@ -286,7 +286,7 @@ $
 P_{g} = EI = I = \frac{E^{2}}{R_{i}+R_{u}}
 $
 
-Inoltre, per il [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/05 - Generatori elettrici - ET#Bilancio di potenza di un generatore\|bilancio di potenza di un generatore]], la [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata\|potenza erogata]] è scrivibile come:
+Inoltre, per il [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/05 - Generatori elettrici - ET#Bilancio di potenza di un generatore\|bilancio di potenza di un generatore]], la [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Potenza erogata\|potenza erogata]] è scrivibile come:
 $
 P = P_{g}-P_{d}
 $
@@ -351,7 +351,7 @@ $
 ```
 
 
-La stessa relazione vale quando il carico $R_{u}$ è alimentato da una generica [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Rete elettrica\|rete elettrica]] lineare ai nodi A e B. Rappresentando la rete con il [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Teorema di Thévenin\|teorema di Thévenin]] con $E_{eq} = E_{0}$ e $R_{eq} = R_{i}$, la condizione di adattamento è ancora $R_{u}= R_{i} =(R_{eq})$.
+La stessa relazione vale quando il carico $R_{u}$ è alimentato da una generica [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Rete elettrica\|rete elettrica]] lineare ai nodi A e B. Rappresentando la rete con il [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/08 - Reti in regime stazionario - ET#Teorema di Thévenin\|teorema di Thévenin]] con $E_{eq} = E_{0}$ e $R_{eq} = R_{i}$, la condizione di adattamento è ancora $R_{u}= R_{i} =(R_{eq})$.
 
 La potenza trasferita vale $P = \frac{V_{0}^{2}}{4R_{i}}$. Sul rendimento però non si può dire nulla in quanto il generatore equivalente non è significativo della rete reale dal punto di vista energetico.
 
@@ -382,7 +382,7 @@ $
 
 ```
 
-Più comunemente la tensione impressa si esprime con il rispettivo [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Fasore\|fasore]]:
+Più comunemente la tensione impressa si esprime con il rispettivo [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Fasore\|fasore]]:
 $
 \overline{E_{s}} = Ee^{j\alpha}
 $

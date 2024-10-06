@@ -18,7 +18,7 @@ $
 
 ```
 
-Più comunemente la tensione impressa si esprime con il rispettivo [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Fasore\|fasore]]:
+Più comunemente la tensione impressa si esprime con il rispettivo [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Fasore\|fasore]]:
 $$
 \overline{E_{s}} = Ee^{j\alpha}
 $$

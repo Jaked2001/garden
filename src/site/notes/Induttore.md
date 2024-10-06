@@ -52,7 +52,7 @@ $
 ![Induttore sinusoidale.excalidraw.png](/img/user/Excalidraw/Induttore%20sinusoidale.excalidraw.png)
 
 
-L'[[Induttore]], [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Convenzione dell'utilizzatore\|convenzionato da utilizzatore]], dotato di [[Induttore#Induttanza\|#Induttanza]] costante $L$, rispetta sempre la relazione:
+L'[[Induttore]], [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/03 - Introduzione allo studio delle reti elettriche - ET#Convenzione dell'utilizzatore\|convenzionato da utilizzatore]], dotato di [[Induttore#Induttanza\|#Induttanza]] costante $L$, rispetta sempre la relazione:
 $$
 v(t) = L \frac{di(t)}{dt}
 $$
@@ -73,7 +73,7 @@ $
 
 ```
 
-Quindi la tensione, in un induttore a regime sinusoidale, si trova in *[[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|quadratura in anticipo]]* sulla corrente
+Quindi la tensione, in un induttore a regime sinusoidale, si trova in *[[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Sfasamento\|quadratura in anticipo]]* sulla corrente
 
 ![Induttore 2024-06-20 14.18.01.excalidraw.png](/img/user/Excalidraw/Induttore%202024-06-20%2014.18.01.excalidraw.png)
 
@@ -84,16 +84,16 @@ X_{L} = \omega L
 $$
 che è definita [[Induttore#reattanza induttiva\|#reattanza induttiva]].
 
-La [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza istantanea\|potenza istantanea]] ha ampiezza $VI$ e dà luogo a lavoro assorbito in forma di energia induttiva pari a $w_{L}(t) = \frac{1}{2}Li^{2}$.
+La [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza istantanea\|potenza istantanea]] ha ampiezza $VI$ e dà luogo a lavoro assorbito in forma di energia induttiva pari a $w_{L}(t) = \frac{1}{2}Li^{2}$.
 
-Il [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Fattore di potenza\|fattore di potenza]] è nullo: $\cos(\varphi) = 0$ (essendo corrente e tensione in quadratura). Pertanto anche la [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza attiva - reale\|potenza attiva]] assorbita è nulla. Inoltre, [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza apparente\|potenza apparente]] e [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza reattiva\|reattiva]] coincidono.
+Il [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Fattore di potenza\|fattore di potenza]] è nullo: $\cos(\varphi) = 0$ (essendo corrente e tensione in quadratura). Pertanto anche la [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza attiva - reale\|potenza attiva]] assorbita è nulla. Inoltre, [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza apparente\|potenza apparente]] e [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/14 - Reti in regime sinusoidale - ET#Potenza reattiva\|reattiva]] coincidono.
 $$
 P = 0 \qquad Q = A = VI = X_{L}I^{2}
 $$
 
 ___
 
-L'induttore in regime sinusoidale può essere descritto anche facendo riferimento alle grandezze [[Università/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Fasore\|fasoriali]].
+L'induttore in regime sinusoidale può essere descritto anche facendo riferimento alle grandezze [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Appunti/13 - Funzioni sinusoidali e fasori - ET#Fasore\|fasoriali]].
 $$
 \begin{align}
 i(t) &\Longrightarrow \overline{I} = Ie^{j\beta} \\

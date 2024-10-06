@@ -35,4 +35,4 @@ Preleviamo moneta da un conto in banca in cui non depositiamo mai niente.
 
 Ogni individuo ha diritto al suolo e questo diritto è sancito dalla legge.
 
-Gli [[Università/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/04 - Gli orti urbani - ANASUT\|orti urbani]] si inseriscono in questa visione di recuperare naturalità in contesti fortemente urbanizzati.
+Gli [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/04 - Gli orti urbani - ANASUT\|orti urbani]] si inseriscono in questa visione di recuperare naturalità in contesti fortemente urbanizzati.
