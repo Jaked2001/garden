@@ -143,7 +143,7 @@ ___
 | [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/20. SV - Torsione uniforme\|20. SV - Torsione uniforme]]                                                                                                                                          | T        | 🪶 Scrivere   |
 | [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/21. SV Flessione e Taglio\|21. SV Flessione e Taglio]]                                                                                                                                            | T        | 🟢 Fatto      |
 | [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/23. Instabilità Strutturale\|23. Instabilità Strutturale]]                                                                                                                                        | T        | 🪶🟡 Scrivere |
-| [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Tesina/Il Daly's Bridge\|Il Daly's Bridge]]                                                                                                                                                               | Tesina   | 🔴 Fare       |
+| [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Tesina/Il Daly's Bridge\|Il Daly's Bridge]]                                                                                                                                                               | Tesina   | 🟢 Fatto      |
 | [[Personale/Media/Youtube/The Bridge that must legally wobble\|The Bridge that must legally wobble]]                                                                                                                                                                           | Video    | ✅             |
 | [[Personale/Media/Youtube/The History & Rehabilitation of Daly's (Shakey) Bridge, Cork City\|The History & Rehabilitation of Daly's (Shakey) Bridge, Cork City]]                                                                                                               | Video    | ✅             |
 
@@ -153,6 +153,30 @@ ___
 ___
 
 # 👉🏻 Indice del corso
+
+| File                                                                                                                                                                                       | Stato         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- |
+| [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/01. I Concetti di Base\|01. I Concetti di Base]]                                                           | 🟢 Fatto      |
+| [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/02. Cinematica dei corpi rigidi\|02. Cinematica dei corpi rigidi]]                                         | 🪶🟡 Scrivere |
+| [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/03. Statica dei corpi rigidi\|03. Statica dei corpi rigidi]]                                               | 🪶 Scrivere   |
+| [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/04. Modello di Trave 1D\|04. Modello di Trave 1D]]                                                         | 🟢 Fatto      |
+| [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/05. Cinematica della trave 1D\|05. Cinematica della trave 1D]]                                             | 🪶🟡 Scrivere |
+| [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/06. Statica della Trave 1D\|06. Statica della Trave 1D]]                                                   | 🪶 Scrivere   |
+| [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/07. Materiale costitutivo\|07. Materiale costitutivo]]                                                     | 🟢 Fatto      |
+| [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/08. Il problema elastico per la trave 1D\|08. Il problema elastico per la trave 1D]]                       | 🟢 Fatto      |
+| [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/09. Metodo degli spostamenti\|09. Metodo degli spostamenti]]                                               | 🟢 Fatto      |
+| [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/13. Continuo di Cauchy - Analisi della deformazione\|13. Continuo di Cauchy - Analisi della deformazione]] | 🪶🟡 Scrivere |
+| [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/14. Continuo di Cauchy - Analisi della tensione\|14. Continuo di Cauchy - Analisi della tensione]]         | 🪶 Scrivere   |
+| [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/15. Il legame elastico lineare\|15. Il legame elastico lineare]]                                           | 🪶 Scrivere   |
+| [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/17. Il Problema di Saint-Venant\|17. Il Problema di Saint-Venant]]                                         | 🪶🟡 Scrivere |
+| [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/18. SV - Forza Normale Centrata & Flessione Retta\|18. SV - Forza Normale Centrata & Flessione Retta]]     | 🪶 Scrivere   |
+| [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/19. SV - Problemi composti\|19. SV - Problemi composti]]                                                   | 🟡 Finire     |
+| [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/20. SV - Torsione uniforme\|20. SV - Torsione uniforme]]                                                   | 🪶 Scrivere   |
+| [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/21. SV Flessione e Taglio\|21. SV Flessione e Taglio]]                                                     | 🟢 Fatto      |
+| [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/23. Instabilità Strutturale\|23. Instabilità Strutturale]]                                                 | 🪶🟡 Scrivere |
+
+{ .block-language-dataview}
+
 
 ### 1. [[Università/Triennale/2° anno/1° Semestre/Scienza delle costruzioni/Appunti/01. I Concetti di Base\|I concetti di base]]
 - Parole chiave
