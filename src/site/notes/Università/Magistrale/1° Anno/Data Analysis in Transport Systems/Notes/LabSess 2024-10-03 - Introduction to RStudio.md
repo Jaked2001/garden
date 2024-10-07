@@ -5,7 +5,7 @@
 # [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/LabSess 2024-10-03 - Introduction to RStudio\|LabSess 2024-10-03 - Introduction to RStudio]]
 
 Files:
-- [[Lab1 3 Oct 2024.r]]
+- [[Lab1 3 Oct 2024.r\|Lab1 3 Oct 2024.r]]
 - [[Lab1 3 Oct 2024.rmd]]
 
 Set working directory. Options:
