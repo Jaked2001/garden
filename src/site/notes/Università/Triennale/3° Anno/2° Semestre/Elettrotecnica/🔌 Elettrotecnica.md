@@ -176,8 +176,8 @@ ___
 | [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2021-07-14 - ET\|Ex 2021-07-14 - ET]]     | \-        | \-                                                                                                                                                        | 🔴 Fare   |
 | [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2023-01-11 - ET\|Ex 2023-01-11 - ET]]     | Trifase   | <ul><li>[[11-01-2023 - Esame - ET.pdf\\|11-01-2023 - Esame - ET.pdf]]</li></ul>                                                                           | 🟢 Fatto  |
 | [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2023-03-15 - ET\|Ex 2023-03-15 - ET]]     | Trifase   | <ul><li>[[2023-03-15 - Esame - ET.pdf\\|2023-03-15 - Esame - ET.pdf]]</li></ul>                                                                           | 🟢 Fatto  |
-| [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2023-07-13 - ET\|Ex 2023-07-13 - ET]]     | Trifase   | <ul><li>[[2023-07-13 - Esame - ET.pdf\\|2023-07-13 - Esame - ET.pdf]]</li></ul>                                                                           | 🟡 Finire |
 | [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2023-09-08 - ET\|Ex 2023-09-08 - ET]]     | Monofase  | <ul><li>[[2023-09-08 - Esame - ET.pdf\\|2023-09-08 - Esame - ET.pdf]]</li></ul>                                                                           | 🟢 Fatto  |
+| [[Università/Triennale/3° Anno/2° Semestre/Elettrotecnica/Temi d'esame/Ex 2023-07-13 - ET\|Ex 2023-07-13 - ET]]     | Trifase   | <ul><li>[[2023-07-13 - Esame - ET.pdf\\|2023-07-13 - Esame - ET.pdf]]</li></ul>                                                                           | 🟡 Finire |
 
 { .block-language-dataview}
 
