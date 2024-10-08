@@ -85,6 +85,7 @@ ___
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/0 - Introduction to Mobility Modeling\|0 - Introduction to Mobility Modeling]] | T    | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/1 - Graph\|1 - Graph]]                                                         | T    | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/2 - Network flows\|2 - Network flows]]                                         | T    | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -100,6 +101,7 @@ ___
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/0 - Introduction to Mobility Modeling\|0 - Introduction to Mobility Modeling]] | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/1 - Graph\|1 - Graph]]                                                         | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/2 - Network flows\|2 - Network flows]]                                         | 🪶 Scrivere |
 
 { .block-language-dataview}
 

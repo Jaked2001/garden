@@ -80,7 +80,6 @@ NON PREVISTO (a parte il test finale)
 
 | File                                                                                                                                                             | Tipo | Stato         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------- |
-| [[Università/Triennale/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro\|04 - Statistica - Idro]]                                                 | T    | 🪶 Scrivere   |
 | [[Università/Triennale/3° Anno/2° Semestre/Idrologia/Appunti/04b - Statistica e Tempo di Ritorno - Idro\|04b - Statistica e Tempo di Ritorno - Idro]]         | T    | 🪶 Scrivere   |
 | [[Università/Triennale/3° Anno/2° Semestre/Idrologia/Appunti/11 - GIUH - Idro\|11 - GIUH - Idro]]                                                             | T    | 🪶 Scrivere   |
 | [[Università/Triennale/3° Anno/2° Semestre/Idrologia/Appunti/14 - Opere di captazione - Idro\|14 - Opere di captazione - Idro]]                               | T    | 🪶 Scrivere   |
@@ -113,7 +112,7 @@ ___
 | [[Università/Triennale/3° Anno/2° Semestre/Idrologia/Appunti/02 - Piogge Intense - Idro\|02 - Piogge Intense - Idro]]                                         | 🪶🟡 Scrivere |
 | [[Università/Triennale/3° Anno/2° Semestre/Idrologia/Appunti/03 - Afflussi - Idro\|03 - Afflussi - Idro]]                                                     | 🟢 Fatto      |
 | [[Università/Triennale/3° Anno/2° Semestre/Idrologia/Appunti/03a - Misure Radar - Idro\|03a - Misure Radar - Idro]]                                           | 🟠 Studiare   |
-| [[Università/Triennale/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro\|04 - Statistica - Idro]]                                                 | 🪶 Scrivere   |
+| [[Università/Triennale/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro\|04 - Statistica - Idro]]                                                 | 🟢 Fatto      |
 | [[Università/Triennale/3° Anno/2° Semestre/Idrologia/Appunti/04b - Statistica e Tempo di Ritorno - Idro\|04b - Statistica e Tempo di Ritorno - Idro]]         | 🪶 Scrivere   |
 | [[Università/Triennale/3° Anno/2° Semestre/Idrologia/Appunti/05 - Deflussi - Idro\|05 - Deflussi - Idro]]                                                     | 🟢 Fatto      |
 | [[Università/Triennale/3° Anno/2° Semestre/Idrologia/Appunti/05a - Deflusso di base - Idro\|05a - Deflusso di base - Idro]]                                   | 🟢 Fatto      |

@@ -12,6 +12,21 @@ An outlier is an observation which value is a lot higher or lower than the rest.
 
 ```
 
+## Types of outliers
+
+### Mild outlier
+
+```ad-Definizione
+title: 
+
+$x_{0}$ is a **Mild outlier** if:
+$
+x_{0} \not\in \left[ Q1 - 1.5\,IQR; Q3 + 1.5 \, IQR\right]
+$
 
 
+```
+
+
+### Severe outlier
 

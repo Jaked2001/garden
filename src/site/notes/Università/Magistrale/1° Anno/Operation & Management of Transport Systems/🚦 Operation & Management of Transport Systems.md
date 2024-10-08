@@ -83,27 +83,27 @@ NO RETAKE. Gotta have a weighted average grater than 5.
 
 During exam can only have 1 A4 sheet of **hand written** notes.
 
-### Projects
+### Assignments
 
 4 problems each worth 10%, But will only take the best 3.
 
+### 🗣 Mini project
 
-### ✍️ Scritto
+- 30% - Calculation/accuracy
+- 40% - Presentation
+- 30% - Discussion
 
+### ✍️ Final
 
 🕒 Tempo:
 Esercizi: 
 
 
-### 🗣 Orale 
-
-
-
 ## 💯 Voto
-| Parte       | Data           | Voto |
-| ----------- | -------------- | ---- |
-| Scritto |  |  |
-| Orale       |  |     |
+| Parte   | Data | Voto |
+| ------- | ---- | ---- |
+| Scritto |      |      |
+| Orale   |      |      |
 
 
 # ✔️ To-Do
@@ -136,8 +136,9 @@ ___
 ___
 
 
-## ✍️ Esercitazioni
+## ✍️ Mini Project
 
+[[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Mini-Project/Mini Project - OMT\|Mini Project - OMT]]
 
 ## Temi d'esame
 

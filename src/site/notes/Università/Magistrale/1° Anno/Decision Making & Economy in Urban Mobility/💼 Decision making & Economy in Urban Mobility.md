@@ -19,8 +19,6 @@
 **🔑 Atenea:** https://atenea.upc.edu/course/search.php - URBAN
 
 
-250MUM010 - UPC$2025
-
 **🕰 Schedule:**
 
 

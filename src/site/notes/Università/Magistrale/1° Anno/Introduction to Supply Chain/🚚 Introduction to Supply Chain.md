@@ -12,12 +12,14 @@
 **🌐 WebSite:**
 
 **🅿️ Program:** [[1.1 - Introduction to Supply Chain - M5.pdf]]
+**🔑 Atenea:** https://atenea.upc.edu/course/search.php 250MUM010 - UPC$2025
+
 **📚 Books:**
 
 **🕰 Schedule:**
 - Mon 18:00-21:00
 
-October 30th: **Beer Game**
+October 28th: **Beer Game**  in  class **A1001**
 
 
 
