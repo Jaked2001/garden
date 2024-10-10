@@ -11,7 +11,7 @@
 Apply scientific method to complex problems arising in the Management of large scale systems made up by men, machines, materials, money... 
 
 Developed during 2nd World War
-- Improve understanging of how the modeled system works and behaves
+- Improve understanding of how the modeled system works and behaves
 - Acquisition of knowledge about the system being represented
 - Substitution of the real system in the realization of experiments to answer questions of the type: *What would happen if...?*
 - Using the model as an aid to decision making (quantitative) through ???

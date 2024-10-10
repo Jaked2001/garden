@@ -52,6 +52,9 @@ ${\rm Final \,\,mark} = 0.65F + 0.35L$
 ### 🗣 Assignment 1
 
 
+We have a set of data generated from a distribution.
+We have to guess what distribution this sample is drown from.
+
 ### 🗣 Assignment 2
 
 
@@ -98,11 +101,12 @@ ___
 
 
 
-| File                                                                                                                                                                | Stato       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/02 - Exploratory Data Analysis - DATS\|02 - Exploratory Data Analysis - DATS]] | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/Outlier\|Outlier]]                                                                      | 🟢 Fatto    |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/Shapiro Wilk test\|Shapiro Wilk test]]                                                  | 🟢 Fatto    |
+| File                                                                                                                                                       | Stato       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS\|02 - Exploratory Data Analysis - DATS]] | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/2.1 - Input Data Analysis - DATS\|2.1 - Input Data Analysis - DATS]]  | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/Outlier\|Outlier]]                                                             | 🟢 Fatto    |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/Shapiro Wilk test\|Shapiro Wilk test]]                                         | 🟢 Fatto    |
 
 { .block-language-dataview}
 

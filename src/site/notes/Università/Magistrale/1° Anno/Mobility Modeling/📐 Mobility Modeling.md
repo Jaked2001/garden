@@ -9,14 +9,14 @@
 **🧑🏻‍🏫 Prof:** [[Esteve Codina Sancho\|Esteve Codina Sancho]]
 **📧 e-mail:** esteve.codina@upc.edu
 **🏠 Office:** C5 Building Office 209 Dept. of Stat & Or (under appointment)
-**📔 Diario del corso:** 
+**📔 Diario del corso:** [[Università/Magistrale/1° Anno/Mobility Modeling/📔📐 Diario Mobility Modeling\|📔📐 Diario Mobility Modeling]]
 **🌐 WebSite:** 
 
 **🅿️ Program:**
 - [[1.1 - Mobility Modeling - M5.pdf]]
-- 
 
-**🔑 Atenea:** https://atenea.upc.edu/course/search.php 
+
+**🔑 Atenea:** https://atenea.upc.edu/course/search.php  250MUM011 - Bull$de!Tonyina!
 
 **🕰 Schedule:**
 Thursday: Lab in B1-102
@@ -81,11 +81,13 @@ Can work in group of 2. Even different groups for different assignment.
 
 
 ___
-| File                                                                                                                                      | Tipo | Stato       |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/0 - Introduction to Mobility Modeling\|0 - Introduction to Mobility Modeling]] | T    | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/1 - Graph\|1 - Graph]]                                                         | T    | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/2 - Network flows\|2 - Network flows]]                                         | T    | 🪶 Scrivere |
+
+| File                                                                                                                                      | Tipo | Stato         |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------- |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/0 - Introduction to Mobility Modeling\|0 - Introduction to Mobility Modeling]] | T    | 🟠 Studiare   |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/00 - Graph\|00 - Graph]]                                                       | T    | 🪶🟡 Scrivere |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.1 - Network flows\|01.1 - Network flows]]                                   | T    | 🟡 Finire     |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The min-cost flow problem\|01.2 - The min-cost flow problem]]           | T    | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
@@ -97,11 +99,12 @@ ___
 
 
 
-| File                                                                                                                                      | Stato       |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/0 - Introduction to Mobility Modeling\|0 - Introduction to Mobility Modeling]] | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/1 - Graph\|1 - Graph]]                                                         | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/2 - Network flows\|2 - Network flows]]                                         | 🪶 Scrivere |
+| File                                                                                                                                      | Stato         |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/0 - Introduction to Mobility Modeling\|0 - Introduction to Mobility Modeling]] | 🟠 Studiare   |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/00 - Graph\|00 - Graph]]                                                       | 🪶🟡 Scrivere |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.1 - Network flows\|01.1 - Network flows]]                                   | 🟡 Finire     |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The min-cost flow problem\|01.2 - The min-cost flow problem]]           | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
