@@ -13,6 +13,7 @@
 
 🌐 Sito Web: [Classroom](https://classroom.google.com/c/NjI2Mzg5MTgzNTU4)
 🅿️ Programma: [[Università/Triennale/3° Anno/1° Semestre/Fondamenti di Geotecnica/Programma - Fondamenti di Geotecnica\|Programma - Fondamenti di Geotecnica]]
+
 📚 Libri: 
 - [[toaz.info-lancellotta-geotecnica-1987pdf-pr_d524a0b21aaa5a835f0380136a046aeb (1).pdf|Lancellotta R. - Geotecnica, ed. Zanichelli; ed. 1987]] (capitoli 1, 2 e 3)
 	- Solo la prima parte riguardante le prime lezioni
@@ -24,6 +25,7 @@
 [[Moti di filtrazione - Miliziano.pdf]]
 
 Avremo come compito principale di studiare dal punto di vista sperimentale il comportamento dei terreni.
+
 Vedremo le cose in aula. Non potremo fare le prove in laboratorio. Faremo però una visita.
 Una volta fatta la sperimentazione, dovremo usare la matematica per modellare i comportamenti delle terre.
 
