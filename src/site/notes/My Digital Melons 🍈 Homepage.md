@@ -4,7 +4,7 @@
 
 # [[My Digital Melons 🍈 Homepage\|My Digital Melons 🍈 Homepage]]
 
-Benvenuto nel mio Digital Garden. Qui condivido alcune delle mie note, principalmente appunti universitari. Spero tu lo ritenga utile.
+Benvenuto nel mio Digital Garden. Qui condivido alcune delle mie note, principalmente appunti universitari. Spero ti torni utile.
 
 *Welcome on my Digital Garden. Here I share some of my notes, mostly for university. Hope you'll find this helpful.*
 
