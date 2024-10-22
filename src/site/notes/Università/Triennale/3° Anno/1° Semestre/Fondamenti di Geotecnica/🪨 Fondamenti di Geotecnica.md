@@ -10,6 +10,7 @@
 - [[Personale/Contatti/Armando De Lillis\|Armando De Lillis]]: armando.delillis@uniroma1.it
 - [[Personale/Contatti/Lorenzo Batocchioni\|Lorenzo Batocchioni]]: lorenzo.batocchioni@uniroma1.it
 📔 Diario del corso: [[Università/Triennale/3° Anno/1° Semestre/Fondamenti di Geotecnica/🪨📔 Diario Fondamenti di Geotecnica\|🪨📔 Diario Fondamenti di Geotecnica]]
+
 🌐 Sito Web: [Classroom](https://classroom.google.com/c/NjI2Mzg5MTgzNTU4)
 🅿️ Programma: [[Università/Triennale/3° Anno/1° Semestre/Fondamenti di Geotecnica/Programma - Fondamenti di Geotecnica\|Programma - Fondamenti di Geotecnica]]
 📚 Libri: 
