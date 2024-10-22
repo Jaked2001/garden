@@ -15,4 +15,7 @@
 - [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/💼 Decision making & Economy in Urban Mobility\|💼 Decision making & Economy in Urban Mobility]]
 - [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/💡 Innovation & Entrepreneurship for world challenges\|💡 Innovation & Entrepreneurship for world challenges]]
 
+### Semester 2
+
+Coming Soon.
 
