@@ -123,7 +123,6 @@ ___
 { .block-language-dataview}
 
 
-
 ___
 
 ## ✍️ Esercitazioni
