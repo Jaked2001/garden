@@ -142,8 +142,6 @@ ___
 
 { .block-language-dataview}
 
-
-
 ```ad-question
 title: Domanda
 [[Es 02 - Stati di sforzo]]
