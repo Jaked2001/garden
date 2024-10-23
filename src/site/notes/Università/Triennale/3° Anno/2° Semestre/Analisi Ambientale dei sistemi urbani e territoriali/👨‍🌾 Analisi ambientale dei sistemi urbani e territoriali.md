@@ -21,7 +21,6 @@
 	- Inizio alle 12:15 + Fine alle 14:45
 
 
-
 Mappe concettuali come in [[Università/Triennale/2° anno/2° Semestre/Sviluppo Sostenibile/🌱 Sviluppo Sostenibile dell'Ambiente e del Territorio\|🌱 Sviluppo Sostenibile dell'Ambiente e del Territorio]].
 Caricare le mappe in una cartella su Google Drive (dentro la cartella creata dal prof) con il nostro nome. Dare alla mappa come nome la data (5-marzo).
 
@@ -41,11 +40,12 @@ Data 3: III appello
 
 
 Prova intermedia: esonero scritto. (individuale)
+
 - [?] La prova intermedia ha a che fare con i lavori di gruppo? O sono cose puramente di teoria? 
+
 Mappe concettuali
 Esercitazione (di gruppo)
 Orale su esercitazione e sulla seconda parte del programma
-
 
 
 ## Struttura esame
@@ -93,7 +93,6 @@ ___
 
 
 ___
-
 
 # 👉🏻 Indice del corso
 
@@ -143,4 +142,3 @@ ___
 - [[2024-04-18 - Il Piano Regolatore Generale - Mappa ANASUT.excalidraw.png]]
 - MANCANTI...
 - [[2024-05-16 - Tecniche di coinvolgimento - Mappa ANASUT.excalidraw.png]]
-
