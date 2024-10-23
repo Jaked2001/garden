@@ -5,10 +5,12 @@
 
 # [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/👨‍🌾 Analisi ambientale dei sistemi urbani e territoriali\|👨‍🌾 Analisi ambientale dei sistemi urbani e territoriali]]
 
-**🧑🏻‍🏫 Prof:** [[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]  
+**🧑🏻‍🏫 Prof:** [[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]
+**📧 E-mail:** giovanni.attili@gmail.com
+
 **📔 Diario del corso:** [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/🧑‍🌾📔 Diario di Analisi Ambientale dei sistemi urbani e territoriali\|🧑‍🌾📔 Diario di Analisi Ambientale dei sistemi urbani e territoriali]]  
 **🌐 Sito Web:**  
-**📧 E-mail:** giovanni.attili@gmail.com
+
 **🅿️ Programma:** [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Programma ANASUT\|Programma ANASUT]]
 **📚 Libri:**
 
