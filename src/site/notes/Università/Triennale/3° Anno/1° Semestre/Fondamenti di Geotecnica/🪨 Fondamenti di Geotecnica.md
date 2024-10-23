@@ -100,7 +100,6 @@ ___
 
 { .block-language-dataview}
 
-
 ___
 
 # 👉🏻 Indice del corso
