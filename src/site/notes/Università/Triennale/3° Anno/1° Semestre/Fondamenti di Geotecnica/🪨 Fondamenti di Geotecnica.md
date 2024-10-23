@@ -88,6 +88,7 @@ Un'oretta di esame, con circa 3 domande.
 
 
 [[Università/Triennale/3° Anno/1° Semestre/Fondamenti di Geotecnica/2024-01-09 - Ricevimento Geotecnica\|2024-01-09 - Ricevimento Geotecnica]]
+
 ___
 
 | File                                                                                                                                                                                                                                  | Tipo | Stato             |
