@@ -63,6 +63,7 @@ title: Date esami
 
 - Una prova [[Università/Triennale/3° Anno/1° Semestre/Fondamenti di Geotecnica/🪨 Fondamenti di Geotecnica#✍️ Scritto\|scritta]] necessario per l'orale
 - Prova [[Università/Triennale/3° Anno/1° Semestre/Fondamenti di Geotecnica/🪨 Fondamenti di Geotecnica#🗣 Orale\|#🗣 Orale]]
+
 ### ✍️ Scritto
 
 🕒 Tempo: 3 Ore
