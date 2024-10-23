@@ -35,7 +35,6 @@ Ogni ora di lezione, 15 min di chiacchiere e 15 min di relax.
 
 Faremo un classroom.
 
-
 Tutti i lunedì: Esercitazioni. 
 - Prima parte, spiegazione teorica
 - Seconda parte, noi facciamo gli esercizi
