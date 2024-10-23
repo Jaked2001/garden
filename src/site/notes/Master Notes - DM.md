@@ -17,5 +17,5 @@
 
 ### Semester 2
 
-Coming Soon.
+Coming Soon...
 
