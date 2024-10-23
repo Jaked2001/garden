@@ -4,7 +4,7 @@
 
 ## I Anno
 
-NON DISPONIBILE.
+NON DISPONIBILE
 
 ## II Anno
 
