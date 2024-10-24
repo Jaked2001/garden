@@ -129,7 +129,6 @@ ___
 - [x] Proporre almeno 3 casi studio per orti urbani - 📅 2024-04-04 ✅ 2024-04-04
 
 
-
 # 🗺 Mappe
 
 - [[2024-03-05 - Conoscenza e Orti urbani - Mappa ANASUT.excalidraw.png]]
