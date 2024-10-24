@@ -5,13 +5,11 @@
 # [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/📊📔 Diario Data Analysis in Transport Systems\|📊📔 Diario Data Analysis in Transport Systems]]
 
 
-
 # 📆  15-10-2024 - Tue
 
 ### 📝 Theory
 
 ### ✏️ Projects
-
 
 
 # 📆  22-10-2024 - Tue
