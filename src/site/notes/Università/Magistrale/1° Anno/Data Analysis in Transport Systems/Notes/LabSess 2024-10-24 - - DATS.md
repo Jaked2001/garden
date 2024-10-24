@@ -148,3 +148,5 @@ Combine all the criteria:
 - Graphic (all the plots)
 - Number (compare theoretical and sample's moments)
 - Inferential
+
+
