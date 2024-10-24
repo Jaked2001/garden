@@ -229,6 +229,7 @@ $
 
 
 
+
 # [[Circuito Elettrico\|Circuito Elettrico]]
 
 ```ad-Definizione

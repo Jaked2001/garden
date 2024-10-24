@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/gbfs-general-bikeshare-feed-specification/","tags":["BikeSharing","SharingMobility"]}
 ---
 
+
 # [[GBFS - General Bikeshare Feed Specification\|GBFS - General Bikeshare Feed Specification]]
 
 ```ad-Definizione

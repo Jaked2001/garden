@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/circuito-elettrico/"}
 ---
 
+
 # [[Circuito Elettrico\|Circuito Elettrico]]
 
 ```ad-Definizione

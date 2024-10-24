@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/generatore-ideale-di-corrente/"}
 ---
 
+
 # [[Generatore ideale di corrente\|Generatore ideale di corrente]]
 
 

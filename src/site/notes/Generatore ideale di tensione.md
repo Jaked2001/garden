@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/generatore-ideale-di-tensione/"}
 ---
 
+
 # [[Generatore ideale di tensione\|Generatore ideale di tensione]]
 
 

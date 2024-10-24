@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/generatore-ideale-di-tensione-sinusoidale/"}
 ---
 
+
 # [[Generatore ideale di tensione sinusoidale\|Generatore ideale di tensione sinusoidale]]
 
 ```ad-Definizione

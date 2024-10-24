@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/generatore-ideale-di-corrente-sinusoidale/"}
 ---
 
+
 # [[Generatore ideale di corrente sinusoidale\|Generatore ideale di corrente sinusoidale]]
 
 ```ad-Definizione
