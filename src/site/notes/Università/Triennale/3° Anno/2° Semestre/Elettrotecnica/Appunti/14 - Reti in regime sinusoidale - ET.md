@@ -251,6 +251,7 @@ Si noti che conoscere la potenza complessa significa avere ben 4 informazioni:
 
 
 
+
 # [[Generatore ideale di tensione sinusoidale\|Generatore ideale di tensione sinusoidale]]
 
 ```ad-Definizione
@@ -284,6 +285,7 @@ $
 # Generatore ideale di corrente - AC
 
 </div>
+
 
 
 
