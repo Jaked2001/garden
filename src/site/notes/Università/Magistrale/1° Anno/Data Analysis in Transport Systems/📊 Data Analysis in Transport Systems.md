@@ -87,8 +87,13 @@ Have to turn in a pdf with answers of the exam.
 
 
 ___
-| File | Tipo | Stato |
-| ---- | ---- | ----- |
+
+| File                                                                                                                                                                                                                             | Tipo | Stato       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Assgn/Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS\|Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS]] | Es   | 🔴 Fare     |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/LabSess 2024-10-03 - Introduction to RStudio\|LabSess 2024-10-03 - Introduction to RStudio]]                                                         | Lab  | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS\|02 - Exploratory Data Analysis - DATS]]                                                                       | T    | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.1 - Input Data Analysis - DATS\|02.1 - Input Data Analysis - DATS]]                                                                               | T    | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -98,8 +103,6 @@ ___
 # 👉🏻 Course Index
 
 ## Contents
-
-
 
 
 | File                                                                                                                                                       | Stato       |
