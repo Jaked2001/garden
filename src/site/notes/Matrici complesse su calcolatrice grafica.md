@@ -12,6 +12,7 @@ Torna molto utile per risolvere i problemi di [[Università/Triennale/3° Anno/2
 ## Come si usa
 
 Per usarlo occorre scrivere il sistema nella forma:
+
 $$
 \begin{cases}
 Z_{11}I_{m1} + Z_{12}I_{m2} + \cdots + Z_{1n}I_{mn} = E_{1} \\
@@ -20,7 +21,9 @@ Z_{21}I_{m1} + Z_{22}I_{m2} + \cdots + Z_{2n}I_{mn} = E_{2} \\
 Z_{n1}I_{m1} + Z_{n2}I_{m2} + \cdots + Z_{nn}I_{mn} = E_{n}
 \end{cases}
 $$
+
 Che corrisponde al sistema lineare:
+
 $$
 \begin{bmatrix}
 Z_{11} & Z_{12} & \cdots & Z_{1n} \\
@@ -47,7 +50,6 @@ Una volta fatto ciò occorre inserire tutti i coefficienti $Z_{ij}$ e i termini 
 7. Cliccare `enter`
 8. Scrivere il numero di equazioni e Cliccare ancora `enter`
 9. Ora, tornando in `stat`>`edit` è possibile ottenere i valori delle incognite come elementi di $L_{2}$
-
 
 
 ## Installazione
