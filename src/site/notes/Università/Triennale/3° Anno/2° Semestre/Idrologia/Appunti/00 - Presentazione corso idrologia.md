@@ -219,7 +219,6 @@ Che si riferisce a un sistema o a un processo i cui valori medi calcolati nel te
 
 [[Teorema del limite centrale\|Teorema del limite centrale]]
 
-
 **Stazionarietà** ed **Ergodicità**
 
 Nel bacino idrografico:

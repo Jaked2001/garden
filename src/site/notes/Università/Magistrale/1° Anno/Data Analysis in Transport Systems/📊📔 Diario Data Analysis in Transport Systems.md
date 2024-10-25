@@ -12,11 +12,9 @@
 ### ✏️ Projects
 
 
-
 # 📆  22-10-2024 - Tue
 
 ### 📝 Theory
-
 
 ### ✏️ Projects
 

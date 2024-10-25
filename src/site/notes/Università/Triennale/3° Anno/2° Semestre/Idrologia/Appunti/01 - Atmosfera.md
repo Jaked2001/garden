@@ -608,7 +608,9 @@ Ne risultano quindi 2 sistemi dinamici elementari di circolazione:
 
 ##### Sistema anticiclonico
 
-![Schermata 2024-05-01 alle 12.43.06.png|Anticiclone nell'emisfero settentrionale](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-05-01%20alle%2012.43.06.png)
+![Schermata 2024-05-01 alle 12.43.06.png](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-05-01%20alle%2012.43.06.png)
+
+Anticiclone nell'emisfero settentrionale
 
 Per la [[Università/Triennale/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Legge di Buys-Ballot\|#Legge di Buys-Ballot]] il vento gira intorno ad un centro di **alte** pressioni, con verso
 - Orario - nell'emisfero settentrionale
@@ -620,7 +622,9 @@ L'anticiclone è alimentato da una corrente centrale **discendente**.
 
 ##### Sistema ciclonico
 
-![Schermata 2024-05-01 alle 12.42.55.png|Ciclone nell'emisfero settentrionale](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-05-01%20alle%2012.42.55.png)
+![Schermata 2024-05-01 alle 12.42.55.png](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/2%C2%B0%20Semestre/Idrologia/Appunti/allegati/allegati/Schermata%202024-05-01%20alle%2012.42.55.png)
+
+Ciclone nell'emisfero settentrionale
 
 Per la [[Università/Triennale/3° Anno/2° Semestre/Idrologia/Appunti/01 - Atmosfera#Legge di Buys-Ballot\|#Legge di Buys-Ballot]] il vento gira intorno ad un centro di **basse** pressioni, con verso:
 - Antiorario - nell'emisfero settentrionale
