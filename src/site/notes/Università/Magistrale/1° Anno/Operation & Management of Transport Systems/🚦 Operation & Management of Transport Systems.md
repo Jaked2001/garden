@@ -8,7 +8,7 @@
 **🧑🏻‍🏫 Prof:** [[Francesc Soriguera\|Francesc Soriguera]]
 **📧 e-mail:** francesc.soriguera@upc.edu
 
-**📔 Diario del corso:** 
+**📔 Diario del corso:** [[🚦📔 Diario Operation & Management of Transport Systems\|🚦📔 Diario Operation & Management of Transport Systems]]
 
 **🌐 Sito Web:** 
 **📚 Libri:** There is a book on [[ATENEA\|ATENEA]]
@@ -115,11 +115,25 @@ Esercizi:
 
 ___
 
-
-| File | Tipo | Stato |
-| ---- | ---- | ----- |
+| File                                                                                                                                                                                      | Tipo | Stato       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Mini-Project/Mini Project - OMT\|Mini Project - OMT]]                                                      | Es   | 🔴 Fare     |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/01 - Introduction to trajectories Analysis - OMT\|01 - Introduction to trajectories Analysis - OMT]] | T    | 🟢 Fatto    |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT\|02 - Fundamentals fo Queuing Theory - OMT]]               | T    | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/Introduction of ttn system\|Introduction of ttn system]]                                             | T    | 🟠 Studiare |
 
 { .block-language-dataview}
+
+
+#### ❓ Questions
+
+```tasks
+not done
+path includes Operation & Management of Transport Systems/notes
+filter by function task.status.name === 'Question'
+group by path
+```
+
 
 
 ___
@@ -128,10 +142,11 @@ ___
 
 
 
-| File                                                                                                                                                                | Stato       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/Introduction of ttn system\|Introduction of ttn system]]                       | 🟠 Studiare |
-| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/Introduction to trajectories Analysis\|Introduction to trajectories Analysis]] | 🪶 Scrivere |
+| File                                                                                                                                                                                      | Stato       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/01 - Introduction to trajectories Analysis - OMT\|01 - Introduction to trajectories Analysis - OMT]] | 🟢 Fatto    |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT\|02 - Fundamentals fo Queuing Theory - OMT]]               | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/Introduction of ttn system\|Introduction of ttn system]]                                             | 🟠 Studiare |
 
 { .block-language-dataview}
 

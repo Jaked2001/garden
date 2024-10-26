@@ -10,7 +10,7 @@
 - [[Saul Garcia\|Saul Garcia]]
 - [[Ramon Bragós\|Ramon Bragós]]
 **📧 e-mail:** 
-**📔 Diario del corso:** 
+**📔 Diario del corso:** [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/💡📔 Diario Innovation & Entrepreneurship for world challenges\|💡📔 Diario Innovation & Entrepreneurship for world challenges]]
 **🌐 WebSite:** 
 
 **🅿️ Program:** [[e1.1 - Innovation and Entrepreneurship for World Challenges - I&E5.pdf]]
