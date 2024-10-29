@@ -205,7 +205,7 @@ An input-output diagram is the overlay of 2 [[Università/Magistrale/1° Anno/Op
 - $A(t) = N(t,x_{0}):$ cumulative plot measured at location $x_{0}$, before the system being measured. In other words, the [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT#Arrivals\|#Arrivals]]
 - $D(t) = N(t,x_{1}):$ cumulative plot measured at location $x_{1}$, after the system being measured. In other words, the [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT#Departures\|#Departures]]
 
-- [?] If the $A(t)$ curve is not measured exactly at the entrance of the system of interest, don't we overestimate the delay time in the system?
+- [x] If the $A(t)$ curve is not measured exactly at the entrance of the system of interest, don't we overestimate the delay time in the system? ✅ 2024-10-29
 
 ![Input-Output Diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 16.04.28.excalidraw.png](/img/user/Excalidraw-2/Input-Output%20Diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2016.04.28.excalidraw.png)
 
@@ -265,7 +265,8 @@ We can also look at the two projection one under the other to visualize everythi
 
 ![Schermata 2024-10-26 alle 16.59.03.png](/img/user/Schermata%202024-10-26%20alle%2016.59.03.png)
 
-- [?] If at one point there is queuing (accumulation), shouldn't the $x,t$ diagram show the trajectory going horizontal for a bit?
+- [x] If at one point there is queuing (accumulation), shouldn't the $x,t$ diagram show the trajectory going horizontal for a bit? ✅ 2024-10-28
+	- [ ] Not necessarily: if more veh are being served and they don't need to stop, than this is correct
 
 ## Virtual Arrivals Curve
 
@@ -294,10 +295,14 @@ From the same graph, we can also measure, as the areas shown in the graph:
 - $W_{1} \quad \rm [customers \cdot time]:$ The total aggregated delay in the period $t_{i}, t_{j}$
 - $W_{2} \quad \rm[costumers]:$ The total delay collectively incurred by customers between $n_{i}$ and $n_{j}$
 
-![virta02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 17.38.02.excalidraw.png](/img/user/Excalidraw-2/virta02%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2017.38.02.excalidraw.png)
+![virtual arrival curve aggregated delays - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 17.38.02.excalidraw.png](/img/user/Excalidraw-2/virtual%20arrival%20curve%20aggregated%20delays%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2017.38.02.excalidraw.png)
 
 
 From these we can also calculate:
+
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗ $Q \le$ # costumers in queue
 
 **Average excess accumulation** ($\overline{Q}$) in the period $t_{i},t_{j}$:
 $$

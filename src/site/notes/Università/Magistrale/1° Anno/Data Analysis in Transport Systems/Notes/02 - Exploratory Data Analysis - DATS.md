@@ -117,7 +117,7 @@ It's a [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Note
 title: Standard Deviation ($S_{x}$)
 
 $
-S_{x} = \sqrt{S_{x}^{2}}
+\sigma = S_{x} = \sqrt{S_{x}^{2}}
 $
 
 ```

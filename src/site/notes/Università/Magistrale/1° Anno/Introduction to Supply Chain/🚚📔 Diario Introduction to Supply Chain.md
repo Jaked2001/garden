@@ -4,3 +4,8 @@
 
 # [[Università/Magistrale/1° Anno/Introduction to Supply Chain/🚚📔 Diario Introduction to Supply Chain\|🚚📔 Diario Introduction to Supply Chain]]
 
+
+# 📆  28-10-2024 - Mon
+
+Played the Beer Game
+

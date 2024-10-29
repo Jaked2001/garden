@@ -71,8 +71,12 @@ Presentation + questions 1 week in advance.
 
 
 ___
-| File | Tipo | Stato |
-| ---- | ---- | ----- |
+| File                                                                                                                                                     | Tipo | Stato       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/03 - Procurement BC - ISC\|03 - Procurement BC - ISC]]                    | Es   | 🔴 Fare     |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC\|01 - Introduction to supply chain - ISC]] | T    | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/02 - Procurement and Planning - ISC\|02 - Procurement and Planning - ISC]]         | T    | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/03 - Logistics - SC\|03 - Logistics - SC]]                                         | T    | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -82,13 +86,11 @@ ___
 # 👉🏻 Course Index
 
 
-| File                                                                                                                               | Stato       |
-| ---------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/02 - Supply Demand\|02 - Supply Demand]]                     | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/03 - Logistics - SC\|03 - Logistics - SC]]                   | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/Case Method\|Case Method]]                                   | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/Introduction to supply chain\|Introduction to supply chain]] | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/Supply Chain\|Supply Chain]]                                 | 🪶 Scrivere |
+| File                                                                                                                                                     | Stato       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC\|01 - Introduction to supply chain - ISC]] | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/02 - Procurement and Planning - ISC\|02 - Procurement and Planning - ISC]]         | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/03 - Logistics - SC\|03 - Logistics - SC]]                                         | 🪶 Scrivere |
 
 { .block-language-dataview}
 

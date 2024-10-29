@@ -237,6 +237,10 @@ A **tree** is a special type of graph that contains *no* [[#Cycle|cycles]].
 
 It can be **directed** or **undirected**.
 
+Trees have the following characteristic:
+$
+\# \text{nodes} = \# \text{links} - 1
+$
 ```
 
 ```ad-note
@@ -247,6 +251,9 @@ A [[#Path]] is always a tree. More specifically, a [[#Directed path]] is always 
 **BUT**
 
 A tree is not necesseraly a [[#Path]]
+
+![[Tree vs Path00 - Graph - MM 2024-10-28 15.42.39.excalidraw|700]]
+%%[[Tree vs Path00 - Graph - MM 2024-10-28 15.42.39.excalidraw|🖋 Edit in Excalidraw]]%%
 
 ```
 
@@ -259,11 +266,19 @@ A **spanning tree** is a part of graph $G$, or subgraph, that contains all the s
 
 ```
 
+![Spanning tree - 00 - Graph - MM 2024-10-28 15.45.05.excalidraw.png](/img/user/Excalidraw-2/Spanning%20tree%20-%2000%20-%20Graph%20-%20MM%202024-10-28%2015.45.05.excalidraw.png)
+
+
+##### Rooted spanning tree
+
+There exist a node, called the **root node**, which is connected with any other node in the network.
+
+Also, the undirected path from a root node to any other node in the tree is unique (it's a [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/00 - Graph - MM#Spanning tree\|#Spanning tree]]).
+
+
 ❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗
-
-Do slides 11 to 13 (finish pdf).
+❗❗❗❗❗❗❗❗❗❗❗❗ slide 13 (finish pdf). - Storing and retrieving paths
 
 See iPad.
 

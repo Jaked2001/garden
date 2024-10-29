@@ -8,7 +8,7 @@
 **🧑🏻‍🏫 Prof:** [[Francesc Soriguera\|Francesc Soriguera]]
 **📧 e-mail:** francesc.soriguera@upc.edu
 
-**📔 Diario del corso:** [[🚦📔 Diario Operation & Management of Transport Systems\|🚦📔 Diario Operation & Management of Transport Systems]]
+**📔 Diario del corso:** [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/🚦📔 Diario Operation & Management of Transport Systems\|🚦📔 Diario Operation & Management of Transport Systems]]
 
 **🌐 Sito Web:** 
 **📚 Libri:** There is a book on [[ATENEA\|ATENEA]]
@@ -139,8 +139,6 @@ group by path
 ___
 
 # 👉🏻 Indice del corso
-
-
 
 | File                                                                                                                                                                                      | Stato       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |

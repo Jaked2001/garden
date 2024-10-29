@@ -13,8 +13,8 @@
 
 
 **📚 Books:**
-- Fox, John. 3rd. Los Angeles: SAGE,Applied Regression Analysis and Generalized Linear Models. 2016. ISBN 9781452205663.
-- Fox, John ; Weisber, Sanford. 3rd ed. Thousand Oaks,An R Companion to Applied Regression. California: SAGE, 2019. ISBN 9781544336473.
+- Fox, John. 3rd. Los Angeles: SAGE, Applied Regression Analysis and Generalized Linear Models. 2016. ISBN 9781452205663.
+- Fox, John ; Weisber, Sanford. 3rd ed. Thousand Oaks, An R Companion to Applied Regression. California: SAGE, 2019. ISBN 9781544336473.
 
 **🅿️ Program:** [[1.1 - Data Analysis in Transport Systems - M5.pdf]]
 **🔑 Atenea:** https://atenea.upc.edu/course/search.php 250MUM013 - DATS2425
@@ -22,14 +22,14 @@
 **🕰 Schedule:**
 Office: C5207 (she's never there). She is usually in B6 (2nd floor), by appointment.
 
-In Data Analysis software like python or R are used.
+In Data Analysis softwares like python or R are used.
 
 # ❗️Evaluation❗️
 
 ```ad-attention
 title: Evaluation dates
 
-[[2024-11-10]] - Assgn 1
+[[2024-11-10]] - Turn in [[Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS]]
 
 [[2024-11-14\|2024-11-14]] - MidTerm Exam
 
@@ -71,10 +71,6 @@ Have to turn in a pdf with answers of the exam.
 ### ✍️ Final Exam
 
 
-
-
-
-
 ## 💯 Grade
 
 | Parte       | Data           | Voto |
@@ -90,10 +86,11 @@ ___
 
 | File                                                                                                                                                                                                                             | Tipo | Stato       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Assgn/Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS\|Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS]] | Es   | 🔴 Fare     |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Assgn/Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS\|Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS]] | Es   | 🟡 Finire   |
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/LabSess 2024-10-03 - Introduction to RStudio\|LabSess 2024-10-03 - Introduction to RStudio]]                                                         | Lab  | 🟠 Studiare |
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS\|02 - Exploratory Data Analysis - DATS]]                                                                       | T    | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.1 - Input Data Analysis - DATS\|02.1 - Input Data Analysis - DATS]]                                                                               | T    | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/03 - Computational Statistical Inference - DATS\|03 - Computational Statistical Inference - DATS]]                                                   | T    | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -105,12 +102,13 @@ ___
 ## Contents
 
 
-| File                                                                                                                                                       | Stato       |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS\|02 - Exploratory Data Analysis - DATS]] | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.1 - Input Data Analysis - DATS\|02.1 - Input Data Analysis - DATS]]         | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/Outlier\|Outlier]]                                                             | 🟢 Fatto    |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/Shapiro Wilk test\|Shapiro Wilk test]]                                         | 🟢 Fatto    |
+| File                                                                                                                                                                           | Stato       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS\|02 - Exploratory Data Analysis - DATS]]                     | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.1 - Input Data Analysis - DATS\|02.1 - Input Data Analysis - DATS]]                             | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/03 - Computational Statistical Inference - DATS\|03 - Computational Statistical Inference - DATS]] | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/Outlier\|Outlier]]                                                                                 | 🟢 Fatto    |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/Shapiro Wilk test\|Shapiro Wilk test]]                                                             | 🟢 Fatto    |
 
 { .block-language-dataview}
 
@@ -150,6 +148,8 @@ ___
 
 ## ✍️ Esercitazioni
 
+| File                                                                                                                                                                                                                             | Stato     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Assgn/Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS\|Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS]] | 🟡 Finire |
 
-
-
+{ .block-language-dataview}

@@ -37,7 +37,7 @@ Data 2: II appello
 Data 3: III appello
 
 ```
-
+ 
 
 
 ## Evaluation Structure
@@ -105,13 +105,13 @@ ___
 
 
 
-| File                                                                                                                                      | Stato         |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/0 - Introduction to Mobility Modeling\|0 - Introduction to Mobility Modeling]] | 🟠 Studiare   |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/00 - Graph - MM\|00 - Graph - MM]]                                             | 🪶🟡 Scrivere |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.1 - Network flows -\|01.1 - Network flows -]]                               | 🟡 Finire     |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The min-cost flow problem - MM\|01.2 - The min-cost flow problem - MM]] | 🪶 Scrivere   |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/LAB - AMPL/Lab 1 - Introduction to AMPL\|Lab 1 - Introduction to AMPL]]              | 🪶 Scrivere   |
+| File                                                                                                                                      | Stato         | dg-publish |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ---------- |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/0 - Introduction to Mobility Modeling\|0 - Introduction to Mobility Modeling]] | 🟠 Studiare   | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/00 - Graph - MM\|00 - Graph - MM]]                                             | 🪶🟡 Scrivere | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.1 - Network flows -\|01.1 - Network flows -]]                               | 🟡 Finire     | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The min-cost flow problem - MM\|01.2 - The min-cost flow problem - MM]] | 🪶 Scrivere   | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/LAB - AMPL/Lab 1 - Introduction to AMPL\|Lab 1 - Introduction to AMPL]]              | 🪶 Scrivere   | true       |
 
 { .block-language-dataview}
 
