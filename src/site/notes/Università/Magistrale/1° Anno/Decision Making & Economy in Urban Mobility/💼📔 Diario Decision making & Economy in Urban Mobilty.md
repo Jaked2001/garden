@@ -70,6 +70,7 @@ Projects presetnations.
 			- Legal damages
 	- Instruments and guides for cost-benefit analysis
 	- Net Present Value
-	- 
-### ✏️ Projects
 
+# 📆  30-10-2024 - Wed
+
+Class canceled for bad weather ⛈

@@ -275,10 +275,20 @@ There exist a node, called the **root node**, which is connected with any other 
 
 Also, the undirected path from a root node to any other node in the tree is unique (it's a [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/00 - Graph - MM#Spanning tree\|#Spanning tree]]).
 
+##### Storing and retrieving paths
 
-❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗ slide 13 (finish pdf). - Storing and retrieving paths
+In a directed [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/00 - Graph - MM#Spanning tree\|#Spanning tree]], we can store paths in a simple matrix.
 
-See iPad.
+![Storing and retrieving paths - 00 - Graph - MM 2024-10-30 11.30.32.excalidraw.png](/img/user/Excalidraw-2/Storing%20and%20retrieving%20paths%20-%2000%20-%20Graph%20-%20MM%202024-10-30%2011.30.32.excalidraw.png)
+
+
+This tree can be stored as an array $p$ of pointers:
+$$
+\begin{bmatrix}
+\text{index} & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\
+p & 0 & 5 & 1 & 2 & 1 & 2 & 4 & 3
+\end{bmatrix}
+$$
+
+
 

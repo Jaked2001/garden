@@ -65,16 +65,18 @@ We'll try to develop:
 
 Calculator recommended for graded activities. Get a **ruler**.
 
+
 ```ad-attention
-title: Date esami
+title: Evaluation dates
 
-Data 1: I appello
-
-Data 2: II appello
-
-Data 3: III appello
+```tasks
+not done
+path includes Operation & Management of Transport Systems
+filter by function task.status.name === 'Exam'
+sort by description
 
 ```
+
 
 ## Struttura esame
 
@@ -86,17 +88,28 @@ NO RETAKE. Gotta have a weighted average grater than 5.
 
 During exam can only have 1 A4 sheet of **hand written** notes.
 
-### Assignments
+### Graded Assignments
+
+- [x] [[2024-10-21]] - Graded Assgm 1 ⏫ ✅ 2024-10-30
+- [!] [[2024-11-18]] - Graded Assgm 2 ⏫ 
+- [!] [[2024-12-10]] - Graded Assgm 3 ⏫ 
+- [!] [[2024-12-16]] - Graded Assgm 4 ⏫ 
+
 
 4 problems each worth 10%, But will only take the best 3.
 
 ### 🗣 Mini project
 
+- [!] [[2025-01-14]] - MP Presentation 🔼 
+
 - 30% - Calculation/accuracy
 - 40% - Presentation
 - 30% - Discussion
 
+
 ### ✍️ Final
+
+- [!] [[2025-01-07]] - ❗️ Final Exam ⏫ 
 
 🕒 Tempo:
 Esercizi: 
@@ -117,7 +130,7 @@ ___
 
 | File                                                                                                                                                                                      | Tipo | Stato       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
-| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Mini-Project/Mini Project - OMT\|Mini Project - OMT]]                                                      | Es   | 🔴 Fare     |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Mini-Project/Mini Project - OMT.md\|Mini Project - OMT]]                                                      | Es   | 🔴 Fare     |
 | [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/01 - Introduction to trajectories Analysis - OMT\|01 - Introduction to trajectories Analysis - OMT]] | T    | 🟢 Fatto    |
 | [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT\|02 - Fundamentals fo Queuing Theory - OMT]]               | T    | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/Introduction of ttn system\|Introduction of ttn system]]                                             | T    | 🟠 Studiare |
@@ -142,9 +155,9 @@ ___
 
 | File                                                                                                                                                                                      | Stato       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/01 - Introduction to trajectories Analysis - OMT\|01 - Introduction to trajectories Analysis - OMT]] | 🟢 Fatto    |
-| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT\|02 - Fundamentals fo Queuing Theory - OMT]]               | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/Introduction of ttn system\|Introduction of ttn system]]                                             | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/01 - Introduction to trajectories Analysis - OMT.md\|01 - Introduction to trajectories Analysis - OMT]] | 🟢 Fatto    |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT.md\|02 - Fundamentals fo Queuing Theory - OMT]]               | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/Introduction of ttn system.md\|Introduction of ttn system]]                                             | 🟠 Studiare |
 
 { .block-language-dataview}
 

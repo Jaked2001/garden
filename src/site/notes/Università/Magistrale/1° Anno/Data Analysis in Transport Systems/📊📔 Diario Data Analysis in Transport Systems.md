@@ -41,9 +41,9 @@ LAB Session
 		- `cor.test(X ~ Y, method = 'spearman')` - Person's test
 - Correlation between a numeric variable and a factor (non numeric variable)
 	- Charts
-		- `boxplot(Y ~ A)`
+		- `boxplot(Y ~ A)` or just use `plot(Y ~ A)`
 	- Numbers
-		- Coefficient of Determination $R^{2} \longleftarrow {\rm lm}(Y~A)$ (Linear Model)
+		- Coefficient of Determination $R^{2} \longleftarrow$ `lm(Y~A)` (Linear Model)
 		- $eta^2$
 	- Test
 		- Test on means
@@ -70,3 +70,11 @@ LAB Session
 
 
 
+
+# 📆  31-10-2024 - Thu
+
+### ✏️ Lab session
+
+[[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/LabSess 3 - 2024-10-31 - Computational Statistical Inference - DATS\|LabSess 3 - 2024-10-31 - Computational Statistical Inference - DATS]]
+
+We practiced all the tools introduced in the class of [[_Giornaliera/2024-10-29\|2024-10-29]] into RStudio.
