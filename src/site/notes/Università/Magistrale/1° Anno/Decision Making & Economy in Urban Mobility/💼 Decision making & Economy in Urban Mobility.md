@@ -23,21 +23,24 @@
 
 # ❗️Evaluation❗️
 
+
 ```ad-attention
 title: Evaluation dates
 
-Data 1: I appello
-
-Data 2: II appello
-
-Data 3: III appello
+```tasks
+not done
+path includes Decision Making & Economy in Urban Mobility
+filter by function task.status.name === 'Exam'
+sort by description
 
 ```
 
+
 ## Evaluation Structure
 
-P1 - Partial Exam 1 [[2024-11-15\|2024-11-15]] (35%)
-P2 - Partial Exam 2 [[2025-01-17\|2025-01-17]] (35%)
+- [!] [[2024-11-15\|2024-11-15]] - P1 - Partial Exam 1 (35%)
+- [!] [[2025-01-17\|2025-01-17]] - P2 - Partial Exam 2 (35%)
+
 Workshop (30%)
 
 ### ✍️ Partial Exam 1
@@ -84,9 +87,10 @@ Evaluate the case from a double perspective:
 
 
 ___
-| File                                                                                                                                                                                                | Tipo | Stato       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
-| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME\|01 - Production and cost functions in transport - DME]] | T    | 🪶 Scrivere |
+| File                                                                                                                                                                                                | Tipo     | Stato       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------- |
+| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Workshop/Grand Paris Express Line 15 - DME\|Grand Paris Express Line 15 - DME]]                                      | Progetto | 🔴 Fare     |
+| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME\|01 - Production and cost functions in transport - DME]] | T        | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -95,14 +99,11 @@ ___
 
 # 👉🏻 Course Index
 
-
 | File                                                                                                                                                                                                | Stato       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME\|01 - Production and cost functions in transport - DME]] | 🪶 Scrivere |
 
 { .block-language-dataview}
-
-
 
 
 ___

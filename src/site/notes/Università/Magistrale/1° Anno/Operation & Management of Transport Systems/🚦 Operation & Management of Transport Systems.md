@@ -128,12 +128,12 @@ Esercizi:
 
 ___
 
-| File                                                                                                                                                                                      | Tipo | Stato       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
-| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Mini-Project/Mini Project - OMT.md\|Mini Project - OMT]]                                                      | Es   | 🔴 Fare     |
-| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/01 - Introduction to trajectories Analysis - OMT\|01 - Introduction to trajectories Analysis - OMT]] | T    | 🟢 Fatto    |
-| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT\|02 - Fundamentals fo Queuing Theory - OMT]]               | T    | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/Introduction of ttn system\|Introduction of ttn system]]                                             | T    | 🟠 Studiare |
+| File                                                                                                                                                                                      | Tipo     | Stato       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------- |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Mini-Project/Mini Project - OMT.md\|Mini Project - OMT]]                                                      | Progetto | 🔴 Fare     |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/01 - Introduction to trajectories Analysis - OMT\|01 - Introduction to trajectories Analysis - OMT]] | T        | 🟢 Fatto    |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT\|02 - Fundamentals fo Queuing Theory - OMT]]               | T        | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/Introduction of ttn system\|Introduction of ttn system]]                                             | T        | 🟠 Studiare |
 
 { .block-language-dataview}
 

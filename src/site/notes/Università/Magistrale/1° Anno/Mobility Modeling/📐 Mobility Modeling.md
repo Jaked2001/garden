@@ -95,8 +95,7 @@ ___
 
 | File                                                                                                                                                                      | Tipo | Stato       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Assgm - MM/Assgm 0 - Introductory Excercise - MM\|Assgm 0 - Introductory Excercise - MM]]                            | Es   | 🟡 Finire   |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.1 - Network flows -\|01.1 - Network flows -]]                                                               | T    | 🟡 Finire   |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.1 - Network flows - MM\|01.1 - Network flows - MM]]                                                         | T    | 🟡 Finire   |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The min-cost flow problem - from slides - MM\|01.2 - The min-cost flow problem - from slides - MM]]     | T    | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The minimum cost flow problem - From book - MM\|01.2 - The minimum cost flow problem - From book - MM]] | T    | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/LAB - AMPL/Lab 1 - Introduction to AMPL\|Lab 1 - Introduction to AMPL]]                                              | T    | 🪶 Scrivere |
@@ -125,7 +124,7 @@ ___
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------- |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/0 - Introduction to Mobility Modeling\|0 - Introduction to Mobility Modeling]]                                 | 🟠 Studiare | true       |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/00 - Graph - MM\|00 - Graph - MM]]                                                                             | 🟠 Studiare | true       |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.1 - Network flows -.md\|01.1 - Network flows -]]                                                               | 🟡 Finire   | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.1 - Network flows - MM.md\|01.1 - Network flows - MM]]                                                         | 🟡 Finire   | true       |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The min-cost flow problem - from slides - MM.md\|01.2 - The min-cost flow problem - from slides - MM]]     | 🪶 Scrivere | true       |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The minimum cost flow problem - From book - MM.md\|01.2 - The minimum cost flow problem - From book - MM]] | 🪶 Scrivere | \-         |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/LAB - AMPL/Lab 1 - Introduction to AMPL.md\|Lab 1 - Introduction to AMPL]]                                              | 🪶 Scrivere | true       |
@@ -139,9 +138,9 @@ ___
 
 ## ✍️ Assignments
 
-| File                                                                                                                                           | Stato     | dg-publish |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ---------- |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Assgm - MM/Assgm 0 - Introductory Excercise - MM.md\|Assgm 0 - Introductory Excercise - MM]] | 🟡 Finire | false      |
+| File                                                                                                                                           | Stato    | dg-publish |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------- |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Assgm - MM/Assgm 0 - Introductory Excercise - MM\|Assgm 0 - Introductory Excercise - MM]] | 🟢 Fatto | false      |
 
 { .block-language-dataview}
 

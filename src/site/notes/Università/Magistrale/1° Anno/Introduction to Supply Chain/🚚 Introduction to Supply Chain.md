@@ -73,10 +73,11 @@ Presentation + questions 1 week in advance.
 ___
 | File                                                                                                                                                     | Tipo | Stato       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/02 - 7 eleven Japan - ISC\|02 - 7 eleven Japan - ISC]]                    | Es   | 🟢 Fatto    |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/03 - Procurement BC - ISC\|03 - Procurement BC - ISC]]                    | Es   | 🔴 Fare     |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC\|01 - Introduction to supply chain - ISC]] | T    | 🟠 Studiare |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/02 - Procurement and Planning - ISC\|02 - Procurement and Planning - ISC]]         | T    | 🟠 Studiare |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/03 - Logistics - SC\|03 - Logistics - SC]]                                         | T    | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/03 - Logistics - ISC\|03 - Logistics - ISC]]                                       | T    | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -90,7 +91,7 @@ ___
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC\|01 - Introduction to supply chain - ISC]] | 🟠 Studiare |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/02 - Procurement and Planning - ISC\|02 - Procurement and Planning - ISC]]         | 🟠 Studiare |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/03 - Logistics - SC\|03 - Logistics - SC]]                                         | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/03 - Logistics - ISC\|03 - Logistics - ISC]]                                       | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -99,4 +100,13 @@ ___
 ___
 
 
-## ✍️ Esercitazioni
+## ✍️ Business Cases
+
+
+| File                                                                                                                                  | Stato    |
+| ------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/02 - 7 eleven Japan - ISC\|02 - 7 eleven Japan - ISC]] | 🟢 Fatto |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/03 - Procurement BC - ISC\|03 - Procurement BC - ISC]] | 🔴 Fare  |
+
+{ .block-language-dataview}
+

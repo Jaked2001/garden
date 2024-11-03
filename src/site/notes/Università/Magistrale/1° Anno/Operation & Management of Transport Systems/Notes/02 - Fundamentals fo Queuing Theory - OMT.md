@@ -276,45 +276,111 @@ title: Virtual Arrivals Curve (V(t))
 
 The **Virtual Arrivals Curve** is a curve obtained by moving the arrival curve ($A(t)$) forward in time of an amount equal to the free flow travel time.
 
-It can also be defined as the [[#Departures]] curve that would be measured in the absence of delay.
+It can also be defined as the [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT#Departures\|#Departures]] curve that would be measured in the absence of delay.
 
 ![Virtual Arrivals curve - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 17.14.37.excalidraw.png](/img/user/Excalidraw-2/Virtual%20Arrivals%20curve%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2017.14.37.excalidraw.png)
 %%[[Virtual Arrivals curve - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 17.14.37.excalidraw|🖋 Edit in Excalidraw]]%%
 
 ```
 
+What we obtain:
+- [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT#Excess accumulation\|#Excess accumulation]]
+	- [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT#Average excess accumulation\|#Average excess accumulation]]
+- [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT#Delay\|#Delay]]
+	- [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT#Average delay per costumer\|#Average delay per costumer]]
 
-From the Virtual Arrivals Curve we can directly read:
-- $w=$ the delay
-- $Q =$ the excess accumulation
+### Excess accumulation
 
-![Virtual arrivals curve with labels - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 17.28.53.excalidraw.png](/img/user/Excalidraw-2/Virtual%20arrivals%20curve%20with%20labels%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2017.28.53.excalidraw.png)
+```ad-Definizione
+title: Excess Accumulation ($Q$)
+
+**Excess accumulation** is the number of extra costumer that we have in the system due to the fact that there is a queue forming.
+
+```
+
+The Excess accumulation can be obtained as the vertical distance in the $N-t$ diagram between the [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT#Virtual Arrivals Curve\|#Virtual Arrivals Curve]] and the [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT#Departures\|#Departures]] curve.
+
+![Excess accumulation N-t diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.14.50.excalidraw.png](/img/user/Excalidraw-2/Excess%20accumulation%20N-t%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2018.14.50.excalidraw.png)
 
 
-From the same graph, we can also measure, as the areas shown in the graph:
-- $W_{1} \quad \rm [customers \cdot time]:$ The total aggregated delay in the period $t_{i}, t_{j}$
-- $W_{2} \quad \rm[costumers]:$ The total delay collectively incurred by customers between $n_{i}$ and $n_{j}$
+#### Average excess accumulation
 
-![virtual arrival curve aggregated delays - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 17.38.02.excalidraw.png](/img/user/Excalidraw-2/virtual%20arrival%20curve%20aggregated%20delays%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2017.38.02.excalidraw.png)
+![Average excess accumulation on N-t diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.19.33.excalidraw.png](/img/user/Excalidraw-2/Average%20excess%20accumulation%20on%20N-t%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2018.19.33.excalidraw.png)
 
 
-From these we can also calculate:
-
-❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗ $Q \le$ # costumers in queue
-
-**Average excess accumulation** ($\overline{Q}$) in the period $t_{i},t_{j}$:
+We define the area
 $$
+W_{1} \quad \rm [customers \cdot time]
+$$
+as the total aggregated delay in the period $t_{i}, t_{j}$
+
+```ad-Teo
+title: Average excess accumulation ($\overline{Q}$)
+
+We can calculate **Average excess accumulation** ($\overline{Q}$) in the period $t_{i},t_{j}$:
+$
 \overline{Q} = \frac{W_{1}}{t_{j}-t_{i}}
-$$
+$
 
-**Average delay per costumer** ($\overline{w}$) in the group between $n_{i}$ and $n_{j}$:
+```
+
+Take some time to think on the meaning of the average excess accumulation:
+
+```ad-attention
+
+The average excess accumulation $\overline{Q}$ is always less or equal to the number of costumers that we see in the physical queue. Watch the example below to better understand this concept.
+
+The diagram shows a stretch of road in 2 scenarios:
+1. No queue: cars move freely at the same speed
+	- We count 2 veh in the area of interest (the one in the orange dashed box)
+2. Queue: Some cars are queueing in the area of interest
+	- We count 5 cars
+
+![02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.27.37.excalidraw.png](/img/user/Excalidraw-2/02%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2018.27.37.excalidraw.png)
+%%[[02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.27.37.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+Notice that, of the 5 cars in the boxed area, even without queue, there would be 2. Meaning, the excess accumulation is NOT 5, but just 3.
+```
+
+
+### Delay
+
+```ad-Definizione
+title: Delay ($w$)
+
+The **Delay** ($w$) is the extra time a costumer has to spend in the system due to queuing.
+
+```
+
+Delay can be obtained as the horizontal distance in the $N-t$ diagram between the [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT#Virtual Arrivals Curve\|#Virtual Arrivals Curve]] and the [[#Departures]] curve.
+
+![02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.17.21.excalidraw.png](/img/user/Excalidraw-2/02%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2018.17.21.excalidraw.png)
+
+
+#### Average delay per costumer
+
+![Average delay per costumer on N-t diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.23.15.excalidraw.png](/img/user/Excalidraw-2/Average%20delay%20per%20costumer%20on%20N-t%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2018.23.15.excalidraw.png)
+
+
+We define the area:
 $$
+W_{2} \quad \rm[costumers]
+$$as the total delay collectively incurred by customers between $n_{i}$ and $n_{j}$.
+
+```ad-Teo
+title: Average delay per costumer ($\overline{w}$)
+
+We calculate the **Average delay per costumer** ($\overline{w}$) in the group between $n_{i}$ and $n_{j}$:
+$
 \overline{w} = \frac{W_{2}}{n_{j}-n_{i}}
-$$
+$
+
+```
 
 ## Little's Formula
+
+![Little's Formula diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.36.38.excalidraw.png](/img/user/Excalidraw-2/Little's%20Formula%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2018.36.38.excalidraw.png)
+
 
 ```ad-Teo
 title: Little's Formula
@@ -323,11 +389,80 @@ $
 \overline{\lambda} = \frac{\overline{Q}}{\overline{w}}
 $
 
+**Proof:**
+
+According to the definition, we can write for the [[#Average excess accumulation]]:
+$
+\overline{Q} = \frac{W}{t_{2}-t_{1}} \quad \Longrightarrow \quad W =  \overline{Q}(t_{2}-t_{1})
+$
+and for the [[#Average delay per costumer]]:
+$
+\overline{w} = \frac{W}{n_{2}-n_{1}} \quad \Longrightarrow \quad W =  \overline{w}(n_{2}-n_{1})
+$
+Meaning that:
+$
+\overline{Q}(t_{2}-t_{1}) = \overline{w}(n_{2}-n_{1})
+$
+Therefore:
+$
+\frac{\overline{Q}}{\overline{w}} = \frac{n_{2}-n_{1}}{t_{2}-t_{1}}
+$
+where the ratio on the right-hand side is the ratio of arrival of costumer, $\lambda$.
+$
+\frac{\overline{Q}}{\overline{w}} = \lambda 
+$
+*q.e.d.*
 ```
 
+## Typical scenario
 
-❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗
+In a typical scenario we only have part of the data:
+$$
+\begin{align}
+\text{Knowns: }&
+\begin{cases}
+V(t): \text{Measured when there are few people} \\
+\mu : \text{Max service flow (it's a property of the facility)}
+\end{cases} \\ \\
+
+\text{Unknowns: }&
+\begin{cases}
+\overline{w}\\
+\overline{Q}
+\end{cases} \quad \Longrightarrow\text{We need the }D(t)
+\end{align}
+$$
+We will describe how we can construct the [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT#Departures\|departure's]] curve.
+
+First, keep in mind these 2 properties:
+- $\dot{D}(t) = \mu \quad$ ff there is queue
+- $\dot{D}(t) = \min(\dot{V}(t), \mu)\quad$ if there is NO queue
+
+Also, the following rules must be followed:
+$$
+\begin{cases}
+D(t) < V(t) \quad \forall t \\
+\dot{D}(t) < \mu \quad \forall t 
+\end{cases}
+$$
+
+![Constructing a departures curve on N-t diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 19.24.26.excalidraw.png](/img/user/Excalidraw-2/Constructing%20a%20departures%20curve%20on%20N-t%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2019.24.26.excalidraw.png)
+
+
+Notice how the $D(t)$ curve follows exactly the $V(t)$ curve untile the rate of arrival, $\dot{V}(t)$ is greater than the rate of service, $\mu$. From this instance, the $D(t)$ has a constant slope equal to $\mu$, until it meets back the $V(t)$, at which point it goes back to following it.
+
+
+
+## On-off queueing system
+
+### Unsaturated system
+
+### Exactly Saturated system
+
+### Overly Saturated system
+
+## Tandem queueing system
+
+### Diverging systems
 
 
