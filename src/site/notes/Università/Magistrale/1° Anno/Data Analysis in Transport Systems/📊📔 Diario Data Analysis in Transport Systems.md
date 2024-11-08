@@ -31,7 +31,7 @@ LAB Session
 [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/03 - Computational Statistical Inference - DATS\|03 - Computational Statistical Inference - DATS]]
 - Contrast of hypothesis - Hypothesis testing
 	- Level of significance
-- Correlation between 2 numeric variables
+- Correlation between 2 numeric variables - $(Y,X)$
 	- Charts
 	- Numbers
 		- Pearson Correlation coefficient
@@ -39,7 +39,7 @@ LAB Session
 	- Test
 		- `cor.test(X ~ Y)` - Person's test
 		- `cor.test(X ~ Y, method = 'spearman')` - Person's test
-- Correlation between a numeric variable and a factor (non numeric variable)
+- Correlation between a numeric variable and a factor (non numeric variable) - $(Y,A)$
 	- Charts
 		- `boxplot(Y ~ A)` or just use `plot(Y ~ A)`
 	- Numbers
@@ -60,13 +60,14 @@ LAB Session
 			- j > 2
 				- Parametric - `barlett.test(Y~A)`
 				- Non-parametric - `fligner.test(Y~A)`
-- Correlation between 2 factors
+- Correlation between 2 factors - $(B,A)$
 	- Charts
 		- mosaic plot - `plot(B~A)` You get mosaic plot automatically if it's 2 factos
 	- Numbers
 		- Contingency tables - `table(A,B)` --> `prob.table((A,B), 1)` or `prob.table((A,B), 2)`
 	- Test
-		- $\chi^{2}$ test - `chisq.test(B~A)`
+		- Pearson's test on independence or $\chi^{2}$ test - `chisq.test(B~A)`
+
 
 
 
@@ -78,3 +79,15 @@ LAB Session
 [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/LabSess 3 - 2024-10-31 - Computational Statistical Inference - DATS\|LabSess 3 - 2024-10-31 - Computational Statistical Inference - DATS]]
 
 We practiced all the tools introduced in the class of [[_Giornaliera/2024-10-29\|2024-10-29]] into RStudio.
+
+
+# 📆  05-11-2024 - Tue
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/03 - Computational Statistical Inference - DATS\|03 - Computational Statistical Inference - DATS]]
+- `pariwise.t.test(Y,A)` - `pariwise.wilcox.test(Y~A)`
+- `library(FactoMineR)`
+	- `condes(df,'nb')` and `catdes(df,'nb')`
+- ExTheo_5nov2024.Rmd example
+- 

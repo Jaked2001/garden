@@ -28,7 +28,6 @@ Thursday: Lab in B1-102
 # ❗️Evaluation❗️
 
 
-
 ```ad-attention
 title: Evaluation dates
 
@@ -59,7 +58,7 @@ Practical lab exercises: 0,12 Ass0 + 0,44 Ass2 + 0,44 Ass3
 
 ### 🗣Assignment
 
-- [!] [[2024-11-06]] - Assgm 0 🔼 
+- [x] [[2024-11-06]] - Assgm 0 🔼 ✅ 2024-11-06
 - [!] [[2024-12-04]] - Assgm 2 🔼 
 - [!] [[2025-01-10]] - Assgm 3 🔼
 
@@ -75,6 +74,7 @@ Can work in group of 2. Even different groups for different assignment.
 
 2 blocks. If pass, none of this will be in the final
 
+Pen and paper test
 
 ### ✍️ Final Exam
 
@@ -108,9 +108,9 @@ ___
 
 ```tasks
 not done
-path includes Mobility Modeling/notes
-filter by function task.status.name === 'Question'
-group by path
+PATH INCLUDES Mobility Modeling/notes
+FILTER BY FUNCTION task.status.name === 'Question'
+SORT BY path
 ```
 
 

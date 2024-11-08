@@ -9,3 +9,7 @@
 
 Played the Beer Game
 
+
+# 📆  04-11-2024 - Mon
+
+Class cancelled due to weather.

@@ -5,7 +5,6 @@
 
 # [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/💼 Decision making & Economy in Urban Mobility\|💼 Decision making & Economy in Urban Mobility]]
 
-
 **🧑🏻‍🏫 Prof:** 
 - [[Alvar Garola\|Alvar Garola]]
 - [[Sergi Saurí\|Sergi Saurí]]
@@ -38,8 +37,8 @@ sort by description
 
 ## Evaluation Structure
 
-- [!] [[2024-11-15\|2024-11-15]] - P1 - Partial Exam 1 (35%)
-- [!] [[2025-01-17\|2025-01-17]] - P2 - Partial Exam 2 (35%)
+- [!] [[2024-11-15]] - P1 - Partial Exam 1 (35%)
+- [!] [[2025-01-17]] - P2 - Partial Exam 2 (35%)
 
 Workshop (30%)
 
@@ -89,10 +88,19 @@ Evaluate the case from a double perspective:
 ___
 | File                                                                                                                                                                                                | Tipo     | Stato       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------- |
-| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Workshop/Grand Paris Express Line 15 - DME\|Grand Paris Express Line 15 - DME]]                                      | Progetto | 🔴 Fare     |
+| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Workshop/Grand Paris Express Line 15 - DME.md\|Grand Paris Express Line 15 - DME]]                                      | Progetto | 🔴 Fare     |
 | [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME\|01 - Production and cost functions in transport - DME]] | T        | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME\|02 - Appraisal and Cost-Benefit Analysis - DME]]               | T        | 🪶 Scrivere |
 
 { .block-language-dataview}
+#### ❓ Questions
+
+```tasks
+not done
+PATH INCLUDES Decision Making & Economy in Urban Mobility
+FILTER BY FUNCTION task.status.name === 'Question'
+SORT BY path
+```
 
 
 ___
@@ -101,7 +109,8 @@ ___
 
 | File                                                                                                                                                                                                | Stato       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME\|01 - Production and cost functions in transport - DME]] | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME.md\|01 - Production and cost functions in transport - DME]] | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME.md\|02 - Appraisal and Cost-Benefit Analysis - DME]]               | 🪶 Scrivere |
 
 { .block-language-dataview}
 

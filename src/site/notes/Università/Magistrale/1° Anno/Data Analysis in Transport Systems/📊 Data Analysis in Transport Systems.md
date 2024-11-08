@@ -40,7 +40,7 @@ sort by description
 
 - Assgn 1 - IDA ($L_1$)
 - Assgn 2 - LR ($L_2$)
-- Midterm Exam [[2024-11-14\|2024-11-14]] ($F_1$)
+- Midterm Exam [[2024-11-14]] ($F_1$)
 - Final Exam (pen & paper) ($F_2$)
 
 ${\rm Final \,\,mark} = 0.65F + 0.35L$
@@ -49,18 +49,18 @@ ${\rm Final \,\,mark} = 0.65F + 0.35L$
 
 ### 🗣 Assignment 1
 
-- [!] [[2024-11-10\|2024-11-10]] - **Assgm 1** 🔼 
+- [!] [[2024-11-10]] - **Assgm 1** 🔼 
 
 We have a set of data generated from a distribution.
 We have to guess what distribution this sample is drown from.
 
 ### 🗣 Assignment 2
 
-- [!] [[2025-01-12\|2025-01-12]] - **Assgm 2** 🔼 
+- [!] [[2025-01-12]] - **Assgm 2** 🔼 
 
 ### ✍️ MidTerm Exam
 
-- [!] [[2024-11-14\|2024-11-14]] - **MidTerm** ⏫ 
+- [!] [[2024-11-14]] - **MidTerm** ⏫ 
 
 Laboratory test: have to use R
 
@@ -70,7 +70,7 @@ Have to turn in a pdf with answers of the exam.
 
 ### ✍️ Final Exam
 
-- [!] [[2025-01-14\|2025-01-14]] - **Final Exam** ⏫
+- [!] [[2025-01-14]] - **Final Exam** ⏫
 
 ## 💯 Grade
 
@@ -88,13 +88,23 @@ ___
 | File                                                                                                                                                                                                                             | Tipo | Stato       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Assgn/Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS\|Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS]] | Es   | 🟡 Finire   |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/LabSess 1 - 2024-10-03 - Introduction to RStudio - DATS\|LabSess 1 - 2024-10-03 - Introduction to RStudio - DATS]]                                   | Lab  | 🟠 Studiare |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/LabSess 3 - 2024-10-31 - Computational Statistical Inference - DATS\|LabSess 3 - 2024-10-31 - Computational Statistical Inference - DATS]]           | Lab  | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS\|02 - Exploratory Data Analysis - DATS]]                                                                       | T    | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.1 - Input Data Analysis - DATS\|02.1 - Input Data Analysis - DATS]]                                                                               | T    | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/03 - Computational Statistical Inference - DATS\|03 - Computational Statistical Inference - DATS]]                                                   | T    | 🪶 Scrivere |
 
 { .block-language-dataview}
+
+
+#### ❓ Questions
+
+```tasks
+not done
+PATH INCLUDES Data Analysis in Transport Systems
+FILTER BY FUNCTION task.status.name === 'Question'
+SORT BY path
+```
+
+
 
 
 ___
@@ -103,12 +113,11 @@ ___
 
 ## Contents
 
-
 | File                                                                                                                                                                           | Stato       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS\|02 - Exploratory Data Analysis - DATS]]                     | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.1 - Input Data Analysis - DATS\|02.1 - Input Data Analysis - DATS]]                             | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/03 - Computational Statistical Inference - DATS\|03 - Computational Statistical Inference - DATS]] | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS.md\|02 - Exploratory Data Analysis - DATS]]                     | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.1 - Input Data Analysis - DATS.md\|02.1 - Input Data Analysis - DATS]]                             | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/03 - Computational Statistical Inference - DATS.md\|03 - Computational Statistical Inference - DATS]] | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/Outlier\|Outlier]]                                                                                 | 🟢 Fatto    |
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/Shapiro Wilk test\|Shapiro Wilk test]]                                                             | 🟢 Fatto    |
 
@@ -149,6 +158,6 @@ ___
 
 | File                                                                                                                                                                                                                             | Stato     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Assgn/Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS\|Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS]] | 🟡 Finire |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Assgn/Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS.md\|Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS]] | 🟡 Finire |
 
 { .block-language-dataview}

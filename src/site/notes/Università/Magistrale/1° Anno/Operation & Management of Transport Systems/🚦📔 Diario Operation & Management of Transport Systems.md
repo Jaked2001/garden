@@ -41,3 +41,8 @@
 	- Oversaturated
 - Tandem Queues
 - Diverging systems
+
+
+# 📆  04-11-2024 - Mon
+
+No class due to weather conditions

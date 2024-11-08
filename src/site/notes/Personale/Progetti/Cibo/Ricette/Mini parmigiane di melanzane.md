@@ -11,7 +11,7 @@ Fonte: nonna
 
 x # unità
 
-- [ ] 1 [[Melanzana\|Melanzana]] intera
+- [ ] 1 [[Personale/Progetti/Cibo/Ingredienti/Melanzana\|Melanzana]] intera
 - [ ] 170 gr [[Personale/Progetti/Cibo/Ingredienti/Salsa di pomodoro\|Salsa di pomodoro]]
 - [ ] 2 [[Personale/Progetti/Cibo/Ingredienti/Mozzarella\|Mozzarella]]
 - [ ] q.b. [[Personale/Progetti/Cibo/Ingredienti/Sale\|Sale]]

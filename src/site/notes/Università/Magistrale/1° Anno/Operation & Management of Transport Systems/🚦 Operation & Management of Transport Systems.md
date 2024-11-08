@@ -142,9 +142,9 @@ ___
 
 ```tasks
 not done
-path includes Operation & Management of Transport Systems/notes
-filter by function task.status.name === 'Question'
-group by path
+PATH INCLUDES Operation & Management of Transport Systems/notes
+FILTER BY FUNCTION task.status.name === 'Question'
+SORT BY path
 ```
 
 

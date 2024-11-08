@@ -76,6 +76,17 @@ ___
 { .block-language-dataview}
 
 
+#### ❓ Questions
+
+```tasks
+not done
+path includes Innovation & Entrepreneurship for world challenges
+filter by function task.status.name === 'Question'
+SORT BY path
+```
+
+
+
 ___
 
 # 👉🏻 Course Index

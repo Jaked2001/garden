@@ -42,7 +42,7 @@ Projects presetnations.
 
 ### 📝 Theory
 
-[[02 - Appraisal and Cost-Benefit Analysis - DME\|02 - Appraisal and Cost-Benefit Analysis - DME]]
+[[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME\|02 - Appraisal and Cost-Benefit Analysis - DME]]
 - Appraisal
 	- Definition
 	- Why do it in Urban Mobility

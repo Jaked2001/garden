@@ -22,13 +22,16 @@
 October 28th: **Beer Game**  in  class **A1001**
 
 
-
 # ❗️Evaluation❗️
 
 ```ad-attention
 title: Evaluation dates
 
-[[2025-01-13]]: Final Exam (70%)
+```tasks
+not done
+path includes Introduction to Supply Chain
+filter by function task.status.name === 'Exam'
+sort by description
 
 ```
 
@@ -43,10 +46,14 @@ title: Evaluation dates
 
 ### ✍️ Final exam
 
+- [!] [[2025-01-13]] - ❗️ Final Exam ⏫ 
+
 Key concepts. no little details.
 - Difference between logistics and supply chain (example question)
 
-### Business case study
+### 🗣 Business case study
+
+- [!] Data undefined - BC Presentation 🔼 
 
 Max 6 people per group.
 Present 1 business case in class (20-25 min)
@@ -54,9 +61,6 @@ Present 1 business case in class (20-25 min)
 Every one has to read the business case.
 
 Presentation + questions 1 week in advance.
-
-### 🗣 Projects 
-
 
 
 ## 💯 Grade
@@ -69,11 +73,8 @@ Presentation + questions 1 week in advance.
 
 # ✔️ To-Do
 
-
-___
 | File                                                                                                                                                     | Tipo | Stato       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/02 - 7 eleven Japan - ISC\|02 - 7 eleven Japan - ISC]]                    | Es   | 🟢 Fatto    |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/03 - Procurement BC - ISC\|03 - Procurement BC - ISC]]                    | Es   | 🔴 Fare     |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC\|01 - Introduction to supply chain - ISC]] | T    | 🟠 Studiare |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/02 - Procurement and Planning - ISC\|02 - Procurement and Planning - ISC]]         | T    | 🟠 Studiare |
@@ -82,16 +83,28 @@ ___
 { .block-language-dataview}
 
 
+
+#### ❓ Questions
+
+```tasks
+not done
+PATH INCLUDES Introduction to Supply Chain/notes
+FILTER BY FUNCTION task.status.name === 'Question'
+SORT BY path
+```
+
+
+
 ___
+
 
 # 👉🏻 Course Index
 
-
 | File                                                                                                                                                     | Stato       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC\|01 - Introduction to supply chain - ISC]] | 🟠 Studiare |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/02 - Procurement and Planning - ISC\|02 - Procurement and Planning - ISC]]         | 🟠 Studiare |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/03 - Logistics - ISC\|03 - Logistics - ISC]]                                       | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC.md\|01 - Introduction to supply chain - ISC]] | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/02 - Procurement and Planning - ISC.md\|02 - Procurement and Planning - ISC]]         | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/03 - Logistics - ISC.md\|03 - Logistics - ISC]]                                       | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -106,7 +119,7 @@ ___
 | File                                                                                                                                  | Stato    |
 | ------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/02 - 7 eleven Japan - ISC\|02 - 7 eleven Japan - ISC]] | 🟢 Fatto |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/03 - Procurement BC - ISC\|03 - Procurement BC - ISC]] | 🔴 Fare  |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/03 - Procurement BC - ISC.md\|03 - Procurement BC - ISC]] | 🔴 Fare  |
 
 { .block-language-dataview}
 
