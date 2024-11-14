@@ -37,7 +37,7 @@ Class canceled for bad weather ⛈
 Updated calendar:
 - Assgm 0 due date moved to tomorrow [[_Giornaliera/2024-11-07\|2024-11-07]]
 - Tue [[_Giornaliera/2024-11-07\|2024-11-07]] - Theory (in A2-204)
-- Next Wed - [[2024-11-13\|2024-11-13]] - Lab (in A2-204)
+- Next Wed - [[_Giornaliera/2024-11-13\|2024-11-13]] - Lab (in A2-204)
 - Mid term moved one week later, to [[2024-11-27\|2024-11-27]]
 
 ### 📝 Theory
@@ -66,4 +66,21 @@ Finished problem P6 from [[_Giornaliera/2024-11-06\|2024-11-06]].
 - Case Study on traffic assignment problem
 - The Traffic Assignment problem
 	- Wardrop's equilibrium Principle
-	- User behavioural hypothesis
+	- User behavioral hypothesis
+
+# 📆  13-11-2024 - Wed
+
+### 📝 Theory
+
+[[02 - Congestion Modeling - MM\|02 - Congestion Modeling - MM]]
+- The Frank-Wolfe Algorithm: Define Beckmenn's problem then
+	- Pick a feasible solution (basically at random)
+	- Define subproblem
+	- Calculate stopping criteria
+	- Do Line search
+	- Go to next solution
+	- Repeat
+
+### ✏️ Projects
+
+- A look into [[Università/Magistrale/1° Anno/Mobility Modeling/Assgm - MM/Assgm 2 - The Beckmann's problem - MM\|Assgm 2 - The Beckmann's problem - MM]]

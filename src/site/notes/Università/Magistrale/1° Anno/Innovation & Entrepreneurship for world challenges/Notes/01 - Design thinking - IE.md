@@ -84,7 +84,7 @@ What's different in DT from classical designing:
 ## Design Thinking in the making
 
 
-[[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 2 -\|Challenge 2 -]]
+[[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 2 - Pedestrian un-safety caused by their distraction - IE\|Challenge 2 - Pedestrian un-safety caused by their distraction - IE]]
 
 ### Some tools for DT
 
@@ -115,7 +115,36 @@ One of the first thing to do is to focus on what are the **personas** and what i
 
 
 
-## Next steps
+[[4 - Session 4 - IE.pdf]]
+
+### Lotus Blossom
+
+![Schermata 2024-11-08 alle 11.18.21.png](/img/user/Schermata%202024-11-08%20alle%2011.18.21.png)
+
+- Make a central matrix of the topic (3x3)
+- Around the centre cell, put ideas related to it: things that need to be addressed
+- Expand each perimeter cell into an other matrix
+
+### Creative Matrix
+
+![Schermata 2024-11-08 alle 11.19.47.png](/img/user/Schermata%202024-11-08%20alle%2011.19.47.png)
+
+- Tool to generate ideas in a structured way, that fosters cross-pollination as we are looking to fill with ideas each cell where topics intersect
+- It’s often used with columns as categories related to people (e.g., personas, market segments...) and the rows as categories for enabling solutions (e.g., technologies, environments...)
+- Is not intended to be limited to one single idea per cell, and participants can take advantage of these “mashups” of categories to generate a wide range of concepts for each one 
+
+### Affinity Clustering
+
+![Schermata 2024-11-08 alle 11.21.10.png](/img/user/Schermata%202024-11-08%20alle%2011.21.10.png)
+
+- Method used to organize many ideas into groups with things in common
+- Useful to analyse large amounts of data and to discover hidden relationships
+- We can make use of headers, subheaders, clusters, arrows, etc… anything graphical aid that helps to see the bigger picture
+
+## More on discovery process
+
+
+
 
 
 

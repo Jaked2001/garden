@@ -130,6 +130,8 @@ ___
 
 | File                                                                                                                                                                                      | Tipo     | Stato       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------- |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Problems/Es 1 - Trajectories - OMT\|Es 1 - Trajectories - OMT]]                                            | Es       | 🟢 Fatto    |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Problems/Es 2 - Queuing processes - OMT\|Es 2 - Queuing processes - OMT]]                                  | Es       | 🟢 Fatto    |
 | [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Mini-Project/Mini Project - OMT.md\|Mini Project - OMT]]                                                      | Progetto | 🔴 Fare     |
 | [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/01 - Introduction to trajectories Analysis - OMT\|01 - Introduction to trajectories Analysis - OMT]] | T        | 🟢 Fatto    |
 | [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT\|02 - Fundamentals fo Queuing Theory - OMT]]               | T        | 🪶 Scrivere |
@@ -152,6 +154,7 @@ SORT BY path
 ___
 
 # 👉🏻 Indice del corso
+## Theory
 
 | File                                                                                                                                                                                      | Stato       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
@@ -170,6 +173,15 @@ ___
 
 [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Mini-Project/Mini Project - OMT\|Mini Project - OMT]]
 
-## Temi d'esame
+
+## Discussions
+
+| File                                                                                                                                                     | Stato    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Problems/Es 1 - Trajectories - OMT.md\|Es 1 - Trajectories - OMT]]           | 🟢 Fatto |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Problems/Es 2 - Queuing processes - OMT.md\|Es 2 - Queuing processes - OMT]] | 🟢 Fatto |
+
+{ .block-language-dataview}
+
 
 

@@ -362,8 +362,7 @@ Delay can be obtained as the horizontal distance in the $N-t$ diagram between th
 ![Average delay per costumer on N-t diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.23.15.excalidraw.png](/img/user/Excalidraw-2/Average%20delay%20per%20costumer%20on%20N-t%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2018.23.15.excalidraw.png)
 
 
-We define the area:
-$$
+We define the area:$$
 W_{2} \quad \rm[costumers]
 $$as the total delay collectively incurred by customers between $n_{i}$ and $n_{j}$.
 

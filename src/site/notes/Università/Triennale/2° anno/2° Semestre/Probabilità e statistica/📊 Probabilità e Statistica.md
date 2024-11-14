@@ -5,6 +5,7 @@
 
 
 # 📊 Probabilità e Statistica
+
 🧑🏻‍🏫 Prof: [[Mirko D'Ovidio\|Mirko D'Ovidio]]
 📔 Diario del corso: [[Università/Triennale/2° anno/2° Semestre/Probabilità e statistica/📊📔 Diario Probabilità e Statistica\|📊📔 Diario Probabilità e Statistica]]
 🌐 Sito Web: https://www.sbai.uniroma1.it/~mirko.dovidio/PGS/probStat.html

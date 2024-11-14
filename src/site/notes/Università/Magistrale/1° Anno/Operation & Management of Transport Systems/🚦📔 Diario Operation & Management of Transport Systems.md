@@ -46,3 +46,36 @@
 # 📆  04-11-2024 - Mon
 
 No class due to weather conditions
+
+
+# 📆  11-11-2024 - Mon
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT\|02 - Fundamentals fo Queuing Theory - OMT]]
+- Stochastic effects on queuing
+	- Calculate Average Accumulation
+	- Calculate Average Delay
+	- Intensity
+	- Relaxation time
+- Centralization effects
+	- Proof that centralized is more efficient than decentralized
+- Optimization concepts
+	- Decision variables
+	- Objective function
+	- Agency and User cost
+	- Examole
+- Psychology of waiting
+	- Equation of satisfaction
+	- How to affect Expectations and Perception
+
+
+
+
+# 📆  12-11-2024 - Tue
+
+### ✏️ Discussion
+
+Solution of [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Problems/Es 2 - Queuing processes - OMT\|Es 2 - Queuing processes - OMT]].
+
+

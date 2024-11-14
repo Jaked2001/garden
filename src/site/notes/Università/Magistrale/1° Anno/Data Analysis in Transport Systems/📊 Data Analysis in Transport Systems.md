@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/universita/magistrale/1-anno/data-analysis-in-transport-systems/data-analysis-in-transport-systems/","tags":["UNI"]}
 ---
 
-
+      
 # [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/📊 Data Analysis in Transport Systems\|📊 Data Analysis in Transport Systems]]
 
 
@@ -49,7 +49,7 @@ ${\rm Final \,\,mark} = 0.65F + 0.35L$
 
 ### 🗣 Assignment 1
 
-- [!] [[2024-11-10]] - **Assgm 1** 🔼 
+- [x] [[2024-11-10]] - **Assgm 1** 🔼 ✅ 2024-11-09
 
 We have a set of data generated from a distribution.
 We have to guess what distribution this sample is drown from.
@@ -60,7 +60,7 @@ We have to guess what distribution this sample is drown from.
 
 ### ✍️ MidTerm Exam
 
-- [!] [[2024-11-14]] - **MidTerm** ⏫ 
+- [!] [[2024-11-19]] - **MidTerm** ⏫ 
 
 Laboratory test: have to use R
 
@@ -85,12 +85,12 @@ Have to turn in a pdf with answers of the exam.
 
 ___
 
-| File                                                                                                                                                                                                                             | Tipo | Stato       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Assgn/Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS\|Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS]] | Es   | 🟡 Finire   |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS\|02 - Exploratory Data Analysis - DATS]]                                                                       | T    | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.1 - Input Data Analysis - DATS\|02.1 - Input Data Analysis - DATS]]                                                                               | T    | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/03 - Computational Statistical Inference - DATS\|03 - Computational Statistical Inference - DATS]]                                                   | T    | 🪶 Scrivere |
+| File                                                                                                                                                                           | Tipo | Stato       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- | ----------- |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/LabSess 2 - 2024-10-24 - - DATS\|LabSess 2 - 2024-10-24 - - DATS]]                                 | Lab  | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS\|02 - Exploratory Data Analysis - DATS]]                     | T    | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.1 - Input Data Analysis - DATS\|02.1 - Input Data Analysis - DATS]]                             | T    | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/03 - Computational Statistical Inference - DATS\|03 - Computational Statistical Inference - DATS]] | T    | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -111,7 +111,7 @@ ___
 
 # 👉🏻 Course Index
 
-## Contents
+## Theory
 
 | File                                                                                                                                                                           | Stato       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
@@ -151,13 +151,27 @@ Distributions we will see:
 - 1st assignment: Input Data Analysis (IDA) --> we are given some collection of numbers. We have to find which is the numerical distribution. We have to look into the different distributions.
 - 2nd assignment: About Topic 2
 
+## Lab Sessions
+
+| File                                                                                                                                                                                                                   | Stato       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/LabSess 1 - 2024-10-03 - Introduction to RStudio - DATS\|LabSess 1 - 2024-10-03 - Introduction to RStudio - DATS]]                         | 🟢 Fatto    |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/LabSess 2 - 2024-10-24 - - DATS.md\|LabSess 2 - 2024-10-24 - - DATS]]                                                                         | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/LabSess 3 - 2024-10-31 - Computational Statistical Inference - DATS\|LabSess 3 - 2024-10-31 - Computational Statistical Inference - DATS]] | 🟢 Fatto    |
+
+{ .block-language-dataview}
+
+
 ___
 
 
 ## ✍️ Esercitazioni
 
-| File                                                                                                                                                                                                                             | Stato     |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Assgn/Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS.md\|Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS]] | 🟡 Finire |
+| File                                                                                                                                                                                                                             | Stato    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Assgn/Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS\|Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS]] | 🟢 Fatto |
 
 { .block-language-dataview}
+
+## Past exams
+

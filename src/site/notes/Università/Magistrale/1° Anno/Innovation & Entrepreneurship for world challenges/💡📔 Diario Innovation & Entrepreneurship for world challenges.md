@@ -13,7 +13,7 @@
 
 ### ✏️ Projects
 
-- [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 2 -\|Challenge 2 -]]
+- [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 2 - Pedestrian un-safety caused by their distraction - IE\|Challenge 2 - Pedestrian un-safety caused by their distraction - IE]]
 	- Challenge presentation
 	- Persona definition
 	- Problem definition

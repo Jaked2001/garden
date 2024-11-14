@@ -74,3 +74,34 @@ Projects presetnations.
 # 📆  30-10-2024 - Wed
 
 Class canceled for bad weather ⛈
+
+
+# 📆  08-11-2024 - Fri
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME\|02 - Appraisal and Cost-Benefit Analysis - DME]]
+- Profitability indicator
+	- Net Present Value (NPV)
+	- IRR
+
+[[03 - Utility Demand function and Pricing - DME\|03 - Utility Demand function and Pricing - DME]]
+- Utility
+	- Definition
+	- Properties
+	- Examples (Cobb-Douglas,...)
+
+
+# 📆  13-11-2024 - Wed
+
+### 📝 Theory
+
+[[03 - Utility Demand function and Pricing - DME\|03 - Utility Demand function and Pricing - DME]]
+- Theory of election - max utility given a budget constraint
+- Cenni of the stochastic model for utility function
+- Demand function
+	- Factors that influence the demand: price of the good, price of other goods, income,...
+
+### ✏️ Projects
+
+

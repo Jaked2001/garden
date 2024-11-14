@@ -13,3 +13,18 @@ Played the Beer Game
 # 📆  04-11-2024 - Mon
 
 Class cancelled due to weather.
+
+
+# 📆  11-11-2024 - Mon
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/02.1 - Procurement - ISC\|02.1 - Procurement - ISC]]
+- Function of procurement
+- Supplier assessment and selection
+- Sourcing strategy
+- Risk assessment
+
+### ✏️ Projects
+
+[[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/03 - Procurement BC - ISC\|03 - Procurement BC - ISC]]

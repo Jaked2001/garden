@@ -95,6 +95,7 @@ ___
 
 | File                                                                                                                                                                      | Tipo | Stato       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/0 - Introduction to Mobility Modeling\|0 - Introduction to Mobility Modeling]]                                 | T    | 🟡 Finire   |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.1 - Network flows - MM\|01.1 - Network flows - MM]]                                                         | T    | 🟡 Finire   |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The min-cost flow problem - from slides - MM\|01.2 - The min-cost flow problem - from slides - MM]]     | T    | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The minimum cost flow problem - From book - MM\|01.2 - The minimum cost flow problem - From book - MM]] | T    | 🪶 Scrivere |
@@ -122,7 +123,7 @@ ___
 
 | File                                                                                                                                                                      | Stato       | dg-publish |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------- |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/0 - Introduction to Mobility Modeling\|0 - Introduction to Mobility Modeling]]                                 | 🟠 Studiare | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/0 - Introduction to Mobility Modeling.md\|0 - Introduction to Mobility Modeling]]                                 | 🟡 Finire   | true       |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/00 - Graph - MM\|00 - Graph - MM]]                                                                             | 🟠 Studiare | true       |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.1 - Network flows - MM.md\|01.1 - Network flows - MM]]                                                         | 🟡 Finire   | true       |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The min-cost flow problem - from slides - MM.md\|01.2 - The min-cost flow problem - from slides - MM]]     | 🪶 Scrivere | true       |
@@ -140,7 +141,7 @@ ___
 
 | File                                                                                                                                           | Stato    | dg-publish |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------- |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Assgm - MM/Assgm 0 - Introductory Excercise - MM\|Assgm 0 - Introductory Excercise - MM]] | 🟢 Fatto | false      |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Assgm - MM/Assgm 0 - Introductory Excercise - MM\|Assgm 0 - Introductory Excercise - MM]] | 🟢 Fatto | true       |
 
 { .block-language-dataview}
 

@@ -90,4 +90,10 @@ We practiced all the tools introduced in the class of [[_Giornaliera/2024-10-29\
 - `library(FactoMineR)`
 	- `condes(df,'nb')` and `catdes(df,'nb')`
 - ExTheo_5nov2024.Rmd example
-- 
+
+
+# 📆  12-11-2024 - Tue
+
+Preparation for Midterm.
+Work in class on Midterm 2023-2024.
+
