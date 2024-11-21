@@ -2,5 +2,5 @@
 {"dg-publish":true,"permalink":"/triangular-distribution/"}
 ---
 
-# [[Normal distribution\|Normal distribution]]
+# [[Triangular Distribution\|Triangular Distribution]]
 

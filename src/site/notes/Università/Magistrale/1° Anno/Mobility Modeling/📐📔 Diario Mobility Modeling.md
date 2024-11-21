@@ -84,3 +84,20 @@ Finished problem P6 from [[_Giornaliera/2024-11-06\|2024-11-06]].
 ### ✏️ Projects
 
 - A look into [[Università/Magistrale/1° Anno/Mobility Modeling/Assgm - MM/Assgm 2 - The Beckmann's problem - MM\|Assgm 2 - The Beckmann's problem - MM]]
+
+
+# 📆  20-11-2024 - Wed
+
+### 📝 Theory
+
+[[02 - Congestion Modeling - MM\|02 - Congestion Modeling - MM]]
+
+### ✏️ Problems
+
+Preparation for Partial. Problem 2 in:
+- Final 23-24
+- Final 22-23
+- Final 21-22
+
+
+

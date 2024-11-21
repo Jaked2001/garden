@@ -2,5 +2,5 @@
 {"dg-publish":true,"permalink":"/erlang-k-distribution/"}
 ---
 
-# [[Normal distribution\|Normal distribution]]
+# [[Erlang k Distribution\|Erlang k Distribution]]
 

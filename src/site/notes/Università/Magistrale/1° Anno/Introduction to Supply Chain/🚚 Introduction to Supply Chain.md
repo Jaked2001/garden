@@ -122,6 +122,7 @@ ___
 | ------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/02 - 7 eleven Japan - ISC\|02 - 7 eleven Japan - ISC]] | 🟢 Fatto    |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/03 - Procurement BC - ISC.md\|03 - Procurement BC - ISC]] | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/04 - Benihana - BC - ISC\|04 - Benihana - BC - ISC]]   | 🟢 Fatto    |
 
 { .block-language-dataview}
 

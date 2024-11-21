@@ -2,5 +2,5 @@
 {"dg-publish":true,"permalink":"/logistic-distribution/"}
 ---
 
-# [[Normal distribution\|Normal distribution]]
+# [[Logistic distribution\|Logistic distribution]]
 

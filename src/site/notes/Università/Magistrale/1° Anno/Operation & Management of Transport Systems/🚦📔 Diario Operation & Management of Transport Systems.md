@@ -79,3 +79,14 @@ No class due to weather conditions
 Solution of [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Problems/Es 2 - Queuing processes - OMT\|Es 2 - Queuing processes - OMT]].
 
 
+# 📆  18-11-2024 - Mon
+
+- Graded Assgm #2
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT\|02 - Fundamentals fo Queuing Theory - OMT]]
+- Simulating a queue
+	- [[Poisson Distribution\|Poisson Distribution]]
+	- Neg-exponential
+	- Inverse CDF method
+	- 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/universita/magistrale/1-anno/data-analysis-in-transport-systems/data-analysis-in-transport-systems/","tags":["UNI"]}
 ---
 
-      
+
 # [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/📊 Data Analysis in Transport Systems\|📊 Data Analysis in Transport Systems]]
 
 
@@ -12,8 +12,16 @@
 **🌐 WebSite:** 
 
 **📚 Books:**
-- Fox, John. 3rd. Los Angeles: SAGE, Applied Regression Analysis and Generalized Linear Models. 2016. ISBN 9781452205663.
-- Fox, John ; Weisber, Sanford. 3rd ed. Thousand Oaks, An R Companion to Applied Regression. California: SAGE, 2019. ISBN 9781544336473.
+- Fox, John. 3rd. Los Angeles: SAGE, **Applied Regression Analysis and Generalized Linear Models.** 2016. ISBN 9781452205663.
+- Fox, John ; Weisber, Sanford. 3rd ed. Thousand Oaks, **An R Companion to Applied Regression.** California: SAGE, 2019. ISBN 9781544336473.
+- F. Husson, S. Lê & J. Pagès 2017 (2nd edition) **Exploratory Multivariate Data Analysis by Example Using R** Chapman & Hall/CRC Computer Science & Data Analysis [See more: table of contents, datasets, reviews](http://factominer.free.fr/bookV2/index.html)
+- factominer book < husson, http://factominer.free.fr/
+
+A book that may actually be useful (in Italian):
+- [[Dispensa di Analisi dei Dati - Stefano Bussolon.pdf]]
+
+
+
 
 **🅿️ Program:** [[1.1 - Data Analysis in Transport Systems - M5.pdf]]
 **🔑 Atenea:** https://atenea.upc.edu/course/search.php 250MUM013 - DATS2425
@@ -60,12 +68,11 @@ We have to guess what distribution this sample is drown from.
 
 ### ✍️ MidTerm Exam
 
-- [!] [[2024-11-19]] - **MidTerm** ⏫ 
+- [x] [[2024-11-19]] - **MidTerm** ⏫ ✅ 2024-11-20
 
 Laboratory test: have to use R
 
 We'll get a data frame, a list of questions and we have to use what we have learned in the first 2 topics to discuss the outputs.
-
 Have to turn in a pdf with answers of the exam.
 
 ### ✍️ Final Exam
@@ -82,7 +89,6 @@ Have to turn in a pdf with answers of the exam.
 
 # ✔️ To-Do
 
-
 ___
 
 | File                                                                                                                                                                           | Tipo | Stato       |
@@ -90,6 +96,7 @@ ___
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/LabSess 2 - 2024-10-24 - - DATS\|LabSess 2 - 2024-10-24 - - DATS]]                                 | Lab  | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS\|02 - Exploratory Data Analysis - DATS]]                     | T    | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.1 - Input Data Analysis - DATS\|02.1 - Input Data Analysis - DATS]]                             | T    | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.2 - Missing Data Treatment - DATS\|02.2 - Missing Data Treatment - DATS]]                       | T    | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/03 - Computational Statistical Inference - DATS\|03 - Computational Statistical Inference - DATS]] | T    | 🪶 Scrivere |
 
 { .block-language-dataview}
@@ -117,6 +124,7 @@ ___
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS.md\|02 - Exploratory Data Analysis - DATS]]                     | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.1 - Input Data Analysis - DATS.md\|02.1 - Input Data Analysis - DATS]]                             | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.2 - Missing Data Treatment - DATS.md\|02.2 - Missing Data Treatment - DATS]]                       | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/03 - Computational Statistical Inference - DATS.md\|03 - Computational Statistical Inference - DATS]] | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/Outlier\|Outlier]]                                                                                 | 🟢 Fatto    |
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/Shapiro Wilk test\|Shapiro Wilk test]]                                                             | 🟢 Fatto    |
@@ -140,7 +148,7 @@ Distributions we will see:
 - Normal
 - Logistic
 - Gumbel
-- Exponantial
+- Exponential
 - Wibull, Gramen???
 - Discrete:
 	- Bernoulli
@@ -175,3 +183,8 @@ ___
 
 ## Past exams
 
+| File                                                                                                               | Stato    |
+| ------------------------------------------------------------------------------------------------------------------ | -------- |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Exams/MT 2023-24 - DATS\|MT 2023-24 - DATS]] | 🟢 Fatto |
+
+{ .block-language-dataview}

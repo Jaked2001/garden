@@ -2,5 +2,5 @@
 {"dg-publish":true,"permalink":"/gamma-distribution/"}
 ---
 
-# [[Normal distribution\|Normal distribution]]
+# [[Gamma Distribution\|Gamma Distribution]]
 

@@ -19,3 +19,9 @@
 	- Problem definition
 	- Solution ideas
 
+
+
+# 📆  15-11-2024 - Fri
+
+[[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/05 - Session 5 - IE\|05 - Session 5 - IE]]
+

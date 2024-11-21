@@ -97,3 +97,14 @@ We practiced all the tools introduced in the class of [[_Giornaliera/2024-10-29\
 Preparation for Midterm.
 Work in class on Midterm 2023-2024.
 
+
+# 📆  14-11-2024 - Thu
+
+- Preparation for Midterm.
+	- Work in class on Midterm 2023-2024.
+- Kyoto data analysis
+
+
+# 📆  19-11-2024 - Tue
+
+Midterm exam!

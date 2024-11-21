@@ -4,7 +4,7 @@
 
 # [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/Shapiro Wilk test\|Shapiro Wilk test]]
 
-The **Shapiro-Wilr test** checks if data is normally distributed
+The **Shapiro-Wilr test** checks if data is [[Normal distribution\|normally distributed]]
 
 The hp is:
 - H0 = "data is normally distributed"

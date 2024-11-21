@@ -74,6 +74,7 @@ ___
 | [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 3 - ??? - IE\|Challenge 3 - ??? - IE]]                                                                                           | Es   | 🔴 Fare     |
 | [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/01 - Design thinking - IE\|01 - Design thinking - IE]]                                                                                          | T    | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/04 - Session 4 - IE\|04 - Session 4 - IE]]                                                                                                      | T    | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/05 - Session 5 - IE\|05 - Session 5 - IE]]                                                                                                      | T    | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -98,6 +99,7 @@ ___
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/01 - Design thinking - IE\|01 - Design thinking - IE]] | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/04 - Session 4 - IE\|04 - Session 4 - IE]]             | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/05 - Session 5 - IE\|05 - Session 5 - IE]]             | 🪶 Scrivere |
 
 { .block-language-dataview}
 

@@ -85,7 +85,7 @@ Class canceled for bad weather ⛈
 	- Net Present Value (NPV)
 	- IRR
 
-[[03 - Utility Demand function and Pricing - DME\|03 - Utility Demand function and Pricing - DME]]
+[[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME\|03 - Utility Demand function and Pricing - DME]]
 - Utility
 	- Definition
 	- Properties
@@ -96,12 +96,33 @@ Class canceled for bad weather ⛈
 
 ### 📝 Theory
 
-[[03 - Utility Demand function and Pricing - DME\|03 - Utility Demand function and Pricing - DME]]
+[[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME\|03 - Utility Demand function and Pricing - DME]]
 - Theory of election - max utility given a budget constraint
 - Cenni of the stochastic model for utility function
 - Demand function
 	- Factors that influence the demand: price of the good, price of other goods, income,...
 
 ### ✏️ Projects
+
+Group work on [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Workshop/Workshop - DME\|Workshop - DME]] + chance to ask questions.
+
+# 📆  15-11-2024 - Fri
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME\|03 - Utility Demand function and Pricing - DME]]
+- Social welfare
+	- Consumer surplus
+	- Producer surplus
+- Theory of pricing
+	- Introduction
+		- Price = marginal cost and problems with this approach
+	- Generalized price of users
+	- Calculating the social welfare
+	- Maximizing social welfare
+		- Derivative in users
+		- Derivative in capital/capacity
+	- Pricing without congestion
+
 
 
