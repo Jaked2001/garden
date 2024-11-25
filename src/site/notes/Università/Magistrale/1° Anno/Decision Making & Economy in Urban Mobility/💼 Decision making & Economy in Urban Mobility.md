@@ -37,7 +37,7 @@ sort by description
 
 ## Evaluation Structure
 
-- [!] [[2024-11-29]] - P1 - **Partial Exam 1** (35%)
+- [!] [[2024-12-04]] - P1 - **Partial Exam 1** (35%)
 - [!] [[2025-01-17]] - P2 - **Partial Exam 2** (35%)
 
 Workshop (30%)

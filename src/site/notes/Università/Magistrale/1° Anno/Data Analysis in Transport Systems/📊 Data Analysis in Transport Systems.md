@@ -21,8 +21,6 @@ A book that may actually be useful (in Italian):
 - [[Dispensa di Analisi dei Dati - Stefano Bussolon.pdf]]
 
 
-
-
 **🅿️ Program:** [[1.1 - Data Analysis in Transport Systems - M5.pdf]]
 **🔑 Atenea:** https://atenea.upc.edu/course/search.php 250MUM013 - DATS2425
 
@@ -81,10 +79,14 @@ Have to turn in a pdf with answers of the exam.
 
 ## 💯 Grade
 
-| Parte       | Data           | Voto |
-| ----------- | -------------- | ---- |
-| Scritto |  |  |
-| Orale       |  |     |
+| Parte     | Data           | Voto |
+| --------- | -------------- | ---- |
+| Assgm 1   | [[2024-11-10]] |      |
+| Midterm   | [[2024-11-19]] | 8.75 |
+| Assgm 2   | [[2025-01-12]] |      |
+| Final     | [[2025-01-14]] |      |
+| **Grade** |                |      |
+
 
 
 # ✔️ To-Do

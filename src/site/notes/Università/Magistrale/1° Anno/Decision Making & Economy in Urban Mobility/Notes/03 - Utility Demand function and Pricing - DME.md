@@ -4,5 +4,3 @@
 
 # [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME\|03 - Utility Demand function and Pricing - DME]]
 
-
-

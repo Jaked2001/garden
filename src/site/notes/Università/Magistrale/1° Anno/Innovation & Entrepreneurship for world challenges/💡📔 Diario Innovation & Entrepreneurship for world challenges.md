@@ -25,3 +25,9 @@
 
 [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/05 - Session 5 - IE\|05 - Session 5 - IE]]
 
+
+# 📆  22-11-2024 - Fri
+
+### 📝 Theory
+
+Seminar: [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/2024-11-22 - Urban Mobility Sustainability and Ethics\|2024-11-22 - Urban Mobility Sustainability and Ethics]]

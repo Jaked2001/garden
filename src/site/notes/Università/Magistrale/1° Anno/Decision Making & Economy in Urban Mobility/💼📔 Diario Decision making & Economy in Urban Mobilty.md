@@ -126,3 +126,21 @@ Group work on [[Università/Magistrale/1° Anno/Decision Making & Economy in Urb
 
 
 
+
+
+
+# 📆  22-11-2024 - Fri
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME\|03 - Utility Demand function and Pricing - DME]]
+- Price discrimination strategies (vd. Discriminazione di prezzo)
+	- Price discrimination degree
+		- 1st: Entire Consumer Surplus
+		- 2nd: Self-selection
+		- 3rd: Signal
+	- Perfect price discrimination
+	- Inverse elasticity rule
+	- Road Pricing
+	- Parking pricing
+
