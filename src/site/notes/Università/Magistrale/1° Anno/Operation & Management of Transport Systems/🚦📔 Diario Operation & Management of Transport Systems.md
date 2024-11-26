@@ -89,4 +89,23 @@ Solution of [[Università/Magistrale/1° Anno/Operation & Management of Transpor
 	- [[Poisson Distribution\|Poisson Distribution]]
 	- Neg-exponential
 	- Inverse CDF method
-	- 
+
+
+# 📆  25-11-2024 - Mon
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT\|03 - Fundamentals of traffic flow modeling - OMT]]
+- Difference between macro and micro models
+- Some micro-modeling softwares: [[AIMSUM\|AIMSUM]], [[VISSIM\|VISSIM]], [[PARAMICS\|PARAMICS]], [[SUMO\|SUMO]]
+- https://youtu.be/Fn3HMAaEfcQ?si=UQdxxqI4lucmYSO-
+- LWR traffic flow theory
+	- Postulates
+		- Conservation of vehicles
+			- Velocity of an interphase
+			- Moving observer
+		- Existence of Equation of state
+	- Traffic diagrams
+
+
+### ✏️ Projects

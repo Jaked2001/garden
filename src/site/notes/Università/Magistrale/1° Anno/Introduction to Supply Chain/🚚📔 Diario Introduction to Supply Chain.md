@@ -45,3 +45,12 @@ Class cancelled due to weather.
 
 [[04 - Benihana - ISC\|04 - Benihana - ISC]]
 
+
+# 📆  25-11-2024 - Mon
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/03 - Logistics - ISC\|03 - Logistics - ISC]]
+- Outsourcing
+[[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/05 - Supply Chain Design and Operation Strategy - ISC\|05 - Supply Chain Design and Operation Strategy - ISC]]
+- Components of a supply chain strategy

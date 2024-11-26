@@ -95,17 +95,18 @@ Pen and paper test.
 
 ___
 
-| File                                                                                                                                                                      | Tipo | Stato         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------- |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Assgm - MM/Assgm 2 - Traffic Assignment problem - MM\|Assgm 2 - Traffic Assignment problem - MM]]                    | Es   | 🔴 Fare       |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Problems/P01 - Min-cost problems and SIMPLEX method - MM\|P01 - Min-cost problems and SIMPLEX method - MM]]          | Es   | 🔴 Fare       |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/0 - Introduction to Mobility Modeling\|0 - Introduction to Mobility Modeling]]                                 | T    | 🟡 Finire     |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.1 - Network flows - MM\|01.1 - Network flows - MM]]                                                         | T    | 🟡 Finire     |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The min-cost flow problem - from slides - MM\|01.2 - The min-cost flow problem - from slides - MM]]     | T    | 🪶 Scrivere   |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The minimum cost flow problem - From book - MM\|01.2 - The minimum cost flow problem - From book - MM]] | T    | 🪶 Scrivere   |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/02 - Traffic Assignment Problem - MM\|02 - Traffic Assignment Problem - MM]]                                   | T    | 🪶🟡 Scrivere |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/LAB - AMPL/Lab 1 - Introduction to AMPL\|Lab 1 - Introduction to AMPL]]                                              | T    | 🪶 Scrivere   |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/The SIMPLEX Method\|The SIMPLEX Method]]                                                                       | T    | 🪶 Scrivere   |
+| File                                                                                                                                                                      | Tipo  | Stato       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ----------- |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Assgm - MM/Assgm 2 - Traffic Assignment problem - MM\|Assgm 2 - Traffic Assignment problem - MM]]                    | Es    | 🔴 Fare     |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Problems/P01 - Min-cost problems and SIMPLEX method - MM\|P01 - Min-cost problems and SIMPLEX method - MM]]          | Es    | 🔴 Fare     |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Past Exams/2020 - Final Exam - MM 1\|2020 - Final Exam - MM 1]]                                                      | Esame | 🔴 Fare     |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Past Exams/2021 - Final Exam - MM\|2021 - Final Exam - MM]]                                                          | Esame | 🔴 Fare     |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/0 - Introduction to Mobility Modeling\|0 - Introduction to Mobility Modeling]]                                 | T     | 🟡 Finire   |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.1 - Network flows - MM\|01.1 - Network flows - MM]]                                                         | T     | 🟡 Finire   |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The min-cost flow problem - from slides - MM\|01.2 - The min-cost flow problem - from slides - MM]]     | T     | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The minimum cost flow problem - From book - MM\|01.2 - The minimum cost flow problem - From book - MM]] | T     | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/LAB - AMPL/Lab 1 - Introduction to AMPL\|Lab 1 - Introduction to AMPL]]                                              | T     | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/The SIMPLEX Method\|The SIMPLEX Method]]                                                                       | T     | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -125,16 +126,16 @@ ___
 
 # 👉🏻 Course Index
 
-| File                                                                                                                                                                      | Stato         | dg-publish |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ---------- |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/0 - Introduction to Mobility Modeling.md\|0 - Introduction to Mobility Modeling]]                                 | 🟡 Finire     | true       |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/00 - Graph - MM\|00 - Graph - MM]]                                                                             | 🟠 Studiare   | true       |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.1 - Network flows - MM.md\|01.1 - Network flows - MM]]                                                         | 🟡 Finire     | true       |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The min-cost flow problem - from slides - MM.md\|01.2 - The min-cost flow problem - from slides - MM]]     | 🪶 Scrivere   | true       |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The minimum cost flow problem - From book - MM.md\|01.2 - The minimum cost flow problem - From book - MM]] | 🪶 Scrivere   | true       |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/02 - Traffic Assignment Problem - MM.md\|02 - Traffic Assignment Problem - MM]]                                   | 🪶🟡 Scrivere | true       |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/LAB - AMPL/Lab 1 - Introduction to AMPL.md\|Lab 1 - Introduction to AMPL]]                                              | 🪶 Scrivere   | true       |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/The SIMPLEX Method.md\|The SIMPLEX Method]]                                                                       | 🪶 Scrivere   | \-         |
+| File                                                                                                                                                                      | Stato       | dg-publish |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------- |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/0 - Introduction to Mobility Modeling.md\|0 - Introduction to Mobility Modeling]]                                 | 🟡 Finire   | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/00 - Graph - MM\|00 - Graph - MM]]                                                                             | 🟠 Studiare | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.1 - Network flows - MM.md\|01.1 - Network flows - MM]]                                                         | 🟡 Finire   | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The min-cost flow problem - from slides - MM.md\|01.2 - The min-cost flow problem - from slides - MM]]     | 🪶 Scrivere | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The minimum cost flow problem - From book - MM.md\|01.2 - The minimum cost flow problem - From book - MM]] | 🪶 Scrivere | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/02 - Traffic Assignment Problem - MM\|02 - Traffic Assignment Problem - MM]]                                   | 🟢 Fatto    | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/LAB - AMPL/Lab 1 - Introduction to AMPL.md\|Lab 1 - Introduction to AMPL]]                                              | 🪶 Scrivere | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/The SIMPLEX Method.md\|The SIMPLEX Method]]                                                                       | 🪶 Scrivere | \-         |
 
 { .block-language-dataview}
 
@@ -160,10 +161,12 @@ ___
 ## Past exams
 
 
-| File                                                                                                             | Stato    | dg-publish |
-| ---------------------------------------------------------------------------------------------------------------- | -------- | ---------- |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Past Exams/2022 - Final Exam - MM\|2022 - Final Exam - MM]] | 🟢 Fatto | true       |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Past Exams/2023 - Final Exam - MM\|2023 - Final Exam - MM]] | 🟢 Fatto | true       |
+| File                                                                                                                 | Stato    | dg-publish |
+| -------------------------------------------------------------------------------------------------------------------- | -------- | ---------- |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Past Exams/2020 - Final Exam - MM 1.md\|2020 - Final Exam - MM 1]] | 🔴 Fare  | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Past Exams/2021 - Final Exam - MM.md\|2021 - Final Exam - MM]]     | 🔴 Fare  | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Past Exams/2022 - Final Exam - MM\|2022 - Final Exam - MM]]     | 🟢 Fatto | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Past Exams/2023 - Final Exam - MM\|2023 - Final Exam - MM]]     | 🟢 Fatto | true       |
 
 { .block-language-dataview}
 

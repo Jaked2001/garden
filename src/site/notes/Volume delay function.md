@@ -12,7 +12,7 @@ s(x) = f(x)
 $$
 and it's equal to the cost of $x$ users to use the link.
 
-![Volume delay function 2024-11-24 12.01.46.excalidraw.png](/img/user/Allegati/Volume%20delay%20function%202024-11-24%2012.01.46.excalidraw.png)
+![Volume delay function 2024-11-24 12.01.46.excalidraw.png](/img/user/allegati/Volume%20delay%20function%202024-11-24%2012.01.46.excalidraw.png)
 
 
 Each user $x_{i}$ that enters the link experiences a new cost $s(x_{i})$. The cumulative cost experienced by all users would be:

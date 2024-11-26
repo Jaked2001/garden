@@ -313,6 +313,8 @@ Things needed in CS
 - excellence communication and proactivity
 
 
+# Outsourcing
+
 
 
 

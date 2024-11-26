@@ -34,7 +34,7 @@ The Frank-Wolfe method works generating a new problem, called a subproblem. This
 
 In order to define the new problem, we first need to find the [[Gradient\|Gradient]] of $f(\mathbf{x})$. Then, the subproblem is:
 $$
-\min_{\mathbf{y}} \boldsymbol{\nabla f}(\mathbf{x}^{(k)})^T \cdot \mathbf{y}
+\min_{\mathbf{y}} \boldsymbol{\nabla f}\left(\mathbf{x}^{(k)} \right)^T \cdot \mathbf{y}
 $$
 subj to:
 $$
@@ -55,7 +55,7 @@ We need some sort of stopping criteria to know if the solution $\mathbf{x}^{(k)}
 
 We calculate a relative gap, $r$ as
 $$
-r = - \frac{\mathbf{\nabla f}(\mathbf{x}^{(k)})^{T} \cdot \mathbf{d}^{(k)} }{\mathbf{\nabla f}(\mathbf{x}^{(k)})^{T} \cdot \mathbf{x}^{(k)}}
+r = - \frac{\mathbf{\nabla f} \left(\mathbf{x}^{(k)} \right)^{T} \cdot \mathbf{d}^{(k)} }{\mathbf{\nabla f} \left(\mathbf{x}^{(k)} \right)^{T} \cdot \mathbf{x}^{(k)}}
 $$
 
 We define a relative gap that we find suitable. This is going to be a very small value, $\varepsilon$ ($= 10^{-2}, 10^{-4},...$)
