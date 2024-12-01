@@ -165,7 +165,9 @@ $
 
 ### 1. [[Università/Triennale/2° anno/2° Semestre/Analisi Numerica/Appunti/01. Introduzione ai metodi numerici\|Introduzione ai metodi numerici]]
 
+
 ### 2. [[Università/Triennale/2° anno/2° Semestre/Analisi Numerica/Appunti/02. Richiami di algebra lineare\|Richiami di algebra lineare]]
+
 
 ### 3. [[Università/Triennale/2° anno/2° Semestre/Analisi Numerica/Appunti/03. Equazioni non lineari\|Equazioni non lineari]]
 #### 3.1 [[Università/Triennale/2° anno/2° Semestre/Analisi Numerica/Appunti/03.1 Metodo di Bisezione\|Il metodo di Bisezione]]

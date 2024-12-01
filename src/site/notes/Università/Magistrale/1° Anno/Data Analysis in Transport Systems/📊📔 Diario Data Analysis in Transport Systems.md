@@ -108,3 +108,19 @@ Work in class on Midterm 2023-2024.
 # 📆  19-11-2024 - Tue
 
 Midterm exam!
+
+
+# 📆  26-11-2024 - Tue
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/04 - Statistical modeling through regression - DATS\|04 - Statistical modeling through regression - DATS]]
+- Linear models
+	- Least square method
+
+
+# 📆  28-11-2024 - Thu
+
+### 📝 Theory
+
+Lab session

@@ -4,10 +4,13 @@
 
 # [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME\|01 - Production and cost functions in transport - DME]]
 
+```table-of-contents
+```
+
 ## Production function
 
 ![01 - Production and cost functions in transport - DME 2024-11-04 19.24.54.excalidraw.png](/img/user/Excalidraw-2/01%20-%20Production%20and%20cost%20functions%20in%20transport%20-%20DME%202024-11-04%2019.24.54.excalidraw.png)
-
+%%[[01 - Production and cost functions in transport - DME 2024-11-04 19.24.54.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
 ```ad-Definizione
 title: Production function ($x$)
@@ -47,30 +50,27 @@ $
 
 ```
 
-
 ### Characteristics
 
 Usually, a [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Production function\|#Production function]] tends to have the following characteristics:
-- [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Monotony of a production function\|Monotony]]
-- [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Convexity of a production function\|Convexity]]
+- [[#Monotony of a production function|Monotony]]
+- [[#Convexity of a production function|Convexity]]
 
 #### Monotony of a production function
 
 ```ad-Teo
 title: Monotony of the Production function
 
-The [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Production function\|#Production function]] increases when the labor or the capital increases, or, at the very least, it does not increase. It NEVER decreases.
+The [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Production function\|#Production function]] increases when the labor or the capital increases, or, at the very least, it stays constant. It NEVER decreases.
 $
 \frac{\partial x}{\partial L} \ge 0 \qquad \frac{\partial x}{\partial K} \ge 0 
 $
 ```
 
-
-
 #### Convexity of a production function
 
 ```ad-Teo
-title: Convexity of the [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Production function\|#Production function]]
+title: Convexity of the [[#Production function]]
 
 The product $X$ grows *slower and slower* as the Labor or the Capital keep increasing.
 
@@ -80,48 +80,59 @@ $
 
 ```
 
-
 ### Iso-production curves
 
-They show what are the admissible combinations of labor and capital for a given value of the [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Production function\|#Production function]].
+They show what are the admissible combinations of labor and capital for a given value of the [[#Production function]].
 
 ![Iso-production curves - 01 - Production and cost functions in transport - DME 2024-11-04 19.45.12.excalidraw.png](/img/user/Excalidraw-2/Iso-production%20curves%20-%2001%20-%20Production%20and%20cost%20functions%20in%20transport%20-%20DME%202024-11-04%2019.45.12.excalidraw.png)
-
+%%[[Iso-production curves - 01 - Production and cost functions in transport - DME 2024-11-04 19.45.12.excalidraw|🖋 Edit in Excalidraw]]%%
 
 ### Diminishing return law
 
-Assuming a production function x=f(K,L), if ΔL (or Δk) and K is constant (or L), then productivity increases proportionally more than the productive factor until at a level upon which the productivity diminishes.
+Assuming a production function $x=f(K,L)$, if $ΔL$ (or $Δk$) and $K$ is constant (or $L$), then productivity increases proportionally more than the productive factor until at a level upon which the productivity diminishes.
 
 ![Schermata 2024-11-04 alle 20.55.51.png](/img/user/Schermata%202024-11-04%20alle%2020.55.51.png)
 
 ### Return to scale
 
-Return to scale is the concept of relating how fast the [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Production function\|#Production function]] increases with the increase of the inputs:
+Return to scale is the concept of relating how fast the [[#Production function]] increases with the increase of the inputs:
+- [[#Increasing return to scale]]
+- [[#Constant return to scale]]
+- [[#Reducing return to scale]]
+
 
 #### Increasing return to scale
 
-We have an **increasing return to scale** when the [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Production function\|#Production function]] increases *more than proportionally* with the inputs.
+We have an **increasing return to scale** when the [[#Production function]] increases *more than proportionally* with the inputs.
+
+- [x] Does that means that $x$ increases more than linearly? How can a function grow more than linearly and still be convex? ✅ 2024-11-29
+	- [ ] Yes, but not indefinitly. For example, $\ln(x)$ grows quicker than $x$ up to a point.
+
+Keeping in mind that the production function is [[Homogenous Function]] (like the cost function), we have in creasing return to scale if:
+$$
+x = f(\lambda K, \lambda L) = \lambda ^{s} f(K,L) \qquad s>1
+$$
 
 #### Constant return to scale
 
-We have a **constant return to scale** when the [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Production function\|#Production function]] increases *proportionally* with the inputs.
+We have a **constant return to scale** when the [[#Production function]] increases *proportionally* with the inputs.
 
 #### Reducing return to scale
 
-We have a **reducing return to scale** when the [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Production function\|#Production function]] increases *less than proportionally* with the inputs.
+We have a **reducing return to scale** when the [[#Production function]] increases *less than proportionally* with the inputs.
 
-### Types of function
+### Types of production function
 
-There are a few [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Iso-production curves\|#Iso-production curves]] that are often used in the field:
-- [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Cobb-Douglas\|#Cobb-Douglas]]
-- [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Leontief\|#Leontief]]
+There are a few [[#Iso-production curves]] that are often used in the field:
+- [[#Cobb-Douglas]]
+- [[#Leontief]]
 
 #### Cobb-Douglas
 
 ![Cobb-Douglas - 01 - Production and cost functions in transport - DME 2024-11-04 21.04.33.excalidraw.png](/img/user/Excalidraw-2/Cobb-Douglas%20-%2001%20-%20Production%20and%20cost%20functions%20in%20transport%20-%20DME%202024-11-04%2021.04.33.excalidraw.png)
+%%[[Cobb-Douglas - 01 - Production and cost functions in transport - DME 2024-11-04 21.04.33.excalidraw|🖋 Edit in Excalidraw]]%%
 
-
-The **Cobb-Douglas** [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Iso-production curves\|#Iso-production curves]] has the following equation for the [[#Production function]]
+The **Cobb-Douglas** [[#Iso-production curves]] has the following equation for the [[#Production function]]
 $$
 f(K,L) = x = K^{a}L^{b}
 $$
@@ -136,7 +147,7 @@ x &= K^{a}L^{b} =  \\
 \hat{x} &= a \hat{K} + b \hat{L}
 \end{align}
 $$
-In the Cobb-Douglas function, the [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Return to scale\|#Return to scale]] is:
+In the Cobb-Douglas function, the [[#Return to scale]] is:
 $$
 RTS = - \frac{a}{b} \frac{L}{K}
 $$
@@ -144,20 +155,50 @@ $$
 #### Leontief
 
 ![Leontief - 01 - Production and cost functions in transport - DME 2024-11-04 21.04.56.excalidraw.png](/img/user/Excalidraw-2/Leontief%20-%2001%20-%20Production%20and%20cost%20functions%20in%20transport%20-%20DME%202024-11-04%2021.04.56.excalidraw.png)
+%%[[Leontief - 01 - Production and cost functions in transport - DME 2024-11-04 21.04.56.excalidraw|🖋 Edit in Excalidraw]]%%
 
-
-The **Leontief** [[#Production function]] is often used for its semplicity:
+The **Leontief** [[#Production function]] is often used for its simplicity:
 $$
 f(K,L) = x = \min{(aL,bK)}
 $$
 
 ### Technical Substitution Relation (TSR)
 
+- [?] I don't understand what Technical substitution relation is? 
+
+The [[#Iso-production curves|iso-production curve]] below is given:
+
 ![Schermata 2024-11-04 alle 21.09.53.png](/img/user/Schermata%202024-11-04%20alle%2021.09.53.png)
+
+By definition, along the curve, $x$ is constant, meaning its differential, ${\rm d} x =0$.
+The differential of $x$ is defined as follows:
+$$
+{\rm d}x = \frac{\partial x}{\partial K}{\rm d}K + \frac{\partial x}{\partial L}{\rm d}L = 0
+$$
+meaning we can write:
+$$
+-\frac{{\rm d}K}{{\rm d}L} = \frac{ \frac{\partial x}{\partial L} }{ \frac{\partial x}{\partial K} }
+$$
+where, at the second member, we recognize the [[#Marginal Productivity|marginal productivities]]:
+$$
+-\frac{{\rm d}K}{{\rm d}L} = \frac{ P_{ma,L} }{ P_{ma, K} }
+$$
+This last quantity is defined as **Technical Substitution Relation**
+
+```ad-Definizione
+title: Technical Substitution Relation ($TSR$)
+
+**Technical Substitution Relation** ($TSR$) is defined as the ratio of the marginal costs of the production factors (Labor and Kapital).
+$
+TSR = -\frac{{\rm d}K}{{\rm d}L} = \frac{ P_{ma,L} }{ P_{ma, K} }
+$
+
+```
 
 
 ## Cost Function
-[[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME\|01 - Production and cost functions in transport - DME]]
+
+[[01 - Production and cost functions in transport - DME]]
 
 ```ad-Definizione
 title: Cost function ($CT$)
@@ -186,7 +227,6 @@ $
 
 ```
 
-
 #### Marginal cost
 
 ```ad-Definizione
@@ -208,14 +248,15 @@ There is **no** diminishing with unitary cost of the productive factors
 
 ```
 
-- [?] What does this mean?
+- [x] What does this mean? ✅ 2024-11-29
+	- [ ] It's a positive function...
 
 #### Homogeneity of the cost function
 
 ```ad-Teo
 title: Homogeneity
 
-The [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Cost Function\|#Cost Function]] is homogeneous of first grade in $r$ and $w$.
+The [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Cost Function\|#Cost Function]] is [[Homogenous Function\|homogeneous]] of first grade in $r$ and $w$.
 
 ```
 
@@ -224,16 +265,15 @@ The [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobilit
 ```ad-Teo
 title: Convexity
 
-The [[#Cost Function]] is **convex** in $w$.
+The [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Cost Function\|#Cost Function]] is **convex** in $w$.
 ```
-
 
 #### Continuity of the cost function
 
 ```ad-Teo
 title: Continuity
 
-The [[#Cost Function]] is **continous** in $w$ for $w\ge 0$.
+The [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Cost Function\|#Cost Function]] is **continous** in $w$ for $w\ge 0$.
 
 ```
 
@@ -244,8 +284,8 @@ $$
 CT = CF + CV
 $$
 where
-- $CF:$ [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Fixed cost\|#Fixed cost]]
-- $CV:$ [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Variable cost\|#Variable cost]]
+- $CF:$ [[#Fixed cost]]
+- $CV:$ [[#Variable cost]]
 
 #### Fixed cost
 
@@ -261,73 +301,85 @@ title: Fixed cost
 ```ad-Definizione
 title: 
 
-**Variable costs** ($CV$) are costs dependent on the [[#Production function|production]] of a system.
+**Variable costs** ($CV$) are costs dependent on the [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Production function\|production]] of a system.
 
-They exist both in the [[#Short term and long term]] and the [[#Long term cost function]].
+They exist both in the [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Short term cost function\|#Short term cost function]] and the [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Long term cost function\|#Long term cost function]].
 ```
  
 ### Short term and long term
 
 #### Short term cost function
 
-In the short term, the [[#Cost Function]] is given by the sum of the [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Variable cost\|#Variable cost]] and the [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Fixed cost\|#Fixed cost]]:
+In the short term, the [[#Cost Function]] is given by the sum of the [[#Variable cost]] and the [[#Fixed cost]]:
 
 ![Short term cost function - 01 - Production and cost functions in transport - DME 2024-11-05 12.10.50.excalidraw.png](/img/user/Excalidraw-2/Short%20term%20cost%20function%20-%2001%20-%20Production%20and%20cost%20functions%20in%20transport%20-%20DME%202024-11-05%2012.10.50.excalidraw.png)
+%%[[Short term cost function - 01 - Production and cost functions in transport - DME 2024-11-05 12.10.50.excalidraw|🖋 Edit in Excalidraw]]%%
 
-
-The graph specifically shows the sum of the <mark style="background: #BBFABBA6;">Average Fixed cost</mark> and the <mark style="background: #FF5582A6;">average Variable cost</mark> to give, in <mark style="background: #ADCCFFA6;">blue</mark>, the [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Average cost\|#Average cost]].
+The graph specifically shows the sum of the <mark style="background: #BBFABBA6;">Average Fixed cost</mark> and the <mark style="background: #FF5582A6;">Average Variable cost</mark> to give, in <mark style="background: #ADCCFFA6;">blue</mark>, the [[#Average cost]].
 
 #### Long term cost function
 
-In the long term, even the [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Fixed cost\|#Fixed cost]] can change. Therefore, there are not [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Fixed cost\|#Fixed cost]] in the Long term cost function, only [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Variable cost\|#Variable cost]].
+In the long term, even the [[#Fixed cost]] can change. Therefore, there are not [[#Fixed cost]] in the Long term cost function, only [[#Variable cost]].
 
 The long term cost function can be obtained overlapping all the [[#Short term cost function]] at different sizes of the system:
 
 ![Long term cost function - 01 - Production and cost functions in transport - DME 2024-11-05 12.25.46.excalidraw.png](/img/user/Excalidraw-2/Long%20term%20cost%20function%20-%2001%20-%20Production%20and%20cost%20functions%20in%20transport%20-%20DME%202024-11-05%2012.25.46.excalidraw.png)
+%%[[Long term cost function - 01 - Production and cost functions in transport - DME 2024-11-05 12.25.46.excalidraw|🖋 Edit in Excalidraw]]%%
+
+Each $x_{i}^{*}$ is the optimal production in the [[#Short term cost function|short term]], at the given system size. All the $x_{i}^{*}$ give the long term cost function. For a business, the optimal size is that that minimizes the long term cost function.
 
 
-Each $x_{i}^{*}$ is the optimal production in the [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Short term cost function\|short term]], at the given system size. All the $x_{i}^{*}$ give the long term cost function. For a business, the optimal size is that that minimizes the long term cost function.
-
-
-### Efficiency
+## Efficiency
 
 ```ad-Definizione
 title: Efficiency
 
-**Efficiency** is the maximum output for a fixed numer of *productive factors*.
+**Efficiency** is the condition where we get the maximum output for a fixed numer of *productive factors*.
 
 ```
 
 #### Types of efficiency
 
 We can define efficiency based on different things:
-- [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Technical efficiency\|#Technical efficiency]]
-- [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Efficiency of market assignation\|#Efficiency of market assignation]]
-- [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Social efficiency\|#Social efficiency]]
-- [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Efficiency of scale\|#Efficiency of scale]]
-- [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Structural Efficiency\|#Structural Efficiency]]
+- [[#Technical efficiency]]
+- [[#Efficiency of market assignation]]
+- [[#Social efficiency]]
+- [[#Efficiency of scale]]
+- [[#Structural Efficiency]]
 
 ##### Technical efficiency
 
 ```ad-Definizione
 title: Techincal efficiency
 
-**Technical efficiency** is reached when the [[#Cost Function|cost]] is minimized.
+**Technical efficiency** is reached when the [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Cost Function\|cost]] is minimized.
 
 ```
 
 
 ##### Efficiency of market assignation
 
+```ad-Definizione
+title: Efficiency of market assignation
+
 When efficient market decisions are made.
+
+```
+
 
 ##### Social efficiency
 
-**Externalities** are included
+```ad-Definizione
+title: Social efficiency
+
+Social efficiency is the [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Efficiency\|#Efficiency]] condition when **Externalities** are included.
+
+```
+
 
 ##### Efficiency of scale
 
-current capacity vs ideal capacity
+Current capacity vs ideal capacity
 - Ideal: combination of inputs and outputs inside the constant returns to scale
 - Long-term competitive equilibrium, where production has constant returns to scale
 
@@ -341,9 +393,10 @@ Structural efficiency is reached when production is located in the non-congested
 
 ### Economy of scale
 
-[[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Average cost\|#Average cost]] $\searrow \iff \nearrow$ scale  
+[[#Average cost]] $\searrow \iff \nearrow$ scale  
 
-If the nature of a business is to take advantage of economy of scale, that business will try to grow. There will than be just a few big businesses in that sector.
+If the nature of a business is to take advantage of economy of scale, that business will try to grow. There will then be just a few big businesses in that sector.
+
 ### Economy of density
 
 Economy of density is the concept in which a business sees its cost decreasing when the density of the business increases.
@@ -354,6 +407,21 @@ The total cost to transport passengers decreases by increasing utilisation of ex
 
 ### Mohring effect
 
-❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗
+```ad-Definizione
+title: Mohring effect
+
+The Mohring effect is a scenario where, adding users to a transportation network actually decreases the average cost incurred by the user.
+
+```
+
+Let's try to understand this through an example:
+
+```ad-example
+
+Imagine we have a road. Every time another car enters the road, the road becomes more conjested and travel time increases for every one. This is a normal behavior.
+
+Let's consider now a bus line. An increase in users will make the ride more unconfortable for everyone, since the bus will be more crowded. At a certain point though, if there are enough users, the bus company might decide to add more buses increasing the ferquency. This will shorten travel time for everyone and increase everyone's comfort. In this case, an increase in users has reduced the average cost incurred by each user. This last one, was an example of the **Mohring effect**.
+
+```
+
+

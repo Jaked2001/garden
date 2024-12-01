@@ -25,9 +25,12 @@
 ```ad-attention
 title: Evaluation dates
 
-❗❗❗❗❗❗❗❗❗❗❗❗
-❗❗❗ COMPLETARE ❗❗❗ see schedules on ATENEA
-❗❗❗❗❗❗❗❗❗❗❗❗
+```tasks
+not done
+path includes Innovation & Entrepreneurship for world challenges
+filter by function task.status.name === 'Exam'
+sort by description
+
 ```
 
 
@@ -35,18 +38,22 @@ title: Evaluation dates
 ## Evaluation Structure
 
 No final exam.
-
+ 
 - 70% Project group mark
 	- 50% activity during the course (short presentations, assignments, deliverables, ...) - The process (justify everything) - independently from how good the result is
 	- 50% final result (presentation, report, video,...) - how good the result is
 - 30% individual modulation
 	- 15% peer assessment - inside the same group
-	- 15% professors assessment
+	- 15% professor's assessment
 
 
 ### 🗣 Projects 
 
 The course is project based.
+
+- [x] [[2024-11-29]] - Challenge 2 presentation 🔼 ✅ 2024-11-29
+- [!] [[2025-01-17]] - Challenge 3 presentation 🔼 
+
 ### ✍️ Final Exam
 
 No final exam !!!
@@ -67,14 +74,9 @@ No final exam !!!
 
 ___
 
-| File                                                                                                                                                                                                                                        | Tipo | Stato       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
-| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 1 - Reduce contamination to cyclists\|Challenge 1 - Reduce contamination to cyclists]]                                           | Es   | 🟢 Fatto    |
-| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 2 - Pedestrian un-safety caused by their distraction - IE\|Challenge 2 - Pedestrian un-safety caused by their distraction - IE]] | Es   | 🟡 Finire   |
-| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 3 - ??? - IE\|Challenge 3 - ??? - IE]]                                                                                           | Es   | 🔴 Fare     |
-| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/01 - Design thinking - IE\|01 - Design thinking - IE]]                                                                                          | T    | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/04 - Session 4 - IE\|04 - Session 4 - IE]]                                                                                                      | T    | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/05 - Session 5 - IE\|05 - Session 5 - IE]]                                                                                                      | T    | 🪶 Scrivere |
+| File                                                                                                                                              | Tipo | Stato   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------- |
+| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 3 - ??? - IE\|Challenge 3 - ??? - IE]] | Es   | 🔴 Fare |
 
 { .block-language-dataview}
 
@@ -95,11 +97,11 @@ ___
 # 👉🏻 Course Index
 
 
-| File                                                                                                                                               | Stato       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/01 - Design thinking - IE\|01 - Design thinking - IE]] | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/04 - Session 4 - IE\|04 - Session 4 - IE]]             | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/05 - Session 5 - IE\|05 - Session 5 - IE]]             | 🪶 Scrivere |
+| File                                                                                                                                               | Stato    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/01 - Design thinking - IE\|01 - Design thinking - IE]] | 🟢 Fatto |
+| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/04 - Session 4 - IE\|04 - Session 4 - IE]]             | 🟢 Fatto |
+| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/05 - Session 5 - IE\|05 - Session 5 - IE]]             | 🟢 Fatto |
 
 { .block-language-dataview}
 
@@ -110,11 +112,11 @@ ___
 ## ✍️ Challenges
 
 
-| File                                                                                                                                                                                                                                        | Stato     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 1 - Reduce contamination to cyclists\|Challenge 1 - Reduce contamination to cyclists]]                                           | 🟢 Fatto  |
-| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 2 - Pedestrian un-safety caused by their distraction - IE\|Challenge 2 - Pedestrian un-safety caused by their distraction - IE]] | 🟡 Finire |
-| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 3 - ??? - IE\|Challenge 3 - ??? - IE]]                                                                                           | 🔴 Fare   |
+| File                                                                                                                                                                                                                                        | Stato    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 1 - Reduce contamination to cyclists\|Challenge 1 - Reduce contamination to cyclists]]                                           | 🟢 Fatto |
+| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 2 - Pedestrian un-safety caused by their distraction - IE\|Challenge 2 - Pedestrian un-safety caused by their distraction - IE]] | 🟢 Fatto |
+| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 3 - ??? - IE.md\|Challenge 3 - ??? - IE]]                                                                                           | 🔴 Fare  |
 
 { .block-language-dataview}
 

@@ -31,3 +31,9 @@
 ### 📝 Theory
 
 Seminar: [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/2024-11-22 - Urban Mobility Sustainability and Ethics\|2024-11-22 - Urban Mobility Sustainability and Ethics]]
+
+
+# 📆  29-11-2024 - Fri
+
+Presentations of challenge 2
+

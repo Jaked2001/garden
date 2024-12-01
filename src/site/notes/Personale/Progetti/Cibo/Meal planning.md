@@ -4,11 +4,12 @@
 
 # [[Personale/Progetti/Cibo/Meal planning\|Meal planning]]
 
+
 | File                                                                                                  | Ultima cucinata | Portata |
 | ----------------------------------------------------------------------------------------------------- | --------------- | ------- |
+| [[Personale/Progetti/Cibo/Ricette/Pasta al pomodoro e mozzarella\|Pasta al pomodoro e mozzarella]] | [[2024-11-30\|2024-11-30]]  | Primo   |
 | [[Personale/Progetti/Cibo/Ricette/Pasta al pesto\|Pasta al pesto]]                                 | [[_Giornaliera/2024-11-21\|2024-11-21]]  | Primo   |
 | [[Personale/Progetti/Cibo/Rotolo al salame\|Rotolo al salame]]                                     | [[_Giornaliera/2024-11-18\|2024-11-18]]  | Secondo |
-| [[Personale/Progetti/Cibo/Ricette/Pasta al pomodoro e mozzarella\|Pasta al pomodoro e mozzarella]] | [[_Giornaliera/2024-11-18\|2024-11-18]]  | Primo   |
 | [[Personale/Progetti/Cibo/Ricette/Empanadas surgelate\|Empanadas surgelate]]                       | [[2024-11-17\|2024-11-17]]  | Unico   |
 | [[Personale/Progetti/Cibo/Ricette/Pasta al pomodoro\|Pasta al pomodoro]]                           | [[2024-11-17\|2024-11-17]]  | Primo   |
 | [[Personale/Progetti/Cibo/Pasta all'arrabbiata\|Pasta all'arrabbiata]]                             | [[_Giornaliera/2024-11-16\|2024-11-16]]  | Primo   |

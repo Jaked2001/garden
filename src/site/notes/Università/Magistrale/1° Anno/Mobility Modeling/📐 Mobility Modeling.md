@@ -68,7 +68,7 @@ Can work in group of 2. Even different groups for different assignment.
 
 ### ✍️ Partial Exam
 
-- [!] [[2024-11-20]] - ❗️ **Partial Exam** ⏫ 
+- [x] [[2024-11-20]] - ❗️ **Partial Exam** ⏫ ✅ 2024-11-28
 
 2 blocks. If pass, none of this will be in the final.
 
@@ -83,7 +83,7 @@ Pen and paper test.
 
 | Parte     | Data           | Voto |
 | --------- | -------------- | ---- |
-| Assgm 0   | [[2024-11-07]] |      |
+| Assgm 0   | [[2024-11-07]] | 10   |
 | Midterm   | [[2024-11-27]] |      |
 | Assgm 2   | [[2024-12-11]] |      |
 | Assgm 3   | [[2025-01-10]] |      |
@@ -99,7 +99,6 @@ ___
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ----------- |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Assgm - MM/Assgm 2 - Traffic Assignment problem - MM\|Assgm 2 - Traffic Assignment problem - MM]]                    | Es    | 🔴 Fare     |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Problems/P01 - Min-cost problems and SIMPLEX method - MM\|P01 - Min-cost problems and SIMPLEX method - MM]]          | Es    | 🔴 Fare     |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Past Exams/2020 - Final Exam - MM 1\|2020 - Final Exam - MM 1]]                                                      | Esame | 🔴 Fare     |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Past Exams/2021 - Final Exam - MM\|2021 - Final Exam - MM]]                                                          | Esame | 🔴 Fare     |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/0 - Introduction to Mobility Modeling\|0 - Introduction to Mobility Modeling]]                                 | T     | 🟡 Finire   |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.1 - Network flows - MM\|01.1 - Network flows - MM]]                                                         | T     | 🟡 Finire   |
@@ -135,7 +134,7 @@ ___
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The minimum cost flow problem - From book - MM.md\|01.2 - The minimum cost flow problem - From book - MM]] | 🪶 Scrivere | true       |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/02 - Traffic Assignment Problem - MM\|02 - Traffic Assignment Problem - MM]]                                   | 🟢 Fatto    | true       |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/LAB - AMPL/Lab 1 - Introduction to AMPL.md\|Lab 1 - Introduction to AMPL]]                                              | 🪶 Scrivere | true       |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/The SIMPLEX Method.md\|The SIMPLEX Method]]                                                                       | 🪶 Scrivere | \-         |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/The SIMPLEX Method.md\|The SIMPLEX Method]]                                                                       | 🪶 Scrivere | true       |
 
 { .block-language-dataview}
 
@@ -163,7 +162,7 @@ ___
 
 | File                                                                                                                 | Stato    | dg-publish |
 | -------------------------------------------------------------------------------------------------------------------- | -------- | ---------- |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Past Exams/2020 - Final Exam - MM 1.md\|2020 - Final Exam - MM 1]] | 🔴 Fare  | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Past Exams/2020 - Final Exam - MM 1\|2020 - Final Exam - MM 1]] | 🟢 Fatto | true       |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Past Exams/2021 - Final Exam - MM.md\|2021 - Final Exam - MM]]     | 🔴 Fare  | true       |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Past Exams/2022 - Final Exam - MM\|2022 - Final Exam - MM]]     | 🟢 Fatto | true       |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Past Exams/2023 - Final Exam - MM\|2023 - Final Exam - MM]]     | 🟢 Fatto | true       |

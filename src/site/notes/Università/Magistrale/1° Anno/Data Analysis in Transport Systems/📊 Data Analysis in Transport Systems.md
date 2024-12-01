@@ -81,7 +81,7 @@ Have to turn in a pdf with answers of the exam.
 
 | Parte     | Data           | Voto |
 | --------- | -------------- | ---- |
-| Assgm 1   | [[2024-11-10]] |      |
+| Assgm 1   | [[2024-11-10]] | 7    |
 | Midterm   | [[2024-11-19]] | 8.75 |
 | Assgm 2   | [[2025-01-12]] |      |
 | Final     | [[2025-01-14]] |      |
@@ -93,13 +93,14 @@ Have to turn in a pdf with answers of the exam.
 
 ___
 
-| File                                                                                                                                                                           | Tipo | Stato       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- | ----------- |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/LabSess 2 - 2024-10-24 - - DATS\|LabSess 2 - 2024-10-24 - - DATS]]                                 | Lab  | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS\|02 - Exploratory Data Analysis - DATS]]                     | T    | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.1 - Input Data Analysis - DATS\|02.1 - Input Data Analysis - DATS]]                             | T    | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.2 - Missing Data Treatment - DATS\|02.2 - Missing Data Treatment - DATS]]                       | T    | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/03 - Computational Statistical Inference - DATS\|03 - Computational Statistical Inference - DATS]] | T    | 🪶 Scrivere |
+| File                                                                                                                                                                                   | Tipo | Stato       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/LabSess 2 - 2024-10-24 - - DATS\|LabSess 2 - 2024-10-24 - - DATS]]                                         | Lab  | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS\|02 - Exploratory Data Analysis - DATS]]                             | T    | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.1 - Input Data Analysis - DATS\|02.1 - Input Data Analysis - DATS]]                                     | T    | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.2 - Missing Data Treatment - DATS\|02.2 - Missing Data Treatment - DATS]]                               | T    | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/03 - Computational Statistical Inference - DATS\|03 - Computational Statistical Inference - DATS]]         | T    | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/04 - Statistical modeling through regression - DATS\|04 - Statistical modeling through regression - DATS]] | T    | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -122,14 +123,15 @@ ___
 
 ## Theory
 
-| File                                                                                                                                                                           | Stato       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS.md\|02 - Exploratory Data Analysis - DATS]]                     | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.1 - Input Data Analysis - DATS.md\|02.1 - Input Data Analysis - DATS]]                             | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.2 - Missing Data Treatment - DATS.md\|02.2 - Missing Data Treatment - DATS]]                       | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/03 - Computational Statistical Inference - DATS.md\|03 - Computational Statistical Inference - DATS]] | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/Outlier\|Outlier]]                                                                                 | 🟢 Fatto    |
-| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/Shapiro Wilk test\|Shapiro Wilk test]]                                                             | 🟢 Fatto    |
+| File                                                                                                                                                                                   | Stato       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS.md\|02 - Exploratory Data Analysis - DATS]]                             | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.1 - Input Data Analysis - DATS.md\|02.1 - Input Data Analysis - DATS]]                                     | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.2 - Missing Data Treatment - DATS.md\|02.2 - Missing Data Treatment - DATS]]                               | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/03 - Computational Statistical Inference - DATS.md\|03 - Computational Statistical Inference - DATS]]         | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/04 - Statistical modeling through regression - DATS.md\|04 - Statistical modeling through regression - DATS]] | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/Outlier\|Outlier]]                                                                                         | 🟢 Fatto    |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/Shapiro Wilk test\|Shapiro Wilk test]]                                                                     | 🟢 Fatto    |
 
 { .block-language-dataview}
 

@@ -99,6 +99,7 @@ ___
 
 | File                                                                                                                                                                                      | Tipo     | Stato       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------- |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Problems/Es 3 - LWR traffic flow theory - OMT\|Es 3 - LWR traffic flow theory - OMT]]                      | Es       | 🔴 Fare     |
 | [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Mini-Project/Mini Project - OMT.md\|Mini Project - OMT]]                                                      | Progetto | 🔴 Fare     |
 | [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT\|03 - Fundamentals of traffic flow modeling - OMT]] | T        | 🪶 Scrivere |
 
@@ -142,10 +143,11 @@ ___
 
 ## Discussions
 
-| File                                                                                                                                                     | Stato    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Problems/Es 1 - Trajectories - OMT\|Es 1 - Trajectories - OMT]]           | 🟢 Fatto |
-| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Problems/Es 2 - Queuing processes - OMT\|Es 2 - Queuing processes - OMT]] | 🟢 Fatto |
+| File                                                                                                                                                                 | Stato    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Problems/Es 1 - Trajectories - OMT\|Es 1 - Trajectories - OMT]]                       | 🟢 Fatto |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Problems/Es 2 - Queuing processes - OMT\|Es 2 - Queuing processes - OMT]]             | 🟢 Fatto |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Problems/Es 3 - LWR traffic flow theory - OMT.md\|Es 3 - LWR traffic flow theory - OMT]] | 🔴 Fare  |
 
 { .block-language-dataview}
 

@@ -144,3 +144,28 @@ Group work on [[Università/Magistrale/1° Anno/Decision Making & Economy in Urb
 	- Road Pricing
 	- Parking pricing
 
+
+
+# 📆  27-11-2024 - Wed
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME\|03 - Utility Demand function and Pricing - DME]]
+- Parking
+- e-commerce
+- P, T
+[[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/04 - Theory of Organization and Supply Regulation - DME\|04 - Theory of Organization and Supply Regulation - DME]]
+- Regulation
+
+### ✏️ Projects
+
+
+
+# 📆  29-11-2024 - Fri
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/04 - Theory of Organization and Supply Regulation - DME\|04 - Theory of Organization and Supply Regulation - DME]]
+- 
+
+### ✏️ Projects

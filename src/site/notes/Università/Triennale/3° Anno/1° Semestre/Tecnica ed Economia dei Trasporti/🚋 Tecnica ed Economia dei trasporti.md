@@ -66,7 +66,7 @@ Dei 3 argomenti c'è sempre la possibilità di sceglierne uno.
 # ✔️ To-Do
 
 
-- [ ] Fare [[Università/Triennale/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Esercitazioni/Es 03 - Sostentazione e locomozione\|Es 3 - Sostentazione e locomozione]] 📅 2023-10-13 🔽 
+- [x] Fare [[Università/Triennale/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Esercitazioni/Es 03 - Sostentazione e locomozione\|Es 3 - Sostentazione e locomozione]] 🔽 📅 2023-10-13 ✅ 2024-11-26
 
 
 ___

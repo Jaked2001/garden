@@ -108,4 +108,13 @@ Solution of [[Università/Magistrale/1° Anno/Operation & Management of Transpor
 	- Traffic diagrams
 
 
-### ✏️ Projects
+# 📆  26-11-2024 - Tue
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT\|03 - Fundamentals of traffic flow modeling - OMT]]
+- Diagram s (traffic)
+	- Definition
+	- Example (s, v)
+	- k, v model
+	- The fundamental diagram (q, k)

@@ -38,7 +38,7 @@ Updated calendar:
 - Assgm 0 due date moved to tomorrow [[_Giornaliera/2024-11-07\|2024-11-07]]
 - Tue [[_Giornaliera/2024-11-07\|2024-11-07]] - Theory (in A2-204)
 - Next Wed - [[_Giornaliera/2024-11-13\|2024-11-13]] - Lab (in A2-204)
-- Mid term moved one week later, to [[2024-11-27\|2024-11-27]]
+- Mid term moved one week later, to [[_Giornaliera/2024-11-27\|2024-11-27]]
 
 ### 📝 Theory
 
@@ -100,4 +100,6 @@ Preparation for Partial. Problem 2 in:
 - Final 21-22
 
 
+# 📆  27-11-2024 - Wed
 
+!!Partial exam!!

@@ -86,12 +86,13 @@ Evaluate the case from a double perspective:
 
 
 ___
-| File                                                                                                                                                                                                | Tipo     | Stato       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------- |
-| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Workshop/Grand Paris Express Line 15 - DME\|Grand Paris Express Line 15 - DME]]                                      | Progetto | 🔴 Fare     |
-| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME\|01 - Production and cost functions in transport - DME]] | T        | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME\|02 - Appraisal and Cost-Benefit Analysis - DME]]               | T        | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME\|03 - Utility Demand function and Pricing - DME]]               | T        | 🪶 Scrivere |
+| File                                                                                                                                                                                                    | Tipo     | Stato       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------- |
+| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Workshop/Grand Paris Express Line 15 - DME\|Grand Paris Express Line 15 - DME]]                                          | Progetto | 🔴 Fare     |
+| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME\|01 - Production and cost functions in transport - DME]]     | T        | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME\|02 - Appraisal and Cost-Benefit Analysis - DME]]                   | T        | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME\|03 - Utility Demand function and Pricing - DME]]                   | T        | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/04 - Theory of Organization and Supply Regulation - DME\|04 - Theory of Organization and Supply Regulation - DME]] | T        | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -109,11 +110,12 @@ ___
 
 # 👉🏻 Course Index
 
-| File                                                                                                                                                                                                | Stato       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME.md\|01 - Production and cost functions in transport - DME]] | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME.md\|02 - Appraisal and Cost-Benefit Analysis - DME]]               | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME.md\|03 - Utility Demand function and Pricing - DME]]               | 🪶 Scrivere |
+| File                                                                                                                                                                                                    | Stato       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME.md\|01 - Production and cost functions in transport - DME]]     | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME.md\|02 - Appraisal and Cost-Benefit Analysis - DME]]                   | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME.md\|03 - Utility Demand function and Pricing - DME]]                   | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/04 - Theory of Organization and Supply Regulation - DME.md\|04 - Theory of Organization and Supply Regulation - DME]] | 🪶 Scrivere |
 
 { .block-language-dataview}
 
