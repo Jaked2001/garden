@@ -414,13 +414,13 @@ In the graph, is the area in green
 
 ### Cost, value, price
 
-Let $g$ be the **social cost** (assuming no externalities):
+Let $g$ be the **generalized social cost** (assuming no externalities):
 $$
 g = p + c_{u}
 $$
 where:
-- $p:$ cost of producer
-- $c_{u}:$ cost of user
+- $p:$ price
+- $c_{u}:$ cost (time) of user
 
 From the user prospective we have:
 
