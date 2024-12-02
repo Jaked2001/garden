@@ -502,23 +502,23 @@ This, according to what has been said before, can be written as:
 $$
 \begin{align}
 SW(q,x) &= CS(q,k) + PS(q,k) =  \\
-&=  \int_{0}^{q_{1}} \left(g(z) \, dz \right) - ( p+ c_{u}(q,k))q - c^{0}q - c'q -  r(k)k
+&=  \int_{0}^{q_{1}} \left(g(z) \, dz \right) - c_{u}(q,k)q - c^{0}q - c'q -  r(k)k
 \end{align}
 $$
 where notice that, the term $-pq$ for the PS is already in the CS. We don't have to count this twice (this is clearer looking at the graph)
 $$
-SW(q,x) =  \int_{0}^{q_{1}} \left(g(z) \, dz \right) - pq - c_{u}(q,k)q - c^{0}q - c'q -  r(k)k
+SW(q,x) =  \int_{0}^{q_{1}} \left(g(z) \, dz \right) - c_{u}(q,k)q - c^{0}q - c'q -  r(k)k
 $$
 To maximize this function, we calculate the first derivatives (in $q$ and $k$) and impose it equal to 0:
 $$
 \begin{align}
-\frac{\partial}{\partial q} SW(q,x) = g(q) - p - c_{u}(q,k) - \frac{\partial c_{u}(q,k)}{\partial q}q - c^{0} - c' &\stackrel{!}{=} 0  \quad \longrightarrow \quad q^{*} \qquad [1]\\
+\frac{\partial}{\partial q} SW(q,x) = g(q)  - c_{u}(q,k) - \frac{\partial c_{u}(q,k)}{\partial q}q - c^{0} - c' &\stackrel{!}{=} 0  \quad \longrightarrow \quad q^{*} \qquad [1]\\
 \frac{\partial}{\partial k} SW(q,x) = - q \frac{\partial c_{u}(q,k)}{\partial k} - r(k) - \frac{\partial r(k)}{\partial k}k &\stackrel{!}{=} 0 \quad \longrightarrow \quad k^{*} \qquad [2]
 \end{align}
 $$
 Now, $[1]$ can be written as:
 $$
-g(q) = p + c_{u}(q,k) + \frac{\partial c_{u}(q,k)}{\partial q}q + c^{0} + c' 
+g(q^{*}) = c_{u}(q^{*},k) + \left.\frac{\partial c_{u}(q,k)}{\partial q}\right|_{q^{*}} q^{*} + c^{0} + c' 
 $$
 And, remembering the definition of generalized cost:
 $$
@@ -526,8 +526,16 @@ g = p + c_{u}(q,k)
 $$
 we can write:
 $$
-\cancel{p} + \cancel{c_{u}(q,k)} + \underbrace{\frac{\partial c_{u}(q,k)}{\partial q}}_{\text{Social Marginal cost}} q + c^{0} + c'  = \cancel{p} + \cancel{c_{u}(q,k)}
+ \cancel{c_{u}(q,k)} + \underbrace{\frac{\partial c_{u}(q,k)}{\partial q}}_{\text{Social Marginal cost}} q + c^{0} + c'  = p + \cancel{c_{u}(q,k)}
 $$
+So:
+$$
+p = c^{0} + c' + q^{*} \left.\frac{\partial c_{u}}{\partial q} \right|_{q^{*},k^{*}}
+$$
+
 ❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗
 ❗❗❗❗❗❗❗❗❗❗❗❗
+
+### Pricing without congestion
+
