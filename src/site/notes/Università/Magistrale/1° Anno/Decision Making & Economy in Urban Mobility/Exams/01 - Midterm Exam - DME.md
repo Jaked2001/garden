@@ -35,10 +35,35 @@ No is not. With increasing return of scale, production grows faster than the pro
 ![01 - Midterm Exam - DME 2024-12-04 11.51.32.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/Decision%20Making%20&%20Economy%20in%20Urban%20Mobility/Exams/Allegati/01%20-%20Midterm%20Exam%20-%20DME%202024-12-04%2011.51.32.excalidraw.png)
 
 
+In the graph, the black straight line represent the budget. The curved lines represent 3 possible utility functions such that:
+$$
+u_{1} < u^{*} < u_{2}
+$$
+The optimal condition is given by utility function $u^{*}$. The election of the user will be: $(x_{1}^{*}, x_{2}^{*})$
 
-## Problem 3
 
-## Problem 3
+## Problem 3 - Road pricing
+
+##### 3.a) Let’s suppose a road without congestion. “g” is the generalized cost per user, “q” is the traffic flow, “AC” the average cost and “c” the marginal cost. Indicate in the graph the optimal price of the road to maximize the social welfare, the consumer surplus and the producer surplus.
+
+![01 - Midterm Exam - DME 2024-12-04 11.59.42.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/Decision%20Making%20&%20Economy%20in%20Urban%20Mobility/Exams/Allegati/01%20-%20Midterm%20Exam%20-%20DME%202024-12-04%2011.59.42.excalidraw.png)
 
 
-# PDF
+##### Let’s assume now a road with congestion problems. Represent graphically 1) the average cost, marginal cost, social marginal cost and the optimum level of traffic flow and user’s cost to maximize the social welfare and 2) the toll (or tax) to charge to road user’s in order to reach this optimal point
+
+![01 - Midterm Exam - DME 2024-12-04 12.03.29.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/Decision%20Making%20&%20Economy%20in%20Urban%20Mobility/Exams/Allegati/01%20-%20Midterm%20Exam%20-%20DME%202024-12-04%2012.03.29.excalidraw.png)
+
+
+
+## Problem 4
+
+##### 4.a) What should be the main objectives of parking regulation?
+
+
+The main objectives of parking regulation should be:
+- Optimizing parking it self
+- Reducing local conjestion
+
+##### 4.b) Justify the economic reason that the public transportation is usually in deficit.
+
+Public transportation is generally thought to maximizing Social Welfare rather than profits. This justifies subsidies. Also, PT often produces positive externalities. These are not gained by the operating company but by the government which is again justified to subsidize the system.

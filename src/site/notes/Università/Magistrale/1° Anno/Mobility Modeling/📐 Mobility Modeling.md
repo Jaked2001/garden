@@ -84,7 +84,7 @@ Pen and paper test.
 | Parte     | Data           | Voto |
 | --------- | -------------- | ---- |
 | Assgm 0   | [[2024-11-07]] | 10   |
-| Midterm   | [[2024-11-27]] |      |
+| Midterm   | [[2024-11-27]] | 9.5  |
 | Assgm 2   | [[2024-12-11]] |      |
 | Assgm 3   | [[2025-01-10]] |      |
 | Final     | [[2025-01-16]] |      |
@@ -104,6 +104,7 @@ ___
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.1 - Network flows - MM\|01.1 - Network flows - MM]]                                                         | T     | 🟡 Finire   |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The min-cost flow problem - from slides - MM\|01.2 - The min-cost flow problem - from slides - MM]]     | T     | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The minimum cost flow problem - From book - MM\|01.2 - The minimum cost flow problem - From book - MM]] | T     | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/04 - Vehicle Routing problem - MM\|04 - Vehicle Routing problem - MM]]                                         | T     | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/LAB - AMPL/Lab 1 - Introduction to AMPL\|Lab 1 - Introduction to AMPL]]                                              | T     | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/The SIMPLEX Method\|The SIMPLEX Method]]                                                                       | T     | 🪶 Scrivere |
 
@@ -133,6 +134,7 @@ ___
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The min-cost flow problem - from slides - MM.md\|01.2 - The min-cost flow problem - from slides - MM]]     | 🪶 Scrivere | true       |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.2 - The minimum cost flow problem - From book - MM.md\|01.2 - The minimum cost flow problem - From book - MM]] | 🪶 Scrivere | true       |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/02 - Traffic Assignment Problem - MM\|02 - Traffic Assignment Problem - MM]]                                   | 🟢 Fatto    | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/04 - Vehicle Routing problem - MM.md\|04 - Vehicle Routing problem - MM]]                                         | 🪶 Scrivere | true       |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/LAB - AMPL/Lab 1 - Introduction to AMPL.md\|Lab 1 - Introduction to AMPL]]                                              | 🪶 Scrivere | true       |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/The SIMPLEX Method.md\|The SIMPLEX Method]]                                                                       | 🪶 Scrivere | true       |
 

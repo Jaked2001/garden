@@ -28,7 +28,7 @@ If not enrolled, visit: https://atenea.upc.edu/course/search.php and look for
 - Password: Soriguera24
 
 
-# ❗️Esame❗️
+# ❗️Evaluation❗️
 
 Calculator recommended for graded activities. Get a **ruler**.
 
@@ -86,10 +86,15 @@ Esercizi:
 | Part           | Date           | Grade (/10) |
 | -------------- | -------------- | ----------- |
 | Graded Assgm 1 | [[2024-10-21]] | 10          |
-| Graded Assgm 2 |                |             |
+| Graded Assgm 2 | [[2024-11-18]] | 9           |
 | Graded Assgm 3 |                |             |
 | Graded Assgm 4 |                |             |
+| MiniProject    |                |             |
 | Final          |                |             |
+| **Grade**      |                |             |
+
+
+
 
 
 # ✔️ To-Do
@@ -100,7 +105,7 @@ ___
 | File                                                                                                                                                                                      | Tipo     | Stato       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------- |
 | [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Problems/Es 3 - LWR traffic flow theory - OMT\|Es 3 - LWR traffic flow theory - OMT]]                      | Es       | 🔴 Fare     |
-| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Mini-Project/Mini Project - OMT.md\|Mini Project - OMT]]                                                      | Progetto | 🔴 Fare     |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Mini-Project/Mini Project - OMT.md\|Mini Project - OMT]]                                                      | Progetto | 🟡 Finire   |
 | [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT\|03 - Fundamentals of traffic flow modeling - OMT]] | T        | 🪶 Scrivere |
 
 { .block-language-dataview}

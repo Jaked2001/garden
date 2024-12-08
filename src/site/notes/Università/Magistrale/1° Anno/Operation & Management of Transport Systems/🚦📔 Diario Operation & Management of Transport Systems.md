@@ -118,3 +118,18 @@ Solution of [[Università/Magistrale/1° Anno/Operation & Management of Transpor
 	- Example (s, v)
 	- k, v model
 	- The fundamental diagram (q, k)
+
+
+# 📆  02-12-2024 - Mon
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT\|03 - Fundamentals of traffic flow modeling - OMT]] - LWR theory
+- Concept
+	- Accelerating
+	- Decelerating
+- Simplifications
+- Example of application
+	- Incident on freeway
+- Limitation of the theory
+

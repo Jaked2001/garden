@@ -138,7 +138,7 @@ $$
 [[2024-11-13]]
 %%
 ### Theory of election
-
+,
 What combination $(x_{1},x_{2})$ will the consumer choose?
 
 Reminding that the consumer is rational, we have an optimization problem:
@@ -223,7 +223,7 @@ The arrow represents the direction in which the [[#Utility function]] increases
 In this case the [[#Utility function]] is well represented by the [[#Other utility function]].
 
 ##### Undesirable goods
-
+ 
 ```ad-Definizione
 title: Undesirable good
 
@@ -329,11 +329,12 @@ $
 
 ##### Perfectly inelastic demand
 
+
 ```ad-Definizione
 title: Perfectly inelastic demand
 
 
-![[03 - Utility Demand function and Pricing - DME 2024-12-01 16.29.48.excalidraw.png\|03 - Utility Demand function and Pricing - DME 2024-12-01 16.29.48.excalidraw.png]]
+![Perfectly inelastic demand - 03 - Utility Demand function and Pricing - DME 2024-12-01 16.29.48.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/Decision%20Making%20&%20Economy%20in%20Urban%20Mobility/Notes/Allegati/Perfectly%20inelastic%20demand%20-%2003%20-%20Utility%20Demand%20function%20and%20Pricing%20-%20DME%202024-12-01%2016.29.48.excalidraw.png)
 
 
 A **perfectly inelastic demand** is one where for any change in price, the demand stays constant

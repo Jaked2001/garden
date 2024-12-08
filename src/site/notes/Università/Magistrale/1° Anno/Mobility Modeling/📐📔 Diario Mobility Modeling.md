@@ -103,3 +103,23 @@ Preparation for Partial. Problem 2 in:
 # 📆  27-11-2024 - Wed
 
 !!Partial exam!!
+
+
+# 📆  04-12-2024 - Wed
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Mobility Modeling/Notes/04 - Vehicle Routing problem - MM\|04 - Vehicle Routing problem - MM]]
+- Introduction to Capacitated Vehicle Routing problem (CVRP)
+- The Traveling Salesmen Problem (TSP)
+- TSP Basic formulation and limits
+- TSP Alternative formulations (2 ways of avoiding subtours)
+- How to solve the TSP problem
+	- (Greedy) Nearest Neighbor Heuristic
+	- (Greedy) Nearest Neighbor Insertion Heuristic
+
+
+# 📆  05-12-2024 - Thu
+
+Lab session:
+- Implemented [[Università/Triennale/2° anno/2° Semestre/Analisi Numerica/Appunti/03.2 Il metodo delle Tangenti\|Tangent method]] to calculate $\alpha$ in the [[Frank-Wolfe Method\|Frank-Wolfe Method]]

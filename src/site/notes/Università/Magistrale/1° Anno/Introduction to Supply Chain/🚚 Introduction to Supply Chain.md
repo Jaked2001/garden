@@ -75,7 +75,7 @@ Presentation + questions 1 week in advance.
 
 | File                                                                                                                                                                                 | Tipo | Stato       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- | ----------- |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/03 - Procurement BC - ISC\|03 - Procurement BC - ISC]]                                                | Es   | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/06 - Laura Ashley - BC - ISC\|06 - Laura Ashley - BC - ISC]]                                          | Es   | 🟡 Finire   |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC\|01 - Introduction to supply chain - ISC]]                             | T    | 🟠 Studiare |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/02 - Procurement and Planning - ISC\|02 - Procurement and Planning - ISC]]                                     | T    | 🟠 Studiare |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/02.1 - Procurement - ISC\|02.1 - Procurement - ISC]]                                                           | T    | 🪶 Scrivere |
@@ -122,11 +122,12 @@ ___
 ## ✍️ Business Cases
 
 
-| File                                                                                                                                  | Stato       |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/02 - 7 eleven Japan - ISC\|02 - 7 eleven Japan - ISC]] | 🟢 Fatto    |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/03 - Procurement BC - ISC.md\|03 - Procurement BC - ISC]] | 🟠 Studiare |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/04 - Benihana - BC - ISC\|04 - Benihana - BC - ISC]]   | 🟢 Fatto    |
+| File                                                                                                                                        | Stato     |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/02 - 7 eleven Japan - ISC\|02 - 7 eleven Japan - ISC]]       | 🟢 Fatto  |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/03 - Procurement BC - ISC\|03 - Procurement BC - ISC]]       | 🟢 Fatto  |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/04 - Benihana - BC - ISC\|04 - Benihana - BC - ISC]]         | 🟢 Fatto  |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/06 - Laura Ashley - BC - ISC.md\|06 - Laura Ashley - BC - ISC]] | 🟡 Finire |
 
 { .block-language-dataview}
 

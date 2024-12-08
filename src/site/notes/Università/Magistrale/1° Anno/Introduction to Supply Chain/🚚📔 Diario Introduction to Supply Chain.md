@@ -54,3 +54,12 @@ Class cancelled due to weather.
 - Outsourcing
 [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/05 - Supply Chain Design and Operation Strategy - ISC\|05 - Supply Chain Design and Operation Strategy - ISC]]
 - Components of a supply chain strategy
+
+
+# 📆  02-12-2024 - Mon
+
+### 📝 Theory
+
+
+
+### ✏️ Projects

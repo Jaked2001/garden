@@ -124,3 +124,21 @@ Midterm exam!
 ### 📝 Theory
 
 Lab session
+
+
+# 📆  03-12-2024 - Tue
+
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/04 - Statistical modeling through regression - DATS\|04 - Statistical modeling through regression - DATS]]
+- Interpretation of `lm()` method output in [[R-Studio\|R-Studio]].
+- Fisher test
+	- 3 ways of defining the fisher test
+- Testing multiple variables at the same time: `anova(submodel,Model)`
+	- Output interpretation
+	- Multiple correlation coefficient
+- Prediction based on linear model
+	- `predict(<model>, newdata=<dataframe>, interval = "prediction")`
+- Model validation
+	- `plot(<model>)` interpretation

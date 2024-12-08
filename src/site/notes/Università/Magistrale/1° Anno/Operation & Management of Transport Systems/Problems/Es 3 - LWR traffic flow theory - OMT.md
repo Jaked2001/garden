@@ -6,5 +6,6 @@
 # [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Problems/Es 3 - LWR traffic flow theory - OMT\|Es 3 - LWR traffic flow theory - OMT]]
 
 
+![[Discussion Session 3 - LWR traffic flow theory - OMT.pdf]]
 
 
