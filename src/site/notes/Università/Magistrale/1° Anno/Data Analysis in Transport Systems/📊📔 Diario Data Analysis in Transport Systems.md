@@ -142,3 +142,18 @@ Lab session
 	- `predict(<model>, newdata=<dataframe>, interval = "prediction")`
 - Model validation
 	- `plot(<model>)` interpretation
+
+
+# 📆  10-12-2024 - Tue
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/04 - Statistical modeling through regression - DATS\|04 - Statistical modeling through regression - DATS]]
+- Residuals
+- Diagnostics
+- Picking Best model
+
+
+# 📆  12-12-2024 - Thu
+
+Lab session on multiple linear regression.

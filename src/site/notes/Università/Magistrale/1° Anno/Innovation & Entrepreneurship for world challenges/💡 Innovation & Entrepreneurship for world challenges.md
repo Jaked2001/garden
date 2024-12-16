@@ -74,9 +74,10 @@ No final exam !!!
 
 ___
 
-| File                                                                                                                                              | Tipo | Stato   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------- |
-| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 3 - ??? - IE\|Challenge 3 - ??? - IE]] | Es   | 🔴 Fare |
+| File                                                                                                                                                                                                                                    | Tipo | Stato       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
+| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 3 - Reimagine autonomous driving vehicles interior - IE\|Challenge 3 - Reimagine autonomous driving vehicles interior - IE]] | Es   | 🟡 Finire   |
+| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/08 - Session 8 - IE\|08 - Session 8 - IE]]                                                                                                  | T    | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -97,11 +98,12 @@ ___
 # 👉🏻 Course Index
 
 
-| File                                                                                                                                               | Stato    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/01 - Design thinking - IE\|01 - Design thinking - IE]] | 🟢 Fatto |
-| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/04 - Session 4 - IE\|04 - Session 4 - IE]]             | 🟢 Fatto |
-| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/05 - Session 5 - IE\|05 - Session 5 - IE]]             | 🟢 Fatto |
+| File                                                                                                                                               | Stato       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/01 - Design thinking - IE\|01 - Design thinking - IE]] | 🟢 Fatto    |
+| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/04 - Session 4 - IE\|04 - Session 4 - IE]]             | 🟢 Fatto    |
+| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/05 - Session 5 - IE\|05 - Session 5 - IE]]             | 🟢 Fatto    |
+| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Notes/08 - Session 8 - IE.md\|08 - Session 8 - IE]]             | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -112,11 +114,11 @@ ___
 ## ✍️ Challenges
 
 
-| File                                                                                                                                                                                                                                        | Stato    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 1 - Reduce contamination to cyclists\|Challenge 1 - Reduce contamination to cyclists]]                                           | 🟢 Fatto |
-| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 2 - Pedestrian un-safety caused by their distraction - IE\|Challenge 2 - Pedestrian un-safety caused by their distraction - IE]] | 🟢 Fatto |
-| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 3 - ??? - IE.md\|Challenge 3 - ??? - IE]]                                                                                           | 🔴 Fare  |
+| File                                                                                                                                                                                                                                        | Stato     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 1 - Reduce contamination to cyclists\|Challenge 1 - Reduce contamination to cyclists]]                                           | 🟢 Fatto  |
+| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 2 - Pedestrian un-safety caused by their distraction - IE\|Challenge 2 - Pedestrian un-safety caused by their distraction - IE]] | 🟢 Fatto  |
+| [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 3 - Reimagine autonomous driving vehicles interior - IE.md\|Challenge 3 - Reimagine autonomous driving vehicles interior - IE]]     | 🟡 Finire |
 
 { .block-language-dataview}
 

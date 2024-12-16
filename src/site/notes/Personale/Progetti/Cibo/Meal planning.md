@@ -18,8 +18,8 @@
 | [[Personale/Progetti/Cibo/Ricette/Mini parmigiane di melanzane\|Mini parmigiane di melanzane]]     | [[_Giornaliera/2024-11-08\|2024-11-08]]  | Secondo |
 | [[Personale/Progetti/Cibo/Ricette/Ravioli burro e salvia\|Ravioli burro e salvia]]                 | [[_Giornaliera/2024-11-05\|2024-11-05]]  | Primo   |
 | [[Personale/Progetti/Cibo/Ricette/Spaghetti alla carbonara\|Spaghetti alla carbonara]]             | [[_Giornaliera/2024-11-05\|2024-11-05]]  | Primo   |
-| [[Personale/Progetti/Cibo/Bucatini all'amatriciana\|Bucatini all'amatriciana]]                     | \-              | Primo   |
 | [[Personale/Progetti/Cibo/Burger di Ricotta\|Burger di Ricotta]]                                   | \-              | Secondo |
+| [[Personale/Progetti/Cibo/Bucatini all'amatriciana\|Bucatini all'amatriciana]]                     | \-              | Primo   |
 | [[Personale/Progetti/Cibo/Crema di caffè\|Crema di caffè]]                                         | \-              | Dolce   |
 
 { .block-language-dataview}

@@ -59,7 +59,7 @@ During exam can only have 1 A4 sheet of **hand written** notes.
 
 - [x] [[2024-10-21]] - Graded Assgm 1 ⏫ ✅ 2024-10-30
 - [x] [[2024-11-18]] - Graded Assgm 2 ⏫ ✅ 2024-11-18
-- [!] [[2024-12-10]] - **Graded Assgm 3** ⏫ 
+- [x] [[2024-12-10]] - **Graded Assgm 3** ⏫ ✅ 2024-12-12
 - [!] [[2024-12-16]] - **Graded Assgm 4** ⏫ 
 
 4 problems each worth 10%, But will only take the best 3.
@@ -87,7 +87,7 @@ Esercizi:
 | -------------- | -------------- | ----------- |
 | Graded Assgm 1 | [[2024-10-21]] | 10          |
 | Graded Assgm 2 | [[2024-11-18]] | 9           |
-| Graded Assgm 3 |                |             |
+| Graded Assgm 3 | [[2024-12-10]] |             |
 | Graded Assgm 4 |                |             |
 | MiniProject    |                |             |
 | Final          |                |             |
@@ -104,9 +104,9 @@ ___
 
 | File                                                                                                                                                                                      | Tipo     | Stato       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------- |
-| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Problems/Es 3 - LWR traffic flow theory - OMT\|Es 3 - LWR traffic flow theory - OMT]]                      | Es       | 🔴 Fare     |
 | [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Mini-Project/Mini Project - OMT.md\|Mini Project - OMT]]                                                      | Progetto | 🟡 Finire   |
-| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT\|03 - Fundamentals of traffic flow modeling - OMT]] | T        | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT\|03 - Fundamentals of traffic flow modeling - OMT]] | T        | 🟡 Finire   |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/04 - Microscopic traffic flow modeling - OMT\|04 - Microscopic traffic flow modeling - OMT]]         | T        | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -132,10 +132,11 @@ ___
 | [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/00 - Course introduction - OMT\|00 - Course introduction - OMT]]                                     | 🟢 Fatto    |
 | [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/01 - Introduction to trajectories Analysis - OMT\|01 - Introduction to trajectories Analysis - OMT]] | 🟢 Fatto    |
 | [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT\|02 - Fundamentals fo Queuing Theory - OMT]]               | 🟢 Fatto    |
-| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT.md\|03 - Fundamentals of traffic flow modeling - OMT]] | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT.md\|03 - Fundamentals of traffic flow modeling - OMT]] | 🟡 Finire   |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/04 - Microscopic traffic flow modeling - OMT.md\|04 - Microscopic traffic flow modeling - OMT]]         | 🪶 Scrivere |
 
 { .block-language-dataview}
-
+ 
 
 
 ___
@@ -152,7 +153,7 @@ ___
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Problems/Es 1 - Trajectories - OMT\|Es 1 - Trajectories - OMT]]                       | 🟢 Fatto |
 | [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Problems/Es 2 - Queuing processes - OMT\|Es 2 - Queuing processes - OMT]]             | 🟢 Fatto |
-| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Problems/Es 3 - LWR traffic flow theory - OMT.md\|Es 3 - LWR traffic flow theory - OMT]] | 🔴 Fare  |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Problems/Es 3 - LWR traffic flow theory - OMT\|Es 3 - LWR traffic flow theory - OMT]] | 🟢 Fatto |
 
 { .block-language-dataview}
 

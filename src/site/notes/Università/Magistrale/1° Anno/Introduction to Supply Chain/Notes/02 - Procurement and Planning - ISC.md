@@ -119,7 +119,8 @@ In an ideal world, Sell-IN=Sell-OUT.
 
 Often we don't work with sell-OUT, because the client doesn't disclose it (at least for free).
 
-
+SELL-IN - What you sell to the costumer
+SELL-OUT - What the costumer sells to the final consumer
 
 ## Demand planning
 

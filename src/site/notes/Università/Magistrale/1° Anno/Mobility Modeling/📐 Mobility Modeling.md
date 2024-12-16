@@ -57,7 +57,7 @@ Practical lab exercises: 0,12 Ass0 + 0,44 Ass2 + 0,44 Ass3
 ### 🗣Assignment
 
 - [x] [[2024-11-06]] - Assgm 0 🔼 ✅ 2024-11-06
-- [!] [[2024-12-11]] - Assgm 2 🔼 
+- [x] [[2024-12-11]] - Assgm 2 🔼 ✅ 2024-12-12
 - [!] [[2025-01-10]] - Assgm 3 🔼
 
 Can work in group of 2. Even different groups for different assignment.
@@ -97,8 +97,6 @@ ___
 
 | File                                                                                                                                                                      | Tipo  | Stato       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ----------- |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Assgm - MM/Assgm 2 - Traffic Assignment problem - MM\|Assgm 2 - Traffic Assignment problem - MM]]                    | Es    | 🔴 Fare     |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Problems/P01 - Min-cost problems and SIMPLEX method - MM\|P01 - Min-cost problems and SIMPLEX method - MM]]          | Es    | 🔴 Fare     |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Past Exams/2021 - Final Exam - MM\|2021 - Final Exam - MM]]                                                          | Esame | 🔴 Fare     |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/0 - Introduction to Mobility Modeling\|0 - Introduction to Mobility Modeling]]                                 | T     | 🟡 Finire   |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.1 - Network flows - MM\|01.1 - Network flows - MM]]                                                         | T     | 🟡 Finire   |
@@ -149,9 +147,9 @@ ___
 | File                                                                                                                                                             | Stato    | dg-publish |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------- |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Assgm - MM/Assgm 0 - Introductory Excercise - MM\|Assgm 0 - Introductory Excercise - MM]]                   | 🟢 Fatto | true       |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Assgm - MM/Assgm 2 - Traffic Assignment problem - MM.md\|Assgm 2 - Traffic Assignment problem - MM]]           | 🔴 Fare  | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Assgm - MM/Assgm 2 - Traffic Assignment problem - MM\|Assgm 2 - Traffic Assignment problem - MM]]           | 🟢 Fatto | true       |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Problems/P00 - Introduction to Network flows problems\|P00 - Introduction to Network flows problems]]       | 🟢 Fatto | true       |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Problems/P01 - Min-cost problems and SIMPLEX method - MM.md\|P01 - Min-cost problems and SIMPLEX method - MM]] | 🔴 Fare  | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Problems/P01 - Min-cost problems and SIMPLEX method - MM\|P01 - Min-cost problems and SIMPLEX method - MM]] | 🟢 Fatto | true       |
 
 { .block-language-dataview}
 

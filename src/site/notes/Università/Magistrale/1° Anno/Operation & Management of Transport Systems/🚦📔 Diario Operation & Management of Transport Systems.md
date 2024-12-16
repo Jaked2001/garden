@@ -133,3 +133,34 @@ Solution of [[Università/Magistrale/1° Anno/Operation & Management of Transpor
 	- Incident on freeway
 - Limitation of the theory
 
+# 📆  09-12-2024 - Mon
+
+### ✏️ Discussion
+
+Problems 3 and 4 in [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Problems/Es 3 - LWR traffic flow theory - OMT\|Es 3 - LWR traffic flow theory - OMT]]
+
+
+# 📆  10-12-2024 - Tue
+
+- Graded Assgm #3
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/04 - Microscopic traffic flow modeling - OMT\|04 - Microscopic traffic flow modeling - OMT]]
+- Car-following theory
+- $(s-q)$ relationship
+- Platooning
+- Car following models
+	- Pipes
+	- Forbes
+
+
+
+Remaining classes
+- $(s-q)$ relationship and automatic draving
+- Car-following models
+	- General Motors
+- Link Micro-Macro
+- Traffic stability
+
+

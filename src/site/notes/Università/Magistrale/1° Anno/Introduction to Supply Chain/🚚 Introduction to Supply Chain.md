@@ -53,7 +53,7 @@ Key concepts. no little details.
 
 ### 🗣 Business case study
 
-- [!] Data undefined - BC Presentation 🔼 
+- [x] [[2024-12-09]] - BC Presentation 🔼 ✅ 2024-12-10
 
 Max 6 people per group.
 Present 1 business case in class (20-25 min)
@@ -65,23 +65,24 @@ Presentation + questions 1 week in advance.
 
 ## 💯 Grade
 
-| Parte       | Data           | Voto |
-| ----------- | -------------- | ---- |
-| Scritto |  |  |
-| Orale       |  |     |
+| Parte           | Data           | Voto |
+| --------------- | -------------- | ---- |
+| BC presentation | [[2024-12-09]] | 9    |
+| Final exam      | [[2025-01-13]] |      |
+| **Grade**       |                |      |
 
 
 # ✔️ To-Do
 
 | File                                                                                                                                                                                 | Tipo | Stato       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- | ----------- |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/06 - Laura Ashley - BC - ISC\|06 - Laura Ashley - BC - ISC]]                                          | Es   | 🟡 Finire   |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC\|01 - Introduction to supply chain - ISC]]                             | T    | 🟠 Studiare |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/02 - Procurement and Planning - ISC\|02 - Procurement and Planning - ISC]]                                     | T    | 🟠 Studiare |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/02.1 - Procurement - ISC\|02.1 - Procurement - ISC]]                                                           | T    | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/03 - Logistics - ISC\|03 - Logistics - ISC]]                                                                   | T    | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/04 - Outsourcing - ISC\|04 - Outsourcing - ISC]]                                                               | T    | 🟠 Studiare |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/05 - Supply Chain Design and Operation Strategy - ISC\|05 - Supply Chain Design and Operation Strategy - ISC]] | T    | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/05 - Customer collaborative Supply Chain Models\|05 - Customer collaborative Supply Chain Models]]             | T    | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/06 - Supply Chain Design and Operation Strategy - ISC\|06 - Supply Chain Design and Operation Strategy - ISC]] | T    | 🟠 Studiare |
 
 { .block-language-dataview}
 
@@ -110,7 +111,8 @@ ___
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/02.1 - Procurement - ISC.md\|02.1 - Procurement - ISC]]                                                           | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/03 - Logistics - ISC.md\|03 - Logistics - ISC]]                                                                   | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/04 - Outsourcing - ISC.md\|04 - Outsourcing - ISC]]                                                               | 🟠 Studiare |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/05 - Supply Chain Design and Operation Strategy - ISC.md\|05 - Supply Chain Design and Operation Strategy - ISC]] | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/05 - Customer collaborative Supply Chain Models.md\|05 - Customer collaborative Supply Chain Models]]             | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/06 - Supply Chain Design and Operation Strategy - ISC.md\|06 - Supply Chain Design and Operation Strategy - ISC]] | 🟠 Studiare |
 
 { .block-language-dataview}
 
@@ -122,12 +124,12 @@ ___
 ## ✍️ Business Cases
 
 
-| File                                                                                                                                        | Stato     |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/02 - 7 eleven Japan - ISC\|02 - 7 eleven Japan - ISC]]       | 🟢 Fatto  |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/03 - Procurement BC - ISC\|03 - Procurement BC - ISC]]       | 🟢 Fatto  |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/04 - Benihana - BC - ISC\|04 - Benihana - BC - ISC]]         | 🟢 Fatto  |
-| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/06 - Laura Ashley - BC - ISC.md\|06 - Laura Ashley - BC - ISC]] | 🟡 Finire |
+| File                                                                                                                                        | Stato    |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/02 - 7 eleven Japan - ISC\|02 - 7 eleven Japan - ISC]]       | 🟢 Fatto |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/03 - Procurement BC - ISC\|03 - Procurement BC - ISC]]       | 🟢 Fatto |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/04 - Benihana - BC - ISC\|04 - Benihana - BC - ISC]]         | 🟢 Fatto |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/06 - Laura Ashley - BC - ISC\|06 - Laura Ashley - BC - ISC]] | 🟢 Fatto |
 
 { .block-language-dataview}
 
