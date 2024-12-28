@@ -60,7 +60,7 @@ During exam can only have 1 A4 sheet of **hand written** notes.
 - [x] [[2024-10-21]] - Graded Assgm 1 ⏫ ✅ 2024-10-30
 - [x] [[2024-11-18]] - Graded Assgm 2 ⏫ ✅ 2024-11-18
 - [x] [[2024-12-10]] - **Graded Assgm 3** ⏫ ✅ 2024-12-12
-- [!] [[2024-12-16]] - **Graded Assgm 4** ⏫ 
+- [x] [[2024-12-16]] - **Graded Assgm 4** ⏫ ✅ 2024-12-16
 
 4 problems each worth 10%, But will only take the best 3.
 
@@ -73,6 +73,12 @@ During exam can only have 1 A4 sheet of **hand written** notes.
 - 30% - Discussion
 
 
+
+Record a presentation of the Mini Project and upload the recording - Presentation with voice is enough.
+
+Only 5 will perform live. The others will be evaluated in the office
+
+ 
 ### ✍️ Final
 
 - [!] [[2025-01-07]] - ❗️ **Final Exam** ⏫ 
@@ -80,6 +86,12 @@ During exam can only have 1 A4 sheet of **hand written** notes.
 🕒 Tempo:
 Esercizi: 
 
+**BRING LAPTOP**.
+
+2 parts:
+1. Theoretical questions (with no or few calculations)
+	- Often multiple choice
+2. Problems similar to graded activities
 
 ## 💯 Voto
 

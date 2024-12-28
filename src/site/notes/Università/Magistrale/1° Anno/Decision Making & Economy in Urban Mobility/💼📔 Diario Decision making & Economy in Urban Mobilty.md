@@ -166,6 +166,31 @@ Group work on [[Università/Magistrale/1° Anno/Decision Making & Economy in Urb
 ### 📝 Theory
 
 [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/04 - Theory of Organization and Supply Regulation - DME\|04 - Theory of Organization and Supply Regulation - DME]]
-- 
 
-### ✏️ Projects
+
+# 📆  18-12-2024 - Wed
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/04 - Theory of Organization and Supply Regulation - DME\|04 - Theory of Organization and Supply Regulation - DME]]
+- Monopoly
+
+
+
+# 📆  20-12-2024 - Fri
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/04 - Theory of Organization and Supply Regulation - DME\|04 - Theory of Organization and Supply Regulation - DME]]
+- Public goods
+- Public services
+
+[[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME\|02 - Appraisal and Cost-Benefit Analysis - DME]]
+- Externalities
+
+[[05 - Public Transport Financing - DME\|05 - Public Transport Financing - DME]]
+- Financing
+- Deficit
+
+
+

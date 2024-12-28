@@ -156,11 +156,17 @@ Problems 3 and 4 in [[Università/Magistrale/1° Anno/Operation & Management of 
 
 
 
-Remaining classes
-- $(s-q)$ relationship and automatic draving
-- Car-following models
-	- General Motors
-- Link Micro-Macro
-- Traffic stability
 
 
+
+# 📆  17-12-2024 - Tue
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/04 - Microscopic traffic flow modeling - OMT\|04 - Microscopic traffic flow modeling - OMT]]
+- Generam Motors car following models
+	- Generations 1 to 5
+- Link between GM 3rd gen model and macroscopic Greenberg model
+- Brief discussion on stability
+
+- Graded Assgm #4

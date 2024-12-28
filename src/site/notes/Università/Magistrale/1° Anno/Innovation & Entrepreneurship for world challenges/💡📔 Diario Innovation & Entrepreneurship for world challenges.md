@@ -41,3 +41,8 @@ Presentations of challenge 2
 # 📆  13-12-2024 - Fri
 
 Introduction to [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 3 - Reimagine autonomous driving vehicles interior - IE\|Challenge 3 - Reimagine autonomous driving vehicles interior - IE]]
+
+
+# 📆  20-12-2024 - Fri
+
+Work on [[Università/Magistrale/1° Anno/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 3 - Reimagine autonomous driving vehicles interior - IE\|Challenge 3 - Reimagine autonomous driving vehicles interior - IE]]

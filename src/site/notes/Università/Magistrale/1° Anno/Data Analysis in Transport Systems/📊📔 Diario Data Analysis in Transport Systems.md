@@ -157,3 +157,12 @@ Lab session
 # 📆  12-12-2024 - Thu
 
 Lab session on multiple linear regression.
+
+
+# 📆  17-12-2024 - Tue
+
+### 📝 Theory
+
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗

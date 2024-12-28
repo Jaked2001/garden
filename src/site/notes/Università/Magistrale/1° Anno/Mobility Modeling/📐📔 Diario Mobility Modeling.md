@@ -48,7 +48,6 @@ Updated calendar:
 - Problem from slides: [[1.2 - The min-cost problem & the SIMPLEX algoritm - MM.pdf]] at page 37
 - Problem from slides: [[1.2 - The min-cost problem & the SIMPLEX algoritm - MM.pdf]] at page 41
 
-### ✏️ Lab
 
 
 
@@ -123,3 +122,27 @@ Preparation for Partial. Problem 2 in:
 
 Lab session:
 - Implemented [[Università/Triennale/2° anno/2° Semestre/Analisi Numerica/Appunti/03.2 Il metodo delle Tangenti\|Tangent method]] to calculate $\alpha$ in the [[Frank-Wolfe Method\|Frank-Wolfe Method]]
+
+
+
+
+# 📆  11-12-2024 - Wed
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Mobility Modeling/Notes/04 - Vehicle Routing problem - MM\|04 - Vehicle Routing problem - MM]]
+- Spanning Tree Heuristic
+- Christofides Heuristic
+- Exchange Heuristic
+
+
+
+# 📆  18-12-2024 - Wed
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/Mobility Modeling/Notes/04 - Vehicle Routing problem - MM\|04 - Vehicle Routing problem - MM]]
+- Exact formulation of VRP (Vehicle Routing Problem)
+- Heuristics
+	- Fisher-Jay Kummor
+	- Clarks & Wright

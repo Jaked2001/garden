@@ -98,7 +98,7 @@ $$
 Now we are ready to see several models. Specifically, we will see:
 - [[#Pipes car-following model (1953)]]
 - [[#Forbes car-following model (1958)]]
-- [[#General motors car-following models (1958-1961)]]
+- [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/04 - Microscopic traffic flow modeling - OMT#General motors car-following models (1958-1961)\|#General motors car-following models (1958-1961)]]
 
 ### Pipes car-following model (1953)
 
@@ -168,6 +168,8 @@ They developed several generations of a model. The models were calibrated using 
 
 General Motors car-following models fall under the spectrum of [[stimulus-response model]].
 
+#### GM car following models
+
 ```ad-Definizione
 title: Stimulus-response models
 
@@ -177,23 +179,51 @@ $
 $
 ```
 
-Specifically:
-- **Response:** follower acceleration - $\ddot{x}_{n+1}(t+\Delta t)$ - measured at a time $t+\Delta t$ (a reaction time after $t$)
+
+#### Response
+
+In longitudinal movement, the follower can only react in 2 ways to what the vehicle in front does:
+- Accelerate
+- Decelerate
+
+The response is therefore measured in terms of follower acceleration:
+$$
+\ddot{x}_{n+1}(t+\Delta t)
+$$
+
+
+#### Stimulus
+
+#### Sensitivity
+
+measures how attentive you are to traffic.
+
+
+
+___
+
+- **Response:** follower acceleration - $\ddot{x}_{n+1}(t+\Delta t)$ - measured at a time $t+\Delta t$ (a reaction time after $t$) - If the stimulus happens at $t$, the response always happens $\Delta t$ after the stimulus
 - **Stimulus:** Relative speed - $\dot{x}_{n}(t)-\dot{x}_{n+1}(t)$
 - **Sensitivity:** a proportionality factor (or function) - $\alpha$
 
 The general model is always in the form:
 $$
-\ddot{x}_{n+1}(t+\Delta t) = \alpha(...) \cdot \left[  \dot{x}_{n}(t) + \dot{x}_{n+1}(t)  \right]
+\ddot{x}_{n+1}(t+\Delta t) = \alpha(...) \cdot \left[  \dot{x}_{n}(t) - \dot{x}_{n+1}(t)  \right]
 $$
 Depending on the model generation then, $\alpha$ is expressed as different functions.
 
 
+
+
+#### GM model Generations
 #### 1st generation - GM model
 
-In the 1st generation of the [[#General motors car-following models (1958-1961)]] the sensitivity $\alpha$ is considered constant:
+In the 1st generation of the [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/04 - Microscopic traffic flow modeling - OMT#General motors car-following models (1958-1961)\|#General motors car-following models (1958-1961)]] the sensitivity $\alpha$ is considered constant:
 $$
-\ddot{x}_{n+1}(t+\Delta t) = \alpha \cdot \left[  \dot{x}_{n}(t) + \dot{x}_{n+1}(t)  \right]
+\begin{align}
+\ddot{x}_{n+1}(t+\Delta t) &= \alpha \cdot \left[  \dot{x}_{n}(t) - \dot{x}_{n+1}(t)  \right] \\
+\left[  \mathrm{\frac{m}{s^{2}}}\right] &=  \left[\frac{1}{s}\right] \cdot \left[\frac{m}{s} \right]
+\end{align}
 $$
 The acceleration of the follower is directly proportional to the relative speed between the leader and the follower.
 
@@ -210,9 +240,97 @@ The sensitivity parameter showed large variability depending on the driving cond
 
 #### 2nd generation - GM model
 
+![04 - Microscopic traffic flow modeling - OMT 2024-12-16 16.30.23.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/Operation%20&%20Management%20of%20Transport%20Systems/Notes/Allegati/04%20-%20Microscopic%20traffic%20flow%20modeling%20-%20OMT%202024-12-16%2016.30.23.excalidraw.png)
 
+
+GM observed that $\alpha$ had too much variation. So, they decided to use 2 different values of $\alpha$
 
 #### 3rd generation - GM model
+
+Since they didn't know at what point you would get a new value of $\alpha$, GM decided to use a linear function to describe $\alpha$:
+
+![04 - Microscopic traffic flow modeling - OMT 2024-12-16 16.32.57.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/Operation%20&%20Management%20of%20Transport%20Systems/Notes/Allegati/04%20-%20Microscopic%20traffic%20flow%20modeling%20-%20OMT%202024-12-16%2016.32.57.excalidraw.png)
+
+
+$$
+\ddot{x}_{n+1}(t+\Delta t) = \frac{\alpha_{0}}{[x_{n}(t)-x_{n+1}(t)]} [ \dot{x}_{n}(t) - \dot{x}_{n+1}(t) ]
+$$
+where $\alpha_{0}$ is the sensitivity coefficient and is measured in $\rm\left[  \dfrac{m}{s}  \right]$.
+
+So, $\alpha_{0}$ is a speed. It gives the linkage between [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/04 - Microscopic traffic flow modeling - OMT\|microscopic]] and [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Problems/Es 3 - LWR traffic flow theory - OMT\|macroscopic]] traffic flow models.
+
+##### Relation between 3rd gen micro model and Greenberg macro model
+
+Integrating the 3rd generation model in time, we get (notice that the relative speed is the derivative of the spacing):
+$$
+\dot{x}_{n+1}(t+\Delta t) = \alpha_{0} \ln{(x_{n}(t)-x_{n+1}(t))} + C
+$$
+In terms of speed:
+$$
+V = \alpha_{0} \ln\left( \frac{C}{k} \right)
+$$
+We can try to find the constant of integration $C$ by the following initial conditions:
+$$
+V = 0 \quad k= k_{j}
+$$
+then:
+$$
+0 = \alpha_{0}\ln{\left( \frac{C}{k_{j}} \right)} \quad \Longrightarrow \quad C = k_{j}
+$$
+and we get:
+$$
+V = \alpha_{0}\ln\left( \frac{k_{j}}{k} \right)
+$$
+which looks exactly like the [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Greenberg k-v model (1959)\|03 - Fundamentals of traffic flow modeling - OMT#Greenberg k-v model (1959)]] with $\alpha_{0} = v_{0}$, which is the optimal speed.
+
 #### 4th generation - GM model
+
+In the 4th generation, they proposed that $\alpha_{0}$ is not constant but dependent on the speed of the follower:
+$$
+\alpha_{0} = \alpha' \dot{x}_{n+1}(t)
+$$
+the model is then
+$$
+\ddot{x}_{n+1}(t+\Delta t) = \frac{\alpha'\dot{x}_{n+1}(t)}{[x_{n}(t)-x_{n+1}(t)]} [ \dot{x}_{n}(t) - \dot{x}_{n+1}(t) ]
+$$
+where
+- $\alpha'$ is a-dimensional
+
+This means that how attentive you are,  not only depends on the spacing, but also on the traveling speed (more attentive the faster you go)
+
+! We still have 2 parameters.
+
 #### 5th generation - GM model
+
+2 parameters are added, $n$ and $l$. They have no known physical meaning, but they're useful to hav more flexibility in calibrating the model.
+
+$$
+\ddot{x}_{n+1}(t+\Delta t) = \frac{\alpha'[\dot{x}_{n+1}(t)]^{n}}{[x_{n}(t)-x_{n+1}(t)]^{l}} [ \dot{x}_{n}(t) - \dot{x}_{n+1}(t) ]
+$$
+
+All the [[#General motors car-following models (1958-1961)]] are a particular case of the 5th gen model.
+
+![04 - Microscopic traffic flow modeling - OMT 2024-12-16 16.49.33.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/Operation%20&%20Management%20of%20Transport%20Systems/Notes/Allegati/04%20-%20Microscopic%20traffic%20flow%20modeling%20-%20OMT%202024-12-16%2016.49.33.excalidraw.png)
+
+
+## Traffic stability
+
+The kind of equations we setup in the [[#General motors car-following models (1958-1961)]] define an oscillatory movement.
+
+![04 - Microscopic traffic flow modeling - OMT 2024-12-16 16.55.53.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/Operation%20&%20Management%20of%20Transport%20Systems/Notes/Allegati/04%20-%20Microscopic%20traffic%20flow%20modeling%20-%20OMT%202024-12-16%2016.55.53.excalidraw.png)
+
+
+We can look at an **instability parameter**, found from the models:
+$$
+C = \alpha \cdot \Delta t
+$$
+Notice that $C$ is a-dimensional.
+
+It can be shown that traffic is stable if:
+$$
+C \le 0.5
+$$
+If $C> 0.5$ you get unstable traffic: overreaction.
+
+This condition is valid for **asymptotic stability**: it's not only a pair of veh, it's a long queue of vehicles.
 

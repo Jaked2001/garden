@@ -95,6 +95,7 @@ ___
 
 | File                                                                                                                                                                                   | Tipo | Stato       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Assgn/Assgm 2 - BOH - DATS\|Assgm 2 - BOH - DATS]]                                                               | Es   | 🔴 Fare     |
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/LabSess 2 - 2024-10-24 - - DATS\|LabSess 2 - 2024-10-24 - - DATS]]                                         | Lab  | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS\|02 - Exploratory Data Analysis - DATS]]                             | T    | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02.1 - Input Data Analysis - DATS\|02.1 - Input Data Analysis - DATS]]                                     | T    | 🪶 Scrivere |
@@ -182,6 +183,7 @@ ___
 | File                                                                                                                                                                                                                             | Stato    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Assgn/Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS\|Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS]] | 🟢 Fatto |
+| [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Assgn/Assgm 2 - BOH - DATS.md\|Assgm 2 - BOH - DATS]]                                                                                                         | 🔴 Fare  |
 
 { .block-language-dataview}
 

@@ -42,6 +42,8 @@ sort by description
 1pt bonus track: There will be kahoot on presentation. Who gets the most points, get an extra point at the exam. Every presentation has a winner.
 
 
+
+
 ## Evaluation Structure
 
 ### ✍️ Final exam
@@ -49,6 +51,18 @@ sort by description
 - [!] [[2025-01-13]] - ❗️ Final Exam ⏫ 
 
 Key concepts. no little details.
+- Difference between logistics and supply chain (example question)
+
+Only do slides we discussed in class
+* No small details, focus on concepts
+* There can be concepts from business cases (ex: what are typical benefits for Henkel in using CRP)
+* Questions will be based on examples
+* Also based on guest lectures
+* Exam should be possible in 1.5h (we will have up to 2h)
+* Max 10 questions
+
+**Example questions:**
+- you prefer sell-in or sell-out, why?
 - Difference between logistics and supply chain (example question)
 
 ### 🗣 Business case study
@@ -83,6 +97,7 @@ Presentation + questions 1 week in advance.
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/04 - Outsourcing - ISC\|04 - Outsourcing - ISC]]                                                               | T    | 🟠 Studiare |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/05 - Customer collaborative Supply Chain Models\|05 - Customer collaborative Supply Chain Models]]             | T    | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/06 - Supply Chain Design and Operation Strategy - ISC\|06 - Supply Chain Design and Operation Strategy - ISC]] | T    | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/07 - Quality in SC - ISC\|07 - Quality in SC - ISC]]                                                           | T    | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -113,6 +128,7 @@ ___
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/04 - Outsourcing - ISC.md\|04 - Outsourcing - ISC]]                                                               | 🟠 Studiare |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/05 - Customer collaborative Supply Chain Models.md\|05 - Customer collaborative Supply Chain Models]]             | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/06 - Supply Chain Design and Operation Strategy - ISC.md\|06 - Supply Chain Design and Operation Strategy - ISC]] | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Notes/07 - Quality in SC - ISC.md\|07 - Quality in SC - ISC]]                                                           | 🪶 Scrivere |
 
 { .block-language-dataview}
 

@@ -54,6 +54,10 @@ Final mark:
 
 Practical lab exercises: 0,12 Ass0 + 0,44 Ass2 + 0,44 Ass3
 
+$
+\text{Final Grade} = \frac{1}{2} \cdot (0.12 \cdot A_{0} +  0.44 \cdot A_{2} + 0.44 \cdot A_{3}) + \frac{1}{2} \cdot (0.6 \cdot P + 0.4 \cdot F)
+$
+
 ### 🗣Assignment
 
 - [x] [[2024-11-06]] - Assgm 0 🔼 ✅ 2024-11-06
@@ -97,6 +101,7 @@ ___
 
 | File                                                                                                                                                                      | Tipo  | Stato       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ----------- |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Assgm - MM/Assgm 3 - Vehicle Routing Problem - MM\|Assgm 3 - Vehicle Routing Problem - MM]]                          | Es    | 🟡 Finire   |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Past Exams/2021 - Final Exam - MM\|2021 - Final Exam - MM]]                                                          | Esame | 🔴 Fare     |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/0 - Introduction to Mobility Modeling\|0 - Introduction to Mobility Modeling]]                                 | T     | 🟡 Finire   |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/01.1 - Network flows - MM\|01.1 - Network flows - MM]]                                                         | T     | 🟡 Finire   |
@@ -105,6 +110,7 @@ ___
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/04 - Vehicle Routing problem - MM\|04 - Vehicle Routing problem - MM]]                                         | T     | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/LAB - AMPL/Lab 1 - Introduction to AMPL\|Lab 1 - Introduction to AMPL]]                                              | T     | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/The SIMPLEX Method\|The SIMPLEX Method]]                                                                       | T     | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/Traveling Salesman Problem\|Traveling Salesman Problem]]                                                       | T     | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -135,6 +141,7 @@ ___
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/04 - Vehicle Routing problem - MM.md\|04 - Vehicle Routing problem - MM]]                                         | 🪶 Scrivere | true       |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/LAB - AMPL/Lab 1 - Introduction to AMPL.md\|Lab 1 - Introduction to AMPL]]                                              | 🪶 Scrivere | true       |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/The SIMPLEX Method.md\|The SIMPLEX Method]]                                                                       | 🪶 Scrivere | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/Traveling Salesman Problem.md\|Traveling Salesman Problem]]                                                       | 🪶 Scrivere | true       |
 
 { .block-language-dataview}
 
@@ -144,12 +151,13 @@ ___
 
 ## ✍️ Assignments
 
-| File                                                                                                                                                             | Stato    | dg-publish |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------- |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Assgm - MM/Assgm 0 - Introductory Excercise - MM\|Assgm 0 - Introductory Excercise - MM]]                   | 🟢 Fatto | true       |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Assgm - MM/Assgm 2 - Traffic Assignment problem - MM\|Assgm 2 - Traffic Assignment problem - MM]]           | 🟢 Fatto | true       |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Problems/P00 - Introduction to Network flows problems\|P00 - Introduction to Network flows problems]]       | 🟢 Fatto | true       |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Problems/P01 - Min-cost problems and SIMPLEX method - MM\|P01 - Min-cost problems and SIMPLEX method - MM]] | 🟢 Fatto | true       |
+| File                                                                                                                                                             | Stato     | dg-publish |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ---------- |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Assgm - MM/Assgm 0 - Introductory Excercise - MM\|Assgm 0 - Introductory Excercise - MM]]                   | 🟢 Fatto  | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Assgm - MM/Assgm 2 - Traffic Assignment problem - MM\|Assgm 2 - Traffic Assignment problem - MM]]           | 🟢 Fatto  | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Assgm - MM/Assgm 3 - Vehicle Routing Problem - MM.md\|Assgm 3 - Vehicle Routing Problem - MM]]                 | 🟡 Finire | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Problems/P00 - Introduction to Network flows problems\|P00 - Introduction to Network flows problems]]       | 🟢 Fatto  | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Problems/P01 - Min-cost problems and SIMPLEX method - MM\|P01 - Min-cost problems and SIMPLEX method - MM]] | 🟢 Fatto  | true       |
 
 { .block-language-dataview}
 

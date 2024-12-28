@@ -74,3 +74,12 @@ Seminary on hydrogen Supply Chain
 ### ✏️ Projects
 
 Presented [[Università/Magistrale/1° Anno/Introduction to Supply Chain/Business Cases/06 - Laura Ashley - BC - ISC\|Laura Ashley BC]]
+
+
+
+# 📆  16-12-2024 - Mon
+
+### 📝 Theory
+
+### ✏️ Projects
+

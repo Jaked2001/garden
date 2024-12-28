@@ -143,16 +143,16 @@ Direction is much more important than speed.
 ## Competitive winning factors
 
 What are the 4 operations winning factors?
-- Cost
+- **Cost**
 	- Very efficient
 	- [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME#Economy of scale\|Economy of scale]]
-- Quality
+- **Quality**
 	- High quality standards
-- Service
+- **Service**
 	- Related to **availability** (go to supermarket and you find it)
 	- Reliable
 	- Customer priority above other variables
-- Flexibility
+- **Flexibility**
 	- Prepared to all costumer requests
 	- Related to service but: special preparations, like giving delivery window...
 
