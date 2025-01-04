@@ -83,10 +83,18 @@ Only 5 will perform live. The others will be evaluated in the office
 
 - [!] [[2025-01-07]] - ❗️ **Final Exam** ⏫ 
 
-🕒 Tempo:
-Esercizi: 
+**🕒 Time:** 15 min + 30 min + 60 min
+1. 26 True or False (15 min) - 26 points
+	- Correct +1; wrong -0.5; blank 0
+2. 12 Multiple choice (30 min) - 24 point
+	- Correct +2; wrong -0.5; blank 0
+3. 1 problem with 2 parts (60 min) - 50 points
 
 **BRING LAPTOP**.
+
+Description:
+![[OMT Exam Instructions.pdf]]
+
 
 2 parts:
 1. Theoretical questions (with no or few calculations)
