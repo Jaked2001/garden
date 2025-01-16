@@ -95,7 +95,11 @@ where:
 
 ```
 
-**SUBSETS BREAKING COSTRAINT:**
+Remember:
+- $A^{+}(i)= \{j | (i,j) \in A\}:$ set of all links *entering* node $i$
+- $A^{-}(i)= \{j | (j,i) \in A\}:$ set of all links *exiting* node $i$
+
+**SUBTOUR BREAKING COSTRAINT:**
 The **subset breaking constraint** does the following: for any subset of nodes, the number of links connecting these nodes has to be lower or equal the number of nodes in the subset minus 1. With this constraint, if $S \equiv V$, than a tour connecting all nodes will necessarily have $|V|-1$ links. If, for example, I was to take a subset, $S$, with only 3 nodes, and these 3 nodes where connected to each other in a cycle, the cycle would contain 3 links, but this would break the constraint. So, if we check this condition for every possible subset of $V$, we will be sure that no subtour is created.
 
 ```ad-attention
@@ -138,6 +142,10 @@ where:
 - $x_{ij}= 1$ if link $(i,j)$ is used in the solution, 0 otherwise
 
 ```
+
+Remember:
+- $A^{+}(i)= \{j | (i,j) \in A\}:$ set of all links *entering* node $i$
+- $A^{-}(i)= \{j | (j,i) \in A\}:$ set of all links *exiting* node $i$
 
 Explanation of the **WEAK SUBTOUR BREAKING CONSTRAINT**
 $u_{i}$ is a variable that allows to avoid subtours in the solution. Notice how $u_{j}$ must be greater than a certain quantity, specifically $u_{j} \ge u_{i}+1$ for links in the solution, **except** for when $i=1$. $i=1$ is the depot. This means that, the only occasion where $u_{j}$ can be lower than $u_{i}+1$ is when we go back to the depot. It is therefore impossible for the problem to generate subtours. In fact, that would mean that a cycle is created but in order for that to happen, $u_{j}$ would be greater than $u_{i}+1$ when $i$ is not 1. Here is an attempt of a visual representation of how this constraint works:
@@ -185,7 +193,6 @@ We can think of labelling a node as to add it to a set $T$. Whenever we look for
 When all nodes are in $T$, we stop as we will have obtained a [[Hamiltonian circuit]].
 
 ```
-
 
 ### Nearest neighbour insertion heuristic
 
@@ -240,7 +247,7 @@ title: Prim's Algorithm
 title: Christofides heuristic
 
 1. Determine a [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/Traveling Salesman Problem#Finding a Minimum Spanning Tree - Prim's Algorithm\|Minimum Spanning Tree]] $ST$ of $K_{n}$
-2. Find all nodes with [[Eulerian cycle#Even degree\|odd degree]] and find a [[Minimum Perfect Matching\|Minimum Perfect Matching]], $M$
+2. Find all nodes with [[Eulerian cycle#Even degree\|odd degree]] and find a [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/Minimum Perfect Matching\|Minimum Perfect Matching]], $M$
 3. Make a new graph, $H$, out of all the edges in $ST$ and $M$
 4. Form an [[Eulerian cycle\|Eulerian cycle]] in $H$ and orient it arbitrarily
 5. Make a [[Hamiltonian circuit\|Hamiltonian cycle]] following the nodes in the order of the [[Eulerian cycle\|Eulerian cycle]]. whenever a node already visited should be selected, jump to the first available node in the [[Eulerian cycle\|Eulerian cycle]] 
@@ -286,7 +293,7 @@ Repeat for every node in the network.
 ![Traveling Salesman Problem 2024-12-28 15.54.03.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/Mobility%20Modeling/Notes/Allegati/Traveling%20Salesman%20Problem%202024-12-28%2015.54.03.excalidraw.png)
 %%[[Traveling Salesman Problem 2024-12-28 15.54.03.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
-In the example we confront the cost of having the green links in place of the red ones. Since the cost is lower for the green pair, then we exchange them. Notice how we also need to switch the direction of the dashed links in order to keep the directed hamiltonian cycle.
+In the example we compare the cost of having the green links in place of the red ones. Since the cost is lower for the green pair, then we exchange them. Notice how we also need to switch the direction of the dashed links in order to keep the directed hamiltonian cycle.
 
 ```ad-note
 title: Asymmetric graphs

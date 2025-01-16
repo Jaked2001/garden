@@ -180,7 +180,7 @@ Dependent demand is the demand of all the things needed to produce the final pro
 3. Ensure supply: right product in right place at right moment. Lead RCA (Route Cost Analysis - when you don't have the right number of a product, you try to understand why you're not at target and what to do get there)
 4. Launches & Promos. Customization readiness
 5. PIPO (Phase In - Phase Out) management
-6. NPI management
+6. NPI (New Product Introduction) management
 
 ### Costumer service
 
@@ -336,6 +336,7 @@ SC focused on Cost
 | Stocks         | Minimum stock to have low cost                           | Have stock to response demand variation / supply uncertainty            |
 | Suppliers      | Selection of suppliers based on cost (& quality)         | Selection of suppliers based on flexibility, responsiveness & quality   |
 
+
 ### SC Excellence matrix
 
 ![01 - Introduction to supply chain - ISC 2024-10-26 20.47.01.excalidraw.png](/img/user/Excalidraw-2/01%20-%20Introduction%20to%20supply%20chain%20-%20ISC%202024-10-26%2020.47.01.excalidraw.png)
@@ -360,10 +361,11 @@ The more you grow, the cost grows a lot more than proportionally. There is not a
 title: Discussion - characteristics of McDonald
 
 - Good negotiations power on a standardized product
-- They work with postmoments
+- They work with [[02 - Procurement and Planning - ISC#Postponement]]
 - strong logistics
 
 ```
+
 
 QAQC: Quality Control and Quality Assurance.
 

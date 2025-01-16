@@ -50,7 +50,9 @@ Workshop (30%)
 
 ### 🗣 Workshop 
 
-Analyze a case in Urban Mobility (we can choose. We are given some examples).
+- [!] [[2025-01-20]] - **Workshop delivery** (30%)
+
+Analyse a case in Urban Mobility (we can choose. We are given some examples).
 
 Can be ex-ante or ex-post (before or after the investment).
 
@@ -71,15 +73,12 @@ Evaluate the case from a double perspective:
 - Economic-social (well-being, environmental)
 - Financial 
 
-
-
-
 ## 💯 Grade
 
-| Parte       | Data           | Voto |
-| ----------- | -------------- | ---- |
-| Scritto |  |  |
-| Orale       |  |     |
+| Parte   | Data           | Voto |
+| ------- | -------------- | ---- |
+| Partial | [[2024-12-04]] | 6.75 |
+| Final   |                |      |
 
 
 # ✔️ To-Do
@@ -92,6 +91,7 @@ ___
 | [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME\|01 - Production and cost functions in transport - DME]] | T        | 🟠 Studiare |
 | [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME\|02 - Appraisal and Cost-Benefit Analysis - DME]]               | T        | 🟠 Studiare |
 | [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME\|03 - Utility Demand function and Pricing - DME]]               | T        | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/06 - Public Private Partnership - DME\|06 - Public Private Partnership - DME]]                                 | T        | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -115,6 +115,7 @@ ___
 | [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME.md\|02 - Appraisal and Cost-Benefit Analysis - DME]]                   | 🟠 Studiare |
 | [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME.md\|03 - Utility Demand function and Pricing - DME]]                   | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/04 - Theory of Organization and Supply Regulation - DME\|04 - Theory of Organization and Supply Regulation - DME]] | 🟢 Fatto    |
+| [[Università/Magistrale/1° Anno/Decision Making & Economy in Urban Mobility/Notes/06 - Public Private Partnership - DME.md\|06 - Public Private Partnership - DME]]                                     | 🪶 Scrivere |
 
 { .block-language-dataview}
 

@@ -27,6 +27,7 @@ title: Macroscopic models
 - [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/01 - Introduction to trajectories Analysis - OMT#Flow\|Flow]] - $q$
 - Density - $k$
 - Average Speed - $v$
+
 They are very **robust**: it's difficult for things to go wrong in calculation. They only use a few parameters (3).
 
 ```
@@ -36,7 +37,7 @@ They are known with many different names:
 - Lightwill, Witham, Rehand (LWR) model
 - Continuous Traffic Flow Model
 - Shock-Wave theory
-- Kinematic Wave Theory
+- Cinematic Wave Theory
 
 And are solved by some simulators - Calculation can be done by hand
 - Cell Transmission Model
@@ -60,8 +61,10 @@ In microscopic models, we work with microscopic variables:
 - Headway - $h$
 - [[01 - Introduction to trajectories Analysis - OMT#Spacing|Spacing]] - $s$
 - Instantaneous speed - $v_{i}$
+
 Microscopic models are known as:
 - Car following theories
+
 And are solve by computer simulators:
 - [[AIMSUM]]
 - [[VISSIM]]
@@ -298,7 +301,7 @@ The capacity point also distinguishes between two states:
 - Free flowing
 
 ```ad-note
-title: Finding q_{max}
+title: Finding $q_{max}$
 
 $v_{0}$ and $k_{0}$ can be obtained as follows. According to the [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/01 - Introduction to trajectories Analysis - OMT#Fundamental equation of traffic\|fundamental equation of traffic]] and to the Greenshield model
 $
@@ -387,8 +390,8 @@ title: Edie $k-v$ model
 
 
 ```ad-Definizione
-title: Tradffic shock-wave
-When ever there is a change in the state of traffic, such an acceleration or deceleration, the information of such change travels in traffic. The travel of information is referred to as a traffic **shock-wave**. This means that in different points in space and time, the change in traffic state happens only once the shock-wave reaches that point.
+title: Traffic shock-wave
+Whenever there is a change in the state of traffic, such as an acceleration or deceleration, the information of such change travels in traffic. The travel of information is referred to as a traffic **shock-wave**. This means that in different points in space and time, the change in traffic state happens only once the shock-wave reaches that point.
 
 ```
 
@@ -466,7 +469,8 @@ This can be represented graphically by a line going through the origin and inter
 
 **RELATIVE FLOW**
 
-From the same graph we can also obtain the [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Relative flow\|#Relative flow]] of between an observer traveling at speed $v_{A}$ and any other traffic state. Here we can see the relative flow with A1, $q_{0}^{A1} > 0$ and with A2, $q_{0}^{A2} < 0$.
+From the same graph we can also obtain the [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Relative flow\|#Relative flow]] 
+between an observer traveling at speed $v_{A}$ and any other traffic state. Here we can see the relative flow with A1, $q_{0}^{A1} > 0$ and with A2, $q_{0}^{A2} < 0$.
 
 
 

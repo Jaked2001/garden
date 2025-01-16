@@ -9,7 +9,6 @@
 🕒 17:30: Problem solved in class (see iPad)
 
 
-
 ```ad-example
 
 Imagine three friends who want to take a long trip using a tandem bicycle for two persons. Because the bike riders travel at 20 km/h, independent of the number of riders, and all three persons walk at 4 km/h, they proceed as follows:
@@ -35,7 +34,7 @@ When we work with time and space we use coordinated axis, with time ($t$) on the
 ![Introduction to trajectories Analysis 2024-10-01 17.52.02.excalidraw.png](/img/user/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-01%2017.52.02.excalidraw.png)
 
 
-This visualization allows to have all the main parameters readily available:
+This visualisation allows to have all the main parameters readily available:
 - Position
 - Speed/velocity
 - Acceleration
@@ -57,7 +56,6 @@ $$
 The graph shows a possible trajectory of an elevator that stops at floor 3 and 5.
 
 
-
 ## Scheduling
 
 We want to figure out the capacity of a rail line (single rail)
@@ -68,9 +66,9 @@ Capacity is a flow: $q_{max} \quad \rm \left[ \frac{veh}{h} \right]$
 
 ```ad-Definizione
 title: Flow
-It's the number of passengers or vehicles or expeditions per hour
+**Flow** it's the number of passengers or vehicles or expeditions per hour
 $
-\underline{q}
+q
 $
 ```
 
@@ -132,7 +130,7 @@ also
 $$
 q = \frac{1}{\frac{1}{m}\sum\limits_{i=1}^{m}h_{i}} = \frac{1}{h}
 $$
-Flow is equal to the inverse of the average headway:
+Flow is equal to the inverse of the **average headway**:
 
 The headway is considered a *microscopic* variable.
 
@@ -158,11 +156,9 @@ $$
 
 
 The difference is that in one case we're measuring 
-
 $$
 \overline{V}_{t} \ge \overline{V}_{s}
 $$
-
 Let $i$ be a family of vehicle (ie traveling at the same speed)
 $$
 \overline{V}_{t} = \frac{\sum\limits_{i}m_{i}V_{i}}{\sum\limits_{i} m_{i}}
@@ -185,7 +181,7 @@ $$
 
 You can measure any value anywhere and it's always the same.
 
-The only way is to have parallel trajectories that are equidistant
+The only way is to have parallel trajectories that are equidistant.
 
 ![Introduction to trajectories Analysis 2024-10-07 17.38.34.excalidraw.png](/img/user/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-07%2017.38.34.excalidraw.png)
 

@@ -149,3 +149,44 @@ $$
 ❗❗❗❗❗❗❗❗❗❗❗❗ The problem formulation is missing some conditions
 
 
+### CVRP Motzin Tucker Ziplin (MTZ) formulation
+
+An other useful formulation of the [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/04 - Vehicle Routing problem - MM\|Vehicle Routing Problem]] is the **Motzin Tucker Ziplin** formulation, also known as the **MTZ** formulation.
+
+$$
+\min_{x, u} \sum\limits_{i \in V} \sum\limits_{j\in V} c_{ij}x_{ij}
+$$
+Subject to:
+$$
+\begin{align}
+\text{Clients degree constraints: } 
+&\begin{cases}
+\sum\limits_{i\in V} x_{ij} = 1 \qquad \forall j \in V \setminus \{0\} \quad\text{entering node } i\\
+\sum\limits_{j\in V} x_{ij}= 1 \qquad \forall i \in V \setminus \{0\} \quad\text{exiting node } i
+\end{cases} \\\\
+\text{Depot degree constraints: } 
+&\begin{cases}
+\sum\limits_{i\in V} x_{i0} = K &\quad\text{enterint depot }\\
+\sum\limits_{j\in V} x_{0j}= K  &\quad\text{exiting depot}
+\end{cases}
+\\\\
+\text{Subtour breaking constraint: }
+& u_{j} \ge u_{i} + a_{j} - C(1-x_{ij}) \quad i\ne0, \,\, j\ne0 \\
+&a_{i} \le u_{i} \le C \quad i \in V \\
+&x_{ij} \in\{0,1\}
+\end{align}
+$$
+where:
+- $a_{i}:$ demand of client $i$
+- $C:$ vehicle capacity
+
+#### Clarke & Wright savings heuristic
+
+Formula for savings:
+$$
+s_{ij} = c_{i0} + c_{0j} - c_{ij} \qquad \forall i,j = 1,...,n \quad i \ne j
+$$
+
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗

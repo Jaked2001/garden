@@ -62,7 +62,7 @@ We have to guess what distribution this sample is drown from.
 
 ### 🗣 Assignment 2
 
-- [!] [[2025-01-12]] - **Assgm 2** 🔼 
+- [x] [[2025-01-12]] - **Assgm 2** 🔼 ✅ 2025-01-12
 
 ### ✍️ MidTerm Exam
 
@@ -75,7 +75,7 @@ Have to turn in a pdf with answers of the exam.
 
 ### ✍️ Final Exam
 
-- [!] [[2025-01-14]] - **Final Exam** ⏫
+- [x] [[2025-01-14]] - **Final Exam** ⏫ ✅ 2025-01-14
 
 ## 💯 Grade
 
@@ -83,7 +83,7 @@ Have to turn in a pdf with answers of the exam.
 | --------- | -------------- | ---- |
 | Assgm 1   | [[2024-11-10]] | 7    |
 | Midterm   | [[2024-11-19]] | 8.75 |
-| Assgm 2   | [[2025-01-12]] |      |
+| Assgm 2   | [[2025-01-12]] | 5.5  |
 | Final     | [[2025-01-14]] |      |
 | **Grade** |                |      |
 

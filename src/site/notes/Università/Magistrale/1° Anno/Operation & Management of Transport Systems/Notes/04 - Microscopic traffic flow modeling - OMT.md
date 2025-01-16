@@ -71,7 +71,13 @@ Notice how the spacing will be fairly constant, despite the speed, in heavy traf
 
 What [[#Automated driving]] is supposed to achieve is known as platooning.
 
-Platooning is a condition where many vehicles travel as if they were one, connected as a train.
+```ad-Definizione
+title: Platooning
+
+**Platooning** is a condition where many vehicles travel as if they were one, connected as a train.
+
+```
+
 
 ## Car following models
 

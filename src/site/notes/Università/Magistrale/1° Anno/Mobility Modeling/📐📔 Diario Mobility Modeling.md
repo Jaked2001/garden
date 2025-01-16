@@ -146,3 +146,10 @@ Lab session:
 - Heuristics
 	- Fisher-Jay Kummor
 	- Clarks & Wright
+
+
+# 📆  08-01-2025 - Wed
+
+### ✏️ Problems
+
+Problems on Clarks & Wright algorithm

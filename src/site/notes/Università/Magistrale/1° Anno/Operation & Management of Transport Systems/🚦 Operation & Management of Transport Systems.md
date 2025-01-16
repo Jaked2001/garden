@@ -66,13 +66,11 @@ During exam can only have 1 A4 sheet of **hand written** notes.
 
 ### 🗣 Mini project
 
-- [!] [[2025-01-14]] - MP Presentation 🔼 
+- [x] [[2025-01-13]] - MP Presentation 🔼 ✅ 2025-01-12
 
 - 30% - Calculation/accuracy
 - 40% - Presentation
 - 30% - Discussion
-
-
 
 Record a presentation of the Mini Project and upload the recording - Presentation with voice is enough.
 
@@ -81,7 +79,7 @@ Only 5 will perform live. The others will be evaluated in the office
  
 ### ✍️ Final
 
-- [!] [[2025-01-07]] - ❗️ **Final Exam** ⏫ 
+- [x] [[2025-01-07]] - ❗️ **Final Exam** ⏫ ✅ 2025-01-07
 
 **🕒 Time:** 15 min + 30 min + 60 min
 1. 26 True or False (15 min) - 26 points
@@ -107,14 +105,11 @@ Description:
 | -------------- | -------------- | ----------- |
 | Graded Assgm 1 | [[2024-10-21]] | 10          |
 | Graded Assgm 2 | [[2024-11-18]] | 9           |
-| Graded Assgm 3 | [[2024-12-10]] |             |
-| Graded Assgm 4 |                |             |
+| Graded Assgm 3 | [[2024-12-10]] | 10          |
+| Graded Assgm 4 | [[2024-12-16]] | 9           |
 | MiniProject    |                |             |
 | Final          |                |             |
 | **Grade**      |                |             |
-
-
-
 
 
 # ✔️ To-Do
@@ -122,11 +117,11 @@ Description:
 
 ___
 
-| File                                                                                                                                                                                      | Tipo     | Stato       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------- |
-| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Mini-Project/Mini Project - OMT.md\|Mini Project - OMT]]                                                      | Progetto | 🟡 Finire   |
-| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT\|03 - Fundamentals of traffic flow modeling - OMT]] | T        | 🟡 Finire   |
-| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/04 - Microscopic traffic flow modeling - OMT\|04 - Microscopic traffic flow modeling - OMT]]         | T        | 🪶 Scrivere |
+| File                                                                                                                                                                              | Tipo     | Stato       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------- |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Mini-Project/Mini Project presentation - OMT.md\|Mini Project presentation - OMT]]                    | Discorso | 🟡 Finire   |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Mini-Project/Mini Project - OMT.md\|Mini Project - OMT]]                                              | Progetto | 🟡 Finire   |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/04 - Microscopic traffic flow modeling - OMT\|04 - Microscopic traffic flow modeling - OMT]] | T        | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -152,7 +147,7 @@ ___
 | [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/00 - Course introduction - OMT\|00 - Course introduction - OMT]]                                     | 🟢 Fatto    |
 | [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/01 - Introduction to trajectories Analysis - OMT\|01 - Introduction to trajectories Analysis - OMT]] | 🟢 Fatto    |
 | [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT\|02 - Fundamentals fo Queuing Theory - OMT]]               | 🟢 Fatto    |
-| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT.md\|03 - Fundamentals of traffic flow modeling - OMT]] | 🟡 Finire   |
+| [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT\|03 - Fundamentals of traffic flow modeling - OMT]] | 🟢 Fatto    |
 | [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/04 - Microscopic traffic flow modeling - OMT.md\|04 - Microscopic traffic flow modeling - OMT]]         | 🪶 Scrivere |
 
 { .block-language-dataview}

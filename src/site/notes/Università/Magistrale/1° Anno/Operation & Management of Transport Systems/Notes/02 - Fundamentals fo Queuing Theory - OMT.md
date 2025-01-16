@@ -48,29 +48,29 @@ In any system, there can be more than 1 server. The $n$ servers, can be
 
 ##### Servers in parallel
 
-When the servers are localized in parallel, they can work at the same time. These are differentiated  based on how the queue works:
-- [[#Decentralized system]]
-- [[#Centralized queue]]
+When the servers are localised in parallel, they can work at the same time. These are differentiated  based on how the queue works:
+- [[#Decentralised system]]
+- [[#Centralised queue]]
 
 One problem that might arise with parallel service, is that the servers are not positioned in space in an efficient way. It may happen that the queue of one server blocks some other server. This could happen, for example, at a petrol station where two pumps are one after the other and there is not enough space for cars to overtake each other.
 
 ![Schermata 2024-10-26 alle 12.33.58.png](/img/user/Schermata%202024-10-26%20alle%2012.33.58.png)
 
-###### Decentralized system
+###### Decentralised system
 
-In a decentralized system, each server has its own queue.
+In a decentralised system, each server has its own queue.
 
 ![Decentralized queues diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 12.20.34.excalidraw.png](/img/user/Excalidraw-2/Decentralized%20queues%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2012.20.34.excalidraw.png)
 %%[[Decentralized queues diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 12.20.34.excalidraw|🖋 Edit in Excalidraw]]%%
 
-###### Centralized queue
+###### Centralised queue
 
 In a centralized queue, there are multiple [[Università/Magistrale/1° Anno/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT#Server\|servers]] but only 1 queue.
 
 ![Centralized queue diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 12.22.01.excalidraw.png](/img/user/Excalidraw-2/Centralized%20queue%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2012.22.01.excalidraw.png)
 %%[[Centralized queue diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 12.22.01.excalidraw|🖋 Edit in Excalidraw]]%%
 
-The centralized queue, if well managed, can maximize the capacity and efficiency of the system. In fact, in this case, no server will ever be idle, while there are other servers working. 
+The centralised queue, if well managed, can maximize the capacity and efficiency of the system. In fact, in this case, no server will ever be idle, while there are other servers working. 
 
 It also guarantees the [[#First Come First Serves - FCFS]] functioning.
 
@@ -144,7 +144,7 @@ For example an airport shuttle bus will unload first the passengers that boarded
 ```ad-Definizione
 title: Service in Random Order (SIRO)
 
-In **SIRO discipline** there is no preset order and the costumer is selected randomly from the queu.
+In **SIRO discipline** there is no preset order and the costumer is selected randomly from the queue.
 
 ```
 
@@ -245,8 +245,6 @@ We will now consider an [[#Input-output diagram]] with a large number of custome
 
 ![Input-output diagram - continuous - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 17.05.26.excalidraw.png](/img/user/Excalidraw-2/Input-output%20diagram%20-%20continuous%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2017.05.26.excalidraw.png)
 %%[[Input-output diagram - continuous - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 17.05.26.excalidraw|🖋 Edit in Excalidraw]]%%
-
-
 
 In the input-output diagram, the Arrival curve $A(t)$ usually takes the shape of a logistic curve.
 
@@ -454,7 +452,7 @@ $$
 ![Constructing a departures curve on N-t diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 19.24.26.excalidraw.png](/img/user/Excalidraw-2/Constructing%20a%20departures%20curve%20on%20N-t%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2019.24.26.excalidraw.png)
 %%[[Constructing a departures curve on N-t diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 19.24.26.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
-Notice how the $D(t)$ curve follows exactly the $V(t)$ curve untile the rate of arrival, $\dot{V}(t)$ is greater than the rate of service, $\mu$. From this instance, the $D(t)$ has a constant slope equal to $\mu$, until it meets back the $V(t)$, at which point it goes back to following it.
+Notice how the $D(t)$ curve follows exactly the $V(t)$ curve until the rate of arrival, $\dot{V}(t)$ is greater than the rate of service, $\mu$. From this instance, the $D(t)$ has a constant slope equal to $\mu$, until it meets back the $V(t)$, at which point it goes back to following it.
 
 
 ❗❗❗❗❗❗❗❗❗❗❗❗
@@ -480,7 +478,7 @@ A typical example of on-off queuing system is the **traffic light**.
 
 For simplicity, the following paragraph will assume the system is a traffic light with 2 states: <mark style="background: #BBFABBA6;">Geen</mark> and <mark style="background: #FF5582A6;">Red</mark>.
 
-The traffic light alternates between an on state, green, for a time $G$ and an off-state, red, for a time $R$. The green and red phases together make a *cycle*, $C$.
+The traffic light alternates between an on state, green, for a time $G$ and an off-state, red, for a time $R$. The green and red phases together make a *cycle*, lasting $C$.
 
 The system has a steady demand, $\lambda$, and a maximum constant on-state rate of service equal to $\mu$. 
 
@@ -533,7 +531,7 @@ $$
 ```ad-Teo
 title: Condition of undesaturation
 
-A traffic light is undersaturated if all the customers arriving in one cycle are served  in the same cycle and still there remains some time for otehr customers to arrive.
+A traffic light is undersaturated if all the customers arriving in one cycle are served  in the same cycle and still there remains some time for other customers to arrive.
 
 ```
 
@@ -600,6 +598,7 @@ $$
 \lambda > \mu_{2} > \mu_{3}
 $$
 Let's get to a more realistic case, where the arrival curve is actually [[#A logistic curve]].
+
 ![02 - Fundamentals fo Queuing Theory - OMT 2024-11-17 16.25.35.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/Operation%20&%20Management%20of%20Transport%20Systems/Notes/Allegati/02%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-17%2016.25.35.excalidraw.png)
 %%[[02 - Fundamentals fo Queuing Theory - OMT 2024-11-17 16.25.35.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
@@ -639,19 +638,19 @@ A particular case of a [[#Tandem queueing system]] is one where a portion of cus
 ### Relaxation time
 
 
-## Centralization
+## Centralisation
 
 A queuing system with $n$ [[#Servers in parallel]] is given. The system can be operated in two ways:
-- with $n$ independent queues ([[#Decentralized system]]), so that each server receives demand $a$
-- with 1 single [[#Centralized queue]], whose demand is equal to $A = \sum\limits_{i=1}^{n}a_{i}$
+- with $n$ independent queues ([[#Decentralised system]]), so that each server receives demand $a$
+- with 1 single [[#Centralised queue]], whose demand is equal to $A = \sum\limits_{i=1}^{n}a_{i}$
 We assume that the system has enough capacity to work without significant delays; only the [[#Stochastic delays]] apply.
 
 ![Centralization is better diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-17 19.09.22.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/Operation%20&%20Management%20of%20Transport%20Systems/Notes/Allegati/Centralization%20is%20better%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-17%2019.09.22.excalidraw.png)
 %%[[Centralization is better diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-17 19.09.22.excalidraw|🖋 Edit in Excalidraw]]%%
 
 ```ad-Teo
-title: Centralization is better than decentralized
-A centralized system require less resources to offer the same level of service (or equivalently, with the same resources centralized systems provide better level of service).
+title: Centralisation is better than decentralised
+A centralised system require less resources to offer the same level of service (or equivalently, with the same resources centralised systems provide better level of service).
 ___
 *Proof*
 The resources ($R_{C}, R_{D}$) needed to serve the system at a given level of service will be proportional to the fluctuations experienced by the demand. We can characterize these fluctuations with the [[Standard Deviation\|Standard Deviation]] of the arrival rates ($\sigma_{A}$). The 2 statement are therefore true:
@@ -694,17 +693,17 @@ Given that $\sqrt{n} \ge 1$, this means that the resources for a decentralized s
 
 
 
-## Optimization
+## Optimisation
 
 In a transportation system, there are always at least the two following costs to keep in mind:
 - $Z_A:$ **Operator or Agency cost:** costs undergone by the operator of the transportation system (investments, operation, ...)
-- $Z_{u}: $**User cost:** costs undergone by the users using the system (tickets, time, delays,...)
+- $Z_{u}:$ **User cost:** costs undergone by the users using the system (tickets, time, delays,...)
 The optimal level of service is obtained when the total cost is minimized.
 
 ![Optimization introduction diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-17 19.16.46.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/Operation%20&%20Management%20of%20Transport%20Systems/Notes/Allegati/Optimization%20introduction%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-17%2019.16.46.excalidraw.png)
 %%[[Optimization introduction diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-17 19.16.46.excalidraw|🖋 Edit in Excalidraw]]%%
 
-We have an optimization problem, where the objective function is:
+We have an optimisation problem, where the objective function is:
 $$
 Z_{tot} = Z_{A} + Z_{u}
 $$

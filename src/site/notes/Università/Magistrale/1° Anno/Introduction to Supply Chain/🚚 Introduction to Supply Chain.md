@@ -48,7 +48,7 @@ sort by description
 
 ### ✍️ Final exam
 
-- [!] [[2025-01-13]] - ❗️ Final Exam ⏫ 
+- [x] [[2025-01-13]] - ❗️ Final Exam ⏫ ✅ 2025-01-13
 
 Key concepts. no little details.
 - Difference between logistics and supply chain (example question)

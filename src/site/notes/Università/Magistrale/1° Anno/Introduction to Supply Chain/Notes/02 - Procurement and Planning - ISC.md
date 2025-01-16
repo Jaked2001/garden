@@ -112,8 +112,8 @@ Sell in:
 - From You to the client: Quantity selling to the client
 - What your client is selling to the consumer
 
-What information would you prefer to have if you had to choose: The SELL-OUT
-I can predict the sell-in based on the sell-out.
+**What information would you prefer to have if you had to choose: The SELL-OUT**
+**I can predict the sell-in based on the sell-out.**
 
 In an ideal world, Sell-IN=Sell-OUT.
 

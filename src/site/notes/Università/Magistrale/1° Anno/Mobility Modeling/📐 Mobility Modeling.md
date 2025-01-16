@@ -62,7 +62,7 @@ $
 
 - [x] [[2024-11-06]] - Assgm 0 🔼 ✅ 2024-11-06
 - [x] [[2024-12-11]] - Assgm 2 🔼 ✅ 2024-12-12
-- [!] [[2025-01-10]] - Assgm 3 🔼
+- [!] [[2025-01-23]] - Assgm 3 🔼
 
 Can work in group of 2. Even different groups for different assignment.
 
@@ -89,10 +89,11 @@ Pen and paper test.
 | --------- | -------------- | ---- |
 | Assgm 0   | [[2024-11-07]] | 10   |
 | Midterm   | [[2024-11-27]] | 9.5  |
-| Assgm 2   | [[2024-12-11]] |      |
+| Assgm 2   | [[2024-12-11]] | 10   |
 | Assgm 3   | [[2025-01-10]] |      |
 | Final     | [[2025-01-16]] |      |
 | **Grade** |                |      |
+
 
 # ✔️ To-Do
 
@@ -110,7 +111,7 @@ ___
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/04 - Vehicle Routing problem - MM\|04 - Vehicle Routing problem - MM]]                                         | T     | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/LAB - AMPL/Lab 1 - Introduction to AMPL\|Lab 1 - Introduction to AMPL]]                                              | T     | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/The SIMPLEX Method\|The SIMPLEX Method]]                                                                       | T     | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/Traveling Salesman Problem\|Traveling Salesman Problem]]                                                       | T     | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/Traveling Salesman Problem\|Traveling Salesman Problem]]                                                       | T     | 🟡 Finire   |
 
 { .block-language-dataview}
 
@@ -141,7 +142,7 @@ ___
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/04 - Vehicle Routing problem - MM.md\|04 - Vehicle Routing problem - MM]]                                         | 🪶 Scrivere | true       |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/LAB - AMPL/Lab 1 - Introduction to AMPL.md\|Lab 1 - Introduction to AMPL]]                                              | 🪶 Scrivere | true       |
 | [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/The SIMPLEX Method.md\|The SIMPLEX Method]]                                                                       | 🪶 Scrivere | true       |
-| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/Traveling Salesman Problem.md\|Traveling Salesman Problem]]                                                       | 🪶 Scrivere | true       |
+| [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/Traveling Salesman Problem.md\|Traveling Salesman Problem]]                                                       | 🟡 Finire   | true       |
 
 { .block-language-dataview}
 
@@ -166,7 +167,6 @@ ___
 
 
 ## Past exams
-
 
 | File                                                                                                                 | Stato    | dg-publish |
 | -------------------------------------------------------------------------------------------------------------------- | -------- | ---------- |
