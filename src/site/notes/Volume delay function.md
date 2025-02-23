@@ -4,7 +4,7 @@
 
 # [[Volume delay function\|Volume delay function]]
 
-In a [[Università/Magistrale/1° Anno/Mobility Modeling/Notes/02 - Traffic Assignment Problem - MM\|Traffic Assignment Problem]], a volume delay function is a function that gives the cost for a user to use a link of a network, taking into account the congestion of the link when that user arrives.
+In a [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/02 - Traffic Assignment Problem - MM\|Traffic Assignment Problem]], a volume delay function is a function that gives the cost for a user to use a link of a network, taking into account the congestion of the link when that user arrives.
 
 Given a flow on a link equal to $x$, the volume delay function is:
 $$

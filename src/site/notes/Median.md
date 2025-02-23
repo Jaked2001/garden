@@ -20,4 +20,4 @@ The **Median** is the value of a sample $X$ such that the probability of getting
 See also:
 - [[Università/Triennale/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Mediana\|04 - Statistica - Idro#Mediana]]
 - [[Università/Triennale/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Statistica in Topografia - TP#Mediana\|03 - Statistica in Topografia - TP#Mediana]]
-- [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Median\|02 - Exploratory Data Analysis - DATS#Median]]
+- [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Median\|02 - Exploratory Data Analysis - DATS#Median]]

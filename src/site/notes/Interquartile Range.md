@@ -15,5 +15,5 @@ $
 
 ```
 
-It is useful to determine potential [[Università/Magistrale/1° Anno/Data Analysis in Transport Systems/Notes/Outlier\|outliers]].
+It is useful to determine potential [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/Outlier\|outliers]].
 
