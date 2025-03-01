@@ -21,6 +21,7 @@
 
 **🕰 Schedule:**
 
+Develop critical thinking and our own research skills.
 
 # ❗️Evaluation❗️
 
@@ -44,18 +45,21 @@ sort by description
 
 ### ✍️ Final Exam
 
-Multiple choice.
+Multiple choice:
+- 25 questions, 4 options.
 
 - [!] [[2025-05-29\|2025-05-29]] - Final exam ⏫
 
 ### 🗣 Individual essay 
 
-An essay to write on any topic regarding sustainable mobility
+An essay to write on any topic regarding sustainable mobility. It's about individual research.
 
 There are 2 evaluations: midcourse and at the end of the course
 
-- [!] [[2025-04-03\|2025-04-03]] - Mid presentation 🔼 
-- [!] [[2025-05-22\|2025-05-22]] - Final presentation 🔼 
+Needs to be a bit more than just descriptive. There needs to be some analysis. Can also be something that can be useful in other classes or in the future.
+
+- [!] [[2025-04-03\|2025-04-03]] - Mid presentation
+- [!] [[2025-05-22\|2025-05-22]] - Final presentation 🔼
 
 - Carry individual research
 
@@ -80,9 +84,10 @@ Structure:
 
 ___
 
-| File                                                                                                                      | Tipo | Stato   |
-| ------------------------------------------------------------------------------------------------------------------------- | ---- | ------- |
-| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Assignment/Research Paper - SM\|Research Paper - SM]] | Es   | 🔴 Fare |
+| File                                                                                                                                                                       | Tipo | Stato       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Assignment/Research Paper - SM\|Research Paper - SM]]                                                  | Es   | 🔴 Fare     |
+| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/01 - Basic of traffic flow and management - SM\|01 - Basic of traffic flow and management - SM]] | T    | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -93,9 +98,10 @@ ___
 
 # 👉🏻 Course Index
 
-| File                                                                                                                                     | Stato    |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/00 - Course introduction - SM\|00 - Course introduction - SM]] | 🟢 Fatto |
+| File                                                                                                                                                                       | Stato       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/00 - Course introduction - SM\|00 - Course introduction - SM]]                                   | 🟢 Fatto    |
+| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/01 - Basic of traffic flow and management - SM\|01 - Basic of traffic flow and management - SM]] | 🪶 Scrivere |
 
 { .block-language-dataview}
 

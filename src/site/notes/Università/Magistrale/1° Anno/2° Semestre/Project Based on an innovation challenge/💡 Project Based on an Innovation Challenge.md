@@ -66,8 +66,9 @@ There is a 30% possible modulation in the individual evaluation
 
 
 ___
-| File | Tipo | Stato |
-| ---- | ---- | ----- |
+| File                                                                                                                                                                                             | Tipo | Stato       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- | ----------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/02 - Validating Ideas for Urban Mobility - PBIC\|02 - Validating Ideas for Urban Mobility - PBIC]] | T    | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -77,8 +78,9 @@ ___
 # 👉🏻 Course Index
 
 
-| File | Stato |
-| ---- | ----- |
+| File                                                                                                                                                                                             | Stato       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/02 - Validating Ideas for Urban Mobility - PBIC\|02 - Validating Ideas for Urban Mobility - PBIC]] | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -102,4 +104,9 @@ ___
 
 
 
+
+- Vandalism
+
+- Solution with a contribution
+	- Something that is better in comparison to other solutions (competitors)
 

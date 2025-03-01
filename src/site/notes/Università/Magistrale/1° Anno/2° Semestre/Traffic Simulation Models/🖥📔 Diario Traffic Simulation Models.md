@@ -31,3 +31,13 @@ Course introduction.
 - Macro vs meso vs micro
 
 
+
+# 📆  28-02-2025 - Fri
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/01 - Introduction to the traffic simulation models - TSM\|01 - Introduction to the traffic simulation models - TSM]]
+- Dynamic Traffic Assignment
+- Dynamic Network Loading
+
+Presentation of some projects that can be solved through the help of Aimsun.

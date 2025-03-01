@@ -86,9 +86,10 @@ where:
 
 
 ___
-| File                                                                                                                                                   | Tipo | Stato         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- | ------------- |
-| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/00 - Intro to subject - TDBM\|00 - Intro to subject - TDBM]] | T    | 🪶🟡 Scrivere |
+| File                                                                                                                                                                                           | Tipo | Stato         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Assignments/Assgm 01 - Demand Model for Montevideo - TDBM\|Assgm 01 - Demand Model for Montevideo - TDBM]] | Es   | 🟡 Finire     |
+| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/00 - Intro to subject - TDBM\|00 - Intro to subject - TDBM]]                                         | T    | 🪶🟡 Scrivere |
 
 { .block-language-dataview}
 
@@ -117,8 +118,9 @@ ___
 
 ## ❌ Past Exams
 
-| File | Stato |
-| ---- | ----- |
+| File                                                                                                                                                                                           | Stato     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Assignments/Assgm 01 - Demand Model for Montevideo - TDBM\|Assgm 01 - Demand Model for Montevideo - TDBM]] | 🟡 Finire |
 
 { .block-language-dataview}
 

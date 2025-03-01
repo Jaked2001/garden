@@ -17,5 +17,12 @@
 
 ### Semester 2
 
-Coming Soon...
+- [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/🖥 Traffic Simulation Models\|🖥 Traffic Simulation Models]]
+- [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/🚲 Sustainable Mobility\|🚲 Sustainable Mobility]]
+- [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/💡 Project Based on an Innovation Challenge\|💡 Project Based on an Innovation Challenge]]
+- [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/🌿 Liveable Cities & Urban Mobility\|🌿 Liveable Cities & Urban Mobility]]
+- [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/🧠 Travel Demand & Behavioural Modeling\|🧠 Travel Demand & Behavioural Modeling]]
 
+## Year 2 ([[Eindhoven University of Technology\|TU]])
+
+Coming soon...

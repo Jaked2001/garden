@@ -55,9 +55,10 @@ due to march 13th
 
 # ✔️ To-Do
 
-| File                                                                                                                                                | Tipo     | Stato   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------- |
-| [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Projects/P01 - Meridiana street - LC\|P01 - Meridiana street - LC]] | Progetto | 🔴 Fare |
+| File                                                                                                                                                | Tipo     | Stato       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Projects/P01 - Meridiana street - LC\|P01 - Meridiana street - LC]] | Progetto | 🟡 Finire   |
+| [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Notes/01 - Barcelona Story - LC\|01 - Barcelona Story - LC]]        | T        | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -68,9 +69,10 @@ ___
 # 👉🏻 Course Index
 
 
-| File                                                                                                                                                 | Stato    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Notes/00 - Course introduction - LC\|00 - Course introduction - LC]] | 🟢 Fatto |
+| File                                                                                                                                                 | Stato       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Notes/00 - Course introduction - LC\|00 - Course introduction - LC]] | 🟢 Fatto    |
+| [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Notes/01 - Barcelona Story - LC\|01 - Barcelona Story - LC]]         | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -80,9 +82,9 @@ ___
 
 ## ✍️ Projects
 
-| File                                                                                                                                                | Stato   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Projects/P01 - Meridiana street - LC\|P01 - Meridiana street - LC]] | 🔴 Fare |
+| File                                                                                                                                                | Stato     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Projects/P01 - Meridiana street - LC\|P01 - Meridiana street - LC]] | 🟡 Finire |
 
 { .block-language-dataview}
 
