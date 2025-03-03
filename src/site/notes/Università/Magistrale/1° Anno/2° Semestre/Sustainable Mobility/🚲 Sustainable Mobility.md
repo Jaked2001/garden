@@ -84,10 +84,9 @@ Structure:
 
 ___
 
-| File                                                                                                                                                                       | Tipo | Stato       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
-| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Assignment/Research Paper - SM\|Research Paper - SM]]                                                  | Es   | 🔴 Fare     |
-| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/01 - Basic of traffic flow and management - SM\|01 - Basic of traffic flow and management - SM]] | T    | 🪶 Scrivere |
+| File                                                                                                                      | Tipo | Stato   |
+| ------------------------------------------------------------------------------------------------------------------------- | ---- | ------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Assignment/Research Paper - SM\|Research Paper - SM]] | Es   | 🔴 Fare |
 
 { .block-language-dataview}
 
@@ -101,7 +100,7 @@ ___
 | File                                                                                                                                                                       | Stato       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/00 - Course introduction - SM\|00 - Course introduction - SM]]                                   | 🟢 Fatto    |
-| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/01 - Basic of traffic flow and management - SM\|01 - Basic of traffic flow and management - SM]] | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/01 - Basic of traffic flow and management - SM\|01 - Basic of traffic flow and management - SM]] | 🟠 Studiare |
 
 { .block-language-dataview}
 

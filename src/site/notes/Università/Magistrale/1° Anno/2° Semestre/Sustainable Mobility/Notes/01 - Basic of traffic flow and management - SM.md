@@ -25,7 +25,7 @@ Spacing is the distance between the front of 2 cars.
 ### Headway
 
 Headway ($h$)
-**Headway** is the time between two vehicles.
+**Headway** is the time between two vehicles (front to front).
 
 
 ### Speed
@@ -65,12 +65,13 @@ title: Space mean speed ($SMS$ or $v_{s}$)
 
 The **Space mean speed** is the average velocity based on distance travelled
 
-$
-v_{s} = \frac{L}{\sum\limits_{i=1}^{N} \frac{t_{i}}{N}} = \frac{N}{\sum\limits_{i=1}^{N}\frac{1}{v_{i}}}
-$
+
 
 ```
 
+$$
+v_{s} = \frac{L}{\sum\limits_{i=1}^{N} \frac{t_{i}}{N}} = \frac{N}{\sum\limits_{i=1}^{N}\frac{1}{v_{i}}} = \frac{\sum\limits_{i=1}^{N}v_{i}}{N}
+$$
 
 - Select a road section of knonw length
 - Measure the time it takes each veh to go through the section
@@ -121,7 +122,7 @@ When traffic is heavy, cars move slowly or stop often, increasing emissions per 
 
 #### Emission factor
 
-They are values that show how much pollklution a specific source releares into the air, for example grams of CO2 per kilometer.
+They are values that show how much pollklution a specific source releases into the air, for example grams of CO2 per kilometre.
 
 ![01 - Basic of traffic flow and management - SM 2025-02-27 15.46.00.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Sustainable%20Mobility/Notes/Allegati/01%20-%20Basic%20of%20traffic%20flow%20and%20management%20-%20SM%202025-02-27%2015.46.00.excalidraw.png)
 
