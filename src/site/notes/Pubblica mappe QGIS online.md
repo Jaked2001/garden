@@ -104,3 +104,5 @@ Poiché Google Sites non permette l'upload diretto di file HTML, devi utilizzare
 ---
 
 Se hai bisogno di aiuto con un passaggio specifico, fammi sapere! 😊
+
+<iframe width="700" height="315" src="https://jaked2001.github.io/MappaCiclabiliRoma_Tipologia/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
