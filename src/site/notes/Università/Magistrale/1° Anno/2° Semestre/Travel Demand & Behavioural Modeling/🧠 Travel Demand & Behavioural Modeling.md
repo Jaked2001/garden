@@ -36,10 +36,10 @@ sort by description
 
 ## Evaluation Structure
 
-- 50% [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/🧠 Travel Demand & Behavioural Modeling#✍️ Exams\|#✍️ Exams]]
-	- 1/3 [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/🧠 Travel Demand & Behavioural Modeling#Midterm\|#Midterm]]
-	- 2/3 [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/🧠 Travel Demand & Behavioural Modeling#Final\|#Final]]
-- 50% [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/🧠 Travel Demand & Behavioural Modeling#🗣 Assignments\|#🗣 Assignments]]
+- 50% [[#✍️ Exams]]
+	- 1/3 [[#Midterm]]
+	- 2/3 [[#Final]]
+- 50% [[#🗣 Assignments]]
 	- 1/3 each assignment
 
 
@@ -47,20 +47,20 @@ sort by description
 
 #### Midterm
 
-- [!] [[2025-04-08\|2025-04-08]] - **Midterm** ⏫ 
+- [!] [[2025-04-08]] - **Midterm** ⏫ 
 Midterm is a pen and paper exam. No computer.
 
 #### Final
 
-- [!] [[2025-05-27\|2025-05-27]] - ❗️ **Final Exam** ⏫ 
+- [!] [[2025-05-27]] - ❗️ **Final Exam** ⏫ 
 Final exam is a pen and paper exam. No computer.
 
 
 ### 🗣 Assignments
 
-- [!] [[2025-03-30\|2025-03-30]] **Assgm 1** 🔼 
-- [!] [[2025-05-04\|2025-05-04]] **Assgm 2** 🔼 
-- [!] [[2025-06-01\|2025-06-01]] **Assgm 3** 🔼 
+- [!] [[2025-03-30]] **Assgm 1** 🔼 
+- [!] [[2025-05-04]] **Assgm 2** 🔼 
+- [!] [[2025-06-01]] **Assgm 3** 🔼 
 
 
 ## 💯 Grade
@@ -90,10 +90,22 @@ ___
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------- |
 | [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Assignments/Assgm 01 - Demand Model for Montevideo - TDBM\|Assgm 01 - Demand Model for Montevideo - TDBM]] | Es   | 🟡 Finire     |
 | [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/00 - Intro to subject - TDBM\|00 - Intro to subject - TDBM]]                                         | T    | 🪶🟡 Scrivere |
+| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM\|02 - Data and Space - TDBM]]                                             | T    | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
 #### ❓ Questions
+
+
+```tasks
+not done
+path includes Travel Demand & Behavioural Modeling
+filter by function task.status.name === 'Question'
+group by path
+```
+
+
+
 ___
 
 # 👉🏻 Course Index
@@ -101,7 +113,8 @@ ___
 
 | File                                                                                                                                                   | Stato         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- |
-| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/00 - Intro to subject - TDBM\|00 - Intro to subject - TDBM]] | 🪶🟡 Scrivere |
+| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/00 - Intro to subject - TDBM.md\|00 - Intro to subject - TDBM]] | 🪶🟡 Scrivere |
+| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM.md\|02 - Data and Space - TDBM]]     | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
@@ -111,16 +124,37 @@ ___
 
 ## ✍️ Assignments
 
-| File | Stato |
-| ---- | ----- |
 
-{ .block-language-dataview}
+Assignment 1 grading:
+- Presentation
+- Exploratory data analysis (Uni EDA)
+- Generation
+	- Modeling generation with just numeric vars
+	- Modeling generation adding factors
+	- Diagnostic for generation - exNormality
+	- Interpretation - Model equation and interpretation
+- Attraction
+	- Modeling attraction with just numeric vars
+	- Modeling attraction adding factors
+	- Diagnostic for attraction	- Normality
+	- Interpretation - Model equation and interpretation
+- Forecasting generation
+- Forecasting attraction
 
-## ❌ Past Exams
 
 | File                                                                                                                                                                                           | Stato     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Assignments/Assgm 01 - Demand Model for Montevideo - TDBM\|Assgm 01 - Demand Model for Montevideo - TDBM]] | 🟡 Finire |
+
+{ .block-language-dataview}
+
+
+## ❌ Past Exams
+
+
+| File                                                                                                                                                                                           | Stato     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Assignments/Assgm 01 - Demand Model for Montevideo - TDBM.md\|Assgm 01 - Demand Model for Montevideo - TDBM]] | 🟡 Finire |
 
 { .block-language-dataview}
 

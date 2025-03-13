@@ -19,3 +19,11 @@ Today the teacher gave an overview of the subject and on the history of urban de
 
 Presentation on project to carry out during the first module of the course:
 - [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Projects/P01 - Meridiana street - LC\|P01 - Meridiana street - LC]]
+
+
+# 📆  12-03-2025 - Wed
+
+### 📝 Theory
+
+Seminar: [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Notes/??? - Walking Strategies - Role in the mobility and public space\|??? - Walking Strategies - Role in the mobility and public space]]
+

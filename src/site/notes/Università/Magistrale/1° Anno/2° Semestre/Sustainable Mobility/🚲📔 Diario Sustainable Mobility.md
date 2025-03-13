@@ -22,3 +22,14 @@ The theory part was held by the substitute.
 - Main variables
 - Operations and Management
 - Main simulation softwares
+
+
+# 📆  07-03-2025 - Fri
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/02 - Public Transport - SM\|02 - Public Transport - SM]]
+- Definitions and terminology
+- Generalized cost for the user
+- Generalized cost for the operator
+

@@ -66,9 +66,10 @@ There is a 30% possible modulation in the individual evaluation
 
 
 ___
-| File                                                                                                                                                                                             | Tipo | Stato       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- | ----------- |
-| [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/02 - Validating Ideas for Urban Mobility - PBIC\|02 - Validating Ideas for Urban Mobility - PBIC]] | T    | 🪶 Scrivere |
+| File                                                                                                                                                                                             | Tipo     | Stato       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ----------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Project/Challenge - SmartRide - PBIC\|Challenge - SmartRide - PBIC]]                                     | Progetto | 🟡 Finire   |
+| [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/02 - Validating Ideas for Urban Mobility - PBIC\|02 - Validating Ideas for Urban Mobility - PBIC]] | T        | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -86,6 +87,7 @@ ___
 
 
 ___
+
 
 
 ## ✍️ Assignments

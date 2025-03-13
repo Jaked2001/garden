@@ -90,17 +90,19 @@ ___
 
 { .block-language-dataview}
 
-
+ 
 #### ❓ Questions
 
 ___
 
 # 👉🏻 Course Index
 
-| File                                                                                                                                                                       | Stato       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/00 - Course introduction - SM\|00 - Course introduction - SM]]                                   | 🟢 Fatto    |
-| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/01 - Basic of traffic flow and management - SM\|01 - Basic of traffic flow and management - SM]] | 🟠 Studiare |
+| File                                                                                                                                                                                                                                   | Stato       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/00 - Course introduction - SM\|00 - Course introduction - SM]]                                                                                               | 🟢 Fatto    |
+| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/01 - Basic of traffic flow and management - SM\|01 - Basic of traffic flow and management - SM]]                                                             | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/02 - Public Transport - SM\|02 - Public Transport - SM]]                                                                                                     | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/03 - Basics of transport economics, demand, and transport externalities - SM\|03 - Basics of transport economics, demand, and transport externalities - SM]] | 🟠 Studiare |
 
 { .block-language-dataview}
 

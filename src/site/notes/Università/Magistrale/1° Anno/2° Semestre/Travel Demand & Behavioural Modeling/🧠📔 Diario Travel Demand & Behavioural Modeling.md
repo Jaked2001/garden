@@ -11,3 +11,47 @@
 
 [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/00 - Intro to subject - TDBM\|00 - Intro to subject - TDBM]]:
 
+
+# 📆  04-03-2025 - Tue
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM\|02 - Data and Space - TDBM]]
+- Data collection means
+- Survey types
+- Questionnaire design
+- Survey design
+- Probability sampling and statistical issues
+- Sampling theory
+- Specifics on simple random sampling
+### ✏️ Projects
+
+Assignment grading:
+- Presentation
+- Exploratory data analysis (Uni EDA)
+- Generation
+	- Modeling generation with just numeric vars
+	- Modeling generation adding factors
+	- Diagnostic for generation - exNormality
+	- Interpretation - Model equation and interpretation
+- Attraction
+	- Modeling attraction with just numeric vars
+	- Modeling attraction adding factors
+	- Diagnostic for attraction	- Normality
+	- Interpretation - Model equation and interpretation
+- Forecasting generation
+- Forecasting attraction
+
+
+# 📆  11-03-2025 - Tue
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM\|02 - Data and Space - TDBM]]
+- Point estimation
+- Inference of population mean
+- Inference of population proportion
+
+
+
+### ✏️ Projects

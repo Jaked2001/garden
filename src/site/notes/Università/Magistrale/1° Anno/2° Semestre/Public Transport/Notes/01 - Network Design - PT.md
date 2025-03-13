@@ -175,3 +175,10 @@ $
 
 Marginal cost in road network is higher than the average cost. In PT is lower.
 - **Moggridge paradox**
+
+
+
+
+
+
+

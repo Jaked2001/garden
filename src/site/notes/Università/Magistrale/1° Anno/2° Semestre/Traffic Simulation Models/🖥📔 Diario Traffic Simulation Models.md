@@ -41,3 +41,18 @@ Course introduction.
 - Dynamic Network Loading
 
 Presentation of some projects that can be solved through the help of Aimsun.
+
+
+# 📆  07-03-2025 - Fri
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/02 - Dynamic Network Loading - TSM\|02 - Dynamic Network Loading - TSM]]
+- Definitions
+- Models classification
+	- Classic classification
+	- Astarita classification
+- Microscopic models classification:
+	- Time continuous models
+	- Cellular automation models
+	- Iterated coupled maps models

@@ -78,9 +78,9 @@ Report to present all the things of the last part of the course plus [[AIMSUM]]
 
 ___
 
-| File                                                                                                                                                    | Tipo | Stato       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
-| [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/02 - Dynamic Network Loading - TSM\|02 - Dynamic Network Loading - TSM]] | T    | 🪶 Scrivere |
+| File                                                                                                                                                    | Tipo | Stato         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/02 - Dynamic Network Loading - TSM\|02 - Dynamic Network Loading - TSM]] | T    | 🪶🟡 Scrivere |
 
 { .block-language-dataview}
 
@@ -101,11 +101,11 @@ ___
 # 👉🏻 Course Index
 
 
-| File                                                                                                                                                                                                | Stato       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/00 - Course introduction - TSM\|00 - Course introduction - TSM]]                                                     | 🟢 Fatto    |
-| [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/01 - Introduction to the traffic simulation models - TSM\|01 - Introduction to the traffic simulation models - TSM]] | 🟢 Fatto    |
-| [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/02 - Dynamic Network Loading - TSM.md\|02 - Dynamic Network Loading - TSM]]                                             | 🪶 Scrivere |
+| File                                                                                                                                                                                                | Stato         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/00 - Course introduction - TSM\|00 - Course introduction - TSM]]                                                     | 🟢 Fatto      |
+| [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/01 - Introduction to the traffic simulation models - TSM\|01 - Introduction to the traffic simulation models - TSM]] | 🟢 Fatto      |
+| [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/02 - Dynamic Network Loading - TSM.md\|02 - Dynamic Network Loading - TSM]]                                             | 🪶🟡 Scrivere |
 
 { .block-language-dataview}
 
