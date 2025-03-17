@@ -47,6 +47,7 @@ There is a 30% possible modulation in the individual evaluation
 
 ### ✍️ Final Presentation
 
+- [!] [[2025-04-07\|2025-04-07]] - Midterm Presentation
 - [!] [[2025-05-28\|2025-05-28]] - Project Presentation 🔼 
 
 

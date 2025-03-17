@@ -56,3 +56,26 @@ Presentation of some projects that can be solved through the help of Aimsun.
 	- Time continuous models
 	- Cellular automation models
 	- Iterated coupled maps models
+
+
+# 📆  14-03-2025 - Fri
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/03 - Car Following models - TSM\|03 - Car following models - TSM]]
+- Definition
+- Follower and leader
+- General Motors models
+	- 1st gen
+	- 3rd gen
+		- Prove equivalence with Greenberg
+	- 5th gen
+- 3-car following models
+- Collision Avoidance (or Safety Distance) models
+	- Pipes
+	- Gipps
+
+### ✏️ Projects
+
+Assigned paper to read and explain to class.
+

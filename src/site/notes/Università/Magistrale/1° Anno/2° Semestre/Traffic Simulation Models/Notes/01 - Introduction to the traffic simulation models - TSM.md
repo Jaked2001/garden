@@ -207,9 +207,11 @@ This is an iterative process. If The result does not match the reality, then we 
 ```ad-Definizione
 title: Dynamic Network Loading
 
-**Dynamic Network Loading** is the process to efficiently reproduce how network flow propagate along the corresponding paths taking into account the time and a variable traffic demand on each path.
+**Dynamic Network Loading** is the process to efficiently reproduce how network flow propagates along the corresponding paths taking into account the time and a variable traffic demand on each path.
 
 ```
+
+DNL models the **propagation of traffic** once vehicles have been assigned to specific routes, considering realistic traffic flow dynamics.
 
 ## Traffic simulation softwares
 

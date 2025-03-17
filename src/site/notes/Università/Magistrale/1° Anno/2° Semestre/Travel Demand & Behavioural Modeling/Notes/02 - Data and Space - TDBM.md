@@ -508,7 +508,7 @@ We have a population of size $N$, from which we select a sample of size $n$.
 
 Let $Y$ be the target variable (numeric) and we are interested maybe in the population mean ($\mu$) or the population variance ($\sigma^{2}$).
 
-Let the sample be the set of obseravtions:
+Let the sample be the set of observations:
 $$
 \{ Y_{1}, ..., Y_{n} \}
 $$
@@ -535,8 +535,88 @@ $
 ```
 
 
+### Inference
+
+As explained in [[#Point estimation]], we have a sample of a larger population. We can calculate some statistic of the sample. Then, we can use it to infer the corresponding statistic of the whole population.
+
+Let's imagine we have several samples:
+- From sample 1, we get the sample mean $\overline{x}_{1}$
+- From sample 2, we get the sample mean $\overline{x}_{2}$
+- ...
+- From sample n, we get the sample mean $\overline{x}_{n}$
+
+We can now have many observations of a sample mean. **This statistic is itself a random varaible**. It has been proved that:
+
+```ad-Teo
+title: Teorema
+
+We can prove that:
+$
+\begin{align}
+E[\overline{X}] &= \mu \\
+V[\overline{X}] &= \frac{\sigma^{2}}{n} \\
+\overline{X} &\sim N\left( \mu , \frac{\sigma^{2}}{n} \right)  \text{If n is large enough}
+\end{align}
+$
+
+```
+
+Then, we want an interval in which the population mean falls when estimating it from the sample mean. We want a [[#Confidence Interval]], according to some $\alpha$ (ex: $\alpha= 0.05$)
+$$
+\mu \in \left[ \overline{X} - z_{1- \frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}; \overline{X} + z_{1- \frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}  \right]
+$$
+#### Confidence Interval
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/confidence-interval/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-- [?] What is a sample distribution?
+# [[Confidence Interval]]
+
+A confidence interval is the interval in which a population statistic is contained when estimated by a sample statistic.
+
+Let $\mu$ be some population mean of same value and let $\overline{X}$ be the mean of a sample of the population. Given an accuracy of $\alpha$ (s.t. the interval is accurate in $(1-\alpha) \%$ of cases), then a Confidence Interval for the population mean is:
+$
+\mu \in \left[ \overline{X} - z_{1- \frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}; \overline{X} + z_{1- \frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}  \right]
+$
+where $z_{1- \frac{\alpha}{2}}$ is the value of z (where z follows a [[Standard Normal Distribution]]) such that the area under the curve is equal to $1-\frac{\alpha}{2}$.
+
+![Confidence Interval 2025-03-16 19.27.14.excalidraw.png](/img/user/Allegati/Confidence%20Interval%202025-03-16%2019.27.14.excalidraw.png)
+%%[[Confidence Interval 2025-03-16 19.27.14.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+We use the Standard normal distribution since is well known. Then, we scale it according to a factor dependent on the variance of the variable we are interested in: $\dfrac{\sigma}{\sqrt{n}}$.
+
+```ad-example
+
+One particular variable of a population has a mean of $\mu$ (unknown). We have a sample of the population with a mean for the same variable equal to $\overline{X}$. Let's suppose we know the population variance, $\sigma^{2}$. The sample is composed of $n$ elements.
+
+We want an estimate for the population mean with 95% confidence. This mean we want an $\alpha=0.05$.
+
+We are basically looking for the value:
+$
+z_{1- \frac{\alpha}{2}} = z_{1- \frac{0.05}{2}} = z_{1 - 0.025} = z_{0.975}
+$
+We want the value of $z$ such that the probability of that value is equal to 0.975.
+
+From the probability table we can find out that such value is:
+$
+z = 1.960
+$
+given a large number of observations.
+```
+
+- $\alpha:$ [[Level of significance]]
+- The percentage is the [[Degree of confidence]]
+
+```ad-attention
+
+We are assuming to know the variance of the population. This is clearly impossible. Actually, also the variance, as the mean, follows a random probability distribution (that can be proven to be a ???). For the porpuses we are usually interested in, we can simply use the sample variance ($s^{2}$) in place of the population variance.
+```
+
+
+</div></div>
+
+
+

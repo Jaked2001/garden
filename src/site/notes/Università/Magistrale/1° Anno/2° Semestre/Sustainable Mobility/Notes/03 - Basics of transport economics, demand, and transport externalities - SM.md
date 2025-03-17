@@ -7,4 +7,4 @@
 ```table-of-contents
 ```
 
-Just read the slides
+Just read the slides!

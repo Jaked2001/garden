@@ -58,7 +58,7 @@ sort by description
 #### Car following
 
 We will have to read a paper and then explain it to the class. We will also need to write a report on the paper
-- [!] [[2025-03-21]] - Car following model assignment
+- [!] [[2025-03-28]] - Car following model assignment
 
 #### Final project
 
@@ -78,9 +78,10 @@ Report to present all the things of the last part of the course plus [[AIMSUM]]
 
 ___
 
-| File                                                                                                                                                    | Tipo | Stato         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------- |
-| [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/02 - Dynamic Network Loading - TSM\|02 - Dynamic Network Loading - TSM]] | T    | 🪶🟡 Scrivere |
+| File                                                                                                                                                                                    | Tipo     | Stato         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Assgm/Nonlinear follow-the-leader models of traffic flow.md\|Nonlinear follow-the-leader models of traffic flow]] | Articolo | 🟡 Finire     |
+| [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/03 - Car Following models - TSM\|03 - Car Following models - TSM]]                                       | T        | 🪶🟡 Scrivere |
 
 { .block-language-dataview}
 
@@ -92,7 +93,7 @@ ___
 not done
 path includes Traffic Simulation Models
 filter by function task.status.name === 'Question'
-group by path
+SORT by path
 ```
 
 
@@ -105,7 +106,8 @@ ___
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/00 - Course introduction - TSM\|00 - Course introduction - TSM]]                                                     | 🟢 Fatto      |
 | [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/01 - Introduction to the traffic simulation models - TSM\|01 - Introduction to the traffic simulation models - TSM]] | 🟢 Fatto      |
-| [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/02 - Dynamic Network Loading - TSM.md\|02 - Dynamic Network Loading - TSM]]                                             | 🪶🟡 Scrivere |
+| [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/02 - Dynamic Network Loading - TSM\|02 - Dynamic Network Loading - TSM]]                                             | 🟠 Studiare   |
+| [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/03 - Car Following models - TSM.md\|03 - Car Following models - TSM]]                                                   | 🪶🟡 Scrivere |
 
 { .block-language-dataview}
 
