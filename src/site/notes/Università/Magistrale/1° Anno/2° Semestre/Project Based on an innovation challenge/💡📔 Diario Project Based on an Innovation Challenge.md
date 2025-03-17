@@ -15,3 +15,15 @@ Today we didn't do anything. Professors did not show up, time was dedicated to g
 Class with ??? on [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/02 - Validating Ideas for Urban Mobility - PBIC\|02 - Validating Ideas for Urban Mobility - PBIC]]
 
 Presented Case to supervisors.
+
+
+# 📆  17-03-2025 - Mon
+
+### 📝 Theory
+
+No class today. 
+
+### ✏️ Projects
+
+Meeting with supervisors.
+

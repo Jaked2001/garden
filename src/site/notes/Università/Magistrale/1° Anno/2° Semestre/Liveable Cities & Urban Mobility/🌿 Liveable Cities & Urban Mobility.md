@@ -42,7 +42,7 @@ due to march 13th
 
 ### 🗣 Projects 
 
-- [!] [[_Giornaliera/2025-03-13\|2025-03-13]] - Meridiana Project presentation 🔼 
+- [x] [[_Giornaliera/2025-03-13\|2025-03-13]] - Meridiana Project presentation 🔼 ✅ 2025-03-17
 
 
 ## 💯 Grade

@@ -10,3 +10,24 @@ z \sim N(0,1)
 $$
 The standard normal distribution is often used to estimate a [[Confidence Interval\|Confidence Interval]] for statistics.
 
+## Probability Density Function
+
+The [[Probability Density Function\|Probability Density Function]] for the standard normal distribution is:
+
+```ad-Teo
+title: Pdf for Standard Normal Distribution
+
+$
+f_{X}(x) = \frac{1}{\sqrt{2 \pi}}e^{\frac{x^{2}}{2}}
+$
+
+```
+
+
+## Properties
+
+symbol:: $N\sim(0,1)$
+mean:: 0
+variance:: 1
+kurtosis:: 0
+skewness:: 1
