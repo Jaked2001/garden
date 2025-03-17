@@ -577,7 +577,7 @@ $$
 
 A confidence interval is the interval in which a population statistic is contained when estimated by a sample statistic.
 
-Let $\mu$ be some population mean of same value and let $\overline{X}$ be the mean of a sample of the population. Given an accuracy of $\alpha$ (s.t. the interval is accurate in $(1-\alpha) \%$ of cases), then a Confidence Interval for the population mean is:
+Let $\mu$ be some population mean of same value and let $\overline{X}$ be the mean of a sample of the population. Given an [[Level of significance]] of $\alpha$ (s.t. the interval is accurate in $(1-\alpha) \%$ of cases), then a Confidence Interval for the population mean is:
 $
 \mu \in \left[ \overline{X} - z_{1- \frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}; \overline{X} + z_{1- \frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}  \right]
 $
@@ -598,7 +598,7 @@ We are basically looking for the value:
 $
 z_{1- \frac{\alpha}{2}} = z_{1- \frac{0.05}{2}} = z_{1 - 0.025} = z_{0.975}
 $
-We want the value of $z$ such that the probability of that value is equal to 0.975.
+that is the value such that the area under the density distribution is equal to 0.975.
 
 From the probability table we can find out that such value is:
 $
