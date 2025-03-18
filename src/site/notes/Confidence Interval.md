@@ -12,6 +12,14 @@ $$
 $$
 where $z_{1- \frac{\alpha}{2}}$ is the value of z (where z follows a [[Standard Normal Distribution\|Standard Normal Distribution]]) such that the area under the curve is equal to $1-\frac{\alpha}{2}$.
 
+Let's suppose $z$ is the value we are looking for (for example, the exact value of $\mu$). Let $Z$ be any possible value of the [[Standard Normal Distribution\|Standard Normal Distribution]]. We can evaluate the probability:
+$$
+\mathcal{P}(Z\le z)
+$$
+as the area in the interval $(-\infty, z)$. If for example we want that our estimate is accurate with a Degree of confidence of 95%, all we need to do is make sure we select a range wide enough such that, the range in question as an area of at least 0.95. That means, the area in the interval $(-\infty,z)$ has to be $\frac{0.05}{2}$. (notice how the curve is symmetric and we want 95% to be the area in the middle). So, if we can find the value of $z$ such that the area under the curve is $0.025$, we will have a range of values that ensures us that the estimate is accurate at 95%.
+
+In order to find this value it's important to use statistic tables. For the [[Standard Normal Distribution\|Standard Normal Distribution]] you can read more about them in [[Standard Normal Distribution#Statistical tables\|Standard Normal Distribution#Statistical tables]].
+
 ![Confidence Interval 2025-03-16 19.27.14.excalidraw.png](/img/user/Allegati/Confidence%20Interval%202025-03-16%2019.27.14.excalidraw.png)
 
 

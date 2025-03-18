@@ -350,12 +350,22 @@ The **population** is the collection of [[Università/Magistrale/1° Anno/2° Se
 
 ```
 
+A population is usually associated with a [[Random variables|probability distribution]]. Therefore, we have a [[#Population distribution]]
 #### Target population
 
 ```ad-Definizione
 title: Target population
 
 Target population is the [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Population\|#Population]] we are interested in studying.
+
+```
+
+#### Population distribution
+
+```ad-Definizione
+title: Population distribution
+
+The **population distribution** is the probability distribution derived from the information on all elements of a population.
 
 ```
 
@@ -366,6 +376,16 @@ Target population is the [[Università/Magistrale/1° Anno/2° Semestre/Travel D
 title: Sample
 
 A **sample** is a subset of the population for which the survey data is collected
+
+```
+
+#### Sample distribution
+
+
+```ad-Definizione
+title: Sample distribution
+
+The **sample distribution** is the probability distribution of a [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Sample\|#Sample]] statistic ($\overline{x}, \overline{p}, s$)
 
 ```
 
@@ -494,7 +514,7 @@ A [[#Simple random sampling|simple random sample]] from a finite population of s
 
 ## Point estimation
 
-In point estimation we use data from a [[#Sample]] to compute a value of a sample statistic that we then use as an estimate of the population statistic.
+In point estimation we use data from a [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Sample\|#Sample]] to compute a value of a sample statistic that we then use as an estimate of the population statistic.
 
 ```ad-Definizione
 title: Point estimate
@@ -583,6 +603,14 @@ $
 $
 where $z_{1- \frac{\alpha}{2}}$ is the value of z (where z follows a [[Standard Normal Distribution]]) such that the area under the curve is equal to $1-\frac{\alpha}{2}$.
 
+Let's suppose $z$ is the value we are looking for (for example, the exact value of $\mu$). Let $Z$ be any possible value of the [[Standard Normal Distribution]]. We can evaluate the probability:
+$
+\mathcal{P}(Z\le z)
+$
+as the area in the interval $(-\infty, z)$. If for example we want that our estimate is accurate with a Degree of confidence of 95%, all we need to do is make sure we select a range wide enough such that, the range in question as an area of at least 0.95. That means, the area in the interval $(-\infty,z)$ has to be $\frac{0.05}{2}$. (notice how the curve is symmetric and we want 95% to be the area in the middle). So, if we can find the value of $z$ such that the area under the curve is $0.025$, we will have a range of values that ensures us that the estimate is accurate at 95%.
+
+In order to find this value it's important to use statistic tables. For the [[Standard Normal Distribution]] you can read more about them in [[Standard Normal Distribution#Statistical tables]].
+
 ![Confidence Interval 2025-03-16 19.27.14.excalidraw.png](/img/user/Allegati/Confidence%20Interval%202025-03-16%2019.27.14.excalidraw.png)
 %%[[Confidence Interval 2025-03-16 19.27.14.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
@@ -619,4 +647,190 @@ We are assuming to know the variance of the population. This is clearly impossib
 </div></div>
 
 
+### Common estimator
+
+#### Point estimator of population mean
+
+```ad-Teo
+title: Point estimator of population mean
+
+The [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Point estimation\|point estimator]] for the population [[Mean\|Mean]] $\mu$ is the quantity:
+$
+\overline{x} =  \frac{\sum\limits_{i=1}^{n}x_{i}}{n}
+$
+Where $\overline{x}$ is the [[#Sample]] mean.
+
+```
+
+
+#### Point estimator of population variance
+
+
+```ad-Teo
+title: Point estimator of population mean
+
+The [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Point estimation\|point estimator]] for the population [[Standard Deviation\|Standard Deviation]] $\sigma$ is the quantity:
+$
+s =  \sqrt{ \frac{\sum\limits_{i=1}^{n}(x_{i}-\overline{x})^{2}}{n-1} }
+$
+
+```
+
+#### Point estimator of population proportion
+
+
+```ad-Teo
+title: Point estimator of population mean
+
+The [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Point estimation\|point estimator]] for the population [[Proportion\|Proportion]] $p$ is the quantity:
+$
+\overline{p} =   \frac{\sum\limits_{i=1}^{n}x_{i}}{n}
+$
+where $X$ is a binary variable and $\overline{p}$ is the number of trues over the total.
+```
+
+### Inference of population mean
+
+![02 - Data and Space - TDBM 2025-03-18 11.09.46.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Travel%20Demand%20&%20Behavioural%20Modeling/Notes/Allegati/02%20-%20Data%20and%20Space%20-%20TDBM%202025-03-18%2011.09.46.excalidraw.png)
+%%[[02 - Data and Space - TDBM 2025-03-18 11.09.46.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+#### Sample distribution of sample mean
+
+The [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Sample distribution\|#Sample distribution]] of the sample mean $\overline{x}$ is the probability distribution of all possible values of $\overline{x}$.
+
+In order to define it, we need to know:
+- [[04 - Statistica - Idro#Valore atteso o media|Expected value]] of $\overline{x}$
+- [[02 - Exploratory Data Analysis - DATS#Standard Deviation|Standard Deviation]] of $\overline{x}$
+- The form of the sampling distribution of $\overline{x}$
+
+##### Expected value of sample mean
+
+```ad-Teo
+title: Theorem
+
+The expected value of the sampling distribution of $\overline{X}$ is equal to the mean of the population. Thus:
+$
+E[\overline{x}] = \mu_{\overline{x}} = \mu 
+$
+```
+
+- [?] What is $\mu_{\overline{x}}$?
+
+##### Standard deviation of sample mean
+
+The [[Standard Deviation]] of the [[#Sample]] mean depends on the size of the population.
+Remember:
+- $N:$ population size
+- $n:$ sample size
+- $\sigma_\overline{x}:$ Standard deviation of the sample mean
+
+**INFINITE POPULATION ($N>500\,000$)**
+Then the standard deviation of the population mean ($\sigma_\overline{x}$) is:
+$$
+\sigma_\overline{x} = \frac{\sigma}{\sqrt{n}}
+$$
+where $\sigma$ is simply the population standard deviation.
+
+**FINITE POPULATION AND $\dfrac{n}{N}\le 0.05$** 
+Then we need to apply the correction factor $\sqrt{\dfrac{N-n}{N-1}}$:
+$$
+\sigma_\overline{x} = \sqrt{\dfrac{N-n}{N-1}} \cdot \frac{\sigma}{\sqrt{n}}
+$$
+**FINITE POPULATION AND $\dfrac{n}{N}> 0.05$** 
+Then we need to apply the correction factor $\sqrt{\dfrac{N-n}{N}}$:
+$$
+\sigma_\overline{x} = \sqrt{\dfrac{N-n}{N}} \cdot \frac{\sigma}{\sqrt{n}}
+$$
+- [?] Is this classification correct? It was not clear to me if there are 2 or 3 cases from the slides (see slide 103).
+
+
+```ad-note
+1. The standard deviation of the sample mean is smaller than the standard deviation of the corresponding population distribution: $\sigma_\overline{x}<\sigma$
+2. The standard deviation of the sampling distribution of $\overline{x}$ decreases as the sample size increases
+```
+
+##### Form of the sample distribution of sample mean
+
+The [[#Sample distribution]] of the sample mean follows different [[Random variables]] distributions depending on the [[#Population distribution]].
+
+**Population follows [[Normal distribution\|Normal distribution]].**
+Then the sampling distribution of the sample mean is also **normally distributed** for *any sample size*.
+$$
+X \sim N(\mu, \sigma^{2}) \quad\Longrightarrow\quad \overline{X} \sim N\left( \mu , \frac{\sigma^{2}}{n} \right)
+$$
+
+**Population is not normally distributed AND sample size is large ($n>30$).**
+Then the sampling distribution of the sample mean is also **approximately normally distributed**, irrespective of the [[#Population distribution]]. If the population is highly [[Skewness|skewed]], we need a sample size $n>50$ or more.
+
+
+### Inference of population proportion
+
+![02 - Data and Space - TDBM 2025-03-18 12.02.00.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Travel%20Demand%20&%20Behavioural%20Modeling/Notes/Allegati/02%20-%20Data%20and%20Space%20-%20TDBM%202025-03-18%2012.02.00.excalidraw.png)
+%%[[02 - Data and Space - TDBM 2025-03-18 12.02.00.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+#### Sample distribution of sample proportion
+
+The [[#Sample distribution]] of the sample proportion $\overline{p}$ is the probability distribution of all possible values of $\overline{p}$.
+
+In order to define it, we need to know:
+- [[04 - Statistica - Idro#Valore atteso o media|Expected value]] of $\overline{p}$
+- [[02 - Exploratory Data Analysis - DATS#Standard Deviation|Standard Deviation]] of $\overline{p}$
+- The form of the sampling distribution of $\overline{p}$
+
+##### Expected value of sample proportion
+
+```ad-Teo
+title: Theorem
+
+The expected value of the sampling distribution of $\overline{p}$ is equal to the mean of the population. Thus:
+$
+E[\overline{p}] = p
+$
+```
+
+##### Standard deviation of sample proportion
+
+The [[Standard Deviation]] of the [[#Sample]] proportion depends on the size of the population.
+Remember:
+- $N:$ population size
+- $n:$ sample size
+- $\sigma_\overline{p}:$ Standard deviation of the sample proportion. Usually unavailable, then we use $s_\overline{p}$
+
+**INFINITE POPULATION ($N>500\,000$)**
+Then the standard deviation of the population proportion ($\sigma_\overline{p}$) is simply:
+$$
+\sigma_\overline{p} = \overline{p}
+$$
+
+**FINITE POPULATION AND $\dfrac{n}{N}\le 0.05$** 
+Then the standard deviation of the population proportion ($\sigma_\overline{p}$) is (depending on whether we know the value of $p$):
+$$
+\sigma_\overline{p} = \sqrt{\dfrac{p(1-p)}{n}} \quad\stackrel{p\text{ unknown}}{\longrightarrow}\quad s_\overline{p} = \sqrt{\dfrac{\overline{p}(1-\overline{p})}{n-1}}
+$$
+- [?] Why do we have both $\sigma_\overline{p}$ and $s_{\overline{p}}$? Aren't we looking for $\sigma_{\overline{p}}$ anyway?
+
+**FINITE POPULATION AND $\dfrac{n}{N}> 0.05$** 
+Then the standard deviation of the population proportion ($\sigma_\overline{p}$) is (depending on whether we know the value of $p$):
+$$
+\sigma_\overline{p} = \sqrt{\dfrac{p(1-p)}{n}} \sqrt{\dfrac{N-n}{N}} \quad\stackrel{p\text{ unknown}}{\longrightarrow}\quad s_\overline{p} = \sqrt{\dfrac{\overline{p}(1-\overline{p})}{n-1}}\sqrt{\dfrac{N-n}{N}}
+$$
+
+
+
+
+```ad-note
+1. The standard deviation of the sample mean is smaller than the standard deviation of the corresponding population distribution: $\sigma_\overline{x}<\sigma$
+2. The standard deviation of the sampling distribution of $\overline{x}$ decreases as the sample size increases
+```
+
+##### Form of the sample distribution of sample mean
+
+The [[#Sample distribution]] of the sample proportion follows a [[Normal distribution]] whenever the sample size $n$ is large enough
+
+[[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Sample size\|#Sample size]] is large enough when both of the following conditions are met:
+- $np \ge 5$
+- $n(1-p)\ge5$
+❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗ COMPLETARE ❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗
 
