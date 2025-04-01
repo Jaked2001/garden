@@ -82,7 +82,7 @@ There are many stages in a survey process:
 
 
 
-# Survey types in transportation systems
+## Survey types in transportation systems
 
 - [[#Household travel/activity surveys]]
 	- These are used to collect data about households or individuals.
@@ -611,7 +611,7 @@ as the area in the interval $(-\infty, z)$. If for example we want that our esti
 
 In order to find this value it's important to use statistic tables. For the [[Standard Normal Distribution]] you can read more about them in [[Standard Normal Distribution#Statistical tables]].
 
-![Confidence Interval 2025-03-16 19.27.14.excalidraw.png](/img/user/Allegati/Confidence%20Interval%202025-03-16%2019.27.14.excalidraw.png)
+![Confidence Interval 2025-03-16 19.27.14.excalidraw.png](/img/user/allegati/Confidence%20Interval%202025-03-16%2019.27.14.excalidraw.png)
 %%[[Confidence Interval 2025-03-16 19.27.14.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
 We use the Standard normal distribution since is well known. Then, we scale it according to a factor dependent on the variance of the variable we are interested in: $\dfrac{\sigma}{\sqrt{n}}$.
@@ -815,13 +815,13 @@ $$
 \sigma_\overline{p} = \sqrt{\dfrac{p(1-p)}{n}} \sqrt{\dfrac{N-n}{N}} \quad\stackrel{p\text{ unknown}}{\longrightarrow}\quad s_\overline{p} = \sqrt{\dfrac{\overline{p}(1-\overline{p})}{n-1}}\sqrt{\dfrac{N-n}{N}}
 $$
 
-
-
-
 ```ad-note
 1. The standard deviation of the sample mean is smaller than the standard deviation of the corresponding population distribution: $\sigma_\overline{x}<\sigma$
 2. The standard deviation of the sampling distribution of $\overline{x}$ decreases as the sample size increases
 ```
+
+- [?] I believe there is an error in the inverse formula for $n_\infty$. I think the correct answer should be $n = \dfrac{n_{\infty} + 1}{1- \frac{n_\infty}{N}}$ instead of $n = \dfrac{n_{\infty}}{1- \frac{n_\infty}{N}}$ [[Schermata 2025-03-31 alle 18.08.31.png|See slide]] ⏫ 
+
 
 ##### Form of the sample distribution of sample mean
 
@@ -830,7 +830,10 @@ The [[#Sample distribution]] of the sample proportion follows a [[Normal distrib
 [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Sample size\|#Sample size]] is large enough when both of the following conditions are met:
 - $np \ge 5$
 - $n(1-p)\ge5$
+
 ❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗
-❗❗❗❗❗❗❗❗❗❗❗❗
+❗❗❗❗❗❗❗❗❗❗❗❗ from slide 114 to the end
+
+
 

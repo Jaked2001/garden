@@ -57,9 +57,11 @@ due to march 13th
 
 | File                                                                                                                                                                                                                       | Tipo     | Stato       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------- |
-| [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Projects/P01 - Meridiana street - LC\|P01 - Meridiana street - LC]]                                                                        | Progetto | 🟡 Finire   |
+| [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Projects/P02 - Redesign the street - LC\|P02 - Redesign the street - LC]]                                                                  | Progetto | 🔴 Fare     |
 | [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Notes/??? - Walking Strategies - Role in the mobility and public space\|??? - Walking Strategies - Role in the mobility and public space]] | T        | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Notes/01 - Barcelona Story - LC\|01 - Barcelona Story - LC]]                                                                               | T        | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Notes/02.1 - Redesign the street - LC\|02.1 - Redesign the street - LC]]                                                                   | T        | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Notes/02.2 - Road integration - LC\|02.2 - Road integration - LC]]                                                                         | T        | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Notes/03 -\|03 -]]                                                                                                                         | T        | 🪶 Scrivere |
 
 { .block-language-dataview}
@@ -76,6 +78,8 @@ ___
 | [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Notes/??? - Walking Strategies - Role in the mobility and public space\|??? - Walking Strategies - Role in the mobility and public space]] | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Notes/00 - Course introduction - LC\|00 - Course introduction - LC]]                                                                       | 🟢 Fatto    |
 | [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Notes/01 - Barcelona Story - LC\|01 - Barcelona Story - LC]]                                                                               | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Notes/02.1 - Redesign the street - LC\|02.1 - Redesign the street - LC]]                                                                   | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Notes/02.2 - Road integration - LC\|02.2 - Road integration - LC]]                                                                         | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Notes/03 -\|03 -]]                                                                                                                         | 🪶 Scrivere |
 
 { .block-language-dataview}
@@ -86,9 +90,10 @@ ___
 
 ## ✍️ Projects
 
-| File                                                                                                                                                | Stato     |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Projects/P01 - Meridiana street - LC\|P01 - Meridiana street - LC]] | 🟡 Finire |
+| File                                                                                                                                                      | Stato    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Projects/P01 - Meridiana street - LC\|P01 - Meridiana street - LC]]       | 🟢 Fatto |
+| [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Projects/P02 - Redesign the street - LC\|P02 - Redesign the street - LC]] | 🔴 Fare  |
 
 { .block-language-dataview}
 

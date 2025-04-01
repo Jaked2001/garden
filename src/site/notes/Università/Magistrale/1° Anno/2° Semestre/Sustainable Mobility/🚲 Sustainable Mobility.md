@@ -84,9 +84,11 @@ Structure:
 
 ___
 
-| File                                                                                                                      | Tipo | Stato   |
-| ------------------------------------------------------------------------------------------------------------------------- | ---- | ------- |
-| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Assignment/Research Paper - SM\|Research Paper - SM]] | Es   | 🔴 Fare |
+| File                                                                                                                                                                         | Tipo | Stato       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Assignment/Research Paper - SM\|Research Paper - SM]]                                                    | Es   | 🔴 Fare     |
+| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/05 - Basics on sustainable development - SM\|05 - Basics on sustainable development - SM]]         | T    | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/06 - Basics of urban planning and mobility - SM\|06 - Basics of urban planning and mobility - SM]] | T    | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -103,6 +105,8 @@ ___
 | [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/01 - Basic of traffic flow and management - SM\|01 - Basic of traffic flow and management - SM]]                                                             | 🟠 Studiare |
 | [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/02 - Public Transport - SM\|02 - Public Transport - SM]]                                                                                                     | 🟠 Studiare |
 | [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/03 - Basics of transport economics, demand, and transport externalities - SM\|03 - Basics of transport economics, demand, and transport externalities - SM]] | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/05 - Basics on sustainable development - SM\|05 - Basics on sustainable development - SM]]                                                                   | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/06 - Basics of urban planning and mobility - SM\|06 - Basics of urban planning and mobility - SM]]                                                           | 🪶 Scrivere |
 
 { .block-language-dataview}
 

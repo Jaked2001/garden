@@ -20,7 +20,7 @@ as the area in the interval $(-\infty, z)$. If for example we want that our esti
 
 In order to find this value it's important to use statistic tables. For the [[Standard Normal Distribution\|Standard Normal Distribution]] you can read more about them in [[Standard Normal Distribution#Statistical tables\|Standard Normal Distribution#Statistical tables]].
 
-![Confidence Interval 2025-03-16 19.27.14.excalidraw.png](/img/user/Allegati/Confidence%20Interval%202025-03-16%2019.27.14.excalidraw.png)
+![Confidence Interval 2025-03-16 19.27.14.excalidraw.png](/img/user/allegati/Confidence%20Interval%202025-03-16%2019.27.14.excalidraw.png)
 
 
 We use the Standard normal distribution since is well known. Then, we scale it according to a factor dependent on the variance of the variable we are interested in: $\dfrac{\sigma}{\sqrt{n}}$.

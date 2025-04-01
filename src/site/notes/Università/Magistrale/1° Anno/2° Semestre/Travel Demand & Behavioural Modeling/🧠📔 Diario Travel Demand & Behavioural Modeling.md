@@ -53,5 +53,28 @@ Assignment grading:
 - Inference of population proportion
 
 
+# 📆  18-03-2025 - Tue
 
-### ✏️ Projects
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/03 - Trip generation modeling - TDBM\|03 - Trip generation modeling - TDBM]]
+- Intro
+- Growth factor
+- Category (cross classification) analysis
+- Linear regression models
+
+
+# 📆  25-03-2025 - Tue
+
+### 📝 Theory
+
+[[04 - Trip distribution modeling\|04 - Trip distribution modeling]]
+- Introduction
+- Models overview
+	- Gravitational
+	- Entropy
+- Growth factor
+	- uniform
+	- simply constrained
+	- doubly constrained
+- 

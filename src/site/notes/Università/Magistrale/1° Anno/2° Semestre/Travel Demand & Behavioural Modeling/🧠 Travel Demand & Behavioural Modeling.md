@@ -6,7 +6,7 @@
 # [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/🧠 Travel Demand & Behavioural Modeling\|🧠 Travel Demand & Behavioural Modeling]]
 
 
-**🧑🏻‍🏫 Prof:** 
+**🧑🏻‍🏫 Prof:** [[Lídia Montero\|Lídia Montero]]
 **📧 e-mail:** 
 
 **📔 Diario del corso:** [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/🧠📔 Diario Travel Demand & Behavioural Modeling\|🧠📔 Diario Travel Demand & Behavioural Modeling]]
@@ -58,7 +58,7 @@ Final exam is a pen and paper exam. No computer.
 
 ### 🗣 Assignments
 
-- [!] [[2025-03-30]] **Assgm 1** 🔼 
+- [x] [[2025-03-30]] **Assgm 1** 🔼 ✅ 2025-03-29
 - [!] [[2025-05-04]] **Assgm 2** 🔼 
 - [!] [[2025-06-01]] **Assgm 3** 🔼 
 
@@ -72,25 +72,29 @@ where:
 - $P = \frac{1}{3}\left( P_{1} +P_{2} + P_{3} \right)$
 - $E = \max{\left( F_{2}, \frac{F_{1}+2F_{2}}{3} \right)}$
 
-| Parte     | Data | Voto |
-| --------- | ---- | ---- |
-| Assgm 1   |      |      |
-| Assgm 2   |      |      |
-| Assgm 3   |      |      |
-| Midterm   |      |      |
-| Final     |      |      |
-| **TOTAL** |      |      |
+| Parte     | Data           | Voto |
+| --------- | -------------- | ---- |
+| Assgm 1   | [[2025-03-30]] |      |
+| Assgm 2   | [[2025-05-04]] |      |
+| Assgm 3   | [[2025-06-01]] |      |
+| Midterm   | [[2025-04-08]] |      |
+| Final     | [[2025-05-27]] |      |
+| **TOTAL** |                |      |
 
 
 # ✔️ To-Do
 
 
 ___
-| File                                                                                                                                                                                           | Tipo | Stato         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------- |
-| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Assignments/Assgm 01 - Demand Model for Montevideo - TDBM\|Assgm 01 - Demand Model for Montevideo - TDBM]] | Es   | 🟡 Finire     |
-| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/00 - Intro to subject - TDBM\|00 - Intro to subject - TDBM]]                                         | T    | 🪶🟡 Scrivere |
-| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM\|02 - Data and Space - TDBM]]                                             | T    | 🪶 Scrivere   |
+
+| File                                                                                                                                                                                           | Tipo  | Stato         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Problems/02 - Data and Space - Problems - TDBM\|02 - Data and Space - Problems - TDBM]]                    | Es    | 🔴 Fare       |
+| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Assignments/Assgm 01 - Demand Model for Montevideo - TDBM\|Assgm 01 - Demand Model for Montevideo - TDBM]] | Es    | 🟡 Finire     |
+| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Exams/2022 - Partial - TDBM\|2022 - Partial - TDBM]]                                                       | Esame | 🔴 Fare       |
+| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/00 - Intro to subject - TDBM\|00 - Intro to subject - TDBM]]                                         | T     | 🪶🟡 Scrivere |
+| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM\|02 - Data and Space - TDBM]]                                             | T     | 🪶 Scrivere   |
+| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/03 - Trip generation modeling - TDBM\|03 - Trip generation modeling - TDBM]]                         | T     | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
@@ -101,7 +105,7 @@ ___
 not done
 path includes Travel Demand & Behavioural Modeling
 filter by function task.status.name === 'Question'
-group by path
+SORT by path
 ```
 
 
@@ -111,15 +115,28 @@ ___
 # 👉🏻 Course Index
 
 
-| File                                                                                                                                                   | Stato         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- |
-| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/00 - Intro to subject - TDBM.md\|00 - Intro to subject - TDBM]] | 🪶🟡 Scrivere |
-| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM.md\|02 - Data and Space - TDBM]]     | 🪶 Scrivere   |
+| File                                                                                                                                                                   | Stato         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/00 - Intro to subject - TDBM.md\|00 - Intro to subject - TDBM]]                 | 🪶🟡 Scrivere |
+| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM.md\|02 - Data and Space - TDBM]]                     | 🪶 Scrivere   |
+| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/03 - Trip generation modeling - TDBM.md\|03 - Trip generation modeling - TDBM]] | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
 
 ___
+
+## 💪 Problems
+
+
+| File                                                                                                                                                                                           | Stato     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Problems/02 - Data and Space - Problems - TDBM\|02 - Data and Space - Problems - TDBM]]                    | 🔴 Fare   |
+| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Assignments/Assgm 01 - Demand Model for Montevideo - TDBM\|Assgm 01 - Demand Model for Montevideo - TDBM]] | 🟡 Finire |
+
+{ .block-language-dataview}
+
+
 
 
 ## ✍️ Assignments
@@ -144,17 +161,19 @@ Assignment 1 grading:
 
 | File                                                                                                                                                                                           | Stato     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Assignments/Assgm 01 - Demand Model for Montevideo - TDBM\|Assgm 01 - Demand Model for Montevideo - TDBM]] | 🟡 Finire |
+| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Problems/02 - Data and Space - Problems - TDBM.md\|02 - Data and Space - Problems - TDBM]]                    | 🔴 Fare   |
+| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Assignments/Assgm 01 - Demand Model for Montevideo - TDBM.md\|Assgm 01 - Demand Model for Montevideo - TDBM]] | 🟡 Finire |
 
 { .block-language-dataview}
+
 
 
 ## ❌ Past Exams
 
 
-| File                                                                                                                                                                                           | Stato     |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Assignments/Assgm 01 - Demand Model for Montevideo - TDBM.md\|Assgm 01 - Demand Model for Montevideo - TDBM]] | 🟡 Finire |
+| File                                                                                                                                     | Stato   |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Exams/2022 - Partial - TDBM.md\|2022 - Partial - TDBM]] | 🔴 Fare |
 
 { .block-language-dataview}
 

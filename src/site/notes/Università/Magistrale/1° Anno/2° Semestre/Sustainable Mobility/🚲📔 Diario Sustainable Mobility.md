@@ -33,3 +33,19 @@ The theory part was held by the substitute.
 - Generalized cost for the user
 - Generalized cost for the operator
 
+
+
+# 📆  20-03-2025 - Thu
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/05 - Basics on sustainable development - SM\|05 - Basics on sustainable development - SM]]
+
+
+# 📆  27-03-2025 - Thu
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/06 - Basics of urban planning and mobility - SM\|06 - Basics of urban planning and mobility - SM]]
+
+### ✏️ Projects

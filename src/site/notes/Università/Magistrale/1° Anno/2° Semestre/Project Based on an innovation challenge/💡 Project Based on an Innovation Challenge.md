@@ -71,6 +71,7 @@ ___
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ----------- |
 | [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Project/Challenge - SmartRide - PBIC\|Challenge - SmartRide - PBIC]]                                     | Progetto | 🟡 Finire   |
 | [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/02 - Validating Ideas for Urban Mobility - PBIC\|02 - Validating Ideas for Urban Mobility - PBIC]] | T        | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/Sustainability reporting - PBIC\|Sustainability reporting - PBIC]]                                 | T        | 🟢 Fatto    |
 
 { .block-language-dataview}
 
@@ -83,6 +84,7 @@ ___
 | File                                                                                                                                                                                             | Stato       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
 | [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/02 - Validating Ideas for Urban Mobility - PBIC\|02 - Validating Ideas for Urban Mobility - PBIC]] | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/Sustainability reporting - PBIC\|Sustainability reporting - PBIC]]                                 | 🟢 Fatto    |
 
 { .block-language-dataview}
 

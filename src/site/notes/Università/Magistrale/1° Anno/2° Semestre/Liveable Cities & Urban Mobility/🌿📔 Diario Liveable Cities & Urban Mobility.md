@@ -27,3 +27,25 @@ Presentation on project to carry out during the first module of the course:
 
 Seminar: [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Notes/??? - Walking Strategies - Role in the mobility and public space\|??? - Walking Strategies - Role in the mobility and public space]]
 
+
+
+# 📆  19-03-2025 - Wed
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Notes/02.1 - Redesign the street - LC\|02.1 - Redesign the street - LC]]
+- Street definition
+- Reclaiming road space
+- ...
+
+
+
+# 📆  26-03-2025 - Wed
+
+### 📝 Theory
+
+Discussion on the assignment
+
+
+
+### ✏️ Projects

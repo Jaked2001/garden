@@ -45,7 +45,8 @@ So, for example, we will have Generation, Distribution, mode choice and route ch
 ```
 
 The results of this modeling will go into an OD matrix (see [[Università/Triennale/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/08. Studio della domanda di trasporto#Matrice origine destinazione\|matrici origine-destinazione]]). To be precise will go into a set of OD matrixes, one for each purpose.
-$$\begin{matrix}
+$$
+\begin{matrix}
 d_{11} & d_{12}  & \cdots & d_{1n} & \boldsymbol{P_{1}} \\
 d_{21} & d_{22}  & \cdots & d_{2n} & \boldsymbol{P_{2}} \\
 \vdots & \vdots  & d_{ij} & \vdots & \vdots\\
@@ -71,9 +72,14 @@ This is done usually through linear regression models. We will obtain:
 
 After this step, we have models for real $P$ and $A$ and for predicted values, $\hat{P}$ and $\hat{A}$. We need to fill the $ij$ entries of the matrix
 
+This step is addressed in [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/03 - Trip generation modeling - TDBM\|03 - Trip generation modeling - TDBM]]
+
 #### II - Trip distribution
 
 In this step we fill in every $ij$ entry of the OD matrix. We are also able, in this process, to predict the demands for future years, once a model has been validated in the present.
+
+This step is addressed in [[04 - Trip distribution modeling\|04 - Trip distribution modeling]].
+
 
 #### III - Mode choice
 
