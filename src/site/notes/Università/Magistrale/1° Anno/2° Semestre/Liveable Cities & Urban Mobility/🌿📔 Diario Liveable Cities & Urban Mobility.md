@@ -47,5 +47,8 @@ Seminar: [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban 
 Discussion on the assignment
 
 
+# 📆  03-04-2025 - Thu
 
-### ✏️ Projects
+### 📝 Theory
+
+Redesign street module

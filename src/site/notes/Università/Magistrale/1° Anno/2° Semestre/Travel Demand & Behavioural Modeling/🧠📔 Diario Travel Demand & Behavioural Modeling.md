@@ -68,7 +68,7 @@ Assignment grading:
 
 ### 📝 Theory
 
-[[04 - Trip distribution modeling\|04 - Trip distribution modeling]]
+[[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/04 - Trip Distribution Modeling - TDBM\|04 - Trip Distribution Modeling - TDBM]]
 - Introduction
 - Models overview
 	- Gravitational
@@ -77,4 +77,11 @@ Assignment grading:
 	- uniform
 	- simply constrained
 	- doubly constrained
-- 
+
+
+# 📆  03-04-2025 - Thu
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/04 - Trip Distribution Modeling - TDBM\|04 - Trip Distribution Modeling - TDBM]]
+- Hyman's method

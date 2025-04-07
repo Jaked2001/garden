@@ -430,7 +430,7 @@ Coltivatore/allevatori: Non cerchiamo più suolo per produrre di più ma per pro
 
 
 
-[[Piano regolatore di Roma\|Piano regolatore di Roma]] anni '60. Analisi-pianificazione sbagliata: prevedeva aumento di popolazione incredibile e che non si è realizzata. Le cubature però sono state assegnate.
+[[Piano Regolatore Generale di Roma\|Piano Regolatore Generale di Roma]] anni '60. Analisi-pianificazione sbagliata: prevedeva aumento di popolazione incredibile e che non si è realizzata. Le cubature però sono state assegnate.
 
 Si è avviato un nuovo piano regolatore nel 2003. 
 Tentativo di [[Giovanni Gaudo\|Giovanni Gaudo]] (ex assessore all'urbanistica): 

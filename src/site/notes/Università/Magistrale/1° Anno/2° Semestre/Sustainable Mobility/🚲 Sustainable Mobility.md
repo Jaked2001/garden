@@ -58,7 +58,7 @@ There are 2 evaluations: midcourse and at the end of the course
 
 Needs to be a bit more than just descriptive. There needs to be some analysis. Can also be something that can be useful in other classes or in the future.
 
-- [!] [[2025-04-03\|2025-04-03]] - Mid presentation
+- [!] [[_Giornaliera/2025-04-03\|2025-04-03]] - Mid presentation
 - [!] [[2025-05-22\|2025-05-22]] - Final presentation 🔼
 
 - Carry individual research

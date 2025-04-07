@@ -10,7 +10,7 @@
 When trying to model transportation patterns, one of the biggest challenges is the data collection. There are several ways of collecting data:
 - **Traffic detection stations**: inductive loop detectors, radars, magnetometers...
 - Antennas to capture Bluetooth or Wi-Fi equipped devices
-- CCTV image processing (Licence plate recognition, emulation of Traffic Detection Stations)
+- CCTV image processing (License plate recognition, emulation of Traffic Detection Stations)
 - Capture of digital footprints (ex: TAGs)
 - GPS tracking of fleets
 - Telephone [[#Surveys]]
@@ -27,13 +27,13 @@ They can be carried out in several ways:
 - By mail
 - In person
 
-A survey is different from a census because, in a census, the whole population is interviewed. In a survey, the information gathered from the sample is then expanded and associated to the rest of the population. There are several ways of selecting a sample. More information can be obtained in [[#Sample Theory]].
+A survey is different from a census because, in a census, the whole population is interviewed. In a survey, the information gathered from the [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Sample\|#Sample]] is then expanded and associated to the rest of the population. There are several ways of selecting a sample. More information can be obtained in [[#Sample Theory]].
 
-It is higly recommended the use of questionnaire, allowing for standardised, pre-defined questions that should be asked to everyone in the same way.
+It is highly recommended the use of questionnaire, allowing for standardized, pre-defined questions that should be asked to everyone in the same way.
 
-Some surveys focus on opinions and attitudes, such as election polls. Others are concerned with factual characteristics or behaviours, such as transportation habits, housing or consumer spending.
+Some surveys focus on opinions and attitudes, such as election polls. Others are concerned with factual characteristics or behaviour, such as transportation habits, housing or consumer spending.
 
-Questions can be asked in an open or closed format. Closed questions are much easer to interpret than open ended questions. Preferably, for ease of analysis, all questions should have a binary response.
+Questions can be asked in an open or closed format. Closed questions are much easier to interpret than open ended questions. Preferably, for ease of analysis, all questions should have a binary response.
 
 Usually, surveys combine questions of different types.
 
@@ -109,19 +109,17 @@ title: Example: EMEF survey
 
 In the 1950/60s, surveys were conducted on a large sample, about 3 to 5% of all households. The goal was to estimate O/D matrixes for region. At the time, TAZs were much larger because computer capacity was limited.
 
-Today, we only interview 2000 to 15000 households (corresponding to about 0.3%). The goal is no longer to obtain O/D matrixes, but to to get dailiy activity pattern sequences
+Today, we only interview 2000 to 15000 households (corresponding to about 0.3%). The goal is no longer to obtain O/D matrixes, but to to get daily activity pattern sequences
 
 ![Schermata 2025-03-05 alle 18.25.30.png](/img/user/allegati/Schermata%202025-03-05%20alle%2018.25.30.png)
 
 ### Transit on-board surveys
 
-These are surveys usually conducted by travelling agencies. Some data may already be known beforehand, like count of bourdings, but lack information about customer characteristics, like **frequency of transit trip-making**, vehicle avaialbility, origin-destination...
+These are surveys usually conducted by transport agencies. Some data may already be known beforehand, like count of boarding, but lack information about customer characteristics, like **frequency of transit trip-making**, car availability, origin-destination...
 
 ### Transit operator - satisfaction surveys
 
 These are to quantify the importance of items related to day to day conditions of transit network. For each item, the responders selects a score (from 1 to 10, or on the [[Likert Scale]]).
-
-
 
 ### Commercial vehicle surveys
 
@@ -163,7 +161,7 @@ Parking surveys ask about distance to final destination, duration of stay, poste
 
 ### Revealed versus stated preference
 
-Sometimes we are interested in knowing the factual state of the art. In other occasions, we want to investigate what people think of a new scenario that does not exists yet.
+Sometimes we are interested in knowing the factual state of the art. In other occasions, we want to investigate what people think of a new scenario that does not exist yet.
 
 #### Revealed preference
 
@@ -205,7 +203,7 @@ The respondent answers, onsciously or unconsciously, what they think the intervi
 
 ###### Rationalisation Bias
 
-The respondent tries to be rational in their responses in order to justify their behaviour at the time of the interview.
+The respondent tries to be rational in their responses in order to justify their behavior at the time of the interview.
 
 ###### Political Bias
 
@@ -222,17 +220,17 @@ Questionnaire design is the process of writing the questions and possible answer
 
 Questionnaire usually contain:
 - **Socioeconomic descriptors of individuals** (gender, age, education, social status, employment status, occupation, residence, family structure, income, wealth, etc.)
-- **Contextual descriptors:** highly dependent on the object of study (contextual knowledge, behaviours, etc.)
+- **Contextual descriptors:** highly dependent on the object of study (contextual knowledge, behaviors, etc.)
 - **Practices descriptors and opinions**: attitudes, habits, collective membership, etc.
 
-The general organisation, especially the order of questions, is important.
+The general organization, especially the order of questions, is important.
 
 ```ad-tip
 
 - go from general to particular
 - go from less committed to most committed
 - delicate questions must never go at the beginning or at the end
-- socio-economic questins go to the end
+- socio-economic questions go to the end
 - use transitional phrases to break the monotony and thematic changes
 - first questions are usually strategic and set the tone and predispose the respondent: they must be neutral, pleasant and easy
 - Avoid questions conditioning the response to the following questions
@@ -240,7 +238,7 @@ The general organisation, especially the order of questions, is important.
 
 ```
 
-The **order** of the questions can influence non-response.
+The **order** of the questions can influence non-responses.
 
 - Employ a simple and suited vocabulary to the type of population studied. Pay attention to the opening words of issues and questions.
 - Avoid asking a question so that response involves meeting certain requirements.
@@ -248,7 +246,7 @@ The **order** of the questions can influence non-response.
 - Avoid introduction of two concepts in the same question and double question.
 - Avoid loaded terms of affection, value judgments or sentences of different connotations depending on the context because the meaning of the question depending on the context of the individual changes.
 - Avoid situations where ambiguities and to the same question can give you the same answer, but for different reasons.
-- Authorize **double responses** in closed questions, but at least minimise them since the subsequent statistical analysis is greatly complicated.
+- Authorize **double responses** in closed questions, but at least minimize them since the subsequent statistical analysis is greatly complicated.
 - Closed questions (where individuals choose the answer from a list of possibilities) must **cover all possible situations**. Establish, where appropriate, a balance between positive and negative forms, checking the list of good possibilities offered.
 
 # Survey design
@@ -262,7 +260,7 @@ Survey design involves:
 
 # Statistical issues
 
-There are some possible errors that may occur when analysing data.
+There are some possible errors that may occur when analyzing data.
 
 First, let's focus on the difference between [[Accuracy]] and [[Precision]]:
 
@@ -288,14 +286,14 @@ Lack of [[Precision]] corresponds to a [[#Sampling error]].
 
 ## Sampling errors
 
-There are 2 types of sampling errors that may occur, summarised in the table below:
+There are 2 types of sampling errors that may occur, summarized in the table below:
 
 | Decision\Truth   |    $H_0$ true     |    $H_0$ false     |
 | ---------------- | :---------------: | :----------------: |
 | **Accept $H_0$** |         ✅         | [[#Type II error]] |
 | **Reject $H_0$** | [[#Type I error]] |         ✅          |
 
-These errors occur when we test an hypothesis and, the decision we take based on the p-value ends up being inccorect.
+These errors occur when we test an hypothesis and, the decision we take based on the p-value ends up being incorrect.
 
 ### Type I error
 
@@ -305,8 +303,6 @@ Type I error occurs when the null hypothesis is true, but the sample leads us to
 
 Type II error occurs when the null hypothesis is false, but the sample leads us to accept it.
 
-
-
 # Sample theory
 
 ## Sample size
@@ -314,7 +310,7 @@ Type II error occurs when the null hypothesis is false, but the sample leads us 
 It's important before any investigation to determine the sample size in respect to the population. Keep in mind that there is always a trade-off between the sample size and the resources available.
 
 Sample size depends on various factors:
-- Significance level
+- Significance level [[#Confidence Interval]]
 - Power
 - Expected prevalence of factor of interest
 
@@ -327,7 +323,6 @@ Sample size depends on various factors:
 - Decide on acceptable risk that estimate will fall outside its real population value
 - Adjust for expected response rate
 - Adjust for estimated design effect
-
 
 
 ## Statistical terminology
@@ -350,7 +345,8 @@ The **population** is the collection of [[Università/Magistrale/1° Anno/2° Se
 
 ```
 
-A population is usually associated with a [[Random variables|probability distribution]]. Therefore, we have a [[#Population distribution]]
+A population is usually associated with a [[Random variables|probability distribution]]. Therefore, we have a [[#Population distribution]].
+
 #### Target population
 
 ```ad-Definizione
@@ -451,7 +447,7 @@ In simple random sampling we simply select responders at random from a given lis
 
 #### Systematic sampling
 
-In systematic sampling, we select at random one responder from a given list, then, based on how many responses we need, we select every nth possibility from the list.
+In systematic sampling, we select at random one responder from a given list, then, based on how many responses we need, we select every n-th possibility from the list.
 
 #### Stratified sampling
 
@@ -460,9 +456,9 @@ In **stratified sampling** we divide the population in strata (same age-group, s
 ![Schermata 2025-03-06 alle 12.18.17.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Travel%20Demand%20&%20Behavioural%20Modeling/Notes/Allegati/Schermata%202025-03-06%20alle%2012.18.17.png)
 
 - [p] Can acquire information about the whole population **and** of the individual strata
-- [p] Precision is increased if variability within strata is less than between strata
+- [p] Precision is increased if variability within strata is less than across strata
 - [c] It can be difficult to identify strata
-- [c] Loss of [[Precision]] if there is only a small numbers of individual in a stratus
+- [c] Loss of [[Precision]] if there is only a small numbers of individual in a specific stratus
 
 
 #### Cluster sampling
@@ -500,13 +496,11 @@ title: Quota samples
 
 ```
 
-
 - [?] Can you apply quota sampling a posteriori? For example, I end up with 60% of female responders so I exclude, at random, some female responders in order to have balance?
 
 ### Convenience samples
 
 **Convenience samples** are obtained by choosing the easiest objects available
-
 
 ## Sampling from a finite population
 
@@ -514,7 +508,7 @@ A [[#Simple random sampling|simple random sample]] from a finite population of s
 
 ## Point estimation
 
-In point estimation we use data from a [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Sample\|#Sample]] to compute a value of a sample statistic that we then use as an estimate of the population statistic.
+In point estimation we use data from a [[#Sample]] to compute a value of a sample statistic that we then use as an estimate of the population statistic.
 
 ```ad-Definizione
 title: Point estimate
@@ -544,7 +538,7 @@ E[\overline{Y}] = \mu
 $$
 ```ad-attention
 
-This is not true for every statistic. If for example I define a statistic like:
+This is not true for every statistic. If for example I defined a statistic like:
 $
 \theta = \frac{\min{(Y_{1},..., Y_{n})}+ \max{(Y_{1},..., Y_{n})}}{2}
 $
@@ -557,7 +551,7 @@ $
 
 ### Inference
 
-As explained in [[#Point estimation]], we have a sample of a larger population. We can calculate some statistic of the sample. Then, we can use it to infer the corresponding statistic of the whole population.
+As explained in [[#Point estimation]], we have a sample of a larger population. We can calculate some statistic of the sample. Then, we can use it to **infer** the corresponding statistic of the whole population.
 
 Let's imagine we have several samples:
 - From sample 1, we get the sample mean $\overline{x}_{1}$
@@ -565,7 +559,7 @@ Let's imagine we have several samples:
 - ...
 - From sample n, we get the sample mean $\overline{x}_{n}$
 
-We can now have many observations of a sample mean. **This statistic is itself a random varaible**. It has been proved that:
+We can now have many observations of a sample mean. **This statistic is itself a random variable.**
 
 ```ad-Teo
 title: Teorema
@@ -741,12 +735,15 @@ Then we need to apply the correction factor $\sqrt{\dfrac{N-n}{N}}$:
 $$
 \sigma_\overline{x} = \sqrt{\dfrac{N-n}{N}} \cdot \frac{\sigma}{\sqrt{n}}
 $$
-- [?] Is this classification correct? It was not clear to me if there are 2 or 3 cases from the slides (see slide 103).
+- [x] Is this classification correct? It was not clear to me if there are 2 or 3 cases from the slides (see slide 103). ✅ 2025-04-01
+	-  There are 3 but teacher often only uses 2
 
 
 ```ad-note
 1. The standard deviation of the sample mean is smaller than the standard deviation of the corresponding population distribution: $\sigma_\overline{x}<\sigma$
 2. The standard deviation of the sampling distribution of $\overline{x}$ decreases as the sample size increases
+
+**Note:** $\sigma$ is the standard deviation of the target variable (in the population); $\sigma_\overline{x}$ is the sd of the mean distribution of target in the sample. 
 ```
 
 ##### Form of the sample distribution of sample mean
@@ -796,13 +793,7 @@ Remember:
 - $n:$ sample size
 - $\sigma_\overline{p}:$ Standard deviation of the sample proportion. Usually unavailable, then we use $s_\overline{p}$
 
-**INFINITE POPULATION ($N>500\,000$)**
-Then the standard deviation of the population proportion ($\sigma_\overline{p}$) is simply:
-$$
-\sigma_\overline{p} = \overline{p}
-$$
-
-**FINITE POPULATION AND $\dfrac{n}{N}\le 0.05$** 
+**INFINITE POPULATION ($N>500\,000$)** or  **FINITE POPULATION AND $\dfrac{n}{N}\le 0.05$** 
 Then the standard deviation of the population proportion ($\sigma_\overline{p}$) is (depending on whether we know the value of $p$):
 $$
 \sigma_\overline{p} = \sqrt{\dfrac{p(1-p)}{n}} \quad\stackrel{p\text{ unknown}}{\longrightarrow}\quad s_\overline{p} = \sqrt{\dfrac{\overline{p}(1-\overline{p})}{n-1}}
@@ -820,7 +811,8 @@ $$
 2. The standard deviation of the sampling distribution of $\overline{x}$ decreases as the sample size increases
 ```
 
-- [?] I believe there is an error in the inverse formula for $n_\infty$. I think the correct answer should be $n = \dfrac{n_{\infty} + 1}{1- \frac{n_\infty}{N}}$ instead of $n = \dfrac{n_{\infty}}{1- \frac{n_\infty}{N}}$ [[Schermata 2025-03-31 alle 18.08.31.png|See slide]] ⏫ 
+- [x] I believe there is an error in the inverse formula for $n_\infty$. I think the correct answer should be $n = \dfrac{n_{\infty} + 1}{1- \frac{n_\infty}{N}}$ instead of $n = \dfrac{n_{\infty}}{1- \frac{n_\infty}{N}}$ [[Schermata 2025-03-31 alle 18.08.31.png|See slide]] ⏫ ✅ 2025-04-01
+	- It's just an approximation teacher uses. The mathematically correct form is the one I gave.
 
 
 ##### Form of the sample distribution of sample mean

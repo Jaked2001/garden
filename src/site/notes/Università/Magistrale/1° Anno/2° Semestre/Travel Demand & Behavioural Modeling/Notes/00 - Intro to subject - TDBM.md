@@ -15,7 +15,15 @@ In this course we will study the UTP ([[Urban Transportation Planning]]) 4 stage
 
 ## Classic 4 stage framework
 
-The classic 4 stage framework is also called **trip-based approach**. This is because it relies trip as unit of analysis. This approach is described in the following paragraph but is becoming more and more limited in the ability to model people mobility as it cannot account for [[Intermodality]] (using more than one mode of transportation for one trip). Therefore, a new approach has been proposed and is gaining popularity: the [[#Activity-based modeling]]
+The classic 4 stage framework is also called **trip-based approach**. This is because it relies trip as unit of analysis. This approach is described in the following paragraph but is becoming more and more limited in the ability to model people mobility as it cannot account for [[Intermodality]] (using more than one mode of transportation for one trip). Therefore, a new approach has been proposed and is gaining popularity: the [[#Activity-based modeling]].
+
+As the name suggests, the framework is made of 4 stages:
+- [[#1 - Data Collection]]
+- [[#2 - Modeling]]
+- [[#3 - Forecasting]]
+- [[#4 - Evaluation]]
+
+
 ### 1 - Data Collection
 
 This is the first stage of the UTP  4 stage framework. 
@@ -23,13 +31,13 @@ This is the first stage of the UTP  4 stage framework.
 At this stage we need:
 - Socio-economic and land use data
 - Define [[Transport Analysis Zones]] (see [[08. Studio della domanda di trasporto#Zonizzazione|zonizzazione]])
-- Define transportation infrastrucure (network)
+- Define transportation infrastructure (network)
 
 All the data that is available needs to be grouped by TAZ
 
 ### 2 - Modeling
 
-In the modeling stage, we apply the a **4 steps modeling process** [[08. Studio della domanda di trasporto#Modello a 4 stadi|modello a 4 stadi]]. This actually the union of 4 models that describe different aspects of transportation:
+In the modeling stage, we apply a **4 steps modeling process** (see also: [[08. Studio della domanda di trasporto#Modello a 4 stadi|modello a 4 stadi]]). This is actually the union of 4 models that describe different aspects of transportation:
 - [[#I - Trip generation]]
 - [[#II - Trip Distribution]]
 - [[#III - Mode choice]]
@@ -38,21 +46,22 @@ In the modeling stage, we apply the a **4 steps modeling process** [[08. Studio 
 ```ad-warning
 title: Purpose
 
-In the modeling stage we also need to account for the purpose of a trip. This is usually done through defining the 4 steps for each and every purpose.
+In the modeling stage we also need to account for the **purpose** of a trip. This is usually done evaluating the 4 steps for each and every purpose.
 
-So, for example, we will have Generation, Distribution, mode choice and route choice for school trips, for work trips, for leisure trips, etc.
+For example, we will have Generation, Distribution, Mode choice and Route choice for school trips, for work trips, for leisure trips, and so on...
 
 ```
 
-The results of this modeling will go into an OD matrix (see [[Università/Triennale/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/08. Studio della domanda di trasporto#Matrice origine destinazione\|matrici origine-destinazione]]). To be precise will go into a set of OD matrixes, one for each purpose.
+The results of this model will go into an OD matrix (see [[Università/Triennale/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/08. Studio della domanda di trasporto#Matrice origine destinazione\|matrici origine-destinazione]]). To be precise, they will go into a set of OD matrixes, one for each purpose.
 $$
-\begin{matrix}
+\begin{array}{cccc|c}
 d_{11} & d_{12}  & \cdots & d_{1n} & \boldsymbol{P_{1}} \\
 d_{21} & d_{22}  & \cdots & d_{2n} & \boldsymbol{P_{2}} \\
 \vdots & \vdots  & d_{ij} & \vdots & \vdots\\
 d_{n1} & d_{n2}  & \cdots & d_{nn} & \boldsymbol{P_{n}} \\
+\hline
 \boldsymbol{A_{1}} & \boldsymbol{A_{2}} & \cdots & \boldsymbol{A_{n}}
-\end{matrix}
+\end{array}
 $$
 where:
 - $d_{ij}:$ number of trips from TAZ $i$ to TAZ $j$
@@ -64,21 +73,33 @@ where:
 
 #### I - Trip generation
 
-In trip distribution, we model the total trip Production (P) and Attraction (A) of each [[Transport Analysis Zones\|TAZ]]. These numbers are known as **marginal totals**.
+In trip distribution, we model the total trip *Production* ($P$) and *Attraction* ($A$) of each [[Transport Analysis Zones\|TAZ]]. These numbers are known as [[Marginal totals\|Marginal totals]].
 
-This is done usually through linear regression models. We will obtain:
+This is done usually through linear regression models. We will obtain (for origin $i$ or destination $j$):
 - $P_{i} = f(\text{pop, land use, job places})$
 - $A_{j} = f(\text{pop, land use, job places})$
 
-After this step, we have models for real $P$ and $A$ and for predicted values, $\hat{P}$ and $\hat{A}$. We need to fill the $ij$ entries of the matrix
+After this step, we have models for real $P$ and $A$ and for predicted values, $\hat{P}$ and $\hat{A}$. We need to fill the $ij$ entries of the matrix.
 
-This step is addressed in [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/03 - Trip generation modeling - TDBM\|03 - Trip generation modeling - TDBM]]
+Trip generation is addressed in details in [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/03 - Trip generation modeling - TDBM\|03 - Trip generation modeling - TDBM]].
 
 #### II - Trip distribution
 
 In this step we fill in every $ij$ entry of the OD matrix. We are also able, in this process, to predict the demands for future years, once a model has been validated in the present.
 
-This step is addressed in [[04 - Trip distribution modeling\|04 - Trip distribution modeling]].
+In short, with this step we obtain the cumulated values (by mode and route) for $d_{ij}$ in the matrix
+$$
+\begin{array}{cccc|c}
+d_{11} & d_{12}  & \cdots & d_{1n} & \boldsymbol{P_{1}} \\
+d_{21} & d_{22}  & \cdots & d_{2n} & \boldsymbol{P_{2}} \\
+\vdots & \vdots  & d_{ij} & \vdots & \vdots\\
+d_{n1} & d_{n2}  & \cdots & d_{nn} & \boldsymbol{P_{n}} \\
+\hline
+\boldsymbol{A_{1}} & \boldsymbol{A_{2}} & \cdots & \boldsymbol{A_{n}}
+\end{array}
+$$
+
+This step is addressed in details in [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/04 - Trip Distribution Modeling - TDBM\|04 - Trip Distribution Modeling - TDBM]].
 
 
 #### III - Mode choice

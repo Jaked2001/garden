@@ -60,6 +60,8 @@ sort by description
 We will have to read a paper and then explain it to the class. We will also need to write a report on the paper
 - [!] [[2025-03-28]] - Car following model assignment
 
+Report also containing our opinions.
+
 #### Final project
 
 Report to present all the things of the last part of the course plus [[AIMSUM]]

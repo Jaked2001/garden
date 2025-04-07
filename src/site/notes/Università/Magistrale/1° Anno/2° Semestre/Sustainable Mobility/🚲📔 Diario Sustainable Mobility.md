@@ -48,4 +48,16 @@ The theory part was held by the substitute.
 
 [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/06 - Basics of urban planning and mobility - SM\|06 - Basics of urban planning and mobility - SM]]
 
+
+
+# 📆  03-04-2025 - Thu
+
+### 📝 Theory
+
+
+
 ### ✏️ Projects
+
+Discussion on [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Assignment/Research Paper - SM\|research paper]] topics.
+
+
