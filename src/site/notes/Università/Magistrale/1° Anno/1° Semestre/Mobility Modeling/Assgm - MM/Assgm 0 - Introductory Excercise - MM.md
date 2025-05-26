@@ -32,12 +32,12 @@ We use the `MinCM2.mod` model file in AMPL to solve it. The figure below shows t
 
 The solution has a total cost of **1232**.
 
-![Assgm 0.a.1 - Introductory Excercise - MM 2024-11-03 10.59.57.excalidraw.png|450](/img/user/Excalidraw-2/Assgm%200.a.1%20-%20Introductory%20Excercise%20-%20MM%202024-11-03%2010.59.57.excalidraw.png)
+![Assgm 0.a.1 - Introductory Excercise - MM 2024-11-03 10.59.57.excalidraw.png|450](/img/user/Excalidraw/Excalidraw-2/Assgm%200.a.1%20-%20Introductory%20Excercise%20-%20MM%202024-11-03%2010.59.57.excalidraw.png)
 
 
 ### Problem a.2
 
-*Modify the AMPL model so that joint capacity constraints enter into play. Define the value of these joint capacities so that the solution found in [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Assgm - MM/Assgm 0 - Introductory Excercise - MM#Problem a.1\|#Problem a.1]] is no longer feasible at one or more links.*
+*Modify the AMPL model so that joint capacity constraints enter into play. Define the value of these joint capacities so that the solution found in [[#Problem a.1]] is no longer feasible at one or more links.*
 
 The following constraints were added:
 $$
@@ -45,7 +45,7 @@ u_{59} = 300 \qquad u_{56} = 600
 $$
 The new solution has a total cost of **1292** and is represented in the following figure:
 
-![Assgm 0.a.2 - Introductory Excercise - MM 2024-11-03 11.25.03.excalidraw.png|450](/img/user/Excalidraw-2/Assgm%200.a.2%20-%20Introductory%20Excercise%20-%20MM%202024-11-03%2011.25.03.excalidraw.png)
+![Assgm 0.a.2 - Introductory Excercise - MM 2024-11-03 11.25.03.excalidraw.png|450](/img/user/Excalidraw/Excalidraw-2/Assgm%200.a.2%20-%20Introductory%20Excercise%20-%20MM%202024-11-03%2011.25.03.excalidraw.png)
 
 
 
@@ -61,7 +61,7 @@ For this problem, the `MinCost.mod` model was used.
 
 The solution in this case is given by the graph below. The total cost is now equal to **1152**.
 
-![Assgm 0.b - Introductory Excercise - MM 2024-11-03 11.37.15.excalidraw.png|450](/img/user/Excalidraw-2/Assgm%200.b%20-%20Introductory%20Excercise%20-%20MM%202024-11-03%2011.37.15.excalidraw.png)
+![Assgm 0.b - Introductory Excercise - MM 2024-11-03 11.37.15.excalidraw.png|450](/img/user/Excalidraw/Excalidraw-2/Assgm%200.b%20-%20Introductory%20Excercise%20-%20MM%202024-11-03%2011.37.15.excalidraw.png)
 
 
-In this case the total cost is lower than the one in [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Assgm - MM/Assgm 0 - Introductory Excercise - MM#Problem a\|#Problem a]]. This is expected. In the single commodity problem, we don't put constraints on where the units go as a function of where they are from. For example, in a), units from node 1 **had** to exit at node 2. Now this is not necessary, and in fact, the optimal solution has them exiting at node 4.
+In this case the total cost is lower than the one in [[#Problem a]]. This is expected. In the single commodity problem, we don't put constraints on where the units go as a function of where they are from. For example, in a), units from node 1 **had** to exit at node 2. Now this is not necessary, and in fact, the optimal solution has them exiting at node 4.

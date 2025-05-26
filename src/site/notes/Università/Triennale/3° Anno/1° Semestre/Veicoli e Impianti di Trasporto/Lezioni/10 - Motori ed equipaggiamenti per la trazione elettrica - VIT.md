@@ -28,15 +28,15 @@ $$
 \vec{F} = l \cdot \vec{I} \times \vec{B}
 $$
 Il motore in CC è costituito da
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Rotore\|#Rotore]] o **INDOTTO**: Un corpo cilindrico solidale a un albero, libero di ruotare
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Statore\|#Statore]]: Una parte fissa
+- [[#Rotore]] o **INDOTTO**: Un corpo cilindrico solidale a un albero, libero di ruotare
+- [[#Statore]]: Una parte fissa
 
 ![Schermata 2024-02-06 alle 18.29.23.png](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202024-02-06%20alle%2018.29.23.png)
 
-Le spire del [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Rotore\|#Rotore]] sono quindi percorse da una corrente $I$ e immerse in un campo magnetico di intensità $B$.
+Le spire del [[#Rotore]] sono quindi percorse da una corrente $I$ e immerse in un campo magnetico di intensità $B$.
 Ogni spira è pertanto soggetta a una forza di intensità $F = lIB$ tangenziale rispetto a ogni conduttore. Questa forza genera un momento che ha per braccio il raggio del rotore. Essendo nel ramo opposto della spira la corrente con verso opposto, la forza andrà nel verso opposto anch'essa ma avrà la stessa intensità. Ogni spira genera quindi una coppia che determina la rotazione dell'indotto.
 
-Poiché nella rotazione i conduttori del [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Rotore\|#Rotore]] tagliano il campo magnetico, per via della variazione di flusso viene a generarsi una Forza Contro-elettro motrice (una differenza di potenziale) che dipende dal **numero di giri al minuto** ($n$) e dal **flusso del campo** ($\phi$)
+Poiché nella rotazione i conduttori del [[#Rotore]] tagliano il campo magnetico, per via della variazione di flusso viene a generarsi una Forza Contro-elettro motrice (una differenza di potenziale) che dipende dal **numero di giri al minuto** ($n$) e dal **flusso del campo** ($\phi$)
 $$
 E = kn\phi
 $$
@@ -80,7 +80,7 @@ Ricordando poi che la tensione $E$ può essere scritta in funzione del flusso co
 $$
 P_{M} = EI = kn\phi \cdot I
 $$
-Ora, essendo $\Omega$ la velocità angolare del [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Rotore\|#Rotore]] e $C$ la coppia ad esso trasmessa, si ha che
+Ora, essendo $\Omega$ la velocità angolare del [[#Rotore]] e $C$ la coppia ad esso trasmessa, si ha che
 $$
 P_{M} = C \cdot\Omega
 $$
@@ -136,11 +136,11 @@ Questo è uno dei punti deboli del motore CC in quanto le spazzole e il colletto
 
 ### Statore
 
-Lo statore è costituito da un cilindro di ferro al cui interno ruota il [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Rotore\|#Rotore]].
+Lo statore è costituito da un cilindro di ferro al cui interno ruota il [[#Rotore]].
 
 La funzione dello statore è di creare il campo magnetico in cui è immerso il rotore. All'interno dello statore si trova pertanto una serie di spire collegate alla sorgente di corrente elettrica.
 
-I circuiti delle spire dello statore e del rotore possono essere lo stesso circuito e quindi collegati in serie oppure in parallelo. A seconda del tipo di collegamento, cambia la [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Caratteristica meccanica\|#Caratteristica meccanica]] del motore.
+I circuiti delle spire dello statore e del rotore possono essere lo stesso circuito e quindi collegati in serie oppure in parallelo. A seconda del tipo di collegamento, cambia la [[#Caratteristica meccanica]] del motore.
 
 
 ## Motore Asincrono in corrente Alternata Trifase
@@ -150,13 +150,13 @@ I circuiti delle spire dello statore e del rotore possono essere lo stesso circu
 
 https://youtu.be/7O_dxw1RXxg?si=X-v7FChN0vhAdfu8
 
-Si tratta di un tipo diverso di motore dal [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Motore in Corrente Continua\|#Motore in Corrente Continua]]. Uno dei vantaggi principali è quello di non avere contatti elettrici fisici tra elementi fissi e in movimento (non ha spazzole) e questo garantisce una maggiore durabilità.
+Si tratta di un tipo diverso di motore dal [[#Motore in Corrente Continua]]. Uno dei vantaggi principali è quello di non avere contatti elettrici fisici tra elementi fissi e in movimento (non ha spazzole) e questo garantisce una maggiore durabilità.
 
 Si tratta di un motore **asincrono** alimentato in **corrente alternata trifase**.
 
 I sistemi di alimentazione elettrica nelle reti ferroviarie oggi sono però in CC o in AC monofase. Occorre pertanto installare, a bordo, una macchina elettrica, statica o dinamica, che trasformi la corrente continua in alternata trifase.
 
-Questa operazione è eseguita da un dispositivo chiamato [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Inverter\|#Inverter]]. Quest'ultimo interrompe periodicamente la corrente continua in ingresso regolando la durata delle fasi di interruzione e di quelle di conduzione in modo che la corrente risultante sia alternata.
+Questa operazione è eseguita da un dispositivo chiamato [[#Inverter]]. Quest'ultimo interrompe periodicamente la corrente continua in ingresso regolando la durata delle fasi di interruzione e di quelle di conduzione in modo che la corrente risultante sia alternata.
 
 ![Pasted image 20240207120922.png](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Pasted%20image%2020240207120922.png)
 
@@ -186,7 +186,7 @@ Fissati questi parametri, si può tracciare la caratteristica meccanica di quest
 
 ```ad-note
 title: Osservazione
-Rispetto al [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Motore in Corrente Continua\|#Motore in Corrente Continua]] questo presenta due vantaggi sostanziali:
+Rispetto al [[#Motore in Corrente Continua]] questo presenta due vantaggi sostanziali:
 - La coppia ha valore finito a velocità nulla --> non sono necessarie particolari regolazioni in avviamento
 - La velocità ha valore finito a coppia nulla --> è impossibile che la velocità possa andare oltre il limite di resistenza del motore (fuori giri)
 
@@ -195,8 +195,8 @@ Rispetto al [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di 
 Si noti però che, a parte questi elementi, questa caratteristica meccanica non è adatta alla trazione. Infatti, non consente un adattamento della velocità a condizioni diverse di marcia (praticamente è a **velocità costante**) a meno di non intervenire sui parametri dell'alimentazione (frequenza e tensione).
 
 Per questo, il motore asincrono viene regolato in 2 fasi:
-- **Forza costante**: con un [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Inverter\|#Inverter]] si fa variare la frequenza e la tensione per avere una coppia costante
-- **Tensione costante**: con un [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Inverter\|#Inverter]] si fa variare la frequenza e quindi la coppia
+- **Forza costante**: con un [[#Inverter]] si fa variare la frequenza e la tensione per avere una coppia costante
+- **Tensione costante**: con un [[#Inverter]] si fa variare la frequenza e quindi la coppia
 
 ![Pasted image 20240207142159.png|650](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Pasted%20image%2020240207142159.png)
 
@@ -225,7 +225,7 @@ Gli azionamenti hanno la funzione principale di esercire il mezzo di trazione ne
 Inizialmente i [[#Motore in Corrente Continua]] erano eccitati in serie (stessa corrente su rotore e statore).
 La regolazione in questi motori avveniva storicamente modificando sia il circuito interno della macchina elettrica sia il circuito in cui essa era inserita.
 
-Si parla pertanto di [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Regolazione circuitale o a contattori\|#Regolazione circuitale o a contattori]]. Tale tipo di regolazione da luogo a **caratteristiche discrete**.
+Si parla pertanto di [[#Regolazione circuitale o a contattori]]. Tale tipo di regolazione da luogo a **caratteristiche discrete**.
 
 #### Regolazione circuitale o a contattori
 
@@ -240,7 +240,7 @@ La disponibilità di tiristori al silicio ha consentito la realizzazione di **co
 
 Nacque così un convertitore elettronico di alta potenza chiamato **chopper** o **frazionatore**.
 
-Questo è capace di regolare la velocità in modo continuo, eliminando gli strappi che si verificano nella [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Regolazione circuitale o a contattori\|#Regolazione circuitale o a contattori]].
+Questo è capace di regolare la velocità in modo continuo, eliminando gli strappi che si verificano nella [[#Regolazione circuitale o a contattori]].
 
 Inoltre, questo tipo di azionamento migliora il rendimento energetico, non essendoci energia dissipata in resistenze.
 
@@ -276,16 +276,16 @@ Il chopper, a seconda che la tensione in uscita sia superiore o inferiore a quel
 
 ### Azionamenti in corrente alternata
 
-Il [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Motore Asincrono in corrente Alternata Trifase\|#Motore Asincrono in corrente Alternata Trifase]] presenta alcune problematiche
+Il [[#Motore Asincrono in corrente Alternata Trifase]] presenta alcune problematiche
 - Caratteristica meccanica stabile solo in un campo ristretto
 - Valore della coppia di avviamento molto minore della coppia max
 - Coppia che varia col quadrato della tensione --> soggetta alle frequenti variazioni di tensione della linea di contatto
 
-La regolazione di questo motore si effettua mediante un dispositivo chiamato [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Inverter\|#Inverter]]
+La regolazione di questo motore si effettua mediante un dispositivo chiamato [[#Inverter]]
 
 #### Inverter
 
-Ha lo scopo di aggirare gli aspetti negativi del [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/10 - Motori ed equipaggiamenti per la trazione elettrica - VIT#Motore Asincrono in corrente Alternata Trifase\|#Motore Asincrono in corrente Alternata Trifase]]:
+Ha lo scopo di aggirare gli aspetti negativi del [[#Motore Asincrono in corrente Alternata Trifase]]:
 - Caratteristica meccanica stabile solo in un campo ristretto
 - Coppia di avviamento **molto minore** di quella massima
 - Coppia variabile con il quadrato della tensione e quindi sensibilmente soggetta alle variazioni di tensioni in linea

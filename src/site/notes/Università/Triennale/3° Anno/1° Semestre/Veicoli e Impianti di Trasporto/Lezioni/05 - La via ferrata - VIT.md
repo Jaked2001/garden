@@ -24,7 +24,7 @@ Il complesso della massicciata. e dell'armamento, di cui l'elemento fondamentale
 
 ### Tracciato
 
-Grandezza del [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/05 - La via ferrata - VIT#Corpo stradale\|#Corpo stradale]].
+Grandezza del [[#Corpo stradale]].
 
 ## Andamento altimetrico
 

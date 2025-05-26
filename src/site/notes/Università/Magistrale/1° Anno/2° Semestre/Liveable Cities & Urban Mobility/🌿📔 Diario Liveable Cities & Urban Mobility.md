@@ -52,3 +52,16 @@ Discussion on the assignment
 ### 📝 Theory
 
 Redesign street module
+
+
+# 📆  14-05-2025 - Wed
+
+### 📝 Theory
+
+Seminar on feminism and women oriented design in mobility: [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Notes/Through Feminist Urban Planning\|Through Feminist Urban Planning]]
+
+# 📆  15-05-2025 - Thu
+
+### 📝 Theory
+
+[[Urbanization of public shared spaces\|Urbanization of public shared spaces]]

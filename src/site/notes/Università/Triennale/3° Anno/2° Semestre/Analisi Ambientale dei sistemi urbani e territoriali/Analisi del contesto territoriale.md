@@ -23,12 +23,12 @@ Sono 2 sguardi interrelati. Un'analisi territoriali contempla irrinunciabili i d
 È richiesto uno sguardo dall'alto e dal basso insieme.
 
 Analisi del contesto territoriale:
-- Individuazione dell'[[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Analisi del contesto territoriale#Area di analisi\|#Area di analisi]] - perimetrazione dell'area da analizzare
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Analisi del contesto territoriale#Mobilità e connessioni\|#Mobilità e connessioni]]
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Analisi del contesto territoriale#Tessuti edilizi\|#Tessuti edilizi]]
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Analisi del contesto territoriale#Analisi degli spazi aperti\|#Analisi degli spazi aperti]]
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Analisi del contesto territoriale#Zona urbanistica e dati socio-demografici\|#Zona urbanistica e dati socio-demografici]]
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Analisi del contesto territoriale#Funzioni e servizi\|#Funzioni e servizi]]
+- Individuazione dell'[[#Area di analisi]] - perimetrazione dell'area da analizzare
+- [[#Mobilità e connessioni]]
+- [[#Tessuti edilizi]]
+- [[#Analisi degli spazi aperti]]
+- [[#Zona urbanistica e dati socio-demografici]]
+- [[#Funzioni e servizi]]
 
 
 

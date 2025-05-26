@@ -47,13 +47,16 @@ There is a 30% possible modulation in the individual evaluation
 
 ### ✍️ Final Presentation
 
-- [!] [[2025-04-07\|2025-04-07]] - Midterm Presentation
-- [!] [[2025-05-28\|2025-05-28]] - Project Presentation 🔼 
+- [x] [[2025-04-07\|2025-04-07]] - Midterm Presentation ✅ 2025-04-09
+- [!] [[2025-05-28\|2025-05-28]] - **Project Presentation (max 9min)** 🔼 
+- [!] [[2025-06-18\|2025-06-18]] - **Final report delivery**
+
 
 
 ### 🗣 Projects 
 
-
+- [x] [[2025-04-21\|2025-04-21]] - Business Model Canvas delivery ✅ 2025-04-21
+- [x] [[2025-04-23\|2025-04-23]] - Business Model Canvas presentation ✅ 2025-04-23
 
 ## 💯 Grade
 
@@ -71,6 +74,7 @@ ___
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ----------- |
 | [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Project/Challenge - SmartRide - PBIC\|Challenge - SmartRide - PBIC]]                                     | Progetto | 🟡 Finire   |
 | [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/02 - Validating Ideas for Urban Mobility - PBIC\|02 - Validating Ideas for Urban Mobility - PBIC]] | T        | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/06 - Agustin Andujar - LC\|06 - Agustin Andujar - LC]]                                             | T        | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/Sustainability reporting - PBIC\|Sustainability reporting - PBIC]]                                 | T        | 🟢 Fatto    |
 
 { .block-language-dataview}
@@ -84,6 +88,7 @@ ___
 | File                                                                                                                                                                                             | Stato       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
 | [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/02 - Validating Ideas for Urban Mobility - PBIC\|02 - Validating Ideas for Urban Mobility - PBIC]] | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/06 - Agustin Andujar - LC\|06 - Agustin Andujar - LC]]                                             | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/Sustainability reporting - PBIC\|Sustainability reporting - PBIC]]                                 | 🟢 Fatto    |
 
 { .block-language-dataview}

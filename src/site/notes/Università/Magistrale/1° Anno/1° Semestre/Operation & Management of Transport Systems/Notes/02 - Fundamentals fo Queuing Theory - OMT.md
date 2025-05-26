@@ -24,7 +24,7 @@ Storage: where the costumer waits
 Arrivals: the ones that feed the queue
 Departures: the yield after service
 
-![Queuing system diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 12.01.37.excalidraw.png](/img/user/Excalidraw-2/Queuing%20system%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2012.01.37.excalidraw.png)
+![Queuing system diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 12.01.37.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Queuing%20system%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2012.01.37.excalidraw.png)
 %%[[Queuing system diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 12.01.37.excalidraw|🖋 Edit in Excalidraw]]%%
 
 ### Server
@@ -32,10 +32,10 @@ Departures: the yield after service
 ```ad-Definizione
 title: Server
 
-In a [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT#Components of a queuing system\|queuing system]], the **server** represents the restriction of the system. The server is able to provide the service at a certain rate, $\mu$.
+In a [[#Components of a queuing system|queuing system]], the **server** represents the restriction of the system. The server is able to provide the service at a certain rate, $\mu$.
 
 
-![Server symbol - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 12.17.04.excalidraw.png](/img/user/Excalidraw-2/Server%20symbol%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2012.17.04.excalidraw.png)
+![Server symbol - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 12.17.04.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Server%20symbol%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2012.17.04.excalidraw.png)
 
 
 ```
@@ -60,14 +60,14 @@ One problem that might arise with parallel service, is that the servers are not 
 
 In a decentralised system, each server has its own queue.
 
-![Decentralized queues diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 12.20.34.excalidraw.png](/img/user/Excalidraw-2/Decentralized%20queues%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2012.20.34.excalidraw.png)
+![Decentralized queues diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 12.20.34.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Decentralized%20queues%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2012.20.34.excalidraw.png)
 %%[[Decentralized queues diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 12.20.34.excalidraw|🖋 Edit in Excalidraw]]%%
 
 ###### Centralised queue
 
-In a centralized queue, there are multiple [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT#Server\|servers]] but only 1 queue.
+In a centralized queue, there are multiple [[#Server|servers]] but only 1 queue.
 
-![Centralized queue diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 12.22.01.excalidraw.png](/img/user/Excalidraw-2/Centralized%20queue%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2012.22.01.excalidraw.png)
+![Centralized queue diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 12.22.01.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Centralized%20queue%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2012.22.01.excalidraw.png)
 %%[[Centralized queue diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 12.22.01.excalidraw|🖋 Edit in Excalidraw]]%%
 
 The centralised queue, if well managed, can maximize the capacity and efficiency of the system. In fact, in this case, no server will ever be idle, while there are other servers working. 
@@ -82,7 +82,7 @@ This can be challenging, especially when it takes a long time for the costumer t
 
 ###### Tandem queues
 
-![Tandem Queues diagram02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 12.27.24.excalidraw.png](/img/user/Excalidraw-2/Tandem%20Queues%20diagram02%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2012.27.24.excalidraw.png)
+![Tandem Queues diagram02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 12.27.24.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Tandem%20Queues%20diagram02%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2012.27.24.excalidraw.png)
 %%[[Tandem Queues diagram02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 12.27.24.excalidraw|🖋 Edit in Excalidraw]]%%
 
 In this kind of systems costumers need to undertake several steps to receive a complete service.
@@ -174,7 +174,7 @@ title: Cumulative plot
 
 A cumulative plot - $(N,t)$ diagram - plots the cumulative number of customers $N$, to cross a specific location as a function of time $t$.
 
-![Cumulative plot generic - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 15.09.12.excalidraw.png](/img/user/Excalidraw-2/Cumulative%20plot%20generic%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2015.09.12.excalidraw.png)
+![Cumulative plot generic - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 15.09.12.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Cumulative%20plot%20generic%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2015.09.12.excalidraw.png)
 
 
 ```
@@ -196,7 +196,7 @@ The plot can be obtained in 2 ways:
 
 When a large number of customer is recorded, the jumps of the $N(t)$ function become meaningfulness. So, the function is usually replaced by a continuous interpolation.
 
-![Cumulative plot interpolation - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 15.24.01.excalidraw.png](/img/user/Excalidraw-2/Cumulative%20plot%20interpolation%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2015.24.01.excalidraw.png)
+![Cumulative plot interpolation - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 15.24.01.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Cumulative%20plot%20interpolation%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2015.24.01.excalidraw.png)
 %%[[Cumulative plot interpolation - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 15.24.01.excalidraw|🖋 Edit in Excalidraw]]%%
 
 In this situation, we can calculate the instantaneous flow $q_{(t)}$ as:
@@ -208,11 +208,11 @@ $$
 
 An input-output diagram is the overlay of 2 [[#Cumulative plot]]:
 - $A(t) = N(t,x_{0}):$ cumulative plot measured at location $x_{0}$, before the system being measured. In other words, the [[#Arrivals]]
-- $D(t) = N(t,x_{1}):$ cumulative plot measured at location $x_{1}$, after the system being measured. In other words, the [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT#Departures\|#Departures]]
+- $D(t) = N(t,x_{1}):$ cumulative plot measured at location $x_{1}$, after the system being measured. In other words, the [[#Departures]]
 
 - [x] If the $A(t)$ curve is not measured exactly at the entrance of the system of interest, don't we overestimate the delay time in the system? ✅ 2024-10-29
 
-![Input-Output Diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 16.04.28.excalidraw.png](/img/user/Excalidraw-2/Input-Output%20Diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2016.04.28.excalidraw.png)
+![Input-Output Diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 16.04.28.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Input-Output%20Diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2016.04.28.excalidraw.png)
 %%[[Input-Output Diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 16.04.28.excalidraw|🖋 Edit in Excalidraw]]%%
 
 The diagram above is an input-output diagram.
@@ -236,14 +236,14 @@ It the 2 curves match, it means that the system is **empty** of customers.
 
 In the diagram above, other than the input-output diagram, the amount of customers in service and in queue at any given time is also shown:
 
-![input-output plus service plus queue diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 16.30.06.excalidraw.png](/img/user/Excalidraw-2/input-output%20plus%20service%20plus%20queue%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2016.30.06.excalidraw.png)
+![input-output plus service plus queue diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 16.30.06.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/input-output%20plus%20service%20plus%20queue%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2016.30.06.excalidraw.png)
 %%[[input-output plus service plus queue diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 16.30.06.excalidraw|🖋 Edit in Excalidraw]]%%
 
 ### A logistic curve
 
 We will now consider an [[#Input-output diagram]] with a large number of customers, so that the curves can be seen as continuous functions.
 
-![Input-output diagram - continuous - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 17.05.26.excalidraw.png](/img/user/Excalidraw-2/Input-output%20diagram%20-%20continuous%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2017.05.26.excalidraw.png)
+![Input-output diagram - continuous - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 17.05.26.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Input-output%20diagram%20-%20continuous%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2017.05.26.excalidraw.png)
 %%[[Input-output diagram - continuous - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 17.05.26.excalidraw|🖋 Edit in Excalidraw]]%%
 
 In the input-output diagram, the Arrival curve $A(t)$ usually takes the shape of a logistic curve.
@@ -282,16 +282,16 @@ The **Virtual Arrivals Curve** is a curve obtained by moving the arrival curve (
 
 It can also be defined as the [[#Departures]] curve that would be measured in the absence of delay.
 
-![Virtual Arrivals curve - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 17.14.37.excalidraw.png](/img/user/Excalidraw-2/Virtual%20Arrivals%20curve%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2017.14.37.excalidraw.png)
+![Virtual Arrivals curve - 02 - Fundamentals fo Queuing Theory - OMT 2024-10-26 17.14.37.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Virtual%20Arrivals%20curve%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-10-26%2017.14.37.excalidraw.png)
 
 
 ```
 
 What we obtain:
 - [[#Excess accumulation]]
-	- [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT#Average excess accumulation\|#Average excess accumulation]]
+	- [[#Average excess accumulation]]
 - [[#Delay]]
-	- [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT#Average delay per costumer\|#Average delay per costumer]]
+	- [[#Average delay per costumer]]
 
 ### Excess accumulation
 
@@ -304,12 +304,12 @@ title: Excess Accumulation ($Q$)
 
 The Excess accumulation can be obtained as the vertical distance in the $N-t$ diagram between the [[#Virtual Arrivals Curve]] and the [[#Departures]] curve.
 
-![Excess accumulation N-t diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.14.50.excalidraw.png](/img/user/Excalidraw-2/Excess%20accumulation%20N-t%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2018.14.50.excalidraw.png)
+![Excess accumulation N-t diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.14.50.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Excess%20accumulation%20N-t%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2018.14.50.excalidraw.png)
 %%[[Excess accumulation N-t diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.14.50.excalidraw|🖋 Edit in Excalidraw]]%%
 
 #### Average excess accumulation
 
-![Average excess accumulation on N-t diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.19.33.excalidraw.png](/img/user/Excalidraw-2/Average%20excess%20accumulation%20on%20N-t%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2018.19.33.excalidraw.png)
+![Average excess accumulation on N-t diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.19.33.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Average%20excess%20accumulation%20on%20N-t%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2018.19.33.excalidraw.png)
 %%[[Average excess accumulation on N-t diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.19.33.excalidraw|🖋 Edit in Excalidraw]]%%
 
 We define the area
@@ -340,7 +340,7 @@ The diagram shows a stretch of road in 2 scenarios:
 2. Queue: Some cars are queueing in the area of interest
 	- We count 5 cars
 
-![02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.27.37.excalidraw.png](/img/user/Excalidraw-2/02%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2018.27.37.excalidraw.png)
+![02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.27.37.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/02%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2018.27.37.excalidraw.png)
 
 
 Notice that, of the 5 cars in the boxed area, even without queue, there would be 2. Meaning, the excess accumulation is NOT 5, but just 3.
@@ -358,12 +358,12 @@ The **Delay** ($w$) is the extra time a costumer has to spend in the system due 
 
 Delay can be obtained as the horizontal distance in the $N-t$ diagram between the [[#Virtual Arrivals Curve]] and the [[#Departures]] curve.
 
-![02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.17.21.excalidraw.png](/img/user/Excalidraw-2/02%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2018.17.21.excalidraw.png)
-%%[[02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.17.21.excalidraw.md|🖋 Edit in Excalidraw]]%%
+![02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.17.21.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/02%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2018.17.21.excalidraw.png)
+%%[[02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.17.21.excalidraw|🖋 Edit in Excalidraw]]%%
 
 #### Average delay per costumer
 
-![Average delay per costumer on N-t diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.23.15.excalidraw.png](/img/user/Excalidraw-2/Average%20delay%20per%20costumer%20on%20N-t%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2018.23.15.excalidraw.png)
+![Average delay per costumer on N-t diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.23.15.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Average%20delay%20per%20costumer%20on%20N-t%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2018.23.15.excalidraw.png)
 %%[[Average delay per costumer on N-t diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.23.15.excalidraw|🖋 Edit in Excalidraw]]%%
 
 We define the area:$$
@@ -382,8 +382,8 @@ $
 
 ## Little's Formula
 
-![Little's Formula diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.36.38.excalidraw.png](/img/user/Excalidraw-2/Little's%20Formula%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2018.36.38.excalidraw.png)
-%%[[Little's Formula diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.36.38.excalidraw.md|🖋 Edit in Excalidraw]]%%
+![Little's Formula diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.36.38.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Little's%20Formula%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2018.36.38.excalidraw.png)
+%%[[Little's Formula diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 18.36.38.excalidraw|🖋 Edit in Excalidraw]]%%
 
 ```ad-Teo
 title: Little's Formula
@@ -398,7 +398,7 @@ According to the definition, we can write for the [[#Average excess accumulation
 $
 \overline{Q} = \frac{W}{t_{2}-t_{1}} \quad \Longrightarrow \quad W =  \overline{Q}(t_{2}-t_{1})
 $
-and for the [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT#Average delay per costumer\|#Average delay per costumer]]:
+and for the [[#Average delay per costumer]]:
 $
 \overline{w} = \frac{W}{n_{2}-n_{1}} \quad \Longrightarrow \quad W =  \overline{w}(n_{2}-n_{1})
 $
@@ -449,8 +449,8 @@ D(t) < V(t) \quad \forall t \\
 \end{cases}
 $$
 
-![Constructing a departures curve on N-t diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 19.24.26.excalidraw.png](/img/user/Excalidraw-2/Constructing%20a%20departures%20curve%20on%20N-t%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2019.24.26.excalidraw.png)
-%%[[Constructing a departures curve on N-t diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 19.24.26.excalidraw.md|🖋 Edit in Excalidraw]]%%
+![Constructing a departures curve on N-t diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 19.24.26.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Constructing%20a%20departures%20curve%20on%20N-t%20diagram%20-%2002%20-%20Fundamentals%20fo%20Queuing%20Theory%20-%20OMT%202024-11-03%2019.24.26.excalidraw.png)
+%%[[Constructing a departures curve on N-t diagram - 02 - Fundamentals fo Queuing Theory - OMT 2024-11-03 19.24.26.excalidraw|🖋 Edit in Excalidraw]]%%
 
 Notice how the $D(t)$ curve follows exactly the $V(t)$ curve until the rate of arrival, $\dot{V}(t)$ is greater than the rate of service, $\mu$. From this instance, the $D(t)$ has a constant slope equal to $\mu$, until it meets back the $V(t)$, at which point it goes back to following it.
 

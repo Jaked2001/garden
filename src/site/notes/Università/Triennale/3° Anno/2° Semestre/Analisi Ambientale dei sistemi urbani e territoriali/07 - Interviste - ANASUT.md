@@ -32,17 +32,17 @@ Le interviste, servono anche a definire e costruire meglio qual è il nostro ogg
 ## Tipi di intervista
 
 Le interviste possono essere principalmente di 3 tipi:
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT#Intervista Strutturata\|#Intervista Strutturata]]
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT#Intervista semi-strutturata\|#Intervista semi-strutturata]]
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT#Intervista non strutturata\|#Intervista non strutturata]]
+- [[#Intervista Strutturata]]
+- [[#Intervista semi-strutturata]]
+- [[#Intervista non strutturata]]
 
 Queste tipologie di interviste hanno dei **gradi di strutturazione** differenti. 
 
-L'[[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT#Intervista strutturata\|#Intervista strutturata]] ha maggiore **direttività**. L'intervistatore detta le questioni da affrontare.
+L'[[#Intervista strutturata]] ha maggiore **direttività**. L'intervistatore detta le questioni da affrontare.
 
-L'[[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT#Intervista non strutturata\|#Intervista non strutturata]] ha minore **direttività**. Le questioni emergono durante la conversazione.
+L'[[#Intervista non strutturata]] ha minore **direttività**. Le questioni emergono durante la conversazione.
 
-Una strategia di ricerca consiste nel costruire un'[[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT#Intervista strutturata\|#Intervista strutturata]] per scandagliare il terreno. Una volta emerse alcune questioni, portare avanti delle interviste meno strutturate.
+Una strategia di ricerca consiste nel costruire un'[[#Intervista strutturata]] per scandagliare il terreno. Una volta emerse alcune questioni, portare avanti delle interviste meno strutturate.
 
 
 ### Intervista strutturata
@@ -62,7 +62,7 @@ Al fine di fornire a tutti stimoli uguali il ricercatore dovrebbe:
 - Evitare di spiegare le domande nel caso non vengano comprese, ma semplicemente ripeterle con gli stessi termini
 	- Bisogna cercare di costruire le domande nel modo più comprensibile possibile per evitare di trovarsi nella situazione di non poter spiegare la domanda
 
-L'[[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT#Tipi di intervista\|intervista]] strutturata è detta anche **standardizzata**.
+L'[[#Tipi di intervista|intervista]] strutturata è detta anche **standardizzata**.
 
 #### ✅ Vantaggi
 
@@ -165,7 +165,7 @@ Cerco quindi di racchiudere le informazioni in gruppi omogenei.
 ## Tipi di intervista a confronto
 
 
-|                               | [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT#Intervista non strutturata\|#Intervista non strutturata]]                                                                                       | [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT#Intervista semi-strutturata\|#Intervista semi-strutturata]]                                                                                                     | [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/07 - Interviste - ANASUT#Intervista semi-strutturata\|#Intervista semi-strutturata]]                                                                                            |
+|                               | [[#Intervista non strutturata]]                                                                                       | [[#Intervista semi-strutturata]]                                                                                                     | [[#Intervista semi-strutturata]]                                                                                            |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
 | **Consistenza del campione**  | Piccolo                                                                                                               | Medio-piccolo                                                                                                                        | Grandi e statisticamente significativi                                                                                      |
 | **Traccia da seguire**        | Sono tassativi solo i temi della ricerca                                                                              | Sono individuati temi rilevanti e alcune domande da porre obbligatoriamente                                                          | Nel questionario sono indicate tutte le domande da porre                                                                    |

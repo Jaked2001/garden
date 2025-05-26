@@ -7,6 +7,15 @@
 ```table-of-contents
 ```
 
+Models for exam:
+- [x] [[Hidas]] ✅ 2025-04-10
+- [x] [[#General Motors]] ✅ 2025-04-10
+- [x] [[#Gipps model (1981)]] ✅ 2025-04-10
+- [ ] [[#Mahut]]
+- [x] [[#Intelligent Driver Model]] ✅ 2025-04-10
+- [x] [[#Newell]] ✅ 2025-04-10
+- [x] [[#Krauss]] ✅ 2025-04-10
+
 
 ## Car following model
 
@@ -27,13 +36,13 @@ title: Observation
 This is not usually stated explicitly (eccepts in Gipps' paper) but, when a leader is not available (very low traffic density), we simply assume the vehicles try to follow free-flow behaviour.
 ```
 
-There are some aspects to take into account. We we start to allow lane changing, then we need to consider that the leader/follower pairs also change.
+There are some aspects to take into account. If we start to allow lane changing, then we need to consider that the leader/follower pairs also change.
 
 We will look into several CFM:
 
 ### General Motors
 
-(In this class, we only looked at generations 1, 3 and 5.
+(In this class, we only looked at generations 1, 3 and 5)
 
 Differently from [[🚦 Operation & Management of Transport Systems|🚦 OMT]], we use this notation:
 - $\lambda:$ sensitivity
@@ -220,7 +229,7 @@ The main principle behind **collision avoidance models** is that a driver will p
 Models that fall under this category are:
 - Pipes (1953)
 - Gipps (1981)
-- Mehut (1999-2001) - improvement over Gipps' model
+- Mahut (1999-2001) - improvement over Gipps' model
 
 #### Pipes model (1953)
 
@@ -288,11 +297,216 @@ Gipps uses the following notation:
 - $\hat{b}_{n-1}:$ estimated most severe braking for vehicle $n-1$ (empirically)
 
 **ACCELERATION:**
+The vehicle tries to reach desired speed.
 $$
 v_{n}(t+\tau) = v_{n}(t) + 2.5 a_{n}\tau \left( 1- \frac{v_{n}(t)}{V_{n}} \right)\left( \sqrt{0.025 + \frac{v_{n}(t)}{V_{n}}} \right)
 $$
 **SAFETY:**
+
 $$
 v_{n}(t+\tau) = b_{n}\tau + \sqrt{b_{n}^{2}\tau ^{2} - b_{n}[2(x_{n-1}(t))-s_{n-1}-x_{n}(t)]} \cdot \sqrt{-v_{n}(t)\tau - \frac{v_{n-1}(t)^{2}}{\hat{b}_{n-1}}}
 $$
 After estimating both quantities, Gipps selects the minimum value of speed between the two, and assigns that to the vehicle.
+
+```ad-important
+
+- Computationally **fast**
+- Reproduces **real macroscopic** behaviour
+- Includes reaction time
+
+```
+
+
+#### Mahut
+
+A generalization of [[#Gipps model (1981)]].
+
+2 models:
+- constrained (linear)
+- unconstrained (non linear)
+
+Drive is subject to maximum speed from 2 constraints:
+- Acceleration constraint
+	- Physical limitations for speed and acceleration
+	- Driver's desire for comfort
+- Safety constraint
+	- Affected by next downstream vehicle
+	- Related to steady state properties and condition of stability
+
+- Traffic stream is homogeneous
+- Free flow speed constant for each vehicle
+- State vector (position, speed, acceleration) denoted by $a(t)$
+
+Mahut's model introduces stochastic variations over Gipps' model
+
+
+## Newell
+
+[[Newel Notes_Catalina Vargas.pdf]]
+
+Based on trajectories.
+$$
+x_{n}(t+\tau_{n}) = x_{n-1}(t)-d_{n}
+$$
+Trajectory of follower is the same as the leader with a translation in space and time.
+2 parameters:
+- $\tau_{n}:$ translation in time
+- $d_{n}:$ translation in space
+
+Spacing is proportional to velocity
+
+Doesn't consider reaction time directly but there is a variable, $T_{n}$, that can be associated to it.
+
+There is a relation with macroscopic behaviour.
+
+- Only on homogeneous highways
+- No lane change
+- Does not specify
+
+Every driver has a desired speed. If the leader is going faster, the follower will just keep the  desired speed.
+
+## Hidas (2005)
+
+[[Hidass Lane changing model.pdf]]
+
+- Car following model has sudden deceleration
+	- If spacing goes below the desired spacing, it uses emergency breaking deceleration
+
+![Schermata 2025-04-09 alle 11.14.15.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Traffic%20Simulation%20Models/Notes/Allegati/Schermata%202025-04-09%20alle%2011.14.15.png)
+
+**Time to End of Lane.** Lane is ending, lane change needs to happen.
+
+The model is a dynamic process that keeps updating. It's described through a flow chart that goes through many different states and changes the behaviour of DVA accordingly.
+
+
+## Intelligent Driver Model
+
+[[IDM.pdf]]
+
+The Intelligent Driver Model was developed by Triber, Hennecke and Helbing around the year 2000.
+
+Its **high level goals** are:
+- Simulate **intelligent** drivers - braking and accelerating
+- Microscopic, time and space continuous
+- 1 lane behavior
+- 1 or multiple types of vehicles
+
+The general equation of the model takes the following form:
+$$
+\text{Acceleration} = \text{max acceleration} \times (1 - \text{freeflow acceleration} - \text{interaction term})
+$$
+This is expressed as:
+$$
+\dot{v}_{\alpha} = a^{(\alpha)} \left[ 1 - \left( \frac{v_{\alpha}}{v_{0}^{(\alpha )}} \right)^{\delta} - \left( \frac{s^{*}_{\alpha}(v_{\alpha}, \Delta v_{\alpha})}{s_{\alpha}} \right)^{2}  \right]
+$$
+where:
+- $v_{\alpha}:$ current speed
+- $v_{0}^{(\alpha)}:$ desired speed
+- $s_{\alpha}^{*}:$ desired spacing (see expression later) 
+- $s_\alpha:$ current spacing
+
+As the current speed approaches the desired speed, acceleration is reduced more and more.
+
+$$
+s_{\alpha}^{*} = s_{0}^{\alpha} + s_{1}^{\alpha} \sqrt{\frac{v_{\alpha}}{v_{0}^{\alpha }}}+ T^{\alpha}v + \frac{v \Delta  v}{2\sqrt{a(\alpha)b(\alpha)}}
+$$
+where:
+- $s_{0}:$ minimum distance between cars
+- $s_{1}:$ spacing dependent on speed
+- $a,b:$ comfortable acceleration and deceleration
+- $T:$ headway in time
+
+Some parameters need calibration:
+- $a,b$
+- $T$
+Some are easily defined:
+- $s_{0}, s_{1}$
+- $\delta:$ acceleration exponent (usually =4)
+- $v_{0}:$ desired speed
+
+
+![Schermata 2025-04-10 alle 12.56.41.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Traffic%20Simulation%20Models/Notes/Allegati/Allegati/Schermata%202025-04-10%20alle%2012.56.41.png)
+
+The diagram above shows possible traffic states according to this model.
+- FT: Free Flow traffic
+- Most of these states appear after a perturbation (one driver performs hard braking)
+- Reproduces well many real world jams
+- Subject to histeresis: perturbances always make traffic worse
+- Heavy traffic may not cause congestion until a small perturbance appears without change in other conditions
+
+Comments:
+- Many parameters but only a few affect the model
+	- Choice of $a$, $b$ and $T$ is still not trivial and may cause **instability**
+- **No reaction time** (explicit). There is a safe headway as $Tv$
+- Some states can only happen if drivers are "not intelligent"
+- There are some jams that happen despite the bad driving behaviour. This means that even self driving could not solve all traffic issues
+
+- Can't do simulation with infinite precision
+	- If we ever get inside safety margin, we would get negative speeds
+
+
+## Krauss
+
+Krauss' model is the default model available in [[SUMO\|SUMO]].
+
+Krauss found some problems with the existing models:
+- Unknown ranges of application
+- How models relate to each other
+These problems are mainly caused by:
+- Too many assumptions
+- Large number of parameters
+
+
+
+It's a [[#Collision avoidance models]].
+
+It introduces a randomization parameter.
+
+Krauss presents a family of models based on Gipps's family:
+- High acceleration
+- High deceleration low acceleration
+- Low deceleration low acceleration
+with the following considerations:
+- Discrete space coordinates
+- Deterministic jamming
+- Multilane Traffic
+- Computational performance
+
+
+It has some pretty strong assumptions:
+$$
+l = \tau = 1
+$$
+both spacing and reaction time are set equal to 1 (units are not specified). This is quite strong. A lot of information is lost in this. The accuracy of the model is still pretty good because of the randomization parameter, $\eta$.
+
+The random parameter is added as a random reduction in speed:
+$$
+v(t+\Delta t) = \max{( 0, v_{des}(t)-\eta )}
+$$
+where
+$$
+\eta \in \text{Uniform}(0,\varepsilon a)
+$$
+where 
+$$
+\varepsilon \in [0,1]
+$$
+Depending on the values chosen for $a$ and $b$, Krauss models can be classified into 3 types:
+
+![03 - Car Following models - TSM 2025-04-10 19.16.30.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Traffic%20Simulation%20Models/Notes/Allegati/03%20-%20Car%20Following%20models%20-%20TSM%202025-04-10%2019.16.30.excalidraw.png)
+
+
+Type I:
+- Big jams
+- **Stable** output jam flow
+- Phase separation, metastability, capacity drop
+
+Type II:
+- Some jamming
+- **Unstable** output jam flow
+- Phase separation not clear, jams don't scale
+
+Type III:
+- No structural jamming
+- Homogeneous traffic
+

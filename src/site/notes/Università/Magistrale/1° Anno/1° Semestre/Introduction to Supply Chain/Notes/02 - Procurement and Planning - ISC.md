@@ -213,10 +213,10 @@ Characteristics:
 ## S&OP Meetings
 
 It's carried out through 4 meetings per month:
-- Week 1 - [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/02 - Procurement and Planning - ISC#S&OP - Initiatives\|#S&OP - Initiatives]]
-- Week 2 - [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/02 - Procurement and Planning - ISC#S&OP - Consolidation\|#S&OP - Consolidation]]
-- Week 3 - [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/02 - Procurement and Planning - ISC#S&OP - Supply\|#S&OP - Supply]]
-- Week 4 - [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/02 - Procurement and Planning - ISC#S&OP - Category review\|#S&OP - Category review]]
+- Week 1 - [[#S&OP - Initiatives]]
+- Week 2 - [[#S&OP - Consolidation]]
+- Week 3 - [[#S&OP - Supply]]
+- Week 4 - [[#S&OP - Category review]]
 
 ### S&OP - Initiatives
 

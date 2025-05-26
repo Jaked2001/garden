@@ -4,8 +4,8 @@
 
 # [[Independent and dependent demand\|Independent and dependent demand]]
 
-- [[Independent and dependent demand#Independent demand\|#Independent demand]]
-- [[Independent and dependent demand#Dependent demand\|#Dependent demand]]
+- [[#Independent demand]]
+- [[#Dependent demand]]
 ## Independent demand
 
 ```ad-Definizione

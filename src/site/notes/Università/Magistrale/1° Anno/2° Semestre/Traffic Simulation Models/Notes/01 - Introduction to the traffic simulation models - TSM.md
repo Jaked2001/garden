@@ -20,7 +20,7 @@ As already stated in [[00 - Course introduction - TSM]] I provide again the defi
 ```ad-Definizione
 title: Simulation
 
-A **simulation** is an imitation of the operation and dynamics of a real world (or proposed) process or system over time.
+A **simulation** is an imitation of the operation and dynamics of a real world (or proposed) process or system *over time*.
 
 ```
 
@@ -52,11 +52,11 @@ There are mainly 3 elements needed to construct a [[00 - Course introduction - T
 
 ### The Network
 
-The network is the easiest thing to obtain. It includes the map (and digital translation) of the system we are interested in. It can be obtained, for example, from [[Open Street Map]].
+The **network** is the easiest thing to obtain. It includes the map (and digital translation) of the system we are interested in. It can be obtained, for example, from [[Open Street Map]].
 
 ### The Management Schemes
 
-Management schemes are very hard to obtain. Furthermore, they are often also really hard to implement in the simulation softwares themselves.
+**Management schemes** are very hard to obtain. Furthermore, they are often also really hard to implement in the simulation softwares themselves.
 
 They include, for example, the workings of traffic lights in the system. 
 
@@ -64,16 +64,16 @@ They include, for example, the workings of traffic lights in the system.
 
 ```ad-note
 
-We could theoretically consider every single door step as a domand generator and attractor, but it would be impractical to run the simulation.
+We could theoretically consider every single door step as a demand generator and attractor, but it would be impractical to run the simulation.
 
 ```
 
-
 Demand models are very well studied but are still quite hard to generate.
 
-We rely mainly on Origin Destination matrixes.
+We rely mainly on Origin/Destination matrixes.
 
 Very good O/D matrix would be every 15 min.
+
 #### Zoning
 
 The first step in studying the demand is **zoning**. We need to divide the system of interest into homogeneous zones. Each zone should have a single land use and all zones should share approximately the same number of trips.
@@ -100,13 +100,13 @@ title: Connectors
 
 ```
 
- Deciding the connectors introduces a lot of errors into the simulation. In fact, we only use a handful of connectors per zone (to limit computation complexity). This isnt's such an issue in small zones, but becomes quite relevan for big zones since we mind end up assigning demand in very different and far apart parts of the zone.
+ Deciding the connectors introduces a lot of errors into the simulation. In fact, we only use a handful of connectors per zone (to limit computation complexity). This isn't such an issue in small zones, but becomes quite relevant for big zones since we mind end up assigning demand in very different and far apart parts of the zone.
 
 ## Micro- vs Meso- vs Macro- scopic models
 
 There's a difference between:
-- [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/01 - Introduction to the traffic simulation models - TSM#Macroscopic models\|#Macroscopic models]]
-- [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/01 - Introduction to the traffic simulation models - TSM#Microscopic models\|#Microscopic models]]
+- [[#Macroscopic models]]
+- [[#Microscopic models]]
 - [[#Mesoscopic models]]
 They all differ in the level of granularity that represents the studied system (space, time, demand)
 
@@ -189,7 +189,7 @@ What we need:
 ```ad-Definizione
 title: Dynamic Traffic Assignment (DTA)
 
-**Dynamic Traffic Assignment (DTA)** is an extension of the traffic assignment problem that is able to describe the time and spatial evolution of the traffic patterns into the network.
+**Dynamic Traffic Assignment (DTA)** is an extension of the [[#Traffic Assignment]] problem that is able to describe the time and spatial evolution of the traffic patterns into the network.
 
 ```
 
@@ -200,7 +200,7 @@ The diagram below shows a general process for DTA:
 
 [[#Dynamic Network Loading]]
 
-This is an iterative process. If The result does not match the reality, then we must reiterate changing some variables. Every time we are running a new simulation (the [[#Dynamic Network Loading]]).
+This is an iterative process. If the result does not match the reality, then we must reiterate changing some variables. Every time we are running a new simulation (the [[#Dynamic Network Loading]]).
 
 ## Dynamic Network Loading
 

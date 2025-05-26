@@ -75,7 +75,7 @@ $$
 \ddot{x}_{n+1}(t+\Delta t) = a\frac{[\dot{x}_{n+1}(t)]^{m}}{[x_{n}(t)-x_{n+1}(t)]^{l}} [ \dot{x}_{n}(t) - \dot{x}_{n+1}(t) ] \qquad (9)
 $$
 
-- [?] Pag. 547/548. Why does integrating the equation yields the steady-state flow equation?
+- [x] Pag. 547/548. Why does integrating the equation yields the steady-state flow equation? ✅ 2025-04-18
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/universita/magistrale/1-anno/1-semestre/operation-and-management-of-transport-systems/notes/03-fundamentals-of-traffic-flow-modeling-omt/#greenshield-k-v-model" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -226,4 +226,38 @@ Used data of 18 experiments in the Lincoln Tunnel of New York.
 
 
 
+# Report
 
+Gazis, Herman and  Rottery propose a car fallowing model of the "stimulus-response" type. Two vehicles are involved, a *leader* and a *follower*. According to stimulus-response models, the follower reacts to the behaviour of the leader. The intensity of the response is governed by a factor called *sensitivity*. These models have the following form:
+$$
+\begin{equation}
+\text{Response} = \text{Sensitivity} \times \text{Stimulus}
+\end{equation}
+$$
+A driver can mainly control one aspect of the vehicle: the acceleration (or deceleration) \footnote{They can also control steering but that is beyond the scope of this study}. Therefore, it makes sense for the response to be the follower's (vehicle $n+1)$ acceleration:
+$$\ddot{x}_{n+1}(t+T)$$
+Notice how the quantity is evaluated at time $t+T$; $T$ is the reaction time. The stimulus is taken to be the difference in speed between the two vehicles: 
+$$
+\dot{x}_{n}(t) - \dot{x}_{n+1}(t)
+$$
+The sensitivity, $\lambda$, is some generic function of the follower's speed ($x_{n+1}(t+T)$) and the current spacing between the two cars ($x_{n}(t)-x_{n+1}(t)$).
+
+In short, the model under study is explained by the equation:
+$$
+\begin{equation}
+\ddot{x}_{n+1}(t+T) = \underbrace{a\frac{\left[\dot{x}_{n+1}(t)\right]^{m}}{[x_{n}(t)-x_{n+1}(t)]^{l}}}_{=\lambda} \times \left[ \dot{x}_{n}(t) - \dot{x}_{n+1}(t) \right]
+\label{eq: GM 5th gen}
+\end{equation}
+$$
+where:
+- $a:$ is a constant
+- $m,l:$ are two parameters that need calibration
+
+The sensitivity depends on 2 parameters, $m$ and $l$. These have no physical meaning. The authors idea is that these values can be tweaked to better fit real life data.
+
+This approach is quite useful since it allows to study several models at once. In fact, this is the 5th iteration of the General Motors (GM) models, each described assigning specific values to the exponents $m$ and $l$. On top of these, also some more functionals proposed by other authors (ie: Edie) can be studied starting from the same equation.
+
+A summary of some models described by the Equation (\ref{eq: GM 5th gen}) is portrayed in Table (\ref{tab: Some models}) 45
+
+
+![Nonlinear follow-the-leader models of traffic flow 2025-04-12 18.57.22.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Traffic%20Simulation%20Models/Assgm/Allegati/Nonlinear%20follow-the-leader%20models%20of%20traffic%20flow%202025-04-12%2018.57.22.excalidraw.png)

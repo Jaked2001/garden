@@ -83,11 +83,11 @@ The **Supply Chain** is our business model
 ## Key elements
 
 Departments of [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC\|Supply Chain]]:
-- [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC#Procurement\|#Procurement]] & materials planning
-- [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC#Production & logistics\|#Production & logistics]]
-- [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC#Warehousing\|#Warehousing]], transport & logistics
-- [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC#Demand & supply planning\|#Demand & supply planning]]
-- [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC#Costumer service\|#Costumer service]]
+- [[#Procurement]] & materials planning
+- [[#Production & logistics]]
+- [[#Warehousing]], transport & logistics
+- [[#Demand & supply planning]]
+- [[#Costumer service]]
 
 ### Procurement
 
@@ -214,8 +214,8 @@ If we only have a total stock of 500, we can't deliver to everyone. How we choos
 ## Push & Pull SC
 
 Depending on weather the production is on demand or the company simply keeps producing the product anyway, the [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC\|Supply Chain]] can be categorized as a:
-- [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC#Push SC\|#Push SC]]
-- [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC#Pull SC\|#Pull SC]]
+- [[#Push SC]]
+- [[#Pull SC]]
 
 ```ad-example
 
@@ -276,9 +276,9 @@ Postponement is the delay or defer of the final part of production process until
 </div></div>
 
 
-Postponement is a production system based moostly (about 70%) on a [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC#Push SC\|#Push SC]], that, just for the final part, holds the product and personalizes it according to an order.
+Postponement is a production system based moostly (about 70%) on a [[#Push SC]], that, just for the final part, holds the product and personalizes it according to an order.
 
-It basically convert to a [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC#Pull SC\|#Pull SC]] just for the final part.
+It basically convert to a [[#Pull SC]] just for the final part.
 
 ### Pull SC
 
@@ -296,9 +296,9 @@ It has the following characteristics:
 - Reactive
 - Customized (receive order with specific characteristics to produce)
 - Long lead times
-Postponement is a production system based moostly (about 70%) on a [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC#Push SC\|#Push SC]], that, just for the final part, holds the product and personalizes it according to an order.
+Postponement is a production system based moostly (about 70%) on a [[#Push SC]], that, just for the final part, holds the product and personalizes it according to an order.
 
-It basically convert to a [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC#Pull SC\|#Pull SC]] just for the final part.
+It basically convert to a [[#Pull SC]] just for the final part.
 
 Examples:
 
@@ -339,7 +339,7 @@ SC focused on Cost
 
 ### SC Excellence matrix
 
-![01 - Introduction to supply chain - ISC 2024-10-26 20.47.01.excalidraw.png](/img/user/Excalidraw-2/01%20-%20Introduction%20to%20supply%20chain%20-%20ISC%202024-10-26%2020.47.01.excalidraw.png)
+![01 - Introduction to supply chain - ISC 2024-10-26 20.47.01.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/01%20-%20Introduction%20to%20supply%20chain%20-%20ISC%202024-10-26%2020.47.01.excalidraw.png)
 
 
 Optimizing the supply chain

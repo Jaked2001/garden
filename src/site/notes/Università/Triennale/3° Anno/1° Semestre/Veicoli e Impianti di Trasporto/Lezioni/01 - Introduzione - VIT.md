@@ -147,8 +147,8 @@ Controlla sia la locomozione che la guida.
 
 Di 3 tipi:
 - [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Manuale\|manuale]]
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Automatico\|#Automatico]]
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Semi-automatico\|#Semi-automatico]]
+- [[#Automatico]]
+- [[#Semi-automatico]]
 
 #### Manuale
 
@@ -192,7 +192,7 @@ Gli **Impianti di trasporto** sono l'interfaccia fra il veicolo e le funzioni co
 
 ## La ruota
 
-Che la guida sia [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Guida libera\|#Guida libera]] o [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Guida vincolata\|#Guida vincolata]], l'elemento essenziale a trasmettere gli sforzi di [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#sostentazione\|#sostentazione]], [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Classificazione per guida\|#Classificazione per guida]] e [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione - VIT#Classificazione per locomozione\|locomozione]] è la **ruota**. 
+Che la guida sia [[#Guida libera]] o [[#Guida vincolata]], l'elemento essenziale a trasmettere gli sforzi di [[#sostentazione]], [[#Classificazione per guida]] e [[Università/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01. Introduzione - VIT#Classificazione per locomozione\|locomozione]] è la **ruota**. 
 
 ### Cinematica della ruota indeformabile
 
@@ -203,9 +203,9 @@ In prima approssimazione si considera la ruota come un cerchio rigido di diametr
 Rotazione intorno al centro $O$ a **velocità angolare** $\omega$ e traslazione a velocità $V$
 
 3 casi possibili:
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Puro rotolamento\|#Puro rotolamento]]
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Strisciamento retrogrado\|#Strisciamento retrogrado]]
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Strisciamento diretto\|#Strisciamento diretto]]
+- [[#Puro rotolamento]]
+- [[#Strisciamento retrogrado]]
+- [[#Strisciamento diretto]]
 
 #### Puro rotolamento
 
@@ -341,7 +341,7 @@ e $\varphi$ rappresenta il **coefficiente di aderenza**
 
 ##### Aderenza sulla ruota portante trainata
 
-Si prenda in considerazione in un veicolo la ruota portante **trainata**. Su questa agisce una forza di traino $F$ applicata nel centro $O$ che induce quest'ultimo a spostarsi parallelamente alla forza e alla via. I punti di contatto ruota-via rimangono fermi tra loro. Si dice che ruota e via sono in [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Aderenza\|#Aderenza]].
+Si prenda in considerazione in un veicolo la ruota portante **trainata**. Su questa agisce una forza di traino $F$ applicata nel centro $O$ che induce quest'ultimo a spostarsi parallelamente alla forza e alla via. I punti di contatto ruota-via rimangono fermi tra loro. Si dice che ruota e via sono in [[#Aderenza]].
 Il fatto che i punti di contatto ruota-via rimangano fermi tra loro significa che, nel punto $C$ si è generata una forza di attrito **specifica** $t$ che equilibria la quota parte $dF$ della forza di traino che si scarica su quel punto (sulla fibra $OC$).
 
 Tale forza di attrito può crescere fino al *valore massimo* $p(x,y)f_{0}$, essendo $f_{0}$ il **coefficiente di attrito di primo distacco** al contatto ruota-via.
@@ -356,11 +356,11 @@ Quando invece si verifica
 $$
 t(x,y) > p(x,y)f_{0}
 $$
-la condizione di [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Aderenza\|#Aderenza]] non è più rispettata e il punto di contatto **striscia**. Pertanto ci sarà attrito pari a
+la condizione di [[#Aderenza]] non è più rispettata e il punto di contatto **striscia**. Pertanto ci sarà attrito pari a
 $$
 t = pf_{c}
 $$
-essendo $f_{c}$ il [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#coefficiente di attrito cinetico\|#coefficiente di attrito cinetico]].
+essendo $f_{c}$ il [[#coefficiente di attrito cinetico]].
 
 ![Schermata 2024-02-04 alle 11.49.33.png](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202024-02-04%20alle%2011.49.33.png)
 
@@ -398,7 +398,7 @@ f_{c} \le &\frac{F}{Q} \le f_{0} \\
 f_{c} \le &\varphi \le f_{0} 
 \end{align}
 $$
-dove $\varphi$ prende il nome di [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Coefficiente di aderenza\|#Coefficiente di aderenza]]
+dove $\varphi$ prende il nome di [[#Coefficiente di aderenza]]
 La relazione si può anche scrivere, esplicitando le forze:
 $$
 f_{c} \le \frac{\iint_{CD} t(x,y)\, dxdy + \iint_{DA} f_{c}p(x,y)\, dxdy}{\iint p(x,y) \, dx dy} \le f_{0}
@@ -417,11 +417,11 @@ Y: \qquad &Q &= N \\
 M_{P}: \qquad &T \frac{D}{2} &= Nu + J \dfrac{d\omega}{dt}
 \end{cases}
 $$
-Affinché la ruota rotoli, occorre vincere l'attrito a rotolamento ([[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Attrito volvente\|#Attrito volvente]]) ma anche che la forza di contatto sia inferiore a $\varphi Q$.
+Affinché la ruota rotoli, occorre vincere l'attrito a rotolamento ([[#Attrito volvente]]) ma anche che la forza di contatto sia inferiore a $\varphi Q$.
 $$
 T = F = \frac{2}{D} \left(  Nu + J \frac{d\omega}{dt}  \right) \le \varphi Q
 $$
-Qualora questa condizione non fosse verificata, la ruota verrebbe trascinata con uno [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Scorrimento\|#Scorrimento]] crescente.
+Qualora questa condizione non fosse verificata, la ruota verrebbe trascinata con uno [[#Scorrimento]] crescente.
 Pertanto al limite la ruota viene trascinata senza rotolare (**pattinamento**). Si avrebbe quindi raggio effettivo di rotolamento tendente all'infinito e la velocità angolare di rotazione tenderebbe ad annullarsi.
 
 ##### Equilibrio della ruota motrice
@@ -464,9 +464,9 @@ dove $f$ è il **coefficiente di attrito**.
 
 #### Coefficienti di aderenza e attrito in funzione alla velocità
 
-In **ferrovia**, il [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Coefficiente di aderenza\|#Coefficiente di aderenza]] presenta, a velocità nulla, valori pari a $\varphi = 0.25 \div 0.35$ a seconda dello stato delle superfici di contatto.
+In **ferrovia**, il [[#Coefficiente di aderenza]] presenta, a velocità nulla, valori pari a $\varphi = 0.25 \div 0.35$ a seconda dello stato delle superfici di contatto.
 Tale valore **decresce** al **crescere della velocità**.
-L'andamento del coefficiente di aderenza in funzione della velocità è descritto dalla [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Legge di Müller\|#Legge di Müller]]
+L'andamento del coefficiente di aderenza in funzione della velocità è descritto dalla [[#Legge di Müller]]
 
 ##### Legge di Müller
 

@@ -27,7 +27,7 @@ $
 - Nodes are usually numbered with integers.
 - Arcs are either named with integers, or with the pair of nodes they connect
 
-![00 - Graph 2024-10-10 16.12.25.excalidraw.png](/img/user/Excalidraw-2/00%20-%20Graph%202024-10-10%2016.12.25.excalidraw.png)
+![00 - Graph 2024-10-10 16.12.25.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/00%20-%20Graph%202024-10-10%2016.12.25.excalidraw.png)
 
 
 For the example graoh above we would have:
@@ -48,7 +48,7 @@ A graph is a just a diagram. We need to make calculations. We have to define a w
 
 Each graph can be written as a matrix, called **incidence matrix**.
 
-![00 - Graph 2024-10-10 16.18.33.excalidraw.png](/img/user/Excalidraw-2/00%20-%20Graph%202024-10-10%2016.18.33.excalidraw.png)
+![00 - Graph 2024-10-10 16.18.33.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/00%20-%20Graph%202024-10-10%2016.18.33.excalidraw.png)
 
 
 - Each row represents a node
@@ -83,7 +83,7 @@ A **forward star**, or **Adjacency** of a node $i$, is the set of head nodes of 
 
 For example, given the graph below:
 
-![00 - Graph 2024-10-10 16.12.25.excalidraw.png](/img/user/Excalidraw-2/00%20-%20Graph%202024-10-10%2016.12.25.excalidraw.png)
+![00 - Graph 2024-10-10 16.12.25.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/00%20-%20Graph%202024-10-10%2016.12.25.excalidraw.png)
 
 
 the forward star of node $5$ is
@@ -91,7 +91,7 @@ $$
 E[5] = {2,3,7}
 $$
 
-![Forward star - 00 - Graph 2024-10-24 12.48.02.excalidraw.png](/img/user/Excalidraw-2/Forward%20star%20-%2000%20-%20Graph%202024-10-24%2012.48.02.excalidraw.png)
+![Forward star - 00 - Graph 2024-10-24 12.48.02.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Forward%20star%20-%2000%20-%20Graph%202024-10-24%2012.48.02.excalidraw.png)
 
 
 By gathering the adjacency of all nodes, the number of links in A can be obtained:
@@ -144,12 +144,12 @@ $
 
 Given the following graph
 
-![00 - Graph 2024-10-10 16.12.25.excalidraw.png](/img/user/Excalidraw-2/00%20-%20Graph%202024-10-10%2016.12.25.excalidraw.png)
+![00 - Graph 2024-10-10 16.12.25.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/00%20-%20Graph%202024-10-10%2016.12.25.excalidraw.png)
 
 
 a possible directed path si:
 
-![Directed path - 00 - Graph 2024-10-24 13.00.21.excalidraw.png](/img/user/Excalidraw-2/Directed%20path%20-%2000%20-%20Graph%202024-10-24%2013.00.21.excalidraw.png)
+![Directed path - 00 - Graph 2024-10-24 13.00.21.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Directed%20path%20-%2000%20-%20Graph%202024-10-24%2013.00.21.excalidraw.png)
 
 
 $$
@@ -183,12 +183,12 @@ $$
 Given the graph
 
 
-![00 - Graph 2024-10-10 16.12.25.excalidraw.png](/img/user/Excalidraw-2/00%20-%20Graph%202024-10-10%2016.12.25.excalidraw.png)
+![00 - Graph 2024-10-10 16.12.25.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/00%20-%20Graph%202024-10-10%2016.12.25.excalidraw.png)
 
 
 An undirected path can be:
 
-![Undirected path - 00 - Graph 2024-10-24 13.08.17.excalidraw.png](/img/user/Excalidraw-2/Undirected%20path%20-%2000%20-%20Graph%202024-10-24%2013.08.17.excalidraw.png)
+![Undirected path - 00 - Graph 2024-10-24 13.08.17.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Undirected%20path%20-%2000%20-%20Graph%202024-10-24%2013.08.17.excalidraw.png)
 
 
 $$
@@ -209,7 +209,7 @@ $
 
 From the graph
 
-![00 - Graph 2024-10-10 16.12.25.excalidraw.png](/img/user/Excalidraw-2/00%20-%20Graph%202024-10-10%2016.12.25.excalidraw.png)
+![00 - Graph 2024-10-10 16.12.25.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/00%20-%20Graph%202024-10-10%2016.12.25.excalidraw.png)
 
 
 a cycle is
@@ -266,20 +266,20 @@ A **spanning tree** is a part of graph $G$, or subgraph, that contains all the s
 
 ```
 
-![Spanning tree - 00 - Graph - MM 2024-10-28 15.45.05.excalidraw.png](/img/user/Excalidraw-2/Spanning%20tree%20-%2000%20-%20Graph%20-%20MM%202024-10-28%2015.45.05.excalidraw.png)
+![Spanning tree - 00 - Graph - MM 2024-10-28 15.45.05.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Spanning%20tree%20-%2000%20-%20Graph%20-%20MM%202024-10-28%2015.45.05.excalidraw.png)
 
 
 ##### Rooted spanning tree
 
 There exist a node, called the **root node**, which is connected with any other node in the network.
 
-Also, the undirected path from a root node to any other node in the tree is unique (it's a [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/00 - Graph - MM#Spanning tree\|#Spanning tree]]).
+Also, the undirected path from a root node to any other node in the tree is unique (it's a [[#Spanning tree]]).
 
 ##### Storing and retrieving paths
 
-In a directed [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/00 - Graph - MM#Spanning tree\|#Spanning tree]], we can store paths in a simple matrix.
+In a directed [[#Spanning tree]], we can store paths in a simple matrix.
 
-![Storing and retrieving paths - 00 - Graph - MM 2024-10-30 11.30.32.excalidraw.png](/img/user/Excalidraw-2/Storing%20and%20retrieving%20paths%20-%2000%20-%20Graph%20-%20MM%202024-10-30%2011.30.32.excalidraw.png)
+![Storing and retrieving paths - 00 - Graph - MM 2024-10-30 11.30.32.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Storing%20and%20retrieving%20paths%20-%2000%20-%20Graph%20-%20MM%202024-10-30%2011.30.32.excalidraw.png)
 
 
 This tree can be stored as an array $p$ of pointers:

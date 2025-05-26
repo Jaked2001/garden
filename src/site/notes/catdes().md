@@ -29,10 +29,10 @@ The last command is telling to apply the catdes command to the variable "hobbies
 ## Interpreting results
 
 The `catdes()` function returns 4 kind of results that interest us, grouped in 4 variables.
-- [[catdes()#$quanti.var\|#$quanti.var]]
-- [[catdes()#$quanti\|#$quanti]]
-- [[catdes()#$test.chi2\|#$test.chi2]]
-- [[catdes()#$category\|#$category]]
+- [[#$quanti.var]]
+- [[#$quanti]]
+- [[#$test.chi2]]
+- [[#$category]]
 
 ### $quanti.var
 

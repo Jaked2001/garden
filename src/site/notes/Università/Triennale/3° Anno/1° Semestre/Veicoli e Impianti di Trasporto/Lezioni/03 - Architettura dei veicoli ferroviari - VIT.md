@@ -109,12 +109,12 @@ Treni a scartamento variabile:
 
 
 È costituita da 2 elementi:
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Centro ruota\|#Centro ruota]]
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Cerchione\|#Cerchione]]
+- [[#Centro ruota]]
+- [[#Cerchione]]
 Anche se sempre più spesso vengono realizzate in **monoblocco**.
 
 Nonostante le ruote siano tipicamente abbastanza rigide, a volte si possono avere **ruote elastiche**
-Queste hanno un elemento in gomma o poliuretano interposto fra il [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Cerchione\|#Cerchione]] e il disco [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Centro ruota\|#Centro ruota]], che serve a ridurre le masse non sospese e quindi la trasmissione al veicolo dei carichi dinamici.
+Queste hanno un elemento in gomma o poliuretano interposto fra il [[#Cerchione]] e il disco [[#Centro ruota]], che serve a ridurre le masse non sospese e quindi la trasmissione al veicolo dei carichi dinamici.
 
 
 ### Centro ruota
@@ -122,7 +122,7 @@ Queste hanno un elemento in gomma o poliuretano interposto fra il [[Università/
 ```ad-Definizione
 title: Centro ruota
 
-Il **centro ruota** è il corpo della [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Ruota Ferroviaria\|#Ruota Ferroviaria]]. Costituisce la parte più interna e sostiene il [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Cerchione\|#Cerchione]]
+Il **centro ruota** è il corpo della [[#Ruota Ferroviaria]]. Costituisce la parte più interna e sostiene il [[#Cerchione]]
 
 ```
 
@@ -141,15 +141,15 @@ Il **cerchione** della [[#Ruota Ferroviaria]] è la parte periferica destinata a
 
 ```
 
-Il [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Cerchione\|#Cerchione]] in acciaio laminato è calettato a caldo sul [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Centro ruota\|#Centro ruota]] e bloccato ad esso tramite il cerchietto
+Il [[#Cerchione]] in acciaio laminato è calettato a caldo sul [[#Centro ruota]] e bloccato ad esso tramite il cerchietto
 
 Il cerchione è sagomato come un **tronco di cono** con pendenza di 1/20 o di 1/40. Allo stesso modo il binario su cui poggia il cerchione è inclinato di uno di questi due angoli.
 Le due dimensioni sono **interoperabili** ma nei vari casi cambia l'usura della ruota.
-Tale pendenza è necessaria al [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Moto sala montata isolata\|#Moto sala montata isolata]].
+Tale pendenza è necessaria al [[#Moto sala montata isolata]].
 
 Tendenzialmente ha una larghezza di circa $135 \, \rm mm$ per un cerchione ferroviario e di $85 \, \rm mm$ per uno tramviario.
 
-Il cerchione comprende anche il [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#bordino\|#bordino]] il quale assicura la funzione di guida rispetto alla rotaia.
+Il cerchione comprende anche il [[#bordino]] il quale assicura la funzione di guida rispetto alla rotaia.
 
 ## Sala montata
 
@@ -163,19 +163,19 @@ Per **sala montata** si intende l'insieme di [[#Ruota Ferroviaria]] e assile.
 ![Schermata 2023-11-01 alle 16.20.57.png](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202023-11-01%20alle%2016.20.57.png)
 
 La sala montata è costituita peranto da:
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Ruota Ferroviaria\|ruote]]
+- [[#Ruota Ferroviaria|ruote]]
 - Assile
 - Fusello - la superficie dell'assile su cui poggia il rotabile
 - Boccola e accoppiamento asse-boccola
 
-La geometrica della [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Sala montata\|#Sala montata]] e del binario sono legate al fine di garantire le funzioni di [[Università/Triennale/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/03. Sostentazione e locomozione\|Sostentazione e Locomozione]]. Di particolare rilevanza è lo [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Scartamento\|#Scartamento]]
+La geometrica della [[#Sala montata]] e del binario sono legate al fine di garantire le funzioni di [[Università/Triennale/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/03. Sostentazione e locomozione\|Sostentazione e Locomozione]]. Di particolare rilevanza è lo [[#Scartamento]]
 
 ### Scartamento
 
 ```ad-Definizione
 title: Scartamento
 
-Lo **scartamento** è la distanza tra le ruote ([[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Scartamento della sala montata\|#Scartamento della sala montata]]) o tra i binari ([[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Scartamento del binario\|#Scartamento del binario]]).
+Lo **scartamento** è la distanza tra le ruote ([[#Scartamento della sala montata]]) o tra i binari ([[#Scartamento del binario]]).
 
 ```
 
@@ -183,7 +183,7 @@ Lo **scartamento** è la distanza tra le ruote ([[Università/Triennale/3° Anno
 ![03. Architettura dei veicoli ferroviari 2023-11-01 16.36.30.excalidraw.png](/img/user/Excalidraw/03.%20Architettura%20dei%20veicoli%20ferroviari%202023-11-01%2016.36.30.excalidraw.png)
 
 
-Tra le 2 esiste un certo margine, detto **gioco**, che consente la mobilità laterale della [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Sala montata\|#Sala montata]] sul binario.
+Tra le 2 esiste un certo margine, detto **gioco**, che consente la mobilità laterale della [[#Sala montata]] sul binario.
 
 #### Scartamento del binario
 
@@ -194,7 +194,7 @@ Lo **scartamento del binario** è lo [[#Scartamento]] fra i fianchi interni dell
 
 ```
 
-Tipicamente in Italia lo scartamento di binario è di $1435 \, \rm mm$ che corrisponde a uno [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Scartamento della sala montata\|#Scartamento della sala montata]] di $1426 \, \rm mm$
+Tipicamente in Italia lo scartamento di binario è di $1435 \, \rm mm$ che corrisponde a uno [[#Scartamento della sala montata]] di $1426 \, \rm mm$
 
 #### Scartamento della sala montata
 
@@ -204,9 +204,9 @@ Lo **scartamento della sala montata** o **scartamento di bordino** è lo [[#Scar
 
 ```
 
-Tipicamente in Italia lo scartamento della sala montata è di $1426 \, \rm mm$ che corrisponde a uno [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Scartamento del binario\|#Scartamento del binario]] di $1435 \, \rm mm$.
+Tipicamente in Italia lo scartamento della sala montata è di $1426 \, \rm mm$ che corrisponde a uno [[#Scartamento del binario]] di $1435 \, \rm mm$.
 
-La distanza teorica tra i due [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Circoli nominali di rotazione\|#Circoli nominali di rotazione]] è di $1500 \, \rm mm$.
+La distanza teorica tra i due [[#Circoli nominali di rotazione]] è di $1500 \, \rm mm$.
 
 #### Circoli nominali di rotazione
 
@@ -269,8 +269,8 @@ Alm: ???
 ## Aderenza nel campo ferroviario
 
 Il coefficiente di aderenza longitudinale varia a seconda delle condizioni delle rotaie (bagnate o asciutte) oltre che da altri fattori quali
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Fattori che riducono il coefficiente di aderenza\|#Fattori che riducono il coefficiente di aderenza]]
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Fattori che aumentano il coefficiente di aderenza\|#Fattori che aumentano il coefficiente di aderenza]]
+- [[#Fattori che riducono il coefficiente di aderenza]]
+- [[#Fattori che aumentano il coefficiente di aderenza]]
 
 
 ### Fattori che riducono il coefficiente di aderenza
@@ -289,9 +289,9 @@ Il coefficiente di aderenza longitudinale varia a seconda delle condizioni delle
 
 ## Moto sala montata isolata
 
-Il sistema ferroviario è un sistema a [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Guida vincolata\|guida vincolata]] assicurata dall'accoppiamento di forza tra le rotaie e la [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Sala montata\|#Sala montata]].
+Il sistema ferroviario è un sistema a [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/01 - Introduzione - VIT#Guida vincolata\|guida vincolata]] assicurata dall'accoppiamento di forza tra le rotaie e la [[#Sala montata]].
 
-La forma troncoconica della [[#Ruota Ferroviaria]] assicura la **stabilità del sistema** sia in [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Moto rettilineo\|#Moto rettilineo]] che in curva.
+La forma troncoconica della [[#Ruota Ferroviaria]] assicura la **stabilità del sistema** sia in [[#Moto rettilineo]] che in curva.
 
 ### Effetto differenziale
 
@@ -316,9 +316,9 @@ Se si sposta a sx (come in figura) poggerà a sx su un diametro minore il treno 
 
 vd slide - Teoria cinematica di Klingel
 
-Nella posizione di equilibrio in [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Moto rettilineo\|rettifilo]], i raggi di rotolamento delle due ruote sono uguali.
+Nella posizione di equilibrio in [[#Moto rettilineo|rettifilo]], i raggi di rotolamento delle due ruote sono uguali.
 
-Qualora, per qualsiasi motivo, la [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Sala montata\|#Sala montata]] dovesse essere spostata dalla posizione centrata, le due ruote si troverebbero a viaggiare su due diversi raggi di rotolamento. Questo va a determinare una traiettoria curvilinea di raggio $R$.
+Qualora, per qualsiasi motivo, la [[#Sala montata]] dovesse essere spostata dalla posizione centrata, le due ruote si troverebbero a viaggiare su due diversi raggi di rotolamento. Questo va a determinare una traiettoria curvilinea di raggio $R$.
 
 ![Schermata 2024-02-06 alle 10.18.32.png](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202024-02-06%20alle%2010.18.32.png)
 
@@ -329,7 +329,7 @@ Geometricamente, si vengono a formare due **triangoli rettangoli simili**, i qua
 $$
 \frac{r_{1}}{R- \frac{S}{2}} = \frac{r_{2}}{R + \frac{S}{2}}
 $$
-Sia $r_{0}$ il raggio di rotolamento medio comune delle due ruote in rettifilo, $\gamma = \tan{\alpha}$ la conicità della ruota e $y$ lo spostamento laterale della [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Sala montata\|#Sala montata]] rispetto alla posizione centrata, i raggi $r_{1}$ e $r_{2}$ possono essere riscritti e quindi la relazione sopra diventa:
+Sia $r_{0}$ il raggio di rotolamento medio comune delle due ruote in rettifilo, $\gamma = \tan{\alpha}$ la conicità della ruota e $y$ lo spostamento laterale della [[#Sala montata]] rispetto alla posizione centrata, i raggi $r_{1}$ e $r_{2}$ possono essere riscritti e quindi la relazione sopra diventa:
 $$
 \frac{r_{0}-\gamma y}{R - \frac{S}{2}} = \frac{r_{0}+\gamma y}{R + \frac{S}{2}}
 $$
@@ -392,11 +392,11 @@ Per controllare questo moto si accentua lo smorzamento naturale grazie a degli *
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vkzgcJGdUnA?si=Ar3Eo8yzaR2UkqCJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-In realtà, viste tutte le componenti di smorzamento non considerate dalla [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Teoria cinematica di Klingel\|#Teoria cinematica di Klingel]] nonché del fatto che non tiene conto di
+In realtà, viste tutte le componenti di smorzamento non considerate dalla [[#Teoria cinematica di Klingel]] nonché del fatto che non tiene conto di
 - Effetti dell'accoppiamento delle sale
 - Forze di inerzia
 - Forze di attrito
-il [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Moto sala montata isolata\|#Moto sala montata isolata]] in realtà è descritto dal [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Moto di hunting reale\|#Moto di hunting reale]]
+il [[#Moto sala montata isolata]] in realtà è descritto dal [[#Moto di hunting reale]]
 
 #### Moto di hunting reale
 
@@ -407,7 +407,7 @@ In generale, l'ampiezza delle oscillazioni $y_{0}$ cresce al crescere della velo
 
 La sala pertanto viene a contatto di bordino con la rotaia e viene *rimbalzata* verso l'altra rotaia.
 
-Quando la velocità aumenta troppo il moto si può trasformare in un moto a zig-zag, portando la [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Sala montata\|#Sala montata]] ad andare a sbattere da una parte all'altra.
+Quando la velocità aumenta troppo il moto si può trasformare in un moto a zig-zag, portando la [[#Sala montata]] ad andare a sbattere da una parte all'altra.
 
 La lunghezza d'onda si accorcia e la frequenza aumenta rapidamente, finché non viene raggiunta una **velocità critica** e il sistema entra in **risonanza**.
 
@@ -431,7 +431,7 @@ La **Sospensione** come la [[02 - L'architettura del veicolo stradale - VIT#Sosp
 
 ### Sospensioni per veicoli rimorchiati a due assi
 
-Il fusello della [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Sala montata\|#Sala montata]] è contenuto all'interno della boccola.
+Il fusello della [[#Sala montata]] è contenuto all'interno della boccola.
 Quest'ultima costituisce l'intermediario tra la parte mobile (il fusello) e la parte fissa (la parete della boccola).
 
 Sulla boccola poggia la **sospensione**, a molla o a balestra o pneumatica, idonea a trasmettere le forze verticali tra la cassa e la sala montata.
@@ -440,12 +440,12 @@ La trasmissione delle forze longitudinali e trasversali è garantita invece da a
 
 ### Sospensioni per veicoli a carrelli
 
-Il **carrello** è un subveicolo interposto tra cassa e sala montata in modo da ridurre la distanza fra le sale montate vincolate al parallelismo e di conseguenza facilitare l'[[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Iscrizione in curva\|#Iscrizione in curva]] dei veicoli più lunghi.
+Il **carrello** è un subveicolo interposto tra cassa e sala montata in modo da ridurre la distanza fra le sale montate vincolate al parallelismo e di conseguenza facilitare l'[[#Iscrizione in curva]] dei veicoli più lunghi.
 
 In questo caso saranno quindi necessari 2 livelli di sospensione:
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Sospensione primaria\|#Sospensione primaria]] - ruota-carrello
+- [[#Sospensione primaria]] - ruota-carrello
 	- ha come obiettivo principale quello di tenere la ruota attaccata alla rotaia
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Sospensione secondaria\|#Sospensione secondaria]] - carrello-cassa
+- [[#Sospensione secondaria]] - carrello-cassa
 	- ha come obiettivo principale il comfort
 
 La trasmissione degli sforzi orizzontali è affidata a una **ralla** centrale interposta tra telaio del carrello e cassa.
@@ -468,7 +468,7 @@ Sottoposta a una forza trasversale (es. forza centrifuga) la cassa si inclina pe
 
 ## Iscrizione in curva
 
-Nel [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Moto sala montata isolata\|#Moto sala montata isolata]] abbiamo visto che, per effetto della conicità delle ruote e del gioco fra bordino e rotaia, la sala montata riesce a rotolare senza attriti ulteriori in una curva di raggio
+Nel [[#Moto sala montata isolata]] abbiamo visto che, per effetto della conicità delle ruote e del gioco fra bordino e rotaia, la sala montata riesce a rotolare senza attriti ulteriori in una curva di raggio
 $$
 R = \frac{Sr}{2 \gamma y}
 $$
@@ -576,9 +576,9 @@ In realtà la freccia del carrello si trova su una direzione diversa da quella d
 Agli scostamenti geometrici, vanno aggiunti scostamenti dovuti al gioco ruota-rotaia, alla deformazione delle sospensioni. In generale, vanno contati quindi anche gli **scostamenti dinamici interni**.
 
 In particolare si avranno:
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Gioco rotaia-bordino\|#Gioco rotaia-bordino]]
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Scostamento sistema assale-boccola\|#Scostamento sistema assale-boccola]]
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Scostamento cassa-carrello\|#Scostamento cassa-carrello]]
+- [[#Gioco rotaia-bordino]]
+- [[#Scostamento sistema assale-boccola]]
+- [[#Scostamento cassa-carrello]]
 
 In definitiva si avrà come altri scostamenti interni
 $$
@@ -587,7 +587,7 @@ $$
 
 ##### Gioco rotaia-bordino
 
-Si aggiunge agli scostamenti la semidifferenza tra lo [[#Scartamento del binario]] massimo in curva $2s = 1465 \, \rm mm$ e lo [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Scartamento della sala montata\|scartamento dei bordini]] alla massima usura ammessa:
+Si aggiunge agli scostamenti la semidifferenza tra lo [[#Scartamento del binario]] massimo in curva $2s = 1465 \, \rm mm$ e lo [[#Scartamento della sala montata|scartamento dei bordini]] alla massima usura ammessa:
 $$
 \frac{2s-d}{2}
 $$
@@ -613,7 +613,7 @@ Si sfrutta il triangolo rettangolo $OED$ per ricavare la relazione:
 $$
 (R+E_{a})^{2} - \left( \frac{a}{2}+m \right)^{2} = (R-E_{i})^{2}
 $$
-dove ricordo da [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Scostamento geometrico interno\|#Scostamento geometrico interno]] essere $E_{i} = \dfrac{a^{2}}{8R}$
+dove ricordo da [[#Scostamento geometrico interno]] essere $E_{i} = \dfrac{a^{2}}{8R}$
 Isolando $E_{a}$, si trova che lo scostamento esterno è
 $$
 E_{a} = \frac{am+m^{2}}{2R}

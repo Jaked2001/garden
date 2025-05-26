@@ -91,4 +91,4 @@ $
 
 ## 4. Update
 
-After having found $\alpha^{*}$ is time to update the solution to the next step: $\mathbf{x}^{(k)}$ and repeat the method from step [[Frank-Wolfe Method#0. Find a feasible solution\|#0. Find a feasible solution]]
+After having found $\alpha^{*}$ is time to update the solution to the next step: $\mathbf{x}^{(k)}$ and repeat the method from step [[#0. Find a feasible solution]]

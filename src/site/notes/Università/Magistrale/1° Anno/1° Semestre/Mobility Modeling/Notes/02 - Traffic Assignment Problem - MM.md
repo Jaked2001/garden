@@ -47,7 +47,7 @@ We can try an intuitive visualization of the problem:
 ![02 - Traffic Assignment Problem - MM 2024-11-24 12.08.01.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Mobility%20Modeling/Notes/Allegati/02%20-%20Traffic%20Assignment%20Problem%20-%20MM%202024-11-24%2012.08.01.excalidraw.png)
 
 
-The [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/02 - Traffic Assignment Problem - MM#Wardrop's equilibrium principle\|#Wardrop's equilibrium principle]] is reached when both delay function are equal. At that point in fact, the last user could choose link indifferently, as its cost would be the same.
+The [[#Wardrop's equilibrium principle]] is reached when both delay function are equal. At that point in fact, the last user could choose link indifferently, as its cost would be the same.
 $$
 s_{1}(v_{1}^{*}) = s_{2}(v_{2}^{*})
 $$
@@ -59,7 +59,7 @@ And
 $$
 s_{1}(v_{1}^{*}) = s_{2}(v_{2}^{*}) = 5.51
 $$
-Keep in mind that if this was a [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/01.2 - The minimum cost flow problem - From book - MM\|min-cost flow problem]], the total cost would be lower. but there would be some users with a much higher cost and some with a much lower cost, going against the [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/02 - Traffic Assignment Problem - MM#Wardrop's equilibrium principle\|#Wardrop's equilibrium principle]].
+Keep in mind that if this was a [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/01.2 - The minimum cost flow problem - From book - MM\|min-cost flow problem]], the total cost would be lower. but there would be some users with a much higher cost and some with a much lower cost, going against the [[#Wardrop's equilibrium principle]].
 
 ## The traffic assignment problem
 
@@ -178,7 +178,7 @@ $
 
 ## 4. Update
 
-After having found $\alpha^{*}$ is time to update the solution to the next step: $\mathbf{x}^{(k)}$ and repeat the method from step [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/02 - Traffic Assignment Problem - MM#0. Find a feasible solution\|#0. Find a feasible solution]]
+After having found $\alpha^{*}$ is time to update the solution to the next step: $\mathbf{x}^{(k)}$ and repeat the method from step [[#0. Find a feasible solution]]
 
 
 </div></div>

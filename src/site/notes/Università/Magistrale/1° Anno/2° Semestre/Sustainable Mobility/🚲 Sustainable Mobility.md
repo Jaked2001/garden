@@ -39,16 +39,39 @@ sort by description
 ## Evaluation Structure
 
 2 parts:
-- 50% [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/🚲 Sustainable Mobility#✍️ Final Exam\|#✍️ Final Exam]]
-- 50% [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/🚲 Sustainable Mobility#🗣 Individual essay\|#🗣 Individual essay]]
+- 50% [[#✍️ Final Exam]]
+- 50% [[#🗣 Individual essay]]
 
 
 ### ✍️ Final Exam
 
 Multiple choice:
-- 25 questions, 4 options.
+- 20 multiple choice questions, 4 options.
+- 50 min
+
+Correct: +0.5
+Blank: 0
+Wrong: -0.1
+
 
 - [!] [[2025-05-29\|2025-05-29]] - Final exam ⏫
+
+
+#### Example questions:
+
+- You need to plan a public transport line in a 6km existing urban avenue that is 30 m wide for a maximum demand of 6000 pax/hour. What type of transport would you choose?
+	- [y] A bus line because there is enough space for a good public transport service and it i the most affordable infrastructure
+	- [ ] A metro line because it is the only transport mode to move as many people as possible per hour
+	- [ ] A metro line as 30m is not enough to have public space, traffic, and a competitive public transprot
+	- [ ] It does not make sense to provide public transport in such a short distance, most of trips could be done on foot
+
+- Which of the following objectives does not belong to the Barcelona MEtropolitan Master Plan (PDUM)?
+	- [ ] Try to ensure a job and housing balance
+	- [ ] Promote a polycentric metropolitan development
+	- [ ] Define a new metropolitan urban structure based on avenues and streets
+	- [y] Make road infrastructure more efficient to lower interurban traffic travel times
+
+
 
 ### 🗣 Individual essay 
 
@@ -58,8 +81,8 @@ There are 2 evaluations: midcourse and at the end of the course
 
 Needs to be a bit more than just descriptive. There needs to be some analysis. Can also be something that can be useful in other classes or in the future.
 
-- [!] [[_Giornaliera/2025-04-03\|2025-04-03]] - Mid presentation
-- [!] [[2025-05-22\|2025-05-22]] - Final presentation 🔼
+- [x] [[_Giornaliera/2025-04-03\|2025-04-03]] - Mid presentation ✅ 2025-04-03
+- [x] [[2025-05-22\|2025-05-22]] - Final presentation 🔼 ✅ 2025-05-22
 
 - Carry individual research
 
@@ -107,6 +130,8 @@ ___
 | [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/03 - Basics of transport economics, demand, and transport externalities - SM\|03 - Basics of transport economics, demand, and transport externalities - SM]] | 🟠 Studiare |
 | [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/05 - Basics on sustainable development - SM\|05 - Basics on sustainable development - SM]]                                                                   | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/06 - Basics of urban planning and mobility - SM\|06 - Basics of urban planning and mobility - SM]]                                                           | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/AMB Bike lanes - SM\|AMB Bike lanes - SM]]                                                                                                                   | 🟢 Fatto    |
+| [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/Barcelona Metropolitan area Master Plan\|Barcelona Metropolitan area Master Plan]]                                                                           | 🟢 Fatto    |
 
 { .block-language-dataview}
 

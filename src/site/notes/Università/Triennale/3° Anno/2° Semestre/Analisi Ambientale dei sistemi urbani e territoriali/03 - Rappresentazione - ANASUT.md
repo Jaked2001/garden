@@ -97,7 +97,7 @@ Ogni urbanista, ingegnere, geografo, ha il potere di veicolare **vincoli** che g
 
 ### Carattere performativo
 
-Le [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/03 - Rappresentazione - ANASUT#Rappresentare\|rappresentazioni]] hanno un carattere [[Performativo\|Performativo]]: esse non descrivono un'azione ne constatano un fatto. Invece, veicola vincoli e opportunità di trasformazione del [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT#Territorio\|territorio]].
+Le [[#Rappresentare|rappresentazioni]] hanno un carattere [[Performativo\|Performativo]]: esse non descrivono un'azione ne constatano un fatto. Invece, veicola vincoli e opportunità di trasformazione del [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT#Territorio\|territorio]].
 
 
 

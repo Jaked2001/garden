@@ -57,7 +57,7 @@ Preparations
 	- Administrative control
 - Preparations
 	- Reception
-	- [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/03 - Logistics - ISC#Order preparation\|#Order preparation]]
+	- [[#Order preparation]]
 	- Load & unloading
 - Transport
 	- Long distance
@@ -98,16 +98,16 @@ Main activities
 - Movement to load zone
 - Checking and product accomodation
 
-![Warehouse diagram - 03 - Logistics - SC 2024-10-21 19.16.42.excalidraw.png](/img/user/Excalidraw-2/Warehouse%20diagram%20-%2003%20-%20Logistics%20-%20SC%202024-10-21%2019.16.42.excalidraw.png)
+![Warehouse diagram - 03 - Logistics - SC 2024-10-21 19.16.42.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Warehouse%20diagram%20-%2003%20-%20Logistics%20-%20SC%202024-10-21%2019.16.42.excalidraw.png)
 
 
 ## Distribution models
 
 ![Schermata 2024-10-21 alle 19.19.55.png](/img/user/Schermata%202024-10-21%20alle%2019.19.55.png)
 
-- [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/03 - Logistics - ISC#Direct distribution\|#Direct distribution]]
-- [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/03 - Logistics - ISC#Staggered distribution\|#Staggered distribution]]
-- [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/03 - Logistics - ISC#Central warehouses\|#Central warehouses]]
+- [[#Direct distribution]]
+- [[#Staggered distribution]]
+- [[#Central warehouses]]
 
 ### Direct distribution
 

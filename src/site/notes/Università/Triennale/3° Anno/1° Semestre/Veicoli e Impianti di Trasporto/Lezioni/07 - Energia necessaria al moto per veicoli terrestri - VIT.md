@@ -104,9 +104,9 @@ ds = m_{e} \frac{vdv}{T(v) - R(v) - R(s)}
 $
 Poiché però le resistenze e la trazione dipendono dalla velocità e di solito non conosciamo analiticamente questa dipendenza, dovremo fare uso di alcuni metodi numerici per risolvere l'equazione non analiticamente ma sfruttando metodi di risoluzione alle differenze finite.
 Potremmo principalmente adoperare 3 metodi distinti:
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/07 - Energia necessaria al moto per veicoli terrestri - VIT#Metodo $ Delta v$\|#Metodo $ Delta v$]]
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/07 - Energia necessaria al moto per veicoli terrestri - VIT#Metodo $ Delta s$\|#Metodo $ Delta s$]]
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/07 - Energia necessaria al moto per veicoli terrestri - VIT#Metodo $ Delta t$\|#Metodo $ Delta t$]]
+- [[#Metodo $ Delta v$]]
+- [[#Metodo $ Delta s$]]
+- [[#Metodo $ Delta t$]]
 
 È infatti noto il diagramma $T-R$ su $V$:
 
@@ -159,7 +159,7 @@ Il procedimento si ripete andando via via avanti nel moto. Nel farlo, dobbiamo c
 
 ### Metodo $\Delta s$
 
-Per ovviare al fatto che nel [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/07 - Energia necessaria al moto per veicoli terrestri - VIT#Metodo $ Delta v$\|#Metodo $ Delta v$]] occorra ricalibrare gli intervalli in modo da evitare le variazioni di condizioni che si verificano lungo il tracciato, posso pensare di [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/07 - Energia necessaria al moto per veicoli terrestri - VIT#Soluzione dell'equazione generale del moto\|risolvere l'equazione generale del moto]] a partire proprio dai $\Delta s$.
+Per ovviare al fatto che nel [[#Metodo $ Delta v$]] occorra ricalibrare gli intervalli in modo da evitare le variazioni di condizioni che si verificano lungo il tracciato, posso pensare di [[#Soluzione dell'equazione generale del moto|risolvere l'equazione generale del moto]] a partire proprio dai $\Delta s$.
 $
 \begin{cases}
 s_{i} \\
@@ -243,7 +243,7 @@ Per ovviare a questo problema gli organi di regolazione cercano di approssimare 
 
 ### Caratteristica di trazione artificiale
 
-Nei [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/08 - Motori - VIT\|motori endotermici]] la [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/07 - Energia necessaria al moto per veicoli terrestri - VIT#Caratteristica di trazione ideale\|#Caratteristica di trazione ideale]] è ottenuta mediante l'utilizzo del **cambio di velocità**, il quale consente di modificare il rapporto di riduzione tra il motore e le ruote.
+Nei [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/08 - Motori - VIT\|motori endotermici]] la [[#Caratteristica di trazione ideale]] è ottenuta mediante l'utilizzo del **cambio di velocità**, il quale consente di modificare il rapporto di riduzione tra il motore e le ruote.
 
 In figura, è riportato l'andamento di una caratteristica di trazione per un veicolo con cambio a 4 marce:
 

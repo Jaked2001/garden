@@ -50,7 +50,7 @@ Before continuining reading this note, it is higly suggested to read the [[Unive
 We will give several formulations of the [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/04 - Vehicle Routing problem - MM\|Capacitated Vehicle Routing Problem]].
 
 Conceptually we could define the problem in 2 parts:
-- Assigning clients to trucks - [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/04 - Vehicle Routing problem - MM#CVRP formulation in terms of linear generalised assignment problem\|#CVRP formulation in terms of linear generalised assignment problem]]
+- Assigning clients to trucks - [[#CVRP formulation in terms of linear generalised assignment problem]]
 - Optimizing routes
 
 ### CVRP formulation in terms of linear generalised assignment problem
@@ -97,11 +97,11 @@ K, \quad i = 0 \qquad &\text{Depot} \\
 & y_{ik} = \{0,1\}, \quad i= 0,...n,\,\, k = 1,...,K
 \end{align}
 $$
-A formulation for this problem, with an [[Heuristic\|Heuristic]] method to solve it, is provided by Fisher and Jaikumar. They defined a way to calculate the objective function: [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/04 - Vehicle Routing problem - MM#Fisher & Jaikumar's Heuristic\|#Fisher & Jaikumar's Heuristic]]
+A formulation for this problem, with an [[Heuristic\|Heuristic]] method to solve it, is provided by Fisher and Jaikumar. They defined a way to calculate the objective function: [[#Fisher & Jaikumar's Heuristic]]
 
 #### Fisher & Jaikumar's Heuristic
 
-To solve the problem in [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/04 - Vehicle Routing problem - MM#CVRP formulation in terms of linear generalised assignment problem\|#CVRP formulation in terms of linear generalised assignment problem]] that we don't know how to write the objective function explicitly, we can try to brute force it to be a linear function, making the problem the following:
+To solve the problem in [[#CVRP formulation in terms of linear generalised assignment problem]] that we don't know how to write the objective function explicitly, we can try to brute force it to be a linear function, making the problem the following:
 $$
 \min_{y_{k}} \sum\limits_{k}\sum\limits_{i}  d_{ik} y_{ik}
 $$

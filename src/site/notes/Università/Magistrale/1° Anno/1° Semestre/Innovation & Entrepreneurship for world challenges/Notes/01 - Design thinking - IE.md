@@ -36,15 +36,15 @@ Design Thinking is a problem solving framework (it's a toolbox) that is:
 Session agenda:
 - Quick bite about DT History
 - DT framewirk
-- [[Università/Magistrale/1° Anno/1° Semestre/Innovation & Entrepreneurship for world challenges/Notes/01 - Design thinking - IE#Design Thinking in the making\|#Design Thinking in the making]]
-- [[Università/Magistrale/1° Anno/1° Semestre/Innovation & Entrepreneurship for world challenges/Notes/01 - Design thinking - IE#A selection of useful links/templates\|#A selection of useful links/templates]]
-- [[Università/Magistrale/1° Anno/1° Semestre/Innovation & Entrepreneurship for world challenges/Notes/01 - Design thinking - IE#Next steps\|#Next steps]]
+- [[#Design Thinking in the making]]
+- [[#A selection of useful links/templates]]
+- [[#Next steps]]
 
 
 ## Design Thinking History
 
 
-Origins of [[Università/Magistrale/1° Anno/1° Semestre/Innovation & Entrepreneurship for world challenges/Notes/01 - Design thinking - IE#Design Thinking\|#Design Thinking]]
+Origins of [[#Design Thinking]]
 
 - [[Herbert A. Simon\|Herbert A. Simon]]
 - [[Robert McKim\|Robert McKim]]
@@ -64,7 +64,7 @@ Origins of [[Università/Magistrale/1° Anno/1° Semestre/Innovation & Entrepren
 
 Get in the client shoes.
 
-Steps for [[Università/Magistrale/1° Anno/1° Semestre/Innovation & Entrepreneurship for world challenges/Notes/01 - Design thinking - IE#Design Thinking\|#Design Thinking]]:
+Steps for [[#Design Thinking]]:
 - Empathize
 - Define
 - Ideate
@@ -88,7 +88,7 @@ What's different in DT from classical designing:
 
 ### Some tools for DT
 
-![01 - Design thinking - IE 2024-10-25 11.49.04.excalidraw.png](/img/user/Excalidraw-2/01%20-%20Design%20thinking%20-%20IE%202024-10-25%2011.49.04.excalidraw.png)
+![01 - Design thinking - IE 2024-10-25 11.49.04.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/01%20-%20Design%20thinking%20-%20IE%202024-10-25%2011.49.04.excalidraw.png)
 
 
 #### Persona-Scenario

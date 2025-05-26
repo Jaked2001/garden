@@ -55,9 +55,9 @@ It's a particular function. We are not as much interested in the absolute value 
 
 ### Properties of the utility function
 
-The [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME#Utility function\|#Utility function]] is **continuous**
+The [[#Utility function]] is **continuous**
 
-The [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME#Utility function\|#Utility function]] is **monotonically increasing** on every single variable:
+The [[#Utility function]] is **monotonically increasing** on every single variable:
 $$
 \frac{\partial u}{\partial x_{i}} \ge 0 \qquad \forall i
 $$
@@ -67,7 +67,7 @@ $$
 \frac{\partial^{2} u}{\partial x_{i}^{2}} \le 0 \qquad \forall i
 $$
 
-The [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME#Utility function\|#Utility function]], calculated in the empty set (in $(0,0)$) is equal to 0:
+The [[#Utility function]], calculated in the empty set (in $(0,0)$) is equal to 0:
 $$
 u(0,0) = 0
 $$
@@ -99,7 +99,7 @@ where:
 
 #### Linear utility function
 
-The **linear** [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME#Utility function\|#Utility function]] is works well for [[#Perfectly substitutive goods]]:
+The **linear** [[#Utility function]] is works well for [[#Perfectly substitutive goods]]:
 $$
 u(x_{1},x_{2}) = ax_{1} + bx_{2}
 $$
@@ -108,7 +108,7 @@ where:
 
 #### Other utility function
 
-The **other** [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME#Utility function\|#Utility function]] works well for [[#Perfectly complementary goods]].
+The **other** [[#Utility function]] works well for [[#Perfectly complementary goods]].
 $$
 u(x_{1},x_{2}) = \min\{ax_{1}, bx_{2}\}
 $$
@@ -120,7 +120,7 @@ where:
 ```ad-Definizione
 title: Indifference curve
 
-The **indifference curve** is the locus of points $(x_{1},x_{2})$ where the [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME#Utility function\|#Utility function]] remains equal
+The **indifference curve** is the locus of points $(x_{1},x_{2})$ where the [[#Utility function]] remains equal
 
 ```
 
@@ -302,7 +302,7 @@ title: Perfectly elastic demand
 ![Perfectly elastic demand - 03 - Utility Demand function and Pricing - DME 2024-12-01 16.25.48.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Decision%20Making%20&%20Economy%20in%20Urban%20Mobility/Notes/Allegati/Perfectly%20elastic%20demand%20-%2003%20-%20Utility%20Demand%20function%20and%20Pricing%20-%20DME%202024-12-01%2016.25.48.excalidraw.png)
 
 
-A perfectly elastic demand is one where [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME#Elasticity\|#Elasticity]] is infinite:
+A perfectly elastic demand is one where [[#Elasticity]] is infinite:
 $
 \varepsilon_{p} = \infty
 $
@@ -380,7 +380,7 @@ $
 
 ## Social Welfare
 
-Social Welfare is defined as the sum of [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME#Consumer surplus\|#Consumer surplus]] and [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME#Producer surplus\|#Producer surplus]]
+Social Welfare is defined as the sum of [[#Consumer surplus]] and [[#Producer surplus]]
 
 Let's imagine we have the following situation:
 - A demand ($q$) that increases with the reducing in price
@@ -434,7 +434,7 @@ $$
 $$
 We can then define:
 
-[[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME#Consumer surplus\|#Consumer surplus]]:
+[[#Consumer surplus]]:
 $$
 {\color{red} CS } = {\color{blue} \int_{0}^{q_{1}} \left(g(z) \, dz \right)} - ({\color{green} p_{1}}+ {\color{orange}c_{u}})q_{1}
 $$
@@ -457,14 +457,14 @@ $$
 $$
 The generalized cost for the user is the sum of the price ($p_{1}$) and all the other external costs (specifically time, $c_{u}$).
 
-If it costs the producer $\color{green} c$ to provide the service, $p_{1} - \color{green} c$ will be the producer's revenue and the corresponding <mark style="background: #FF5582A6;">red area</mark> the [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME#Producer surplus\|#Producer surplus]].
+If it costs the producer $\color{green} c$ to provide the service, $p_{1} - \color{green} c$ will be the producer's revenue and the corresponding <mark style="background: #FF5582A6;">red area</mark> the [[#Producer surplus]].
 
 The **total social** cost will be the sum of the <mark style="background: #FFB86CA6;">orange</mark> and <mark style="background: #BBFABBA6;">green</mark> areas.
 While the **net social benefit** will be the <mark style="background: #ADCCFFA6;">willing to pay</mark> - social cost.
 
 ### Pricing principles in transportation
 
-Remember that the [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME#Social Welfare\|#Social Welfare]] is:
+Remember that the [[#Social Welfare]] is:
 $$
 SW = CS + PS
 $$
@@ -481,7 +481,7 @@ For simplicity:
 $$
 C'(q) = c'q \qquad C^{0}(q) = c^{0}q
 $$
-Then, the [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME#Producer surplus\|#Producer surplus]] is the sum:
+Then, the [[#Producer surplus]] is the sum:
 $$
 \begin{align}
 PS &=  C^{0}(q) + C'(q) + r(k)k= \\
@@ -490,7 +490,7 @@ PS &=  C^{0}(q) + C'(q) + r(k)k= \\
 $$
 #### Maximizing the social welfare
 
-In general, with transportation, we're interested in maximising the [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME#Social Welfare\|#Social Welfare]]:
+In general, with transportation, we're interested in maximising the [[#Social Welfare]]:
 $$
 \max_{q,k} SW(q,x)
 $$

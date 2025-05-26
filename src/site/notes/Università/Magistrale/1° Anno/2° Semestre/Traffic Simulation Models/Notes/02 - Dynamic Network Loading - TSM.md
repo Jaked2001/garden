@@ -13,7 +13,7 @@
 ```ad-Definizione
 title: Dynami Network Loading (DNL)
 
-Dynamic Network Loading (DNL) is the process to reproduce how network flow propagate along the corresponding paths taking into account the time and a variable traffic demand on each path.
+**Dynamic Network Loading** (**DNL**) is the process to reproduce how network flow propagate along the corresponding paths taking into account the time and a variable traffic demand on each path.
 
 ```
 
@@ -30,23 +30,23 @@ We need to account for:
 
 ### Inputs - DNL
 
-- Network
-- Time dependent short paths from each origin to each destination for each time interval
-- O/D matrices
-- Time dependent path flows
+- **Network**
+- Time dependent **shortest paths** from each origin to each destination for each time interval
+- **O/D matrices**
+- Time dependent path **flows**: the flow for each path for each origin and each destination for each time interval
 
 ### Outputs - DNL
 
 - Link cost for each interval
 
-- [?] Isn't the output the simulation? The trajectories of the vehicles?
+- [?] Isn't the output the simulation? The trajectories of the vehicles or the link flows?
 
 
 ## Link flow propagation models
 
-These can be classified in several ways. The most popular classificaiton is the division in macro, micro and meso -scopic models.
+These can be classified in several ways. The most popular classification is the division in macro, micro and meso -scopic models.
 
-An alternative classification is that proposed by [[Astarita]] (2002), that can be summarised in the following diagram:
+An alternative classification is that proposed by [[Astarita]] (2002), that can be summarized in the following diagram:
 
 ![Schermata 2025-03-08 alle 16.17.41.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Traffic%20Simulation%20Models/Notes/Allegati/Allegati/Schermata%202025-03-08%20alle%2016.17.41.png)
 
@@ -97,11 +97,11 @@ In theory, the results from a microscopic models should, when aggregated, give t
 
 We typically assume that humans react to stimulus from other vehicles, with main influence caused by the leading vehicle.
 
-The main parameter that characterises an individual is the **reaction time**.
+The main parameter that characterizes an individual is the **reaction time**.
 
 ### Classification of microscopic simulation models
 
-The following classification can be summarised in the diagram below:
+The following classification can be summarized in the diagram below:
 
 ![02 - Dynamic Network Loading - TSM 2025-03-08 16.47.35.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Traffic%20Simulation%20Models/Notes/Allegati/02%20-%20Dynamic%20Network%20Loading%20-%20TSM%202025-03-08%2016.47.35.excalidraw.png)
 
@@ -133,11 +133,20 @@ Time is discretised. Links are divided into cells which can be either occupied b
 
 #### Iterated coupled maps
 
-**Iterated coupled maps** models fall in between [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/02 - Dynamic Network Loading - TSM#Time-continuous models\|#Time-continuous models]] and [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/02 - Dynamic Network Loading - TSM#Cellular automation\|#Cellular automation]] models.
+**Iterated coupled maps** models fall in between [[#Time-continuous models]] and [[#Cellular automation]] models.
 - **discrete** time
 - **continuous** space
 The update time is considered as an explicit model parameter rather than an auxiliary parameter needed for numerical integration
 
 Some examples are:
-- Gipps
-- Newell
+- [[Gipps\|Gipps]]
+- [[Newell\|Newell]]
+
+## Node Behaviour
+
+
+
+## Lane changing
+
+
+

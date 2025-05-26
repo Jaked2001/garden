@@ -40,7 +40,7 @@ Data 3: III appello
 [[Università/Triennale/3° Anno/1° Semestre/Sessione Invernale - 2023-2024\|Sessione Invernale - 2023-2024]]
 ## Struttura esame
 
-Solo [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/🚲 Veicoli e impianti di trasporto#🗣 Orale\|#🗣 Orale]]
+Solo [[#🗣 Orale]]
 
 ### 🗣 Orale 
 

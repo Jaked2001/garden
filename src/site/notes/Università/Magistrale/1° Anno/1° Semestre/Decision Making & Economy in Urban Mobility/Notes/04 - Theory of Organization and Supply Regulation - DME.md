@@ -13,7 +13,7 @@
 ### Levels of organization
 
 Every transportation system can be thought of being made up of 3 levels:
-- [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/04 - Theory of Organization and Supply Regulation - DME#Infrastructure level\|#Infrastructure level]]
+- [[#Infrastructure level]]
 - [[#Info structure level]]
 - [[#Service level]]
 

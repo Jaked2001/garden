@@ -79,3 +79,38 @@ Presentation of some projects that can be solved through the help of Aimsun.
 
 Assigned paper to read and explain to class.
 
+
+
+# 📆  25-04-2025 - Fri
+
+### 📝 Theory
+
+
+### ✏️ Projects
+
+
+# 📆  09-05-2025 - Fri
+
+### 📝 Theory
+
+[[04 - Dynamic Traffic Assignment - TSM\|04 - Dynamic Traffic Assignment - TSM]]
+- Wardrorps dynamic equilibrium principle
+- Dynamic Traffic Assignment structure
+	- k-static shortest path
+	- Time dependent shortest path - Chabini algorithm
+	- Stopping criteria
+	- Path Flow Reassignment
+		- Preventive
+		- Reactive
+
+
+
+# 📆  16-05-2025 - Fri
+
+### 📝 Theory
+
+[[04 - Dynamic Traffic Assignment - TSM\|04 - Dynamic Traffic Assignment - TSM]]
+- Route Choice Models
+- 
+
+### ✏️ Projects

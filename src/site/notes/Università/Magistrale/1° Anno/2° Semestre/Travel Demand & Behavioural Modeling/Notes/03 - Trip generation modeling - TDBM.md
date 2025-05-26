@@ -40,7 +40,7 @@ One of the main objective in travel demand modeling is being able to predict fut
 ```ad-Definizione
 title: Growth Factor - Fratar
 
-One [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/03 - Trip generation modeling - TDBM#Growth factor\|#Growth factor]] was defined by Fratar in 1954 as:
+One [[#Growth factor]] was defined by Fratar in 1954 as:
 $
 F_{i} = \frac{P_{i}^{f}I_{i}^{f}M_{i}^{f}}{P_{i}^{c}I_{i}^{c}M_{i}^{c}}
 $
@@ -63,7 +63,7 @@ $$
 ```ad-Definizione
 title: Growth factor - Cobb-Douglas
 
-A generalization of the [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/03 - Trip generation modeling - TDBM#Growth factor\|#Growth factor]] from [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/03 - Trip generation modeling - TDBM#Growth factor - Fratar\|Fratar]] is given by [[Cobb-Douglas\|Cobb-Douglas]] production functions. This formula has the same form of the previous one, but can take any parameters the researcher wants to use and also adds an extra parameter, $\theta_{k}$ to be calibrated in respect with past situations:
+A generalization of the [[#Growth factor]] from [[#Growth factor - Fratar|Fratar]] is given by [[Cobb-Douglas\|Cobb-Douglas]] production functions. This formula has the same form of the previous one, but can take any parameters the researcher wants to use and also adds an extra parameter, $\theta_{k}$ to be calibrated in respect with past situations:
 $
 F_{i} = \prod_{k=1}^{k=p} \left(  \frac{X_{k}^{f}}{X_{k}^{c}}  \right)^{\theta_{k}}
 $

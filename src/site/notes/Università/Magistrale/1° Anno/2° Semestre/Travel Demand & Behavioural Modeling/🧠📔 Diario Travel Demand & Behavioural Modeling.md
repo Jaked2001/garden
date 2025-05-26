@@ -85,3 +85,32 @@ Assignment grading:
 
 [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/04 - Trip Distribution Modeling - TDBM\|04 - Trip Distribution Modeling - TDBM]]
 - Hyman's method
+
+
+
+# 📆  22-04-2025 - Tue
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/04 - Trip Distribution Modeling - TDBM\|04 - Trip Distribution Modeling - TDBM]]
+- Calibration of deterrence functions by triproportional matrix balancing
+
+
+
+# 📆  06-05-2025 - Tue
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/05 - Modal Split and Random Utility Model - TDBM\|05 - Modal Split and Random Utility Model - TDBM]]
+
+
+
+# 📆  20-05-2025 - Tue
+
+### 📝 Theory
+
+[[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/05 - Modal Split and Random Utility Model - TDBM\|05 - Modal Split and Random Utility Model - TDBM]]
+- Heterogeneity in MNL framework
+
+???
+

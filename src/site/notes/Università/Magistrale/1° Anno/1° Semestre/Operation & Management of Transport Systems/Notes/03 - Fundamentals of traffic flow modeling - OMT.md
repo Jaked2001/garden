@@ -16,7 +16,7 @@ In traffic flow modeling, we can distinguish between
 ![Schermata 2024-11-30 alle 18.57.20.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Operation%20&%20Management%20of%20Transport%20Systems/Notes/Allegati/Allegati/Schermata%202024-11-30%20alle%2018.57.20.png)
 
 
-In this chapter we will focus on [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#LWR Traffic flow theory\|#LWR Traffic flow theory]].
+In this chapter we will focus on [[#LWR Traffic flow theory]].
 
 ## Macroscopic models
 
@@ -79,8 +79,8 @@ LWR theory is based on 2 postulates:
 
 ```ad-tip
 title: Postulates of LWR theory
-1. [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Conservation of vehicles\|#Conservation of vehicles]]
-2. [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Equation of state\|#Equation of state]]
+1. [[#Conservation of vehicles]]
+2. [[#Equation of state]]
 ```
 
 ### Conservation of vehicles
@@ -469,7 +469,7 @@ This can be represented graphically by a line going through the origin and inter
 
 **RELATIVE FLOW**
 
-From the same graph we can also obtain the [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Relative flow\|#Relative flow]] 
+From the same graph we can also obtain the [[#Relative flow]] 
 between an observer traveling at speed $v_{A}$ and any other traffic state. Here we can see the relative flow with A1, $q_{0}^{A1} > 0$ and with A2, $q_{0}^{A2} < 0$.
 
 
@@ -494,7 +494,7 @@ Let's now imagine traffic moves from state A to state B. It would be, in this ca
 ![03 - Fundamentals of traffic flow modeling - OMT 2024-12-07 13.17.03.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Operation%20&%20Management%20of%20Transport%20Systems/Notes/Allegati/03%20-%20Fundamentals%20of%20traffic%20flow%20modeling%20-%20OMT%202024-12-07%2013.17.03.excalidraw.png)
 
 
-By definition, $u = \dfrac{\Delta q}{\Delta k}$ is the [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Traffic shockwave speed\|#Traffic shockwave speed]] between state A and state B. In the graph this can be read as the slope of the line going through A and B:
+By definition, $u = \dfrac{\Delta q}{\Delta k}$ is the [[#Traffic shockwave speed]] between state A and state B. In the graph this can be read as the slope of the line going through A and B:
 $$
 u_{AB} = \frac{q_{A}-q_{B}}{k_{A}-k_{B}}
 $$
@@ -504,26 +504,26 @@ $$
 The concept behind [[#LWR Traffic flow theory]] is that every change in traffic state causes a wave to be generated. If we're able to track the waves in space and time, we are then able to predict traffic evolution.
 
 Just 2 situations are possible with traffic:
-- [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Acceleration - LWR\|#Acceleration - LWR]]
-- [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Deceleration - LWR\|#Deceleration - LWR]]
+- [[#Acceleration - LWR]]
+- [[#Deceleration - LWR]]
 
 ### Acceleration - LWR
 
 To study the acceleration transition, we will suppose a 1 lane road in which some vehicles are piled up behind a slow moving truck until time $t_{1}$. At $t_{1}$, the truck exits the road and vehicles behind it start accelerating. During the acceleration, the vehicles will travel at all the intermidiate speeds between the truck speed, $v_{B}$ and the free-flow speed, $v_{H}$.
 
-At every *differential* speed change a [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Traffic shock-wave\|#Traffic shock-wave]] is generated.
+At every *differential* speed change a [[#Traffic shock-wave]] is generated.
 
 ![Acceleration - LWR theory - 03 - Fundamentals of traffic flow modeling - OMT 2024-12-07 19.02.12.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Operation%20&%20Management%20of%20Transport%20Systems/Notes/Allegati/Acceleration%20-%20LWR%20theory%20-%2003%20-%20Fundamentals%20of%20traffic%20flow%20modeling%20-%20OMT%202024-12-07%2019.02.12.excalidraw.png)
 
 
-Each <mark style="background: #D2B3FFA6;">wave</mark> on the $t-x$ graph, with slope $u_{ij}$, describes the threshold between traffic state $i$ and traffic state $j$. Meaning we can predict the trajectory knowing the supposed slope from the $k-q$ [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Fundamental diagram of traffic\|#Fundamental diagram of traffic]].
+Each <mark style="background: #D2B3FFA6;">wave</mark> on the $t-x$ graph, with slope $u_{ij}$, describes the threshold between traffic state $i$ and traffic state $j$. Meaning we can predict the trajectory knowing the supposed slope from the $k-q$ [[#Fundamental diagram of traffic]].
 
 Notice that since each step is theoretically differential, there are infinitely many shockwaves every time we go from one state to another.
 
 
 ### Deceleration - LWR
 
-Now we just suppose that, on a stretch of road, vehicles are decelerating from speed $v_{A}$ to a lower speed $v_{F}$, therefore moving from state A to state F. Differently from the [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Acceleration - LWR\|#Acceleration - LWR]], here waves do not tend to fan out. Instead, they tend to collide with one another.
+Now we just suppose that, on a stretch of road, vehicles are decelerating from speed $v_{A}$ to a lower speed $v_{F}$, therefore moving from state A to state F. Differently from the [[#Acceleration - LWR]], here waves do not tend to fan out. Instead, they tend to collide with one another.
 
 When 2 waves collide, it means that 2 very different traffic states are colliding without any smooth transition. This generates yet an other wave, known as **shock**.
 
@@ -536,30 +536,30 @@ Thinking of this in real life, when traffic slows down on a road, initially, the
 
 ## LWR simplifications
 
-From the explanation of [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Shocks and waves\|#Shocks and waves]] it's clear that applying the model is not easy due to the infinitely many waves that generate between 2 states.
+From the explanation of [[#Shocks and waves]] it's clear that applying the model is not easy due to the infinitely many waves that generate between 2 states.
 
 There are some simplifications that we can introduce to make things a lot easier. Specifically, we will add 2 assumptions:
 
 ### Instantaneous accelerations/decelerations - LWR
 
-We will consider every change in speed instantaneous. This means that, for each state change, only one [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Traffic shock-wave\|#Traffic shock-wave]] is generated. This is particularly useful in [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Deceleration - LWR\|#Deceleration - LWR]], where infinitely many waves otherwise collide generating infinitely many shocks.
+We will consider every change in speed instantaneous. This means that, for each state change, only one [[#Traffic shock-wave]] is generated. This is particularly useful in [[#Deceleration - LWR]], where infinitely many waves otherwise collide generating infinitely many shocks.
 
 This assumption is actually quite justified when thinking that usually speed transition happen on a short time-span compared to the whole trajectory of a vehicle.
 
-With this simplification, the graphs shown in [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Deceleration - LWR\|#Deceleration - LWR]] will appear as the following:
+With this simplification, the graphs shown in [[#Deceleration - LWR]] will appear as the following:
 
 ![03 - Fundamentals of traffic flow modeling - OMT 2024-12-07 19.57.32.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Operation%20&%20Management%20of%20Transport%20Systems/Notes/Allegati/03%20-%20Fundamentals%20of%20traffic%20flow%20modeling%20-%20OMT%202024-12-07%2019.57.32.excalidraw.png)
 
 
-This simplification still doesn't help much in accelerations, for which we need a new assumption: [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Triangular fundamental diagram\|#Triangular fundamental diagram]].
+This simplification still doesn't help much in accelerations, for which we need a new assumption: [[#Triangular fundamental diagram]].
 
 ### Triangular fundamental diagram
 
-In the 1990 it was proposed to adopt a **triangular** [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Fundamental diagram of traffic\|#Fundamental diagram of traffic]]. This served 2 porpuses:
+In the 1990 it was proposed to adopt a **triangular** [[#Fundamental diagram of traffic]]. This served 2 porpuses:
 - It was shown to actually be more accurate in describing present traffic, except for the area near capacity where the real data showed a smother transition
-- It made every state change in the two areas ([[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Congestion\|#Congestion]] and [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Free-flow regime\|#Free-flow regime]]) have the same [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Traffic shockwave speed\|#Traffic shockwave speed]].
+- It made every state change in the two areas ([[#Congestion]] and [[#Free-flow regime]]) have the same [[#Traffic shockwave speed]].
 
-Now, the new state change, for [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT#Acceleration - LWR\|#Acceleration - LWR]], would look more like this
+Now, the new state change, for [[#Acceleration - LWR]], would look more like this
 
 ![03 - Fundamentals of traffic flow modeling - OMT 2024-12-07 20.05.36.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Operation%20&%20Management%20of%20Transport%20Systems/Notes/Allegati/03%20-%20Fundamentals%20of%20traffic%20flow%20modeling%20-%20OMT%202024-12-07%2020.05.36.excalidraw.png)
 

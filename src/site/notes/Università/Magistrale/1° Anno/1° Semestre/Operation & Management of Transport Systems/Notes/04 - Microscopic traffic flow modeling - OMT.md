@@ -104,7 +104,7 @@ $$
 Now we are ready to see several models. Specifically, we will see:
 - [[#Pipes car-following model (1953)]]
 - [[#Forbes car-following model (1958)]]
-- [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/04 - Microscopic traffic flow modeling - OMT#General motors car-following models (1958-1961)\|#General motors car-following models (1958-1961)]]
+- [[#General motors car-following models (1958-1961)]]
 
 ### Pipes car-following model (1953)
 
@@ -224,7 +224,7 @@ Depending on the model generation then, $\alpha$ is expressed as different funct
 #### GM model Generations
 #### 1st generation - GM model
 
-In the 1st generation of the [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/04 - Microscopic traffic flow modeling - OMT#General motors car-following models (1958-1961)\|#General motors car-following models (1958-1961)]] the sensitivity $\alpha$ is considered constant:
+In the 1st generation of the [[#General motors car-following models (1958-1961)]] the sensitivity $\alpha$ is considered constant:
 $$
 \begin{align}
 \ddot{x}_{n+1}(t+\Delta t) &= \alpha \cdot \left[  \dot{x}_{n}(t) - \dot{x}_{n+1}(t)  \right] \\

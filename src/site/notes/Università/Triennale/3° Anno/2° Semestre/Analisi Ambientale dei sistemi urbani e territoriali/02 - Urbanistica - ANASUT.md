@@ -41,12 +41,12 @@ Disciplina intrinsecamente trasformativa: vuole migliorare la qualità della vit
 ## Definizione di urbanistica
 
 Esistono una molteplicità di definizioni di urbanistica che vengono di seguito riportate:
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Urbanistica - ANASUT#Urbanistica secondo Astengo\|#Urbanistica secondo Astengo]]
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Urbanistica - ANASUT#Urbanistica secondo Quaroni\|#Urbanistica secondo Quaroni]]
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Urbanistica - ANASUT#Urbanistica secondo Secchi\|#Urbanistica secondo Secchi]]
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Urbanistica - ANASUT#Urbanistica secondo Treccani\|#Urbanistica secondo Treccani]]
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Urbanistica - ANASUT#Urbanistica secondo Gabellini\|#Urbanistica secondo Gabellini]]
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Urbanistica - ANASUT#Urbanistica secondo Gaudo\|#Urbanistica secondo Gaudo]]
+- [[#Urbanistica secondo Astengo]]
+- [[#Urbanistica secondo Quaroni]]
+- [[#Urbanistica secondo Secchi]]
+- [[#Urbanistica secondo Treccani]]
+- [[#Urbanistica secondo Gabellini]]
+- [[#Urbanistica secondo Gaudo]]
 
 Facendo una sintesi di tutte queste definizioni possiamo dire, dell'urbanistica:
 

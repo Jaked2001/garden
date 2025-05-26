@@ -64,7 +64,7 @@ Il PRG è attuato secondo 2 strade:
 
 ## Altri piani
 
-Oltre al PRG, esistono tutta una serie di altri strumenti a vari livelli. Ci sono infatti piani di livello territoriale (regionale) che sono [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT#Piani generali\|#Piani generali]] oppure [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT#Piani settoriali\|#Piani settoriali]]
+Oltre al PRG, esistono tutta una serie di altri strumenti a vari livelli. Ci sono infatti piani di livello territoriale (regionale) che sono [[#Piani generali]] oppure [[#Piani settoriali]]
 
 Un piano comunale non può contraddire un piano territoriale secondo un principio gerarchico.
 
@@ -116,8 +116,8 @@ Le cartografie sono chiaramente essenziali: il PRG si riferisce a un territorio 
 Allo stesso tempo però è necessario a supporto delle cartografie una forma testuale che detti i contenuti normativi relativamente alle aree individuate nella cartografia.
 
 In particolare contiene:
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT#Elaborati prescrittivi\|#Elaborati prescrittivi]]
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT#Norme tecniche di attuazione\|#Norme tecniche di attuazione]]
+- [[#Elaborati prescrittivi]]
+- [[#Norme tecniche di attuazione]]
 
 Per maggiori riferimenti sul [[Piano Regolatore Generale\|PRG]] di Roma, consultare [[Piano Regolatore Generale di Roma\|Piano Regolatore Generale di Roma]].
 
@@ -155,8 +155,8 @@ http://www.urbanistica.comune.roma.it/prg-adottato.html#footer
 
 ### Elaborati Prescrittivi
 
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT#Norme tecniche di attuazione\|#Norme tecniche di attuazione]]
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT#Sistemi e regole\|#Sistemi e regole]]
+- [[#Norme tecniche di attuazione]]
+- [[#Sistemi e regole]]
 
 Le carte individuano all'interno di Roma diverse città:
 Questa divisione corrisponde a livelli di tutela differenti
@@ -177,7 +177,7 @@ La perimetrazione è di tipo piuttosto irregolare.
 
 È un documento di testo.
 
-Esplicitano i contenuti normativi che devono essere georeferenziati. Ciò avviene in [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT#Sistemi e regole\|#Sistemi e regole]].
+Esplicitano i contenuti normativi che devono essere georeferenziati. Ciò avviene in [[#Sistemi e regole]].
 
 [[Norme tecnice di attuazione - PRG Roma - 2003.pdf]]
 

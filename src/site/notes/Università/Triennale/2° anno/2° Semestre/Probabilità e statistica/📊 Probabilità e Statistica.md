@@ -35,7 +35,7 @@ Obligatorio
 Una domanda su "Argomenti fondamentali". Se la risposta non è all'altezza l'esame si protrae, altrimenti finisce lì.
 
 Se lo scritto è andato bene: 
-1 domanda sugli [[Università/Triennale/2° anno/2° Semestre/Probabilità e statistica/📊 Probabilità e Statistica#Argomenti fondamentali\|#Argomenti fondamentali]]. 
+1 domanda sugli [[#Argomenti fondamentali]]. 
 Se rispondiamo in maniera perfetta, l'orale finisce così.
 Se non va bene, l'orale è su tutto il programma.
 

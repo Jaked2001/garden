@@ -84,12 +84,12 @@ Here we list some key principle of trip distribution models:
 - **Opportunity**
 	- Of intervention...
 	- Of competence...
-- **[[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/04 - Trip Distribution Modeling - TDBM#Gravity models\|#Gravity models]]**
+- **[[#Gravity models]]**
 - **[[#Entropy models]]**
 
 ### Gravity models
 
-Gravity models are [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/04 - Trip Distribution Modeling - TDBM#Trip distribution models\|#Trip distribution models]] inspired by [[Newton's law of gravitational attraction]]
+Gravity models are [[#Trip distribution models]] inspired by [[Newton's law of gravitational attraction]]
 the model for gravitational attraction between two masses.
 
 ```ad-Teo
@@ -149,7 +149,7 @@ In order to predict future demand, growth factors are usually used
 #### Growth factors
 
 - [[#Uniform growth factor]]
-- [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/04 - Trip Distribution Modeling - TDBM#Singly constrained growth factor\|#Singly constrained growth factor]]
+- [[#Singly constrained growth factor]]
 - [[#Doubly constrained growth factor]]
 
 ##### Uniform growth factor
@@ -168,7 +168,7 @@ $$
 
 ##### Singly constrained growth factor
 
-The **Singly constrained** [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/04 - Trip Distribution Modeling - TDBM#Growth factors\|growth factor]] is used when marginal totals of either production or attraction are not equal to the sum of the corresponding $t_{ij}$.
+The **Singly constrained** [[#Growth factors|growth factor]] is used when marginal totals of either production or attraction are not equal to the sum of the corresponding $t_{ij}$.
 
 The following examples assumes that there is a difference in the origin totals ($O_{i}$).
 
@@ -176,7 +176,7 @@ The base OD matrix is shown:
 
 ![Schermata 2025-04-01 alle 15.40.15.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Travel%20Demand%20&%20Behavioural%20Modeling/Notes/Allegati/Allegati/Schermata%202025-04-01%20alle%2015.40.15.png)
 
-Notice how $O_{i} = \sum\limits_{j}t_{ij}$ difference from the theoretical marginal total (the *target* in the table). For example, for TAZ 1, the ration between target and estimated origins is $a_{1}=1.13$. Notice also how the ratio is different for each TAZ.
+Notice how $O_{i} = \sum\limits_{j}t_{ij}$ differs from the theoretical marginal total (the *target* in the table). For example, for TAZ 1, the ratio between target and estimated origins is $a_{1}=1.13$. Notice also how the ratio is different for each TAZ.
 
 Let $a_{i}$ be the ratio for origin $i$, then we apply the following transformation:
 $$
@@ -213,6 +213,11 @@ After not many iterations, we get a situation similar to that shown in the next 
 
 ![Schermata 2025-04-02 alle 17.00.27.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Travel%20Demand%20&%20Behavioural%20Modeling/Notes/Allegati/Allegati/Schermata%202025-04-02%20alle%2017.00.27.png)
 
+The doubly constrained process (Furnness' method) is summarized in the following flowchart.
+
+![04 - Trip Distribution Modeling - TDBM 2025-05-11 15.42.42.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Travel%20Demand%20&%20Behavioural%20Modeling/Notes/Allegati/04%20-%20Trip%20Distribution%20Modeling%20-%20TDBM%202025-05-11%2015.42.42.excalidraw.png)
+
+
 ###### Limitations
 
 Sparse matrices can cause problems when applying this method. If 0s are present, often the method will not converge. In this case, it is suggested to change these zeros to a low number of trips and try again. 
@@ -240,7 +245,7 @@ Notice how each of these functionals has one or more parameters that need to be 
 
 #### Apply a synthetic distribution models
 
-In this section we will see how to use [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/04 - Trip Distribution Modeling - TDBM#Synthetic distribution models\|#Synthetic distribution models]] to fill in the cells of an O/D matrix (calculate $T_{ij}$).
+In this section we will see how to use [[#Synthetic distribution models]] to fill in the cells of an O/D matrix (calculate $T_{ij}$).
 
 We will describe the process for a general functional $f(C_{ij})$ but keep in mind that the tables shown are using the functional $f(C_{ij}) = e^{-\beta C_{ij}}$ (for some value of $\beta$).
 
@@ -248,11 +253,11 @@ We start from a cost matrix. This matrix contains the cost $C_{ij}$ in the yello
 
 ![Schermata 2025-04-02 alle 17.32.56.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Travel%20Demand%20&%20Behavioural%20Modeling/Notes/Allegati/Allegati/Schermata%202025-04-02%20alle%2017.32.56.png)
 
-Now we apply the functional to the whole matrix: take any cell and calculate $f(C_{ij})$. Whatch out, now the blue cells contain the sums of the yellow cells:
+Now we apply the functional to the whole matrix: take any cell and calculate $f(C_{ij})$. Watch out, now the blue cells contain the sums of the yellow cells:
 
 ![Schermata 2025-04-02 alle 17.36.07.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Travel%20Demand%20&%20Behavioural%20Modeling/Notes/Allegati/Allegati/Schermata%202025-04-02%20alle%2017.36.07.png)
 
-Now we need to apply the [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/04 - Trip Distribution Modeling - TDBM#Doubly constrained growth factor - Biproportional Fitting (BPF)\|#Doubly constrained growth factor - Biproportional Fitting (BPF)]] method. To do so, we need a starting matrix containing trips. We can obtain it multiplying everything by an expansion factor calculated as:
+Now we need to apply the [[#Doubly constrained growth factor - Biproportional Fitting (BPF)]] method. To do so, we need a starting matrix containing trips. We can obtain it multiplying everything by an expansion factor calculated as:
 $$
 f = \frac{\sum\limits_{i} O_{i}}{\sum\limits_{i}f(C_{ij})} \equiv \frac{\sum\limits_{j} O_{j}}{\sum\limits_{j}f(C_{ij})}
 $$
@@ -283,7 +288,7 @@ $$
 
 #### Hyman's method
 
-When we [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/04 - Trip Distribution Modeling - TDBM#Apply a synthetic distribution models\|#Apply a synthetic distribution models]], we need to know the parameter of the cost functional $f(C_{ij})$. In the case of
+When we [[#Apply a synthetic distribution models]], we need to know the parameter of the cost functional $f(C_{ij})$. In the case of
 $$
 f(C_{ij}) = e^{-\beta C_{ij}}
 $$
@@ -299,7 +304,7 @@ To apply this method we need:
 
 Assumptions:
 - $f(C_{ij}) = e^{-\beta C_{ij}}:$ $\beta$ unknown
-- OD matrix can be obtained through [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/04 - Trip Distribution Modeling - TDBM#Doubly constrained growth factor - Biproportional Fitting (BPF)\|#Doubly constrained growth factor - Biproportional Fitting (BPF)]]
+- OD matrix can be obtained through [[#Doubly constrained growth factor - Biproportional Fitting (BPF)]]
 
 As for other sections in this note, example numbers are shown in tables.
 
@@ -313,7 +318,7 @@ We have to start with some value of $\beta$. We can set $\beta_{0}=1$. Then we c
 $$
 \beta_{1} = \frac{1}{MTL} = 0.1
 $$
-Now we have all the information needed to apply the [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/04 - Trip Distribution Modeling - TDBM#Synthetic distribution models\|#Synthetic distribution models]]. We get the following matrix:
+Now we have all the information needed to apply the [[#Synthetic distribution models]]. We get the following matrix:
 
 ![Schermata 2025-04-02 alle 17.55.02.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Travel%20Demand%20&%20Behavioural%20Modeling/Notes/Allegati/Allegati/Schermata%202025-04-02%20alle%2017.55.02.png)
 
@@ -349,15 +354,20 @@ $n=0$
 
 $n=1$
 - Set $\beta_{1} = \dfrac{\beta_{1}}{MTL}$
-- [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/04 - Trip Distribution Modeling - TDBM#Apply a synthetic distribution models\|#Apply a synthetic distribution models]]
+- [[#Apply a synthetic distribution models]]
 - If $MTL_{1} \ne MTL$ go to next iteration, otherwise stop
 
 $n=2$
 - Set $\beta_{2} =\beta_{1} \dfrac{MTL_{1}}{MTL}$
-- [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/04 - Trip Distribution Modeling - TDBM#Apply a synthetic distribution models\|#Apply a synthetic distribution models]]
+- [[#Apply a synthetic distribution models]]
 - If $MTL_{2} \ne MTL$ go to next iteration, otherwise stop
 
-$n>2$
+$n\ge3$
 - Set $\beta_{n} = \dfrac{(MTL-MTL_{n-2})\beta_{n-1} - (MTL-MTL_{n-1})\beta_{n-2}}{MTL_{n-1}-MTL_{n-2}}$
-- [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/04 - Trip Distribution Modeling - TDBM#Apply a synthetic distribution models\|#Apply a synthetic distribution models]]
+- [[#Apply a synthetic distribution models]]
 - If $MTL_{n} \ne MTL$ repeat, otherwise stop
+
+
+
+## Triproportional matrix balancing
+

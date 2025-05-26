@@ -9,14 +9,17 @@
 
 When trying to model transportation patterns, one of the biggest challenges is the data collection. There are several ways of collecting data:
 - **Traffic detection stations**: inductive loop detectors, radars, magnetometers...
+	- Inductive Loops: they generate a magnetic field. When a metal object passes over them, field changes and sensor detects the change, counting the vehicle
+	- Magnetometers: Measure Earth's magnetic field. When vehicles pass nearby, field changes, and sensors registers it
 - Antennas to capture Bluetooth or Wi-Fi equipped devices
 - CCTV image processing (License plate recognition, emulation of Traffic Detection Stations)
 - Capture of digital footprints (ex: TAGs)
 - GPS tracking of fleets
 - Telephone [[#Surveys]]
 
-- [?] What is the difference between "inductive loops" and "magnetometers"?
-	- [ ] She does not know.
+- [x] What is the difference between "inductive loops" and "magnetometers"? ✅ 2025-04-08
+	- She does not know.
+	- Found answer on ChatGPT
 
 # Surveys
 
@@ -27,9 +30,9 @@ They can be carried out in several ways:
 - By mail
 - In person
 
-A survey is different from a census because, in a census, the whole population is interviewed. In a survey, the information gathered from the [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Sample\|#Sample]] is then expanded and associated to the rest of the population. There are several ways of selecting a sample. More information can be obtained in [[#Sample Theory]].
+A **survey** is different from a **census**: in a census, the whole population is interviewed; In a survey, the information gathered from a [[#Sample]] is then expanded and associated to the rest of the population. There are several ways of selecting a sample. More information can be found in [[#Sample Theory]].
 
-It is highly recommended the use of questionnaire, allowing for standardized, pre-defined questions that should be asked to everyone in the same way.
+Questionnaires' use is highly recommended: it allows for *standardized*, *pre-defined* questions that should be asked to everyone in the same way.
 
 Some surveys focus on opinions and attitudes, such as election polls. Others are concerned with factual characteristics or behaviour, such as transportation habits, housing or consumer spending.
 
@@ -49,12 +52,12 @@ There are many stages in a survey process:
 - Decision-making based on the results
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/question-you-should-ask-when-doing-a-survey/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/questions-you-should-ask-when-analysing-data-from-a-survey/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-# [[Question you should ask when doing a survey]]
+# [[Questions you should ask when analysing data from a survey]]
 
 1. Who did the poll?
 2. Who paid for the poll and why was it done?
@@ -119,7 +122,7 @@ These are surveys usually conducted by transport agencies. Some data may already
 
 ### Transit operator - satisfaction surveys
 
-These are to quantify the importance of items related to day to day conditions of transit network. For each item, the responders selects a score (from 1 to 10, or on the [[Likert Scale]]).
+These are to quantify the importance of items related to day to day conditions of transit network. For each item, the responders select a score (from 1 to 10, or on the [[Likert Scale]]).
 
 ### Commercial vehicle surveys
 
@@ -341,7 +344,7 @@ A **unit** is a single person, household, business that is intended to answer th
 ```ad-Definizione
 title: Survey population
 
-The **population** is the collection of [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Unit\|units]] that the survey result should describe or explain. It's the set that includes all measurements of interest to the researcher.
+The **population** is the collection of [[#Unit|units]] that the survey result should describe or explain. It's the set that includes all measurements of interest to the researcher.
 
 ```
 
@@ -352,7 +355,7 @@ A population is usually associated with a [[Random variables|probability distrib
 ```ad-Definizione
 title: Target population
 
-Target population is the [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Population\|#Population]] we are interested in studying.
+Target population is the [[#Population]] we are interested in studying.
 
 ```
 
@@ -381,7 +384,7 @@ A **sample** is a subset of the population for which the survey data is collecte
 ```ad-Definizione
 title: Sample distribution
 
-The **sample distribution** is the probability distribution of a [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Sample\|#Sample]] statistic ($\overline{x}, \overline{p}, s$)
+The **sample distribution** is the probability distribution of a [[#Sample]] statistic ($\overline{x}, \overline{p}, s$)
 
 ```
 
@@ -391,7 +394,7 @@ The **sample distribution** is the probability distribution of a [[Università/M
 ```ad-Definizione
 title: Sampling frame
 
-**Sampling frame** is the list of all sampling [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Unit\|units]] from which the sample is drawn.
+**Sampling frame** is the list of all sampling [[#Unit|units]] from which the sample is drawn.
 
 ```
 
@@ -400,7 +403,7 @@ title: Sampling frame
 ```ad-Definizione
 title: Sampling scheme
 
-The **sampling scheme** is the method of selecting sample units from the [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Sampling frame\|#Sampling frame]].
+The **sampling scheme** is the method of selecting sample units from the [[#Sampling frame]].
 
 ```
 
@@ -648,7 +651,7 @@ We are assuming to know the variance of the population. This is clearly impossib
 ```ad-Teo
 title: Point estimator of population mean
 
-The [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Point estimation\|point estimator]] for the population [[Mean\|Mean]] $\mu$ is the quantity:
+The [[#Point estimation|point estimator]] for the population [[Mean\|Mean]] $\mu$ is the quantity:
 $
 \overline{x} =  \frac{\sum\limits_{i=1}^{n}x_{i}}{n}
 $
@@ -663,7 +666,7 @@ Where $\overline{x}$ is the [[#Sample]] mean.
 ```ad-Teo
 title: Point estimator of population mean
 
-The [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Point estimation\|point estimator]] for the population [[Standard Deviation\|Standard Deviation]] $\sigma$ is the quantity:
+The [[#Point estimation|point estimator]] for the population [[Standard Deviation\|Standard Deviation]] $\sigma$ is the quantity:
 $
 s =  \sqrt{ \frac{\sum\limits_{i=1}^{n}(x_{i}-\overline{x})^{2}}{n-1} }
 $
@@ -676,7 +679,7 @@ $
 ```ad-Teo
 title: Point estimator of population mean
 
-The [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Point estimation\|point estimator]] for the population [[Proportion\|Proportion]] $p$ is the quantity:
+The [[#Point estimation|point estimator]] for the population [[Proportion\|Proportion]] $p$ is the quantity:
 $
 \overline{p} =   \frac{\sum\limits_{i=1}^{n}x_{i}}{n}
 $
@@ -690,7 +693,7 @@ where $X$ is a binary variable and $\overline{p}$ is the number of trues over th
 
 #### Sample distribution of sample mean
 
-The [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Sample distribution\|#Sample distribution]] of the sample mean $\overline{x}$ is the probability distribution of all possible values of $\overline{x}$.
+The [[#Sample distribution]] of the sample mean $\overline{x}$ is the probability distribution of all possible values of $\overline{x}$.
 
 In order to define it, we need to know:
 - [[04 - Statistica - Idro#Valore atteso o media|Expected value]] of $\overline{x}$
@@ -819,7 +822,7 @@ $$
 
 The [[#Sample distribution]] of the sample proportion follows a [[Normal distribution]] whenever the sample size $n$ is large enough
 
-[[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/02 - Data and Space - TDBM#Sample size\|#Sample size]] is large enough when both of the following conditions are met:
+[[#Sample size]] is large enough when both of the following conditions are met:
 - $np \ge 5$
 - $n(1-p)\ge5$
 

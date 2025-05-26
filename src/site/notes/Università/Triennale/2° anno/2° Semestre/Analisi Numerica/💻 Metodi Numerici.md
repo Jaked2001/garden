@@ -194,8 +194,8 @@ $
 
 | File                                                                                                                                                            | Scadenza                                   | Stato    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | -------- |
-| [[Università/Triennale/2° anno/2° Semestre/Analisi Numerica/Autovalutazioni/Autovalutazione 03 - 2023-05-15\|Autovalutazione 03 - 2023-05-15]]               | [[_Giornaliera/2023-05-15\|2023-05-15]] | 🟢 Fatto |
 | [[Università/Triennale/2° anno/2° Semestre/Analisi Numerica/Autovalutazioni/Autovalutazione 04 - 2023-06-01 - ANEP\|Autovalutazione 04 - 2023-06-01 - ANEP]] | [[_Giornaliera/2023-06-06\|2023-06-06]] | 🟢 Fatto |
+| [[Università/Triennale/2° anno/2° Semestre/Analisi Numerica/Autovalutazioni/Autovalutazione 03 - 2023-05-15\|Autovalutazione 03 - 2023-05-15]]               | [[_Giornaliera/2023-05-15\|2023-05-15]] | 🟢 Fatto |
 
 { .block-language-dataview}
 

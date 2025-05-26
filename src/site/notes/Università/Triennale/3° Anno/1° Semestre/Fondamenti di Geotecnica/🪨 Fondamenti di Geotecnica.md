@@ -60,8 +60,8 @@ title: Date esami
 
 ## Struttura esame
 
-- Una prova [[Università/Triennale/3° Anno/1° Semestre/Fondamenti di Geotecnica/🪨 Fondamenti di Geotecnica#✍️ Scritto\|scritta]] necessario per l'orale
-- Prova [[Università/Triennale/3° Anno/1° Semestre/Fondamenti di Geotecnica/🪨 Fondamenti di Geotecnica#🗣 Orale\|#🗣 Orale]]
+- Una prova [[#✍️ Scritto|scritta]] necessario per l'orale
+- Prova [[#🗣 Orale]]
 
 ### ✍️ Scritto
 

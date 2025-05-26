@@ -52,12 +52,15 @@ The theory part was held by the substitute.
 
 # 📆  03-04-2025 - Thu
 
-### 📝 Theory
-
-
-
 ### ✏️ Projects
 
 Discussion on [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Assignment/Research Paper - SM\|research paper]] topics.
 
+# 📆  10-04-2025 - Thu
 
+
+# 📆  08-05-2025 - Thu
+
+### 📝 Theory
+
+Seminary on [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/AMB Bike lanes - SM\|AMB Bike lanes - SM]]

@@ -44,7 +44,7 @@ Le registriamo nel:
 - Moto Rettilineo
 - Moto uniforme
 
-Le fonti di [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/06 - Resistenze al moto veicoli terrestri - VIT#Resistenze al moto\|#Resistenze al moto]] [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/06 - Resistenze al moto veicoli terrestri - VIT#Resistenze ordinarie\|ordinarie]] sono principalmente:
+Le fonti di [[#Resistenze al moto]] [[#Resistenze ordinarie|ordinarie]] sono principalmente:
 - Ruota - Terreno per i veicoli stradali
 - Assi - Telaio per i veicoli ferroviari
 
@@ -58,13 +58,13 @@ La superficie di contatto tra ruota e terreno/rotaia è:
 ```
 
 Tra le resistenze ordinarie, troviamo:
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/06 - Resistenze al moto veicoli terrestri - VIT#Resistenza al rotolamento\|#Resistenza al rotolamento]]
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/06 - Resistenze al moto veicoli terrestri - VIT#Rotolamento perno-cuscinetto\|#Rotolamento perno-cuscinetto]]
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/06 - Resistenze al moto veicoli terrestri - VIT#Resistenza aerodinamica\|#Resistenza aerodinamica]]
+- [[#Resistenza al rotolamento]]
+- [[#Rotolamento perno-cuscinetto]]
+- [[#Resistenza aerodinamica]]
 
 ##### Resistenza al rotolamento
 
-Una [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/06 - Resistenze al moto veicoli terrestri - VIT#Resistenze ordinarie\|Resistenza ordinaria]]
+Una [[#Resistenze ordinarie|Resistenza ordinaria]]
 
 Immaginiamo di avere una ruota ferma. Questa, per via del carico che porta (peso) si deformerà in corrispondenza della superficie di contatto. Il peso sarà quindi distribuito su una certa superficie secondo un **campo di pressioni** che si dimostra essere **parabolico**. 
 
@@ -114,7 +114,7 @@ che corrisponde quindi a una salita con pendenza dell'$1 \perthousand$,
 
 ###### Rotolamento ruota-strada
 
-Nel campo stradale, la [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/06 - Resistenze al moto veicoli terrestri - VIT#Resistenza al rotolamento\|#Resistenza al rotolamento]] dipende da
+Nel campo stradale, la [[#Resistenza al rotolamento]] dipende da
 - Pressione di gonfiaggio
 - Flessibilità della carcassa
 - Attrito generato nell'area di impronta
@@ -131,8 +131,8 @@ Come si vede nel grafico a dx, modelli diversi forniscono andamenti diversi dell
 ##### Rotolamento perno-cuscinetto
 
 Ci sono 2 tipi di cuscinetti
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/06 - Resistenze al moto veicoli terrestri - VIT#Cuscinetto a Strisciamento\|#Cuscinetto a Strisciamento]]
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/06 - Resistenze al moto veicoli terrestri - VIT#Cuscinetto a rotolamento\|#Cuscinetto a rotolamento]]
+- [[#Cuscinetto a Strisciamento]]
+- [[#Cuscinetto a rotolamento]]
 
 ###### Cuscinetto a Strisciamento
 
@@ -233,10 +233,10 @@ La resistenza al rotolamento dipende dalla velocità. A basse velocità la posso
 ## Resistenze addizionali
 
 Le resistenze addizionali sono quelle:
-- In [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/06 - Resistenze al moto veicoli terrestri - VIT#Curva\|#Curva]]
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/06 - Resistenze al moto veicoli terrestri - VIT#Aerodinamica in galleria\|#Aerodinamica in galleria]]
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/06 - Resistenze al moto veicoli terrestri - VIT#Inerzia\|#Inerzia]]
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/06 - Resistenze al moto veicoli terrestri - VIT#Livelletta\|#Livelletta]]
+- In [[#Curva]]
+- [[#Aerodinamica in galleria]]
+- [[#Inerzia]]
+- [[#Livelletta]]
 
 
 ### Inerzia

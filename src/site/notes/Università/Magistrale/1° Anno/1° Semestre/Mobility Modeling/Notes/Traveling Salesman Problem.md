@@ -219,7 +219,7 @@ To apply the spanning tree heuristic, a [[07. Schematizzazione dell'offerta di t
 ```ad-Teo
 title: Spanning tree heuristic
 
-1. Find a [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/Traveling Salesman Problem#Finding a Minimum Spanning Tree - Prim's Algorithm\|minimum spanning tree]] of $K$ --> $ST$
+1. Find a [[#Finding a Minimum Spanning Tree - Prim's Algorithm|minimum spanning tree]] of $K$ --> $ST$
 2. **Double** all arcs in $ST$, generating an auxiliary graph: $(V,ST)$
 3. Since each node has [[Eulerian cycle#Even degree\|even degree]], an [[Eulerian cycle\|Eulerian cycle]] exists
 	1. Determine an [[Eulerian cycle\|Eulerian cycle]]: $C$
@@ -246,7 +246,7 @@ title: Prim's Algorithm
 ```ad-Teo
 title: Christofides heuristic
 
-1. Determine a [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/Traveling Salesman Problem#Finding a Minimum Spanning Tree - Prim's Algorithm\|Minimum Spanning Tree]] $ST$ of $K_{n}$
+1. Determine a [[#Finding a Minimum Spanning Tree - Prim's Algorithm|Minimum Spanning Tree]] $ST$ of $K_{n}$
 2. Find all nodes with [[Eulerian cycle#Even degree\|odd degree]] and find a [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/Minimum Perfect Matching\|Minimum Perfect Matching]], $M$
 3. Make a new graph, $H$, out of all the edges in $ST$ and $M$
 4. Form an [[Eulerian cycle\|Eulerian cycle]] in $H$ and orient it arbitrarily

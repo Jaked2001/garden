@@ -43,7 +43,7 @@ Data 3: III appello
 
 ## Struttura esame
 
-Solo [[Università/Triennale/3° Anno/2° Semestre/Ecological Urbanism/🏡 Ecological Urbanism#🗣 Orale\|#🗣 Orale]]
+Solo [[#🗣 Orale]]
 
 
 ### 🗣 Orale

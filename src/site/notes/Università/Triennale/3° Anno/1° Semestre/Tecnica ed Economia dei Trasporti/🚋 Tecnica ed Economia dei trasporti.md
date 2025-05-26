@@ -47,7 +47,7 @@ Data 3: III appello
 
 ## Struttura esame
 
-Solo [[Università/Triennale/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/🚋 Tecnica ed Economia dei trasporti#🗣 Orale\|#🗣 Orale]]
+Solo [[#🗣 Orale]]
 
 ### 🗣 Orale 
 Colloquio articolato di solito su 3 argomenti. applicazioni numeriche o domande di teoria.

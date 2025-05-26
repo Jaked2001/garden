@@ -8,8 +8,8 @@
 # Motore endotermico
 
 Esistono in generale 2 tipi di motori endotermici che sfruttano due diversi cicli:
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/08 - Motori - VIT#Motore a Ciclo Otto\|#Motore a Ciclo Otto]] - Combustione comandata
-- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/08 - Motori - VIT#Motore a Ciclo Diesel\|#Motore a Ciclo Diesel]] - Combustione spontanea
+- [[#Motore a Ciclo Otto]] - Combustione comandata
+- [[#Motore a Ciclo Diesel]] - Combustione spontanea
 
 ```ad-Definizione
 title: Motore a combustione interna
@@ -19,10 +19,10 @@ Il **motore a combustione interna** o **motore endotermico** è un particolare m
 Possono essere classificati a seconda della modalità con cui la miscela viene apportata all'interno del motore:
 - Motori **volumetrici** - il fluido motore agisce in maniera intermittente
 	- Motori a movimento **alternativo dei pistoni**
-		- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/08 - Motori - VIT#Motore a Ciclo Otto\|#Motore a Ciclo Otto]]
-		- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/08 - Motori - VIT#Motore a Ciclo Diesel\|#Motore a Ciclo Diesel]]
+		- [[#Motore a Ciclo Otto]]
+		- [[#Motore a Ciclo Diesel]]
 	- Motori a movimento **rotativo del pistone**
-		- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/08 - Motori - VIT#Motore Wankel\|#Motore Wankel]]
+		- [[#Motore Wankel]]
 - Motori **continui** - il fluido motore agisce in maniera continua
 	- Motori a moto **rotativo** rappresentati dalla **turbina a gas**
 
@@ -89,7 +89,7 @@ $$
 \eta = \frac{1}{qH_{i}}
 \end{align}
 $$
-Si trova, usando valori realistici di consumo e potere energetico, che il rendimento di un [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/08 - Motori - VIT#Motore a Ciclo Otto\|#Motore a Ciclo Otto]] si aggira intorno a valori
+Si trova, usando valori realistici di consumo e potere energetico, che il rendimento di un [[#Motore a Ciclo Otto]] si aggira intorno a valori
 $$
 \eta_{m} = 25\div 30 \%
 $$
@@ -118,7 +118,7 @@ La potenza invece, cresce linearmente (o quasi) con la velocità.
 
 Al fine di realizzare caratteristiche stabili a regime però i costruttori tendono a rendere la curva di coppia più pendente.
 
-Come i [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/08 - Motori - VIT#Motore a Ciclo Otto\|#Motore a Ciclo Otto]], anche quelli a Diesel hanno bisogno di un motorino di avviamento non essendo capaci di operare a bassi valori di giri.
+Come i [[#Motore a Ciclo Otto]], anche quelli a Diesel hanno bisogno di un motorino di avviamento non essendo capaci di operare a bassi valori di giri.
 
 Questi motori, rispetto a quelli a ciclo Otto, presentano rendimenti maggiori, nell'ordine di $35 \div 40\%$.
 

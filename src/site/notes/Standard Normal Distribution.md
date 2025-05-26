@@ -34,7 +34,7 @@ skewness:: 1
 
 ## Statistical tables
 
-There are mainly 2 kind of statistical tables for the [[Standard Normal Distribution#Standard Normal Distribution\|#Standard Normal Distribution]].
+There are mainly 2 kind of statistical tables for the [[#Standard Normal Distribution]].
 
 ### Area from 0 to z
 

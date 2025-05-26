@@ -5,8 +5,8 @@
 # [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT\|01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT]]
 
 Nell'analisi territoriale e urbana è fondamentale produrre conoscenza al fine di risolvere un qualche tipo di problema. In generale possiamo individuare 2 metodologie di produzione di conoscenza:
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT#Analytical Problem Solving\|#Analytical Problem Solving]]
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT#Interactive Problem Solving\|#Interactive Problem Solving]]
+- [[#Analytical Problem Solving]]
+- [[#Interactive Problem Solving]]
 
 ## Analytical Problem Solving
 
@@ -36,7 +36,7 @@ Nel passaggio tra decisione e azione mi assumo la responsabilità di individuare
 
 ## Interactive Problem Solving
 
-Un modo alternativo all'[[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT#Analytical Problem Solving\|#Analytical Problem Solving]] è l'[[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT#Interactive Problem Solving\|#Interactive Problem Solving]].
+Un modo alternativo all'[[#Analytical Problem Solving]] è l'[[#Interactive Problem Solving]].
 
 ```ad-quote
 title: [[Cohen Lindblom]] cit. in Crosta 1998
@@ -48,7 +48,7 @@ Il modello dell’interazione sociale (**interactive problem solving**) destrutt
 
 Non più un’elite esperta che cerca di conoscere, pur in maniera attenta e sensibile, per poi decidere come agire. Quello che viene privilegiato è l’uso di una forma di conoscenza diffusa che si sviluppa nell’azione e che coinvolge una pluralità di attori altrimenti estromessi dal processo di piano. 
 
-A differenza dell’[[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT#Analytical Problem Solving\|#Analytical Problem Solving]] in cui la conoscenza era la premessa necessaria all’azione, in questo caso la conoscenza è **emergente**, deriva dal processo interattivo.
+A differenza dell’[[#Analytical Problem Solving]] in cui la conoscenza era la premessa necessaria all’azione, in questo caso la conoscenza è **emergente**, deriva dal processo interattivo.
 
 La conoscenza emerge durante l'azione.
 
@@ -95,7 +95,7 @@ Il territorio:
 - **NON** è un concetto astratto e metrico equivalente a quello di spazio misurabile
 - Qualcosa che **NON** esiste in natura (non è semplicemente terra)
 
-Il [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT#Territorio\|#Territorio]] è il frutto di un **dialogo** tra culture e spazi geografici svolto in tempi lunghi: è una costruzione culturale, messa in forma storico-geografica.
+Il [[#Territorio]] è il frutto di un **dialogo** tra culture e spazi geografici svolto in tempi lunghi: è una costruzione culturale, messa in forma storico-geografica.
 
 Il territorio è un organismo vivente ad alta complessità
 
@@ -114,7 +114,7 @@ Il territorio è in relazione con una **comunità consapevole del luogo in cui a
 
 ## Territorio come palinsesto
 
-Il territorio può essere definito come un [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT#Palinsesto\|#Palinsesto]]. Si sovrappongono diverse scritture ma si conservano le tracce. Leggere la storia come palinsesto significa dare legittimità alla definizione data prima: contemplare la definizione storica...
+Il territorio può essere definito come un [[#Palinsesto]]. Si sovrappongono diverse scritture ma si conservano le tracce. Leggere la storia come palinsesto significa dare legittimità alla definizione data prima: contemplare la definizione storica...
 
 Un territorio è quindi considerato come una superficie dalla quale sono state cancellate le tracce precedenti per sostituirle con quelle della contemporaneità. La cancellazione però non è completa: **i segni della storia riaffiorano tra le pieghe dell'evoluzione**.
 

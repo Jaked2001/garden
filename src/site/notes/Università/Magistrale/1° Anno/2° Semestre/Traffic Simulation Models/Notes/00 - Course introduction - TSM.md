@@ -49,6 +49,8 @@ A **model** is a *formal* translation of a system.
 
 ```
 
+It's a simplified representation of a system.
+
 ## Simulation vs model
 
 A [[#Model]] represents the system itself, a [[#Simulation]] represents the operation of the system over time.
