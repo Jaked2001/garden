@@ -21,7 +21,7 @@ At that moment, the 3 friends have completed a basic cycle of their strategy, wh
 Solution: $v_{m} = 10 \,\rm \frac{km}{h}$
 
 
-![Introduction to trajectories Analysis 2024-10-01 18.15.47.excalidraw.png](/img/user/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-01%2018.15.47.excalidraw.png)
+![Introduction to trajectories Analysis 2024-10-01 18.15.47.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-01%2018.15.47.excalidraw.png)
 %%[[Introduction to trajectories Analysis 2024-10-01 18.15.47.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
 
@@ -31,7 +31,7 @@ Solution: $v_{m} = 10 \,\rm \frac{km}{h}$
 
 When we work with time and space we use coordinated axis, with time ($t$) on the horizontal axis and space ($x)$ on the vertical axis.
 
-![Introduction to trajectories Analysis 2024-10-01 17.52.02.excalidraw.png](/img/user/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-01%2017.52.02.excalidraw.png)
+![Introduction to trajectories Analysis 2024-10-01 17.52.02.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-01%2017.52.02.excalidraw.png)
 
 
 This visualisation allows to have all the main parameters readily available:
@@ -50,7 +50,7 @@ $$
 a = \frac{\partial^{2}x}{\partial t^{2}} = \ddot{x}
 $$
 
-![Introduction to trajectories Analysis 2024-10-01 17.59.18.excalidraw.png](/img/user/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-01%2017.59.18.excalidraw.png)
+![Introduction to trajectories Analysis 2024-10-01 17.59.18.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-01%2017.59.18.excalidraw.png)
 
 
 The graph shows a possible trajectory of an elevator that stops at floor 3 and 5.
@@ -72,7 +72,7 @@ q
 $
 ```
 
-![Introduction to trajectories Analysis 2024-10-01 18.20.11.excalidraw.png](/img/user/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-01%2018.20.11.excalidraw.png)
+![Introduction to trajectories Analysis 2024-10-01 18.20.11.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-01%2018.20.11.excalidraw.png)
 
 
 **Dwell time** is the time taken for passengers to board and un-board.
@@ -92,14 +92,14 @@ We can increase capacity of the diagram above in different ways:
 - Faster trains would allow for shorter headways
 - Have more tracks at the ends so we can have train ready to leave as soon as one arrives
 
-![Introduction to trajectories Analysis 2024-10-01 18.40.19.excalidraw.png](/img/user/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-01%2018.40.19.excalidraw.png)
+![Introduction to trajectories Analysis 2024-10-01 18.40.19.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-01%2018.40.19.excalidraw.png)
 
 
 
 
 ## Constructing trajectories
 
-![Introduction to trajectories Analysis 2024-10-07 17.03.13.excalidraw.png](/img/user/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-07%2017.03.13.excalidraw.png)
+![Introduction to trajectories Analysis 2024-10-07 17.03.13.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-07%2017.03.13.excalidraw.png)
 
 
 
@@ -109,7 +109,7 @@ We can increase capacity of the diagram above in different ways:
 - $h, s,V_{i}$ - micro
 - time vs space average
 
-![Introduction to trajectories Analysis 2024-10-07 17.09.52.excalidraw.png](/img/user/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-07%2017.09.52.excalidraw.png)
+![Introduction to trajectories Analysis 2024-10-07 17.09.52.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-07%2017.09.52.excalidraw.png)
 
 
 ### Flow
@@ -149,10 +149,10 @@ k = \frac{1}{\frac{1}{n} \sum\limits_{j=1}^{n} s_{j}} = \frac{1}{s}
 $$
 ### Speed
 
-![Introduction to trajectories Analysis 2024-10-07 17.19.26.excalidraw.png](/img/user/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-07%2017.19.26.excalidraw.png)
+![Introduction to trajectories Analysis 2024-10-07 17.19.26.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-07%2017.19.26.excalidraw.png)
 
 
-![Introduction to trajectories Analysis 2024-10-07 17.27.14.excalidraw.png](/img/user/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-07%2017.27.14.excalidraw.png)
+![Introduction to trajectories Analysis 2024-10-07 17.27.14.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-07%2017.27.14.excalidraw.png)
 
 
 The difference is that in one case we're measuring 
@@ -183,7 +183,7 @@ You can measure any value anywhere and it's always the same.
 
 The only way is to have parallel trajectories that are equidistant.
 
-![Introduction to trajectories Analysis 2024-10-07 17.38.34.excalidraw.png](/img/user/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-07%2017.38.34.excalidraw.png)
+![Introduction to trajectories Analysis 2024-10-07 17.38.34.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Introduction%20to%20trajectories%20Analysis%202024-10-07%2017.38.34.excalidraw.png)
 
 
 $$

@@ -79,7 +79,7 @@ R_{1} = P \left( \dfrac{1}{2} - \dfrac{v^{2}h}{Rsg} \right) \\
 R_{2} = P \left( \dfrac{1}{2} + \dfrac{v^{2}h}{Rsg} \right)
 \end{cases}
 $$
-da cui si evince che il carico aumenta all'esterno e diminuisce all'interno. Occorre quindi imporre un ulteriore limite, al fine di evitare il [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/04 - Dinamica dei veicoli - VIT#Stabilità al ribaltamento - senza sovralzo\|ribaltamento]]
+da cui si evince che il carico aumenta all'esterno e diminuisce all'interno. Occorre quindi imporre un ulteriore limite, al fine di evitare il [[#Stabilità al ribaltamento - senza sovralzo|ribaltamento]]
 
 ### Stabilità al ribaltamento - senza sovralzo
 
@@ -174,7 +174,7 @@ Fissato il valore massimo di accelerazione non compensata che può subire un pas
 $$
 v = \sqrt{a_{nc} + g \frac{h}{s}} \cdot \sqrt{R}
 $$
-Sulla base di queste considerazioni, in funzione dell'accelerazione max che il treno può subire, si definisce il [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/04 - Dinamica dei veicoli - VIT#Rango\|#Rango]] del treno.
+Sulla base di queste considerazioni, in funzione dell'accelerazione max che il treno può subire, si definisce il [[#Rango]] del treno.
 
 ### Rango
 
@@ -190,7 +190,7 @@ I treni ad assetto variabile permettono infatti l'inclinazione di un ulteriore a
 
 ## Stabilità allo svio
 
-In ferrovia, più che alla [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/04 - Dinamica dei veicoli - VIT#Stabilità a sbandamento e ribaltamento\|stabilità allo sbandamento]] si è interessati alla stabilità allo svio.
+In ferrovia, più che alla [[#Stabilità a sbandamento e ribaltamento|stabilità allo sbandamento]] si è interessati alla stabilità allo svio.
 Nella [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Ruota Ferroviaria\|ruota ferroviaria]] infatti il bordino rappresenta un fine corsa nello spostamento laterale della [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/03 - Architettura dei veicoli ferroviari - VIT#Sala montata\|sala montata]].
 
 ![Schermata 2024-02-06 alle 16.53.13.png](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202024-02-06%20alle%2016.53.13.png)

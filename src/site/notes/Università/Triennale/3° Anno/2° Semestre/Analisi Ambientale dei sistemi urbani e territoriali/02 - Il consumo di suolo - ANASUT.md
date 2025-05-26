@@ -85,7 +85,7 @@ Il suolo è strutturato in piccoli aggregati: la sostanza organica e i minerali 
 
 ### Importanza del suolo
 
-Il [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Il consumo di suolo - ANASUT#Suolo\|#Suolo]] è una risorsa fondamentale per la vita sulla terra, e un suolo sano contribuisce in molti aspetti della nostra vita di tutti i giorni.
+Il [[#Suolo]] è una risorsa fondamentale per la vita sulla terra, e un suolo sano contribuisce in molti aspetti della nostra vita di tutti i giorni.
 
 In particolare fornisce numerosi [[Università/Triennale/Scienze della Sostenibilità/00. Giornata della sostenibilità 2023#Servizi ecosistemici\|servizi ecosistemici]] sui quali si basa la nostra sopravvivenza.
 
@@ -104,7 +104,7 @@ Il suolo è una risorsa **scarsa**, che ci consente di usufruire importanti [[Un
 
 ### Il suolo minacciato
 
-Il [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Il consumo di suolo - ANASUT#Suolo\|#Suolo]] risente di numerose minacce, tra cui:
+Il [[#Suolo]] risente di numerose minacce, tra cui:
 - Sostanze chimiche
 	- Pesticidi
 	- Sostanze chimiche connesse a pratiche agricole intensive
@@ -165,14 +165,14 @@ Il **consumo di suolo netto** è il rapporto tra il consumo di suolo e l'aumento
 ```
 
 A seconda del tipo di consumo di suolo, questo può essere detto
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Il consumo di suolo - ANASUT#Consumo di suolo permanente\|Permanente]]
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Il consumo di suolo - ANASUT#Consumo di suolo reversibile\|Reversibile]]
+- [[#Consumo di suolo permanente|Permanente]]
+- [[#Consumo di suolo reversibile|Reversibile]]
 
 ![Schermata 2024-04-26 alle 19.18.33.png](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/2%C2%B0%20Semestre/Analisi%20Ambientale%20dei%20sistemi%20urbani%20e%20territoriali/allegati/Schermata%202024-04-26%20alle%2019.18.33.png)
 
 #### Consumo di suolo permanente
 
-Rientrano nel [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Il consumo di suolo - ANASUT#Consumo di suolo\|#Consumo di suolo]]:
+Rientrano nel [[#Consumo di suolo]]:
 - Edifici, fabbricati
 - Strade pavimentate
 - Sede ferroviaria
@@ -185,7 +185,7 @@ Rientrano nel [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale d
 
 #### Consumo di suolo reversibile
 
-Rientrano nel [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Il consumo di suolo - ANASUT#Consumo di suolo\|#Consumo di suolo]] reversibile:
+Rientrano nel [[#Consumo di suolo]] reversibile:
 - Strade non pavimentate
 - Cantieri e altre aree in terra battuta
 - Aree estrattive non rinaturalizzate
@@ -300,9 +300,9 @@ La [[United Nations Convention to Combat Desertification\|UNCCD]] raccomanda l'u
 ### Effetti dell'impatto del consumo di suolo
 
 
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Il consumo di suolo - ANASUT#Frammentazione del territorio\|#Frammentazione del territorio]]
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Il consumo di suolo - ANASUT#Isola di calore urbana\|#Isola di calore urbana]]
-- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/02 - Il consumo di suolo - ANASUT#Perdita dei servizi ecosistemici del suolo\|#Perdita dei servizi ecosistemici del suolo]]
+- [[#Frammentazione del territorio]]
+- [[#Isola di calore urbana]]
+- [[#Perdita dei servizi ecosistemici del suolo]]
 
 #### Frammentazione del territorio
 

@@ -61,24 +61,24 @@ A **Robust statistic** or **indicator** is one that is **NOT** higly influenced 
 
 ### Numeric indicators
 
-- [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Central Tendency\|#Central Tendency]]
-	- [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Mean\|#Mean]]
-	- [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Median\|#Median]]
-- [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Dispersion or Spread\|#Dispersion or Spread]] 
-	- [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Variance\|#Variance]]
-	- [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Standard Deviation\|#Standard Deviation]]
-- [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Skewness\|#Skewness]]
-- [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Kurtosis\|#Kurtosis]]
+- [[#Central Tendency]]
+	- [[#Mean]]
+	- [[#Median]]
+- [[#Dispersion or Spread]] 
+	- [[#Variance]]
+	- [[#Standard Deviation]]
+- [[#Skewness]]
+- [[#Kurtosis]]
 
 
-- [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Quartiles\|#Quartiles]]
-	- [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Median\|#Median]]
+- [[#Quartiles]]
+	- [[#Median]]
 
 #### Central Tendency
 
 ##### Mean
 
-[[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Classic Statistic\|#Classic Statistic]]
+[[#Classic Statistic]]
 
 ```ad-Definizione
 title: Mean ($\mu$)
@@ -94,13 +94,13 @@ It indicates some sort of central trend. It is also known as the **expected valu
 
 ##### Quartiles
 
-- [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS# Frist Quartile - Q1\|# Frist Quartile - Q1]]
-- [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS# Second Quartile or median - Q2\|# Second Quartile or median - Q2]]
-- [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS# Third Quartile - Q3\|# Third Quartile - Q3]]
+- [[# Frist Quartile - Q1]]
+- [[# Second Quartile or median - Q2]]
+- [[# Third Quartile - Q3]]
 
 ###### Median
 
-Median is a [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Robust Statistic\|#Robust Statistic]]
+Median is a [[#Robust Statistic]]
 
 It's the second quartile
 median = Q2
@@ -118,18 +118,18 @@ It's the value that splits the sample in 2 parts:
 
 ###### Q1 - Q3
 
-[[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Robust Statistic\|#Robust Statistic]]
+[[#Robust Statistic]]
 
 - Q1: 25% of observation are less than Q1 & 75% are greater than Q1
 - Q3: 75% of observation are less than Q3 & 25% are greater than Q3
 
 #### Dispersion or spread
 
-The **spread** of a distribution mostly refers to the [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Variance\|#Variance]] or the [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Standard Deviation\|#Standard Deviation]].
+The **spread** of a distribution mostly refers to the [[#Variance]] or the [[#Standard Deviation]].
 
 ##### Variance
 
-It's a [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Classic Statistic\|#Classic Statistic]] (it's very affected by [[Outlier|outliers]])
+It's a [[#Classic Statistic]] (it's very affected by [[Outlier|outliers]])
 
 ```ad-Definizione
 title: Variance ($S_{x}^{2}$ or $\sigma^{2}$)
@@ -145,7 +145,7 @@ Variance has squared units so it's difficult to interprete. So we use standard d
 
 See also: [[Università/Triennale/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Deviazione Standard\|04 - Statistica - Idro#Deviazione Standard]], [[Università/Triennale/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Statistica in Topografia - TP#Deviazione Standard\|03 - Statistica in Topografia - TP#Deviazione Standard]]
 
-It's a [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Classic Statistic\|#Classic Statistic]] (it's very affected by [[Outlier|outliers]])
+It's a [[#Classic Statistic]] (it's very affected by [[Outlier|outliers]])
 
 ```ad-Definizione
 title: Standard Deviation ($S_{x}$ or $\sigma$)
@@ -159,7 +159,7 @@ $
 
 ###### IQR - Inter Quartile Range
 
-It's a [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Robust Statistic\|#Robust Statistic]]
+It's a [[#Robust Statistic]]
 
 ```ad-Definizione
 title: Inter Quartile Range ($IQR$)
@@ -182,7 +182,7 @@ The **skewness** is a measure of asymmetry of a distribution.
 $\gamma_{2} = 0 \Longrightarrow$ Perfect symmetry.
 ```
 
-![Skewness - 02 - Exploratory Data Analysis - DATS 2024-11-06 12.06.17.excalidraw.png](/img/user/Excalidraw-2/Skewness%20-%2002%20-%20Exploratory%20Data%20Analysis%20-%20DATS%202024-11-06%2012.06.17.excalidraw.png)
+![Skewness - 02 - Exploratory Data Analysis - DATS 2024-11-06 12.06.17.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Skewness%20-%2002%20-%20Exploratory%20Data%20Analysis%20-%20DATS%202024-11-06%2012.06.17.excalidraw.png)
 
 
 ##### Kurtosis
@@ -199,7 +199,7 @@ The **Kurtosis** of a distribution measures how far away a distribution is from 
 
 #### Moments
 
-![Moments - 02 - Exploratory Data Analysis - DATS 2024-11-06 12.12.00.excalidraw.png](/img/user/Excalidraw-2/Moments%20-%2002%20-%20Exploratory%20Data%20Analysis%20-%20DATS%202024-11-06%2012.12.00.excalidraw.png)
+![Moments - 02 - Exploratory Data Analysis - DATS 2024-11-06 12.12.00.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Moments%20-%2002%20-%20Exploratory%20Data%20Analysis%20-%20DATS%202024-11-06%2012.12.00.excalidraw.png)
 
 
 ### Numeric charts
@@ -208,17 +208,17 @@ The **Kurtosis** of a distribution measures how far away a distribution is from 
 
 ![Schermata 2024-10-08 alle 15.46.16.png](/img/user/Schermata%202024-10-08%20alle%2015.46.16.png)
 
-![Boxplot - 02 - Exploratory Data Analysis - DATS 2024-11-06 12.26.23.excalidraw.png](/img/user/Excalidraw-2/Boxplot%20-%2002%20-%20Exploratory%20Data%20Analysis%20-%20DATS%202024-11-06%2012.26.23.excalidraw.png)
+![Boxplot - 02 - Exploratory Data Analysis - DATS 2024-11-06 12.26.23.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Boxplot%20-%2002%20-%20Exploratory%20Data%20Analysis%20-%20DATS%202024-11-06%2012.26.23.excalidraw.png)
 
 
 The boxplot is a particular plot useful to understand the central tendency of the data.
 
 - **BOX**
-	- Bottom is the [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Q1 - Q1\|Q1]] (first quartile)
-	- Top is the [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Q1 - Q3\|Q3]] (third quartile)
-	- Line in the middle is the [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Median\|#Median]]
+	- Bottom is the [[#Q1 - Q1|Q1]] (first quartile)
+	- Top is the [[#Q1 - Q3|Q3]] (third quartile)
+	- Line in the middle is the [[#Median]]
 - **Whiskers** - the lines that exit the box
-	- They indicate the minimum and maximum value of the data, **without** considering the [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Outliers\|#Outliers]]
+	- They indicate the minimum and maximum value of the data, **without** considering the [[#Outliers]]
 	- Every data point that is over 1.5 the distance between the box edge and the whisker end, is considered an outlier and is plotted on its own
 
 Assuming there are no outliers, the whiskers indicate the min and the max.
