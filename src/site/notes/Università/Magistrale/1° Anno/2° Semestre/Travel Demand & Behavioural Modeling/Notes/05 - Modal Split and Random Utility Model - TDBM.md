@@ -146,7 +146,7 @@ The classic model is the **Multinomial Logit (MNL)** model, which assumes:
 - Perfect substitution between all alternatives.
 - **Independence of Irrelevant Alternatives (IIA)** — the ratio of probabilities of choosing two modes does not change if a third one is added or removed.
 
-This is unrealistic when some alternatives are "similar" (e.g., bus and train are both public transport), because MNL cannot capture correlation in unobserved factors.
+This is unrealistic when some alternatives are similar" (e.g., bus and train are both public transport), because MNL cannot capture correlation in unobserved factors.
 
 #### ❗ Problem with MNL:
 
@@ -194,7 +194,7 @@ Where:
 
 ### 🪜 Nesting and Probabilities
 
-Let’s define:
+Let's define:
 
 - $C$: the full choice set (e.g., all travel modes)
 - $B$: set of nests (branches), e.g., $B = \{\text{Private}, \text{PT}\}$
@@ -327,15 +327,17 @@ This is important because:
 
 #### ⚖️ 2. **Are these two nesting structures equivalent?**
 
-Let’s compare your two examples:
+Let's compare your two examples:
 
 ##### **Case 1**:
+
 - Nest A: Private vehicles  
 - Nest B: Public transport → Bus, Train  
 
 (Private vehicles is treated as a **single alternative**, not a nest with branches)
 
 ##### **Case 2**:
+
 - Nest A: Private vehicles → Car  
 - Nest B: Public transport → Bus, Train  
 
@@ -349,9 +351,9 @@ This means:
 - The **inclusive value** for the nest A becomes trivial (you’ll see below).
 - The **nesting structure adds no behavioral value** for that single-alternative nest.
 
-Hence, if a nest has just one alternative (like “Car” in “Private”), it **collapses** to a standard logit model for that alternative.
+Hence, if a nest has just one alternative (like "Car" in "Private"), it **collapses** to a standard logit model for that alternative.
 
-But! There **is** a subtle technical difference in the way you **write the equations** and **estimate the model**, as we’ll now see.
+But! There **is** a subtle technical difference in the way you **write the equations** and **estimate the model**, as we'll now see.
 
 ---
 
@@ -452,10 +454,11 @@ $$
 
 ##### Estimation:
 - A degenerative nest does **not cause computational issues** if treated correctly.
-- However, the nesting parameter $\lambda_{\text{Private}}$ becomes **non-identifiable** if there’s only one alternative — it's often **set to 1** or the nest is simply **not modeled**.
+- However, the nesting parameter $\lambda_{\text{Private}}$ becomes **non-identifiable** if there's only one alternative — it's often **set to 1** or the nest is simply **not modeled**.
 
 ##### Interpretation:
-- There’s **no value** in creating a nest with one alternative unless:
+
+- There's **no value** in creating a nest with one alternative unless:
   - You plan to **add more modes later** (e.g., motorcycle).
   - You want a **symmetric structure** for clarity.
 
@@ -470,4 +473,4 @@ $$
 | Modeling implication        | No need to nest Car              | Nest adds complexity without gain |
 | Estimation issue            | None                             | $\lambda$ for Car not identified |
 
-**Takeaway**: Don’t create degenerate nests unless you need structural symmetry or plan to expand the model.
+**Takeaway**: Don't create degenerate nests unless you need structural symmetry or plan to expand the model.
