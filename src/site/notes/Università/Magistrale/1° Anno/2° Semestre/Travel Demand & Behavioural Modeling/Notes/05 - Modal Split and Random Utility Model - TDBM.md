@@ -46,8 +46,6 @@ There are many factors affecting modal choice, some related to passengers (aka *
 
 Modal split models are based on [[03 - Utility Demand function and Pricing - DME#Utility function|utility theory]]. The general principle is that the **trip maker** tries to *maximize* the UTILITY.
 
-
-
 ```ad-Definizione
 title: Utility
 
