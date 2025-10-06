@@ -54,7 +54,7 @@ Blank: 0
 Wrong: -0.1
 
 
-- [!] [[2025-05-29\|2025-05-29]] - Final exam ⏫
+- [x] [[2025-05-29\|2025-05-29]] - Final exam ⏫ ✅ 2025-05-29
 
 
 #### Example questions:
@@ -65,7 +65,7 @@ Wrong: -0.1
 	- [ ] A metro line as 30m is not enough to have public space, traffic, and a competitive public transprot
 	- [ ] It does not make sense to provide public transport in such a short distance, most of trips could be done on foot
 
-- Which of the following objectives does not belong to the Barcelona MEtropolitan Master Plan (PDUM)?
+- Which of the following objectives does not belong to the Barcelona Metropolitan Master Plan (PDUM)?
 	- [ ] Try to ensure a job and housing balance
 	- [ ] Promote a polycentric metropolitan development
 	- [ ] Define a new metropolitan urban structure based on avenues and streets
@@ -97,10 +97,11 @@ Structure:
 
 ## 💯 Grade
 
-| Parte       | Data           | Voto |
-| ----------- | -------------- | ---- |
-| Scritto |  |  |
-| Orale       |  |     |
+| Parte     | Data           | Voto |
+| --------- | -------------- | ---- |
+| Essay     | [[2025-05-21\|2025-05-21]] |      |
+| Exam      | [[2025-05-29\|2025-05-29]] |      |
+| **TOTAL** |                |      |
 
 
 # ✔️ To-Do

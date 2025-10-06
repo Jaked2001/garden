@@ -9,7 +9,7 @@
 
 ## Traffic engineering story
 
-1886: Benz's patent for motorcar
+1886: Benz's patent for first motor car
 
 ## Traffic flow variables
 
@@ -34,7 +34,7 @@ Headway ($h$)
 
 Flow ($Q$) is the number of vehicles observed at a certain point in unit of time.
 
-It's measured in $\rm\left[ \dfrac{veh}{h} \right]$
+It's measured in $\rm\left[ \dfrac{veh}{h} \right]$.
 
 ### Density
 
@@ -86,7 +86,7 @@ See:
 ❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗ 
 ❗❗❗❗❗❗❗❗❗❗❗❗
-
+ 
 I stopped paying attention for a while, since we already did all of this in [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/🚦 Operation & Management of Transport Systems\|🚦 OMT]].
 
 

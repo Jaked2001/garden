@@ -48,8 +48,8 @@ There is a 30% possible modulation in the individual evaluation
 ### ✍️ Final Presentation
 
 - [x] [[2025-04-07\|2025-04-07]] - Midterm Presentation ✅ 2025-04-09
-- [!] [[2025-05-28\|2025-05-28]] - **Project Presentation (max 9min)** 🔼 
-- [!] [[2025-06-18\|2025-06-18]] - **Final report delivery**
+- [x] [[2025-05-28\|2025-05-28]] - **Project Presentation (max 9min)** 🔼 ✅ 2025-05-28
+- [x] [[2025-06-18\|2025-06-18]] - **Final report delivery** ✅ 2025-07-18
 
 
 
@@ -72,6 +72,7 @@ There is a 30% possible modulation in the individual evaluation
 ___
 | File                                                                                                                                                                                             | Tipo     | Stato       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ----------- |
+| [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Speech for final presentation\|Speech for final presentation]]                                           | Discorso | 🟢 Fatto    |
 | [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Project/Challenge - SmartRide - PBIC\|Challenge - SmartRide - PBIC]]                                     | Progetto | 🟡 Finire   |
 | [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/02 - Validating Ideas for Urban Mobility - PBIC\|02 - Validating Ideas for Urban Mobility - PBIC]] | T        | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/06 - Agustin Andujar - LC\|06 - Agustin Andujar - LC]]                                             | T        | 🪶 Scrivere |

@@ -6,6 +6,8 @@
 
 Fonte: 
 
+![Frittata patate cover.jpg](/img/user/Personale/Progetti/Cibo/Ricette/allegati/Frittata%20patate%20cover.jpg)
+
 ### Ingredienti
 
 x # unità

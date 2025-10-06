@@ -66,7 +66,7 @@ Report also containing our opinions.
 #### Final project
 
 Report to present all the things of the last part of the course plus [[AIMSUM]]
-- [!] [[2025-06-13]] - **Final Project**
+- [x] [[2025-06-13]] - **Final Project** ✅ 2025-06-13
 
 ## 💯 Grade
 
@@ -74,7 +74,7 @@ Report to present all the things of the last part of the course plus [[AIMSUM]]
 | ------------- | -------------- | ---- |
 | Mideterm      | [[2025-04-11]] | 8.55 |
 | CFM           | [[2025-04-04]] |      |
-| Final project |                |      |
+| Final project | [[2025-06-13]] |      |
 | **TOTAL**     |                |      |
 
 

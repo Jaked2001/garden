@@ -16,7 +16,7 @@ The definition of **public transport** (PT) is not unanimous. Differente people 
 ```ad-Definizione
 title: Public transport
 
-**Public transport** (or public transportation, or pablic transit or mass transit) is a system of transport for passengers by group travel systems *available for use by the general public*, typically *managed on a schedule*, *operated on established routes* and that charge a *posted fee for each trip*
+**Public transport** (or public transportation, or pablic transit or mass transit) is a system of transport for passengers *available for use by the general public*, typically *managed on a schedule*, *operated on established routes* and that charge a *posted fee for each trip*
 
 ```
 
@@ -103,9 +103,9 @@ Flexible or on-demand PT adjusts its routes, stops or schedule based on real-tim
 
 #### PT - Dedicated vs shared infrastructure
 
-**Dedicated infrastructure** is fully reserved for one kind of transport mode: **exclusive lanes, . tracks or spaces**. They prevent interference with private vehicles
+**Dedicated infrastructure** is fully reserved for one kind of transport mode: **exclusive lanes, tracks or spaces**. They prevent interference with private vehicles
 
-Shared infrasrtcuture can be used by both PT and private vehicles.
+Shared infrastructure can be used by both PT and private vehicles.
 
 #### PT - Frequency, scheduled and on-demand
 

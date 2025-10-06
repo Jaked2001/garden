@@ -52,7 +52,7 @@ Midterm is a pen and paper exam. No computer.
 
 #### Final
 
-- [!] [[2025-05-27]] - ❗️ **Final Exam** ⏫ 
+- [x] [[2025-05-27]] - ❗️ **Final Exam** ⏫ ✅ 2025-05-27
 Final exam is a pen and paper exam. No computer.
 
 Part 2:
@@ -66,7 +66,7 @@ Part 2:
 
 - [x] [[2025-03-30]] - **Assgm 1** 🔼 ✅ 2025-03-29
 - [x] [[2025-05-04]] - **Assgm 2** 🔼 ✅ 2025-05-11
-- [x] [[2025-06-08]] - **Assgm 3** 🔼 ✅ 2025-05-24
+- [x] [[2025-06-08]] - **Assgm 3** 🔼 ✅ 2025-06-08
 
 
 ## 💯 Grade
