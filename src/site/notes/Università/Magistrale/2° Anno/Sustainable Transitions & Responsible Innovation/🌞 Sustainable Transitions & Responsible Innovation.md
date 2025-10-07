@@ -96,10 +96,11 @@ Limit the scope (to a country, or a village).
 # ✔️ To-Do
 
 
-| File                                                                                                                                                                                | Tipo | Stato         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------- |
-| [[Università/Magistrale/2° Anno/Sustainable Transitions & Responsible Innovation/Teoria/02 - Institutional Entrepreneurship - STRI.md\|02 - Institutional Entrepreneurship - STRI]] | T    | 🪶🟡 Scrivere |
-| [[Università/Magistrale/2° Anno/Sustainable Transitions & Responsible Innovation/Teoria/05 - Participation - STRI.md\|05 - Participation - STRI]]                                   | T    | 🪶 Scrivere   |
+| File                                                                                                                                                                                | Tipo  | Stato         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------------- |
+| [[Università/Magistrale/2° Anno/Sustainable Transitions & Responsible Innovation/Case-Study/W6 - Environmental Justice - STRI\|W6 - Environmental Justice - STRI]]               | Assgm | 🔴 Fare       |
+| [[Università/Magistrale/2° Anno/Sustainable Transitions & Responsible Innovation/Teoria/02 - Institutional Entrepreneurship - STRI.md\|02 - Institutional Entrepreneurship - STRI]] | T     | 🪶🟡 Scrivere |
+| [[Università/Magistrale/2° Anno/Sustainable Transitions & Responsible Innovation/Teoria/06 - Environmental Justice - STRI.md\|06 - Environmental Justice - STRI]]                   | T     | 🪶 Scrivere   |
 
 { .block-language-dataview}
 
@@ -159,6 +160,8 @@ ___
 | [[Università/Magistrale/2° Anno/Sustainable Transitions & Responsible Innovation/Case-Study/W1 - Case selection - STRI\|W1 - Case selection - STRI]]                                           | 🟢 Fatto |
 | [[Università/Magistrale/2° Anno/Sustainable Transitions & Responsible Innovation/Case-Study/W2 - Institutional entrepreneurship - STRI\|W2 - Institutional entrepreneurship - STRI]]           | 🟢 Fatto |
 | [[Università/Magistrale/2° Anno/Sustainable Transitions & Responsible Innovation/Case-Study/W3 - Responsible Research and Innovation - STRI\|W3 - Responsible Research and Innovation - STRI]] | 🟢 Fatto |
+| [[Università/Magistrale/2° Anno/Sustainable Transitions & Responsible Innovation/Case-Study/W5 - Participation - STRI\|W5 - Participation - STRI]]                                             | 🟢 Fatto |
+| [[Università/Magistrale/2° Anno/Sustainable Transitions & Responsible Innovation/Case-Study/W6 - Environmental Justice - STRI.md\|W6 - Environmental Justice - STRI]]                             | 🔴 Fare  |
 
 { .block-language-dataview}
 
