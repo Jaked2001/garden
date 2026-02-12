@@ -229,8 +229,8 @@ $
 | File                                                                                                                    | Stato    | PDF                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Università/Triennale/2° anno/2° Semestre/Analisi Numerica/Esami/2022-07-21 - Esame ANEP\|2022-07-21 - Esame ANEP]] | 🟢 Fatto | [[Università/Triennale/2° anno/2° Semestre/Analisi Numerica/Esami/allegati/Es_BATETR_220715.pdf\|Es_BATETR_220715.pdf]]                           |
-| [[Università/Triennale/2° anno/2° Semestre/Analisi Numerica/Esami/2023-06-15 - Esame ANEP\|2023-06-15 - Esame ANEP]] | 🟢 Fatto | [[Università/Triennale/2° anno/2° Semestre/Analisi Numerica/Esami/allegati/CalcoloNumericoGiugno2023 (2).pdf\|CalcoloNumericoGiugno2023 (2).pdf]] |
 | [[Università/Triennale/2° anno/2° Semestre/Analisi Numerica/Esami/2022-06-21 - Esame ANEP\|2022-06-21 - Esame ANEP]] | 🔴 Fare  | [[Università/Triennale/2° anno/2° Semestre/Analisi Numerica/Esami/allegati/Es_BATETR_220621.pdf\|Es_BATETR_220621.pdf]]                           |
+| [[Università/Triennale/2° anno/2° Semestre/Analisi Numerica/Esami/2023-06-15 - Esame ANEP\|2023-06-15 - Esame ANEP]] | 🟢 Fatto | [[Università/Triennale/2° anno/2° Semestre/Analisi Numerica/Esami/allegati/CalcoloNumericoGiugno2023 (2).pdf\|CalcoloNumericoGiugno2023 (2).pdf]] |
 
 { .block-language-dataview}
 

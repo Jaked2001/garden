@@ -4,7 +4,7 @@
 
 # [[Università/Magistrale/2° Anno/Q1/Sustainable Transitions & Responsible Innovation/Pre-knowledge literature/(W6) - Justice in Energy Transitions\|(W6) - Justice in Energy Transitions]]
 
-![[Williams S. - Justice in Energy Transitions - STRI.pdf]]
+<iframe src="/img/user/Universit%C3%A0/Magistrale/2%C2%B0%20Anno/Q1/Sustainable%20Transitions%20&%20Responsible%20Innovation/Pre-knowledge%20literature/Allegati/Williams%20S.%20-%20Justice%20in%20Energy%20Transitions%20-%20STRI.pdf" width="100%" height="900px" title="Williams S. - Justice in Energy Transitions - STRI.pdf" style="border:1px solid #ccc;"></iframe>
 
 ## Introduction
 

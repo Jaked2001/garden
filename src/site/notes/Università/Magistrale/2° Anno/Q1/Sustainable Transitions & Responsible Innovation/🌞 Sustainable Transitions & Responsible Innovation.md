@@ -7,6 +7,7 @@
 
 
 
+
 **🧑🏻‍🏫 Prof:** [[Anna J. Wieczorek\|Anna J. Wieczorek]]
 **📧 e-mail:** 
 
@@ -25,6 +26,7 @@
 Check location and schedule, because it changes!!
 
 ![Schermata 2025-09-02 alle 12.18.47.png|500](/img/user/Universit%C3%A0/Magistrale/2%C2%B0%20Anno/Q1/Sustainable%20Transitions%20&%20Responsible%20Innovation/Allegati/Schermata%202025-09-02%20alle%2012.18.47.png)
+
 
 # ❗️Evaluation❗️
 
@@ -80,7 +82,7 @@ Limit the scope (to a country, or a village).
 
 ### ✍️ Final Exam
 
-- [!] [[2025-11-05]] - ❗️ **Final Exam** ⏫
+- [x] [[2025-11-05]] - ❗️ **Final Exam** ⏫ ✅ 2025-11-05
 
 
 
@@ -89,18 +91,16 @@ Limit the scope (to a country, or a village).
 
 | Parte     | Data           | Voto |
 | --------- | -------------- | ---- |
-| Portfolio | [[2025-10-24]] |      |
-| Exam      | [[2025-11-05]] |      |
-| **TOTAL** |                |      |
+| Portfolio | [[2025-10-24]] | 9    |
+| Exam      | [[2025-11-05]] | 6.6  |
+| **TOTAL** |                | 8    |
 
 
 # ✔️ To-Do
 
 
-| File                                                                                                                                                                               | Tipo | Stato         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------- |
-| [[Università/Magistrale/2° Anno/Q1/Sustainable Transitions & Responsible Innovation/Teoria/07 - Sustainable Entrepreneurship - STRI.md\|07 - Sustainable Entrepreneurship - STRI]] | T    | 🪶🟡 Scrivere |
-| [[Università/Magistrale/2° Anno/Q1/Sustainable Transitions & Responsible Innovation/08 - Wrap-up and summary - STRI.md\|08 - Wrap-up and summary - STRI]]                          | T    | 🪶 Scrivere   |
+| File | Tipo | Stato |
+| ---- | ---- | ----- |
 
 { .block-language-dataview}
 
@@ -135,6 +135,9 @@ ___
  
 
 ### Pre-knowledge literature
+
+
+
 
 
 ![[STRI-Readings.base]]

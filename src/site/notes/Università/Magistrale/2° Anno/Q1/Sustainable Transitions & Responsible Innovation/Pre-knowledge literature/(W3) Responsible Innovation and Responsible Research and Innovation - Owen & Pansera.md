@@ -6,7 +6,7 @@
 
 Pag 35-48
 
-![[Owen et al. - RI and RRI - STRI.pdf]]
+<iframe src="/img/user/Universit%C3%A0/Magistrale/2%C2%B0%20Anno/Q1/Sustainable%20Transitions%20&%20Responsible%20Innovation/Pre-knowledge%20literature/Allegati/Owen%20et%20al.%20-%20RI%20and%20RRI%20-%20STRI.pdf" width="100%" height="900px" title="Owen et al. - RI and RRI - STRI.pdf" style="border:1px solid #ccc;"></iframe>
 
 RRI is born the European Commission, differently from RI
 
@@ -18,14 +18,15 @@ title: Responsible Research and Innovation (RRI)
 
 ```
 
- It's divided in 5 keys:
- - **Public engagement** (connected to RI inclusion)
- - **Open access/Open science** (aligned with RI openess)
- - **Gender** (RI doesn't have gender, but has inclusion)
+
+The European Commission RRI is divided in 5 keys:
+ - **Public engagement** (connected to RI [[Università/Magistrale/2° Anno/Q1/Sustainable Transitions & Responsible Innovation/Pre-knowledge literature/(W3) Developing a framework for responsible innovation#Inclusion\|Inclusion]])
+ - **Open access/Open science** (aligned with RI **openess**)
+ - **Gender** (RI doesn't have gender, but has [[Università/Magistrale/2° Anno/Q1/Sustainable Transitions & Responsible Innovation/Pre-knowledge literature/(W3) Developing a framework for responsible innovation#Inclusion\|Inclusion]])
  - **Science education**: making science more attractive to young people (RI focuses on multidisciplinary approach)
- - **Ethics**: Applying established ethical principles. (RI advocates reflection on ethical issues)
+ - **Ethics**: Applying established ethical principles. (RI advocates [[Università/Magistrale/2° Anno/Q1/Sustainable Transitions & Responsible Innovation/Pre-knowledge literature/(W3) Developing a framework for responsible innovation#Reflexivity\|Reflexivity]] on ethical issues)
 
-
+In practice, RRI from EC appears to be more a set of themes.
 
 
 

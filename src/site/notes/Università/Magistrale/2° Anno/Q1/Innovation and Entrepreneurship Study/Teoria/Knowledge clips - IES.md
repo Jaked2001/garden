@@ -7,7 +7,7 @@
 ```table-of-contents
 ```
 
-![[Knowledge clips - Problem identification, quantification & validation - IES.pdf]]
+<iframe src="/img/user/Universit%C3%A0/Magistrale/2%C2%B0%20Anno/Q1/Innovation%20and%20Entrepreneurship%20Study/Teoria/Allegati/Knowledge%20clips%20-%20Problem%20identification,%20quantification%20&%20validation%20-%20IES.pdf" width="100%" height="900px" title="Knowledge clips - Problem identification, quantification & validation - IES.pdf" style="border:1px solid #ccc;"></iframe>
 
 - [ ] Value proposition: videos 10-13: https://www.youtube.com/playlist?list=PLQykyC1zr8f-z4MUzQQtWSg2-QIF0F2cz
 - [ ] Defining the core value: videos 17-18 https://www.youtube.com/playlist?list=PLQykyC1zr8f-z4MUzQQtWSg2-QIF0F2cz

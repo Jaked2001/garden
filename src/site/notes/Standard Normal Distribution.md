@@ -38,7 +38,7 @@ There are mainly 2 kind of statistical tables for the [[#Standard Normal Distrib
 
 ### Area from 0 to z
 
-![[areas-under-the-standard-normal-curve-from-0-to-z.pdf]]
+<iframe src="/img/user/allegati/areas-under-the-standard-normal-curve-from-0-to-z.pdf" width="100%" height="900px" title="areas-under-the-standard-normal-curve-from-0-to-z.pdf" style="border:1px solid #ccc;"></iframe>
 
 A use case of this table is to find [[Confidence Interval\|Confidence Interval]].
 

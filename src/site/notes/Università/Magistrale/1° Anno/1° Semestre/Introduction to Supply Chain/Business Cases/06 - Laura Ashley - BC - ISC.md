@@ -18,7 +18,7 @@ Please prepare a wooclap of 10 questions. Share with me the Q&A in advance with 
 Deadline to deliver both ppt & Kahoot: December the 9th.
 L
 
-![[6 - Laura Ashley Business Case - ISC.pdf]]
+<iframe src="/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Introduction%20to%20Supply%20Chain/Business%20Cases/Allegati/6%20-%20Laura%20Ashley%20Business%20Case%20-%20ISC.pdf" width="100%" height="900px" title="6 - Laura Ashley Business Case - ISC.pdf" style="border:1px solid #ccc;"></iframe>
 
 ## Background LA
 

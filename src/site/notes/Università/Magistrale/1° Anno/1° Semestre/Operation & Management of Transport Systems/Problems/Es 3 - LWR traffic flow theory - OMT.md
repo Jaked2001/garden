@@ -6,6 +6,6 @@
 # [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Problems/Es 3 - LWR traffic flow theory - OMT\|Es 3 - LWR traffic flow theory - OMT]]
 
 
-![[Discussion Session 3 - LWR traffic flow theory - OMT.pdf]]
+<iframe src="/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Operation%20&%20Management%20of%20Transport%20Systems/Problems/Allegati/Discussion%20Session%203%20-%20LWR%20traffic%20flow%20theory%20-%20OMT.pdf" width="100%" height="900px" title="Discussion Session 3 - LWR traffic flow theory - OMT.pdf" style="border:1px solid #ccc;"></iframe>
 
 

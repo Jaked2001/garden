@@ -5,7 +5,7 @@
 
 # [[Università/Magistrale/2° Anno/Q1/Sustainable Transitions & Responsible Innovation/Pre-knowledge literature/(W5) A Ladder Of Citizen Participation\|(W5) A Ladder Of Citizen Participation]]
 
-![[Arnstein S. - A Ladder Of Citizen Participation - STRI.pdf]]
+<iframe src="/img/user/Universit%C3%A0/Magistrale/2%C2%B0%20Anno/Q1/Sustainable%20Transitions%20&%20Responsible%20Innovation/Pre-knowledge%20literature/Allegati/Arnstein%20S.%20-%20A%20Ladder%20Of%20Citizen%20Participation%20-%20STRI.pdf" width="100%" height="900px" title="Arnstein S. - A Ladder Of Citizen Participation - STRI.pdf" style="border:1px solid #ccc;"></iframe>
 
 Participation is, in theory, the **cornerstone of democracy**.
 

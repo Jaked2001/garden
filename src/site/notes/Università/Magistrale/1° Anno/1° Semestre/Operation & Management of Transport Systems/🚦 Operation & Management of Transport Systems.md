@@ -91,7 +91,7 @@ Only 5 will perform live. The others will be evaluated in the office
 **BRING LAPTOP**.
 
 Description:
-![[OMT Exam Instructions.pdf]]
+<iframe src="/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Operation%20&%20Management%20of%20Transport%20Systems/Allegati/OMT%20Exam%20Instructions.pdf" width="100%" height="900px" title="OMT Exam Instructions.pdf" style="border:1px solid #ccc;"></iframe>
 
 
 2 parts:

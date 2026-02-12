@@ -73,15 +73,15 @@ Corporations can have a set of *values*.
 
 ## Moral development of companies
 
-
 ### Goodpaster
 
+What makes a person moral?
 - Moral consciousness
 - The values you hold
 
 #### Ghoughtfulness (awareness, conscience) vs thoughlessness
 
-[[Anna Arendt\|Anna Arendt]] on [[Adolf Eichmann\|Adolf Eichmann]]: A life without thinking is quite possible – but it is not fully alive. Unthinking men are like sleepwalkers”
+[[Hannah Arendt\|Hannah Arendt]] on [[Adolf Eichmann\|Adolf Eichmann]]: A life without thinking is quite possible – but it is not fully alive. Unthinking men are like sleepwalkers”
 
 #### The Milgram experiment
 
@@ -97,9 +97,9 @@ Conscience develops from the golden rule: "one should treat others as one would 
 
 ##### Polarity 2: the self vs the many
 
-Universal identification
+[[Università/Magistrale/2° Anno/Q1/Sustainable Transitions & Responsible Innovation/Pre-knowledge literature/(W7) Conscience as a Mindset - Personal and Organizational - K. Goodpaster#Universal identification\|Universal identification]]
 vs
-impartial generalization
+[[Università/Magistrale/2° Anno/Q1/Sustainable Transitions & Responsible Innovation/Pre-knowledge literature/(W7) Conscience as a Mindset - Personal and Organizational - K. Goodpaster#Impartial generalisation\|Impartial Generalisation]]
 
 ##### Polarity 3: the ideal vs the real
 
@@ -108,9 +108,7 @@ vs
 On a company level
 
 #### Summary of Goodpaster
-
-
-![Screenshot 2025-10-14 at 11.25.00.png](/img/user/Universit%C3%A0/Magistrale/2%C2%B0%20Anno/Q1/Sustainable%20Transitions%20&%20Responsible%20Innovation/Teoria/Allegati/Screenshot%202025-10-14%20at%2011.25.00.png)
+![Screenshot 2025-11-03 at 13.01.49.png](/img/user/Universit%C3%A0/Magistrale/2%C2%B0%20Anno/Q1/Sustainable%20Transitions%20&%20Responsible%20Innovation/Teoria/Allegati/Allegati/Screenshot%202025-11-03%20at%2013.01.49.png)
 
 #### Typology
 

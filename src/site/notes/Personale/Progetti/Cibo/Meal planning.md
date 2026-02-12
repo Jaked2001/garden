@@ -19,8 +19,8 @@
 | [[Personale/Progetti/Cibo/Ricette/Ravioli burro e salvia\|Ravioli burro e salvia]]                 | [[_Giornaliera/2024-11-05\|2024-11-05]]  | Primo   |
 | [[Personale/Progetti/Cibo/Ricette/Spaghetti alla carbonara\|Spaghetti alla carbonara]]             | [[_Giornaliera/2024-11-05\|2024-11-05]]  | Primo   |
 | [[Personale/Progetti/Cibo/Burger di Ricotta\|Burger di Ricotta]]                                   | \-              | Secondo |
-| [[Personale/Progetti/Cibo/Filetto di salmone in padella\|Filetto di salmone in padella]]           | \-              | Secondo |
 | [[Personale/Progetti/Cibo/Maionese Vegana\|Maionese Vegana]]                                       | \-              | Salsa   |
+| [[Personale/Progetti/Cibo/Pasta con tonno e pomodorini\|Pasta con tonno e pomodorini]]             | \-              | Primo   |
 
 { .block-language-dataview}
 

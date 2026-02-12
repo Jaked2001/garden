@@ -34,5 +34,5 @@ Obiettivi strategici:
 ## Organigramma
 
 
-![[Organigramma RSM - febbraio 2025.pdf]]
+<iframe src="/img/user/allegati/Organigramma%20RSM%20-%20febbraio%202025.pdf" width="100%" height="900px" title="Organigramma RSM - febbraio 2025.pdf" style="border:1px solid #ccc;"></iframe>
 

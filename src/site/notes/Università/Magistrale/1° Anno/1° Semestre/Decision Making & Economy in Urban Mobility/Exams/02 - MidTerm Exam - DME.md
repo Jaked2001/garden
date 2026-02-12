@@ -5,7 +5,7 @@
 
 # [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Exams/02 - MidTerm Exam - DME\|02 - MidTerm Exam - DME]]
 
-PDF: ![[2 - MidTerm - DME.pdf]]
+PDF: <iframe src="/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Decision%20Making%20&%20Economy%20in%20Urban%20Mobility/Exams/Allegati/2%20-%20MidTerm%20-%20DME.pdf" width="100%" height="900px" title="2 - MidTerm - DME.pdf" style="border:1px solid #ccc;"></iframe>
 Soluzione:
 ## Problem 1
 

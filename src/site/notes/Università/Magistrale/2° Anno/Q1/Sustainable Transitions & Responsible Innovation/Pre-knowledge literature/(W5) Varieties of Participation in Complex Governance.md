@@ -4,7 +4,7 @@
 
 # [[Università/Magistrale/2° Anno/Q1/Sustainable Transitions & Responsible Innovation/Pre-knowledge literature/(W5) Varieties of Participation in Complex Governance\|(W5) Varieties of Participation in Complex Governance]]
 
-![[Fung A. - Varieties of Participation in Complex Governance - STRI.pdf]]
+<iframe src="/img/user/Universit%C3%A0/Magistrale/2%C2%B0%20Anno/Q1/Sustainable%20Transitions%20&%20Responsible%20Innovation/Pre-knowledge%20literature/Allegati/Fung%20A.%20-%20Varieties%20of%20Participation%20in%20Complex%20Governance%20-%20STRI.pdf" width="100%" height="900px" title="Fung A. - Varieties of Participation in Complex Governance - STRI.pdf" style="border:1px solid #ccc;"></iframe>
 
 The article tries to develop a framework for understanding the range of institutional possibilities for public participation.
 
@@ -254,7 +254,7 @@ Participatory mechanisms can improve justice in 2 ways:
 - Replace authorised decision makers with direct citizen participation
 - Create popular pressures that compel authorised officials to act justly
 
-A great example is the Participatory Budget applied in [[Pôrto Alegre\|Pôrto Alegre]] in Brazil. Citizens were allowed citizens to have direct authority on budget spending: they were entitled to allocate budget to the neighbourhoods they wanted and on the most pressing matters. This was extremely successful. 
+A great example is the Participatory Budget applied in [[Pôrto Alegre\|Pôrto Alegre]] in Brazil. Citizens were allowed to have direct authority on budget spending: they were entitled to allocate budget to the neighbourhoods they wanted and on the most pressing matters. This was extremely successful. 
 
 The concept of this system is to avoid corrupt officials taking decisions solely based on money. Citizens are able to better judge where certain investments were most needed. 
 

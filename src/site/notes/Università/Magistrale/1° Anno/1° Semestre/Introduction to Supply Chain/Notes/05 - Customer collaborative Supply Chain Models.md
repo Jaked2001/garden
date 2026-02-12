@@ -6,7 +6,7 @@
 
 ```table-of-contents
 ```
-![[5 - Supply Chain Design and Operation Strategy - ISC.pdf]]
+<iframe src="/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Introduction%20to%20Supply%20Chain/Notes/Allegati/5%20-%20Supply%20Chain%20Design%20and%20Operation%20Strategy%20-%20ISC.pdf" width="100%" height="900px" title="5 - Supply Chain Design and Operation Strategy - ISC.pdf" style="border:1px solid #ccc;"></iframe>
 
 
 ## CRP - Continuous Replenishment Planning
