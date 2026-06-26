@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/introduction-to-supply-chain/notes/06-supply-chain-design-and-operation-strategy-isc/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/introduction-to-supply-chain/notes/06-supply-chain-design-and-operation-strategy-isc/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"ISC","Tipo":"T","Stato":"🟠 Studiare","Slide":null,"PDF":null,"Parents":["[[🚚 Introduction to Supply Chain|🚚 ISC]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/06 - Supply Chain Design and Operation Strategy - ISC\|06 - Supply Chain Design and Operation Strategy - ISC]]

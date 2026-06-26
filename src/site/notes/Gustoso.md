@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gustoso/"}
+{"dg-publish":true,"permalink":"/gustoso/","dg-note-properties":{"aliases":null,"Tipo":"Locale","Stato":null,"Parents":null,"Children":null,"Siblings":null,"Cover":null,"tags":null,"locations":""}}
 ---
 
 # [[Gustoso\|Gustoso]]

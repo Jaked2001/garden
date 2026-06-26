@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/triennale/3-anno/2-semestre/analisi-ambientale-dei-sistemi-urbani-e-territoriali/04-gli-orti-urbani-anasut/"}
+{"dg-publish":true,"permalink":"/universita/triennale/3-anno/2-semestre/analisi-ambientale-dei-sistemi-urbani-e-territoriali/04-gli-orti-urbani-anasut/","dg-note-properties":{"aliases":null,"Materia":"ANASUT","Tipo":"T","Stato":"🪶 Scrivere","Slide":["[4 - Orti Urbani - slide - ANASUT.pdf](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/2%C2%B0%20Semestre/Analisi%20Ambientale%20dei%20sistemi%20urbani%20e%20territoriali/allegati/4%20-%20Orti%20Urbani%20-%20slide%20-%20ANASUT.pdf)"],"PDF":null,"Parents":["[[👨‍🌾 Analisi ambientale dei sistemi urbani e territoriali]]"],"Children":null}}
 ---
 
 # [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/04 - Gli orti urbani - ANASUT\|04 - Gli orti urbani - ANASUT]]
@@ -122,105 +122,12 @@ Ce ne sono altri che esplicitamente tentano di intercettare i giovani.
 
 ![2024-03-19 - Oltre il Catastrofismo - Mappa ANASUT.excalidraw.png](/img/user/Excalidraw/2024-03-19%20-%20Oltre%20il%20Catastrofismo%20-%20Mappa%20ANASUT.excalidraw.png)
 
-
-
-
-# Orti Urbani a Milano
-
-[[Andrea Boretti\|Andrea Boretti]]
-
-Orti formali: proprietà è di un soggetto privato. Ci fa quello che vuole compatibilmente con il Piano Regolatore.
-Mette a disposizione il terreno attraverso un contratto d'affitto.
-
-- Errore degli orti urbani (pubblici) è di farli solo per gli anziani
-	- Spesso i bandi pubblici, tra i criteri per l'assegnazione, pesano molto le età più avanzate
-	- Altri criteri possono essere la disoccupazione, l'età. A volte si cerca di differenziare le età e quindi questo criterio non ha un peso sostanziale nell'assegnazione
-
-LISTA D'ATTESA:
-Se ci sono più richieste per un orto di quanti appezzamenti sono disponibili si va a formare una lista d'attesa.
-
-C'è voglia di stare all'aperto, sporcarsi le mani, sentire l'odore della terra.
-
-La produzione di verdure dell'orto dà grandi soddisfazioni.
-Il cibo auto-prodotto è di qualità migliore.
-Cosa si fa dei prodotti della terra? Un orto produce una serie di alimenti. Solitamente gli ortisti hanno diverse possibilità: consumo diretto; mercatino ortofrutticolo per gli abitanti del quartiere; inserire i prodotti all'interno di filiere di distribuzioni virtuose. Dipende dal regolamento interno che ogni orto si dà. 
-
-Ogni orto ha un regolamento interno in cui sono stabilite le cose che possono essere coltivate e stabilisce delle penalità per chi risulta inadempiente a queste regole d'uso.
-Ci sono orti in cui la vendita di prodotti è vietata. Altri in cui i ricavati dalle vendite sono investiti nell'orto.
-
-Non sarà redditizio come l'edificazione ma non possiamo pensare che ovunque si vada ad edificare
-
-La natura è qualcosa che è superiore. Riesce a riprodursi tra 2 strisce di asfalto. Ovunque ci sono possibilità i vegetali riescono a svilupparsi.
-
-# Orti Rimini
-
-Sito in mano al Comune. Orto formale.
-
-Vecchia palude **bonificata**
-- Pista allenamento ciclistico
-- Area giochi per bambini
-- Parcheggio gratuito
-- Orto urbano
-
-Molti orti nascono su terreni industriali di fabbriche dismesse. Il terreno potrebbe essere inquinato e può essere necessaria una bonifica.
-Alcune opere di bonifica si fanno anche attraverso alcune colture che rigenerano la terra.
-
-Comunità anziani.
-
-Fotovoltaico che produce più di quanto consumano le strutture.
-
-Primo fotovoltaico di Rimini.
-
-Acqua presa dalla falda.
-
-Compostiere.
-
-Classi superiori portate a studiare la realtà
-Molti orti urbani sono usati come pratica didattica coinvolgendo studenti che imparano una serie di nozioni legate all'uso della terra.
-
-Solitamente gli orti urbani sono porzioni di terreno suddivisi in lotti che vengono affidati a degli ortisti per un uso singolo. (es. $40 \,\rm m^{2}$). Alcuni orti prevedono sia dei lotti singoli che dei lotti collettivi: sono lotti più grandi dove coltivano insieme più persone.
-
-Come si sostengono economicamente questi orti? 
-- Facendo pagare, a offerta libera, una serie di attività che l'orto mette a disposizione
-- Vendita degli ortaggi prodotti
-- Finanziamenti pubblici
-- Sponsor privati
-- **Pagamento di una quota associativa** annuale
-
-Investimento iniziale:
-- Orti formali
-	- Investimento del pubblico per avviare l'attività e puntare a una sostenibilità economica
-- Orti informali
-
-C'è spesso la volontà delle realtà informali di essere formalizzate. Questo consentirebbe loro un titolo d'uso legalmente riconosciuto che concederebbe loro di accedere a dei fondi.
-
-Come avviene il passaggio da informale a formale:
-Il gestore dell'orto manda una richiesta al comune. "sto occupando il terreno, faccio una roba utile, mi riconosci la possibilità di starci?"
-Il comune verifica se su quel terreno ci siano dei progetti. Se quel terreno nei piani del comune deve essere trasformato in qualcos'altro il comune non formalizza.
-Se invece il comune vuole formalizzare richiede che gli ortisti fondino un'associazione. Il collettivo si dà uno statuto. A quel punto il comune valuta la domanda. Quell'orto ha accesso all'acqua?... Valuta quali sono le condizioni che permettono a quell'orto di essere una pratica virtuosa.
-Il comune può chiedere che l'orto si doti di un regolamento interno, che ci sia un sistema di accesso tramite bando e garantire un principio di rotazione.
-
-# Orti giovani Bologna
-
-Orto formale
-Inizialmente solo per anziani, poi regolamento è cambiato e non c'è limite di età
-
-Necessaria la residenza e dimostrare di **non avere altri terreni.**
-Si cerca di privilegiare chi vive in prossimità dell'orto.
-
-Terreno gratuito ma bisogna portarsi le cose.
-Concessione a titolo gratuito
-
-Nel contesto bolognese sono molto avanti nel leggere nell'agricoltura urbana un progetto virtuoso.
-
-In [[🇫🇷 Francia\|🇫🇷 Francia]] c'è una politica nazionale "[[Carta del pollice verde\|Carta del pollice verde]]": politica di sostegno dell'agricoltura urbana.
-
-![2024-03-21 - Gli orti urbani - Mappa ANASUT.excalidraw.png](/img/user/Excalidraw/2024-03-21%20-%20Gli%20orti%20urbani%20-%20Mappa%20ANASUT.excalidraw.png)
-
-
-# Orti urbani a Roma
-
-
+[[_Giornaliera/2024-03-21\|2024-03-21]] - [[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]
+🎤 
+[[Excalidraw/2024-03-21 - Gli orti urbani - Mappa ANASUT.excalidraw\|🖋 Edit in Excalidraw]]
+[[_Giornaliera/2024-03-26\|2024-03-26]] - [[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]
+🎤 [[Recording 20240326130701.webm\|Recording 20240326130701.webm]]
+%%
 
 Dal 2010 in poi si passa da orto individuale a collettivo.
 

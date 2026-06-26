@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/sustainable-mobility/sustainable-mobility/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/sustainable-mobility/sustainable-mobility/","tags":["UNI"],"dg-note-properties":{"aliases":["Sustainable Mobility","🚲 SM"],"Materia":"SM","Professore":"[[Personale/Contatti/Javier Ortigosa\|Javier Ortigosa]]","Tipo":"Corso","Stato":"🟢","Voto":"8.40","Anno":1,"Semestre":2,"Laurea":"Master","Parents":["[[Esami]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 
@@ -39,8 +39,8 @@ sort by description
 ## Evaluation Structure
 
 2 parts:
-- 50% [[#✍️ Final Exam]]
-- 50% [[#🗣 Individual essay]]
+- 50% [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/🚲 Sustainable Mobility#✍️ Final Exam\|#✍️ Final Exam]]
+- 50% [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/🚲 Sustainable Mobility#🗣 Individual essay\|#🗣 Individual essay]]
 
 
 ### ✍️ Final Exam

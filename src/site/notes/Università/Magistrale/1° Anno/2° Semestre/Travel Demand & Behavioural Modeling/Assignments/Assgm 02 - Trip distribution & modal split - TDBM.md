@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/travel-demand-and-behavioural-modeling/assignments/assgm-02-trip-distribution-and-modal-split-tdbm/"}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/travel-demand-and-behavioural-modeling/assignments/assgm-02-trip-distribution-and-modal-split-tdbm/","dg-note-properties":{"aliases":null,"Materia":"TDBM","Tipo":"Assgm","Stato":"🟢 Fatto","PDF":["[Questionnaire_Distribution.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Travel%20Demand%20&%20Behavioural%20Modeling/Assignments/Allegati/Questionnaire_Distribution.pdf)"],"Data":"2025-05-11T00:00:00","Parents":["[[🧠 Travel Demand & Behavioural Modeling|🧠 TDBM]]"],"Children":null,"Siblings":null,"tags":null}}
 ---
 
 
 # [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Assignments/Assgm 02 - Trip distribution & modal split - TDBM\|Assgm 02 - Trip distribution & modal split - TDBM]]
 
-Assgm:[[Questionnaire_Distribution.pdf]]
+Assgm:[Questionnaire_Distribution.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Travel%20Demand%20&%20Behavioural%20Modeling/Assignments/Allegati/Questionnaire_Distribution.pdf)
 ## Q6
 
 Discarded code that partially solves the question in matrix form:

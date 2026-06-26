@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collingridge-dilemma/"}
+{"dg-publish":true,"permalink":"/collingridge-dilemma/","dg-note-properties":{"aliases":null,"Tipo":"Definizione","Stato":null,"Parents":["[[01 - Intro - STRI]]"],"Children":null,"Siblings":null,"Cover":null,"tags":null}}
 ---
 
 # [[Collingridge Dilemma\|Collingridge Dilemma]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q2/smart-healthy-urban-environments/teoria/06-computer-simulations-and-digital-twins-shue/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q2/smart-healthy-urban-environments/teoria/06-computer-simulations-and-digital-twins-shue/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"SHUE","Tipo":"T","Stato":"🟢 Fatto","Slide":null,"PDF":null,"Parents":["[[🛰️ Smart Healthy Urban Environments|🛰️ SHUE]]"],"Children":null,"Siblings":null,"Cover":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/2° Anno/Q2/Smart Healthy Urban Environments/Teoria/06 - Computer simulations and digital twins - SHUE\|06 - Computer simulations and digital twins - SHUE]]

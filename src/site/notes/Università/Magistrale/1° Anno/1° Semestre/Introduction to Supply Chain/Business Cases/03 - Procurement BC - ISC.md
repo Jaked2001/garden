@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/introduction-to-supply-chain/business-cases/03-procurement-bc-isc/"}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/introduction-to-supply-chain/business-cases/03-procurement-bc-isc/","dg-note-properties":{"aliases":null,"Materia":"ISC","Tipo":"Es","Stato":"🟢 Fatto","PDF":["[3 - Procurement Business Case - ISC.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Introduction%20to%20Supply%20Chain/Business%20Cases/Allegati/3%20-%20Procurement%20Business%20Case%20-%20ISC.pdf)"],"Data":"2024-11-11","Parents":["[[🚚 Introduction to Supply Chain|🚚 ISC]]"],"Children":null,"Siblings":null,"tags":null}}
 ---
 
 

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q2/smart-healthy-urban-environments/01-sustainable-transportation-and-gps-processing-shue/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q2/smart-healthy-urban-environments/01-sustainable-transportation-and-gps-processing-shue/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"SHUE","Tipo":"T","Stato":"🟢 Fatto","Slide":["[01 - Sustainable Transportation and GPS Processing - Slides - SHUE.pdf](/img/user/Universit%C3%A0/Magistrale/2%C2%B0%20Anno/Q2/Smart%20Healthy%20Urban%20Environments/Allegati/01%20-%20Sustainable%20Transportation%20and%20GPS%20Processing%20-%20Slides%20-%20SHUE.pdf)"],"PDF":null,"Parents":["[[🛰️ Smart Healthy Urban Environments|🛰️ SHUE]]"],"Children":null,"Siblings":null,"Cover":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/2° Anno/Q2/Smart Healthy Urban Environments/01 - Sustainable Transportation and GPS processing - SHUE\|01 - Sustainable Transportation and GPS processing - SHUE]]
 
-[[01 - Sustainable Transportation and GPS Processing - Slides - SHUE.pdf]]
+[01 - Sustainable Transportation and GPS Processing - Slides - SHUE.pdf](/img/user/Universit%C3%A0/Magistrale/2%C2%B0%20Anno/Q2/Smart%20Healthy%20Urban%20Environments/Allegati/01%20-%20Sustainable%20Transportation%20and%20GPS%20Processing%20-%20Slides%20-%20SHUE.pdf)
 
 ```table-of-contents
 ```
@@ -91,9 +91,9 @@ The smart mobility triad:
 ## The means
 
 Smartness is mainly based on **acting on actual insight**.
-- [[#Vehicle based]]
-- [[#Infrastructure based]]
-- [[#Organisation based]]
+- [[Università/Magistrale/2° Anno/Q2/Smart Healthy Urban Environments/01 - Sustainable Transportation and GPS processing - SHUE#Vehicle based\|#Vehicle based]]
+- [[Università/Magistrale/2° Anno/Q2/Smart Healthy Urban Environments/01 - Sustainable Transportation and GPS processing - SHUE#Infrastructure based\|#Infrastructure based]]
+- [[Università/Magistrale/2° Anno/Q2/Smart Healthy Urban Environments/01 - Sustainable Transportation and GPS processing - SHUE#Organisation based\|#Organisation based]]
 
 ### Vehicle based
 

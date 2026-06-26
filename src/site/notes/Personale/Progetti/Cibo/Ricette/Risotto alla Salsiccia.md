@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/progetti/cibo/ricette/risotto-alla-salsiccia/"}
+{"dg-publish":true,"permalink":"/personale/progetti/cibo/ricette/risotto-alla-salsiccia/","dg-note-properties":{"aliases":["Risotto alla Salsiccia"],"Tipo":"Ricetta","Autore":"[[GialloZafferano]]","Portata":"Primo","TempoPreparazione":null,"TempoCottura":null,"Difficoltà":null,"Porzioni":null,"Ingredienti":null,"Parents":["[[_Ricette]]"],"Children":null,"Siblings":null,"Ultimo_cucinato":null}}
 ---
 
 # [[Personale/Progetti/Cibo/Ricette/Risotto alla Salsiccia\|Risotto alla Salsiccia]]

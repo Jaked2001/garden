@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/data-analysis-in-transport-systems/diario-data-analysis-in-transport-systems/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/data-analysis-in-transport-systems/diario-data-analysis-in-transport-systems/","tags":["UNI"],"dg-note-properties":{"aliases":["📊📔 Diario DATS"],"Tipo":"Diario","Materia":"DATS","Stato":null,"Parents":["[[📊 Data Analysis in Transport Systems|📊 DATS]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/📊📔 Diario Data Analysis in Transport Systems\|📊📔 Diario Data Analysis in Transport Systems]]

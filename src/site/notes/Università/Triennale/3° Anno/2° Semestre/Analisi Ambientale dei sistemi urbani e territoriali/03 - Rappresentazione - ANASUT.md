@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/triennale/3-anno/2-semestre/analisi-ambientale-dei-sistemi-urbani-e-territoriali/03-rappresentazione-anasut/","tags":["UNI","UNI/ANASUT"]}
+{"dg-publish":true,"permalink":"/universita/triennale/3-anno/2-semestre/analisi-ambientale-dei-sistemi-urbani-e-territoriali/03-rappresentazione-anasut/","tags":["UNI","UNI/ANASUT"],"dg-note-properties":{"aliases":null,"Materia":"ANASUT","Tipo":"T","Stato":"🟢 Fatto","Slide":["[3 - Rappresentazioni - slide - ANASUT.pdf](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/2%C2%B0%20Semestre/Analisi%20Ambientale%20dei%20sistemi%20urbani%20e%20territoriali/allegati/3%20-%20Rappresentazioni%20-%20slide%20-%20ANASUT.pdf)"],"PDF":null,"Parents":["[[👨‍🌾 Analisi ambientale dei sistemi urbani e territoriali]]"],"Children":null,"Siblings":null,"tags":["UNI","UNI/ANASUT"]}}
 ---
 
 # [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/03 - Rappresentazione - ANASUT\|03 - Rappresentazione - ANASUT]]
@@ -97,7 +97,7 @@ Ogni urbanista, ingegnere, geografo, ha il potere di veicolare **vincoli** che g
 
 ### Carattere performativo
 
-Le [[#Rappresentare|rappresentazioni]] hanno un carattere [[Performativo\|Performativo]]: esse non descrivono un'azione ne constatano un fatto. Invece, veicola vincoli e opportunità di trasformazione del [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT#Territorio\|territorio]].
+Le [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/03 - Rappresentazione - ANASUT#Rappresentare\|rappresentazioni]] hanno un carattere [[Performativo\|Performativo]]: esse non descrivono un'azione ne constatano un fatto. Invece, veicola vincoli e opportunità di trasformazione del [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT#Territorio\|territorio]].
 
 
 
@@ -258,9 +258,8 @@ La società, dice [[Georg Simmel\|Georg Simmel]], ha bisogno, per assumere una d
 
 ![2024-04-11 - Questa non è una mappa - Mappa ANASUT.excalidraw.png](/img/user/Excalidraw/2024-04-11%20-%20Questa%20non%20%C3%A8%20una%20mappa%20-%20Mappa%20ANASUT.excalidraw.png)
 
-
-
-
+[[Personale/Contatti/Giovanni Attili\|Giovanni Attili]] - [[_Giornaliera/2024-04-16\|2024-04-16]]
+%%
 
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗ - Arrivo alle 12:25
@@ -269,11 +268,11 @@ La società, dice [[Georg Simmel\|Georg Simmel]], ha bisogno, per assumere una d
 [[Georg Simmel\|Georg Simmel]] cerca di distringuere le **società statiche** da quelle **conflittuali**.
 
 ```ad-quote
-title: [[Georg Simmel]]
+title: [[Georg Simmel\|Georg Simmel]]
 Come l’universo, per conseguire una qualsiasi forma, ha bisogno di amore e odio, vale a dire, di forze di attrazione e di repulsione, così la società, per assumere una determinata configurazione, ha bisogno di quantitativi variabili di armonia e disarmonia, associazione e competizione, tendenze favorevoli e sfavorevoli.
 ```
 
-Il [[01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT#Territorio|territorio]] è in costante movimento. Le rappresentazioni dovrebbero quindi cogliere questo aspetto.
+Il [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/01 - Ruolo dell'analisi nella pianificazione urbana e territoriale - ANASUT#Territorio\|territorio]] è in costante movimento. Le rappresentazioni dovrebbero quindi cogliere questo aspetto.
 
 Gourdier: spazio dei punti di vista
 

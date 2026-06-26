@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/operation-and-management-of-transport-systems/problems/es-3-lwr-traffic-flow-theory-omt/"}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/operation-and-management-of-transport-systems/problems/es-3-lwr-traffic-flow-theory-omt/","dg-note-properties":{"aliases":null,"Materia":"OMT","Tipo":"Es","Stato":"🟢 Fatto","PDF":["[Discussion Session 3 - LWR traffic flow theory - OMT.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Operation%20&%20Management%20of%20Transport%20Systems/Problems/Allegati/Discussion%20Session%203%20-%20LWR%20traffic%20flow%20theory%20-%20OMT.pdf)"],"Data":"2024-12-06","Parents":["[[🚦 Operation & Management of Transport Systems|🚦 OMT]]","[[03 - Fundamentals of traffic flow modeling - OMT]]"],"Children":null,"Siblings":null,"tags":null}}
 ---
 
 

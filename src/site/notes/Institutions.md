@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/institutions/"}
+{"dg-publish":true,"permalink":"/institutions/","dg-note-properties":{"aliases":null,"Tipo":"Definizione","Stato":null,"Parents":null,"Children":null,"Siblings":null,"Cover":null,"tags":null}}
 ---
 
 # [[Institutions\|Institutions]]
@@ -12,9 +12,9 @@ An **institution** is a set of socially embedded and accepted systems of [[#Rule
 ```
 
 Institutions can be:
-- [[#Regulative institution]]
-- [[#Normative institution]]
-- [[#Cognitive institution]]
+- [[Institutions#Regulative institution\|#Regulative institution]]
+- [[Institutions#Normative institution\|#Normative institution]]
+- [[Institutions#Cognitive institution\|#Cognitive institution]]
 ## Regulative institution
 
 ```ad-Definizione

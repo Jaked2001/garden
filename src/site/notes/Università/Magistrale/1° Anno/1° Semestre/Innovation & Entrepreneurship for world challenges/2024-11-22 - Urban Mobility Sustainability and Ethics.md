@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/innovation-and-entrepreneurship-for-world-challenges/2024-11-22-urban-mobility-sustainability-and-ethics/"}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/innovation-and-entrepreneurship-for-world-challenges/2024-11-22-urban-mobility-sustainability-and-ethics/","dg-note-properties":{"aliases":null,"Tipo":"Meeting","Stato":"🟢 Fatto","Data":"2024-11-22","Progetto":null,"Riassunto":null,"Con":null,"Parents":["[[💡 Innovation & Entrepreneurship for world challenges|💡 IE]]"],"Siblings":null,"Children":null,"tags":null}}
 ---
 
 # [[Università/Magistrale/1° Anno/1° Semestre/Innovation & Entrepreneurship for world challenges/2024-11-22 - Urban Mobility Sustainability and Ethics\|2024-11-22 - Urban Mobility Sustainability and Ethics]]

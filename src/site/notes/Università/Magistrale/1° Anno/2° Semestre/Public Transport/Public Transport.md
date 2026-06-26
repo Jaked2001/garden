@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/public-transport/public-transport/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/public-transport/public-transport/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":null,"Professore":null,"Tipo":"Corso","Stato":"🟣","Voto":null,"Anno":null,"Semestre":null,"Laurea":"Master","Parents":["[[Esami]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 

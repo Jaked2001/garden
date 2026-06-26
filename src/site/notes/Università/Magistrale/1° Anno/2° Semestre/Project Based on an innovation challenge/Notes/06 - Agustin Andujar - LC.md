@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/project-based-on-an-innovation-challenge/notes/06-agustin-andujar-lc/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/project-based-on-an-innovation-challenge/notes/06-agustin-andujar-lc/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"PBIC","Tipo":"T","Stato":"🪶 Scrivere","Slide":null,"PDF":null,"Parents":null,"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/06 - Agustin Andujar - LC\|06 - Agustin Andujar - LC]]

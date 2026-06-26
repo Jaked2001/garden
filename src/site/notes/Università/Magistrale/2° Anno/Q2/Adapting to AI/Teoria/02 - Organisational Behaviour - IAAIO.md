@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q2/adapting-to-ai/teoria/02-organisational-behaviour-iaaio/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q2/adapting-to-ai/teoria/02-organisational-behaviour-iaaio/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"IAAIO","Tipo":"T","Stato":"🟠 Studiare","Slide":null,"PDF":null,"Parents":["[[✨ Implementing and Adapting to artificial intelligence in organizations|✨ IAAIO]]"],"Children":null,"Siblings":null,"Cover":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/2° Anno/Q2/Adapting to AI/Teoria/02 - Organisational Behaviour - IAAIO\|02 - Organisational Behaviour - IAAIO]]
@@ -183,10 +183,10 @@ If the change is intended to increase profitability, maybe, the change is to inc
 
 ## Tools for Change Management
 
-- [[#Force Field Analysis]]
-- [[#Gap Analysis]]
-- [[#Stakeholder Grid]]
-- [[#Responsibility Charting]]
+- [[Università/Magistrale/2° Anno/Q2/Adapting to AI/Teoria/02 - Organisational Behaviour - IAAIO#Force Field Analysis\|#Force Field Analysis]]
+- [[Università/Magistrale/2° Anno/Q2/Adapting to AI/Teoria/02 - Organisational Behaviour - IAAIO#Gap Analysis\|#Gap Analysis]]
+- [[Università/Magistrale/2° Anno/Q2/Adapting to AI/Teoria/02 - Organisational Behaviour - IAAIO#Stakeholder Grid\|#Stakeholder Grid]]
+- [[Università/Magistrale/2° Anno/Q2/Adapting to AI/Teoria/02 - Organisational Behaviour - IAAIO#Responsibility Charting\|#Responsibility Charting]]
 
 ### Force Field Analysis
 

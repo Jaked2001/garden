@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quartile/"}
+{"dg-publish":true,"permalink":"/quartile/","dg-note-properties":{"aliases":null,"Tipo":null,"Stato":null,"Parents":null,"Siblings":["[[Percentile\|Percentile]]"],"Children":["[[Median\|Median]]","[[Interquartile Range\|Interquartile Range]]"],"tags":null}}
 ---
 
 # [[Quartile\|Quartile]]

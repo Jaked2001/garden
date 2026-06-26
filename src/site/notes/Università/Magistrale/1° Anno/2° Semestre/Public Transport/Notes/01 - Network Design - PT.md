@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/public-transport/notes/01-network-design-pt/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/public-transport/notes/01-network-design-pt/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"PT","Tipo":"T","Stato":"🪶 Scrivere","Slide":["[1 - Introduction to transportation system - PT.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Public%20Transport/Notes/Allegati/1%20-%20Introduction%20to%20transportation%20system%20-%20PT.pdf)"],"PDF":null,"Parents":["[[Public Transport]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/2° Semestre/Public Transport/Notes/01 - Network Design - PT\|01 - Network Design - PT]]
@@ -141,9 +141,9 @@ Then we define average cost
 
 ```ad-Definizione
 title: Average Cost ($C_{av}$)
-$
+$$
 C_{av} = \frac{CT}{x}
-$
+$$
 
 ```
 
@@ -163,9 +163,9 @@ and Marginal Cost
 
 ```ad-Definizione
 title: Marginal Cost ($C_{ma}$)
-$
+$$
 C_{ma} = \frac{\partial CT}{\partial x}
-$
+$$
 
 ```
 

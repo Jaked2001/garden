@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/accuracy/"}
+{"dg-publish":true,"permalink":"/accuracy/","dg-note-properties":{"aliases":null,"Tipo":"Definizione","Stato":null,"Parents":null,"Children":null,"Siblings":null,"tags":null}}
 ---
 
 # [[Accuracy\|Accuracy]]

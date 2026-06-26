@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/decision-making-and-economy-in-urban-mobility/notes/02-appraisal-and-cost-benefit-analysis-dme/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/decision-making-and-economy-in-urban-mobility/notes/02-appraisal-and-cost-benefit-analysis-dme/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"DME","Tipo":"T","Stato":"🟠 Studiare","Slide":["[2 - Appraisal and Cost-Benefit Analysis - DME.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Decision%20Making%20&%20Economy%20in%20Urban%20Mobility/Notes/Allegati/2%20-%20Appraisal%20and%20Cost-Benefit%20Analysis%20-%20DME.pdf)"],"PDF":null,"Parents":["[[💼 Decision making & Economy in Urban Mobility|💼 DME]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME\|02 - Appraisal and Cost-Benefit Analysis - DME]]
 
-Every time we're about to build or design a new transportation project, we should ask ourselves whether or not it is useful or if it make sense to do it. The assessment of this is called [[#Appraisal]].
+Every time we're about to build or design a new transportation project, we should ask ourselves whether or not it is useful or if it make sense to do it. The assessment of this is called [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME#Appraisal\|#Appraisal]].
 
 # Appraisal
 
@@ -25,7 +25,7 @@ Appraisal can be made:
 
 ## Appraisal approches
 
-- [[#Social-economic approach]] (cost benefit analysis)
+- [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME#Social-economic approach\|#Social-economic approach]] (cost benefit analysis)
 	- Welfare
 	- Quality of life
 - Financial approach
@@ -44,7 +44,7 @@ The evaluation can be done following 2 approaches:
 - **Evaluation by objectives**
 	- Cost effectiveness analysis
 - **Evaluation by effects**
-	- [[#Cost-benefit analysis]] (social profitability)
+	- [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME#Cost-benefit analysis\|#Cost-benefit analysis]] (social profitability)
 	- Multi-criteria analysis - best to choose among several options
 
 ## Cost-benefit analysis
@@ -67,14 +67,14 @@ The aim of CBA is to maximize efficiency, ignoring effects on equality: it doesn
 
 #### Costs in CBA
 
-Costs, in [[#Cost-benefit analysis]], are all the resources used by society to launch and manage the new project.
+Costs, in [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME#Cost-benefit analysis\|#Cost-benefit analysis]], are all the resources used by society to launch and manage the new project.
 - Initial investment
 - Maintenance
 - Operation costs
 
 #### Benefits in CBA
 
-The **benefits** in [[#Cost-benefit analysis]], are all the consequences of launching the action. They can be both positive and negative. Common beneftis are
+The **benefits** in [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME#Cost-benefit analysis\|#Cost-benefit analysis]], are all the consequences of launching the action. They can be both positive and negative. Common beneftis are
 - Reduction of emission
 - Increase/decrease in noise pollution
 - Reduction in traffic
@@ -104,9 +104,9 @@ A project is considered viable if $NVP >0$.
 
 ### Internal Rate of Return (IRR)
 
-The discount rate in the [[#Net Present Value (NPV)]] calculation can influence whether a project is considered viable or not. So, sometimes it is useful to calculate the discount rate such that the NPV is 0.
+The discount rate in the [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME#Net Present Value (NPV)\|#Net Present Value (NPV)]] calculation can influence whether a project is considered viable or not. So, sometimes it is useful to calculate the discount rate such that the NPV is 0.
 
-The **Internal Rate of Return (IRR)** is the discount rate such that the [[#Net Present Value (NPV)]] is 0:
+The **Internal Rate of Return (IRR)** is the discount rate such that the [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME#Net Present Value (NPV)\|#Net Present Value (NPV)]] is 0:
 $$
 0 = -I_{0} + \sum\limits_{t=1}^{n} \frac{B_{t}-C_{t}}{(1+IRR)^{t}}
 $$

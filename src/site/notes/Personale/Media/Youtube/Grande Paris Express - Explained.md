@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/media/youtube/grande-paris-express-explained/"}
+{"dg-publish":true,"permalink":"/personale/media/youtube/grande-paris-express-explained/","dg-note-properties":{"Tipo":"Video","aliases":null,"Titolo":"Le Grande Paris Express: Explained","Canale":"","Link":"https://youtu.be/N5mO34_6x_M?si=crqzBAvhMTn-Kr48","Pubblicazione":null,"Piattaforma":["YouTube"],"Stato":"✅","Parents":["[[Grand Paris Express Line 15 - DME]]"],"Children":null,"Siblings":null,"tags":null}}
 ---
 
 

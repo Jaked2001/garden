@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/project-based-on-an-innovation-challenge/notes/02-validating-ideas-for-urban-mobility-pbic/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/project-based-on-an-innovation-challenge/notes/02-validating-ideas-for-urban-mobility-pbic/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"PBIC","Tipo":"T","Stato":"🪶 Scrivere","Slide":null,"PDF":null,"Parents":["[[💡 Project Based on an Innovation Challenge|💡 PBIC]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/02 - Validating Ideas for Urban Mobility - PBIC\|02 - Validating Ideas for Urban Mobility - PBIC]]

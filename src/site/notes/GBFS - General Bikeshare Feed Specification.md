@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gbfs-general-bikeshare-feed-specification/","tags":["BikeSharing","SharingMobility"]}
+{"dg-publish":true,"permalink":"/gbfs-general-bikeshare-feed-specification/","tags":["BikeSharing","SharingMobility"],"dg-note-properties":{"aliases":["GBFS","General Bikeshare Feed Specification"],"Tipo":null,"Stato":null,"Parents":null,"Children":null,"Siblings":null,"tags":["BikeSharing","SharingMobility"],"Link":"https://github.com/MobilityData/gbfs/tree/master"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/triennale/3-anno/2-semestre/analisi-ambientale-dei-sistemi-urbani-e-territoriali/05-piano-regolatore-generale-anasut/"}
+{"dg-publish":true,"permalink":"/universita/triennale/3-anno/2-semestre/analisi-ambientale-dei-sistemi-urbani-e-territoriali/05-piano-regolatore-generale-anasut/","dg-note-properties":{"aliases":null,"Materia":"ANASUT","Tipo":"T","Stato":"🟢 Fatto","Slide":["[5 - Piano Regolatore Generale - slide - ANASUT.pdf](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/2%C2%B0%20Semestre/Analisi%20Ambientale%20dei%20sistemi%20urbani%20e%20territoriali/allegati/5%20-%20Piano%20Regolatore%20Generale%20-%20slide%20-%20ANASUT.pdf)"],"PDF":["[5. Piano Urbano Regolatore - Salzano.pdf](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/2%C2%B0%20Semestre/Analisi%20Ambientale%20dei%20sistemi%20urbani%20e%20territoriali/allegati/5.%20Piano%20Urbano%20Regolatore%20-%20Salzano.pdf)"],"Parents":null,"Children":null}}
 ---
 
 # [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT\|05 - Piano Regolatore Generale - ANASUT]]
@@ -64,7 +64,7 @@ Il PRG è attuato secondo 2 strade:
 
 ## Altri piani
 
-Oltre al PRG, esistono tutta una serie di altri strumenti a vari livelli. Ci sono infatti piani di livello territoriale (regionale) che sono [[#Piani generali]] oppure [[#Piani settoriali]]
+Oltre al PRG, esistono tutta una serie di altri strumenti a vari livelli. Ci sono infatti piani di livello territoriale (regionale) che sono [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT#Piani generali\|#Piani generali]] oppure [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT#Piani settoriali\|#Piani settoriali]]
 
 Un piano comunale non può contraddire un piano territoriale secondo un principio gerarchico.
 
@@ -116,8 +116,8 @@ Le cartografie sono chiaramente essenziali: il PRG si riferisce a un territorio 
 Allo stesso tempo però è necessario a supporto delle cartografie una forma testuale che detti i contenuti normativi relativamente alle aree individuate nella cartografia.
 
 In particolare contiene:
-- [[#Elaborati prescrittivi]]
-- [[#Norme tecniche di attuazione]]
+- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT#Elaborati prescrittivi\|#Elaborati prescrittivi]]
+- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT#Norme tecniche di attuazione\|#Norme tecniche di attuazione]]
 
 Per maggiori riferimenti sul [[Piano Regolatore Generale\|PRG]] di Roma, consultare [[Piano Regolatore Generale di Roma\|Piano Regolatore Generale di Roma]].
 
@@ -127,7 +127,7 @@ Si tratta della raccolta cartografica del [[Piano Regolatore Generale\|PRG]]
 
 ### Norme tecniche di attuazione
 
-Si tratta di un documento testuale che esplicita tutti i contenuti normativi del [[Piano Regolatore Generale|PRG]].
+Si tratta di un documento testuale che esplicita tutti i contenuti normativi del [[Piano Regolatore Generale\|PRG]].
 
 
 </div></div>
@@ -155,8 +155,8 @@ http://www.urbanistica.comune.roma.it/prg-adottato.html#footer
 
 ### Elaborati Prescrittivi
 
-- [[#Norme tecniche di attuazione]]
-- [[#Sistemi e regole]]
+- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT#Norme tecniche di attuazione\|#Norme tecniche di attuazione]]
+- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT#Sistemi e regole\|#Sistemi e regole]]
 
 Le carte individuano all'interno di Roma diverse città:
 Questa divisione corrisponde a livelli di tutela differenti
@@ -177,9 +177,9 @@ La perimetrazione è di tipo piuttosto irregolare.
 
 È un documento di testo.
 
-Esplicitano i contenuti normativi che devono essere georeferenziati. Ciò avviene in [[#Sistemi e regole]].
+Esplicitano i contenuti normativi che devono essere georeferenziati. Ciò avviene in [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/05 - Piano Regolatore Generale - ANASUT#Sistemi e regole\|#Sistemi e regole]].
 
-[[Norme tecnice di attuazione - PRG Roma - 2003.pdf]]
+[Norme tecnice di attuazione - PRG Roma - 2003.pdf](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/2%C2%B0%20Semestre/Analisi%20Ambientale%20dei%20sistemi%20urbani%20e%20territoriali/allegati/Norme%20tecnice%20di%20attuazione%20-%20PRG%20Roma%20-%202003.pdf)
 
 Nella parte iniziale c'è un glossario in cui sono definite le grandezze utili in gioco.
 

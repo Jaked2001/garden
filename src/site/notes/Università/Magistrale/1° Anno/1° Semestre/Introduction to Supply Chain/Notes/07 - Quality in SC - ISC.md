@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/introduction-to-supply-chain/notes/07-quality-in-sc-isc/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/introduction-to-supply-chain/notes/07-quality-in-sc-isc/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"ISC","Tipo":"T","Stato":"🪶 Scrivere","Slide":["[7 - Quality in SC - ISC.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Introduction%20to%20Supply%20Chain/Notes/Allegati/7%20-%20Quality%20in%20SC%20-%20ISC.pdf)"],"PDF":null,"Parents":null,"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/07 - Quality in SC - ISC\|07 - Quality in SC - ISC]]

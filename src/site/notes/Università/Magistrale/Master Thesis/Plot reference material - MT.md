@@ -134,3 +134,28 @@ save_plot(Speed_by_user_boxplot, "SpeedByUser.pdf") # Save plot
 
 ```
 
+```r title:"TITLE"
+conflictRatePer1000users_dir_PETseverity_plot <- ggplot(conflictRate_perDir_long_PETseverity |> filter(Obj == "Obj1"), # Filter because it's in long form
+       aes(x = PET_Severity,
+           y = Direction,
+           fill = conflRateCum)) +
+  geom_tile(color = "white") +
+  geom_text(aes(label = round(conflRateCum,1)),
+            color = "black", size = 4) +
+  facet_wrap(~Intersection) +
+  scale_fill_gradient(low = "#deebf7", high = "#3182bd",limits = c(0, 400)) +
+  #theme_minimal(base_size = 12) +
+  theme(
+    axis.text.x = element_text(angle = 0, hjust = 0.5, size=12),
+    axis.text.y = element_text(angle = 0, size=12),
+    panel.grid = element_blank(),
+    strip.text = element_text(face = "bold"),
+    legend.position = "bottom"
+  ) +
+  labs(
+    title = "Conflicts per 1000 users in a specific direction",
+    x = "PET severity",
+    y = "Direction",
+    fill = "Conflicts per 1000 users"
+  )
+```

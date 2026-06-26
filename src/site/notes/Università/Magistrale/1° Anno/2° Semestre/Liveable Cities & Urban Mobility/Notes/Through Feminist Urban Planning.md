@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/liveable-cities-and-urban-mobility/notes/through-feminist-urban-planning/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/liveable-cities-and-urban-mobility/notes/through-feminist-urban-planning/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"LC","Tipo":"T","Stato":"🟢 Fatto","Slide":null,"PDF":null,"Parents":["[[🌿 Liveable Cities & Urban Mobility|🌿 LC]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/Notes/Through Feminist Urban Planning\|Through Feminist Urban Planning]]

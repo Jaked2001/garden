@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/newton-s-law-of-gravitational-attraction/"}
+{"dg-publish":true,"permalink":"/newton-s-law-of-gravitational-attraction/","dg-note-properties":{"aliases":null,"Tipo":null,"Stato":null,"Parents":["[[Isaac Newton]]"],"Children":null,"Siblings":null,"tags":null}}
 ---
 
 # [[Newton's law of gravitational attraction\|Newton's law of gravitational attraction]]

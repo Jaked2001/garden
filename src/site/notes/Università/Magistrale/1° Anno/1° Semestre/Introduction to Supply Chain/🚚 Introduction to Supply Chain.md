@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/introduction-to-supply-chain/introduction-to-supply-chain/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/introduction-to-supply-chain/introduction-to-supply-chain/","tags":["UNI"],"dg-note-properties":{"aliases":["Introduction to Supply Chain","🚚 SC","🚚 ISC","ISC"],"Materia":"ISC","Professore":null,"Tipo":"Corso","Stato":"🟢","Voto":"8.8","Anno":1,"Semestre":1,"Laurea":"Master","Parents":["[[Esami]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 
@@ -11,7 +11,7 @@
 **📔 Diario del corso:** [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/🚚📔 Diario Introduction to Supply Chain\|🚚📔 Diario Introduction to Supply Chain]]
 **🌐 WebSite:**
 
-**🅿️ Program:** [[1.1 - Introduction to Supply Chain - M5.pdf]]
+**🅿️ Program:** [1.1 - Introduction to Supply Chain - M5.pdf](/img/user/1.1%20-%20Introduction%20to%20Supply%20Chain%20-%20M5.pdf)
 **🔑 Atenea:** https://atenea.upc.edu/course/search.php 250MUM010 - UPC$2025
 
 **📚 Books:**
@@ -123,14 +123,14 @@ ___
 
 | File                                                                                                                                                                                             | Stato       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC.md\|01 - Introduction to supply chain - ISC]]                             | 🟠 Studiare |
-| [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/02 - Procurement and Planning - ISC.md\|02 - Procurement and Planning - ISC]]                                     | 🟠 Studiare |
-| [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/02.1 - Procurement - ISC.md\|02.1 - Procurement - ISC]]                                                           | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/03 - Logistics - ISC.md\|03 - Logistics - ISC]]                                                                   | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/04 - Outsourcing - ISC.md\|04 - Outsourcing - ISC]]                                                               | 🟠 Studiare |
-| [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/05 - Customer collaborative Supply Chain Models.md\|05 - Customer collaborative Supply Chain Models]]             | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/06 - Supply Chain Design and Operation Strategy - ISC.md\|06 - Supply Chain Design and Operation Strategy - ISC]] | 🟠 Studiare |
-| [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/07 - Quality in SC - ISC.md\|07 - Quality in SC - ISC]]                                                           | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/01 - Introduction to supply chain - ISC\|01 - Introduction to supply chain - ISC]]                             | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/02 - Procurement and Planning - ISC\|02 - Procurement and Planning - ISC]]                                     | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/02.1 - Procurement - ISC\|02.1 - Procurement - ISC]]                                                           | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/03 - Logistics - ISC\|03 - Logistics - ISC]]                                                                   | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/04 - Outsourcing - ISC\|04 - Outsourcing - ISC]]                                                               | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/05 - Customer collaborative Supply Chain Models\|05 - Customer collaborative Supply Chain Models]]             | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/06 - Supply Chain Design and Operation Strategy - ISC\|06 - Supply Chain Design and Operation Strategy - ISC]] | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/07 - Quality in SC - ISC\|07 - Quality in SC - ISC]]                                                           | 🪶 Scrivere |
 
 { .block-language-dataview}
 

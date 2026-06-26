@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/precision/"}
+{"dg-publish":true,"permalink":"/precision/","dg-note-properties":{"aliases":null,"Tipo":"Definizione","Stato":null,"Parents":null,"Children":null,"Siblings":null,"tags":null}}
 ---
 
 # [[Precision\|Precision]]

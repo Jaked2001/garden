@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/traffic-simulation-models/traffic-simulation-models/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/traffic-simulation-models/traffic-simulation-models/","tags":["UNI"],"dg-note-properties":{"aliases":["🖥 TSM","TSM"],"Materia":"TSM","Professore":null,"Tipo":"Corso","Stato":"🟢","Voto":"9.60","Anno":1,"Semestre":2,"Laurea":"Master","Parents":["[[Esami]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 
@@ -47,7 +47,7 @@ sort by description
 
 - 40% - Car following models assignment (CFM) (20% presentation + 20% report)
 - 30% Partial Test (20 min test)
-- 30% Final project (in [[AIMSUM]])
+- 30% Final project (in [[AIMSUM\|AIMSUM]])
 
 ### Partial Exam
 
@@ -65,7 +65,7 @@ Report also containing our opinions.
 
 #### Final project
 
-Report to present all the things of the last part of the course plus [[AIMSUM]]
+Report to present all the things of the last part of the course plus [[AIMSUM\|AIMSUM]]
 - [x] [[2025-06-13]] - **Final Project** ✅ 2025-06-13
 
 ## 💯 Grade
@@ -112,7 +112,7 @@ ___
 | [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/00 - Course introduction - TSM\|00 - Course introduction - TSM]]                                                     | 🟢 Fatto      |
 | [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/01 - Introduction to the traffic simulation models - TSM\|01 - Introduction to the traffic simulation models - TSM]] | 🟢 Fatto      |
 | [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/02 - Dynamic Network Loading - TSM\|02 - Dynamic Network Loading - TSM]]                                             | 🟢 Fatto      |
-| [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/03 - Car Following models - TSM.md\|03 - Car Following models - TSM]]                                                   | 🪶🟡 Scrivere |
+| [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/03 - Car Following models - TSM\|03 - Car Following models - TSM]]                                                   | 🪶🟡 Scrivere |
 
 { .block-language-dataview}
 
@@ -135,7 +135,7 @@ ___
 
 | File                                                                                                                                                                                    | Stato    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Assgm/Final Assgnm - TSM.md\|Final Assgnm - TSM]]                                                                 | 🔴 Fare  |
+| [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Assgm/Final Assgnm - TSM\|Final Assgnm - TSM]]                                                                 | 🔴 Fare  |
 | [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Assgm/Nonlinear follow-the-leader models of traffic flow\|Nonlinear follow-the-leader models of traffic flow]] | 🟢 Fatto |
 
 { .block-language-dataview}

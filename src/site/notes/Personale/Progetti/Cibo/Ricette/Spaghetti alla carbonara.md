@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/progetti/cibo/ricette/spaghetti-alla-carbonara/","tags":["Ricetta/Primo/Pasta"]}
+{"dg-publish":true,"permalink":"/personale/progetti/cibo/ricette/spaghetti-alla-carbonara/","tags":["Ricetta/Primo/Pasta"],"dg-note-properties":{"Tipo":"Ricetta","Autore":null,"Portata":"Primo","TempoPreparazione":"15 min","TempoCottura":"15 min","Difficoltà":"🟡","Porzioni":"1","Ingredienti":["[[Uova]]","[[Personale/Progetti/Cibo/Ingredienti/Pecorino Romano\|Pecorino Romano]]","[[Personale/Progetti/Cibo/Ingredienti/Guanciale\|Guanciale]]","[[Personale/Progetti/Cibo/Ingredienti/Spaghetti\|Spaghetti]]","[[Personale/Progetti/Cibo/Ingredienti/Pepe\|Pepe]]"],"tags":["Ricetta/Primo/Pasta"],"Ultima_cucinata":"2024-11-05"}}
 ---
 
 # [[Personale/Progetti/Cibo/Ricette/Spaghetti alla carbonara\|Spaghetti alla carbonara]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/innovation-and-entrepreneurship-for-world-challenges/diario-innovation-and-entrepreneurship-for-world-challenges/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/innovation-and-entrepreneurship-for-world-challenges/diario-innovation-and-entrepreneurship-for-world-challenges/","tags":["UNI"],"dg-note-properties":{"aliases":["💡📔 Diario IE"],"Tipo":"Diario","Materia":"IE","Parents":["[[💡 Innovation & Entrepreneurship for world challenges|💡 IE]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/1° Semestre/Innovation & Entrepreneurship for world challenges/💡📔 Diario Innovation & Entrepreneurship for world challenges\|💡📔 Diario Innovation & Entrepreneurship for world challenges]]

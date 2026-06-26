@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/triennale/3-anno/1-semestre/veicoli-e-impianti-di-trasporto/lezioni/02-l-architettura-del-veicolo-stradale-vit/"}
+{"dg-publish":true,"permalink":"/universita/triennale/3-anno/1-semestre/veicoli-e-impianti-di-trasporto/lezioni/02-l-architettura-del-veicolo-stradale-vit/","dg-note-properties":{"aliases":["2. L'architettura del veicolo stradale","L'architettura del veicolo stradale"],"Materia":"VIT","Tipo":"T","Stato":"🟢 Fatto","PDF":["[2. Architettura Veicoli Stradali - VIT.pdf](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/2.%20Architettura%20Veicoli%20Stradali%20-%20VIT.pdf)"],"Slide":["[2. Architettura Veicoli Stradali - Slide - VIT.pdf](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/2.%20Architettura%20Veicoli%20Stradali%20-%20Slide%20-%20VIT.pdf)"]}}
 ---
 
 
@@ -13,7 +13,7 @@ Elementi di importanza:
 - Peso
 - Dimensioni
 
-[[2. Architettura Veicoli Stradali - VIT.pdf#page=2]]
+[2. Architettura Veicoli Stradali - VIT.pdf#page=2](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/2.%20Architettura%20Veicoli%20Stradali%20-%20VIT.pdf)
 
 Categorie di veicoli: 
 - Autovettura - Trasporto persone
@@ -25,11 +25,11 @@ Categorie di veicoli:
 - Autotreno
 - Autosnodato
 
-![Schermata 2023-10-11 alle 15.23.09.png|Limiti dimensionali e ponderali dei veicoli terrestri](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202023-10-11%20alle%2015.23.09.png)
+![Schermata 2023-10-11 alle 15.23.09.png\|Limiti dimensionali e ponderali dei veicoli terrestri](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202023-10-11%20alle%2015.23.09.png)
 
 ## Pneumatico
 
-[[2. Architettura Veicoli Stradali - VIT.pdf#page=4&selection=24,0,24,25|Dispensa]].
+[Dispensa](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/2.%20Architettura%20Veicoli%20Stradali%20-%20VIT.pdf).
 
 La [[Università/Triennale/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/03. Sostentazione e locomozione#Sostentazione terrestre\|sostentazione]] nei veicoli terrestri è stradali è affidata alla **ruota pneumatica**, cioè alla ruota dotata di **pneumatico**.
 
@@ -38,27 +38,27 @@ title: Pneumatico
 
 Lo **pneumatico** ha la funzione di mantenere l'aria. Deve pertanto essere **impermeabile**.
 
-È collegato all'asse del veicolo tramite il [[#Cerchione]].
+È collegato all'asse del veicolo tramite il [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Cerchione\|#Cerchione]].
 
 ```
 
 Lo pneumatico svolge principalmente 3 compiti:
 - Ripartisce il carico su una superficie molto ampia per ridurre la pressione agente sulla strada a valori sopportabili
-- Realizza l'elemento elastico interposto tra la parte rigida della ruota ([[#Cerchione]]) e l'asfalto
+- Realizza l'elemento elastico interposto tra la parte rigida della ruota ([[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Cerchione\|#Cerchione]]) e l'asfalto
 - Assicura la più elevata aderenza possibile.
 
-![Schermata 2023-10-11 alle 15.36.37.png|Schema di uno pneumatico](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202023-10-11%20alle%2015.36.37.png)
+![Schermata 2023-10-11 alle 15.36.37.png\|Schema di uno pneumatico](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202023-10-11%20alle%2015.36.37.png)
 
-Lo pneumatico è assicurato al [[#Cerchione]] per mezzo di un cerchio metallico che evita le fuoriuscite d'aria: il [[#Tallone]]. All'interno del tallone sono posti i [[#Cerchietti]]: fili di acciaio a cui sono ancorate le tele.
+Lo pneumatico è assicurato al [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Cerchione\|#Cerchione]] per mezzo di un cerchio metallico che evita le fuoriuscite d'aria: il [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Tallone\|#Tallone]]. All'interno del tallone sono posti i [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Cerchietti\|#Cerchietti]]: fili di acciaio a cui sono ancorate le tele.
 
-Il punto di contatto tra la strada e lo pneumatico è il [[#battistrada]]. Si tratta di una parte dello pneumatico in cui è presente una quantità di materiale superiore rispetto al toro puro in modo da aumentare la superficie di contatto, migliorando l'aderenza.
+Il punto di contatto tra la strada e lo pneumatico è il [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#battistrada\|#battistrada]]. Si tratta di una parte dello pneumatico in cui è presente una quantità di materiale superiore rispetto al toro puro in modo da aumentare la superficie di contatto, migliorando l'aderenza.
 
 ![Schermata 2023-10-11 alle 15.45.14.png](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202023-10-11%20alle%2015.45.14.png)
 
 Lo pneumatico è fatto di una tela disposta a trama incrociata.
 Questo rende i fianchi molto rigidi. Per questo motivo non tutte le tele sono poste nella stessa direzione. Alcune sono poste in modo radiale in modo da creare uno pneumatico più flessibile.
 
-![Schermata 2023-10-11 alle 15.46.36.png|Architettura dello pneumatico radiale](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202023-10-11%20alle%2015.46.36.png)
+![Schermata 2023-10-11 alle 15.46.36.png\|Architettura dello pneumatico radiale](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202023-10-11%20alle%2015.46.36.png)
 
 
 
@@ -66,14 +66,14 @@ Questo rende i fianchi molto rigidi. Per questo motivo non tutte le tele sono po
 
 La carcassa è formata da più tele sovrapposte e realizzate con fibre di raion e [[Nylon\|Nylon]] che sono rese solidali tra loro mediante un processo di [[Vulcanizzazione\|Vulcanizzazione]] della gomma.
 
-A seconda di come sono disposte le tele della [[#Carcassa]] lo pneumatico ha proprietà differenti
-- [[#Pneumatico convenzionale]]
-- [[#Pneumatico radiale]]
+A seconda di come sono disposte le tele della [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Carcassa\|#Carcassa]] lo pneumatico ha proprietà differenti
+- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Pneumatico convenzionale\|#Pneumatico convenzionale]]
+- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Pneumatico radiale\|#Pneumatico radiale]]
 
 
 ##### Pneumatico convenzionale
 
-Le tele dello [[#Pneumatico]] convenzionale sono sovrapposte ed incrociate a un angolo di circa 40°.
+Le tele dello [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Pneumatico\|#Pneumatico]] convenzionale sono sovrapposte ed incrociate a un angolo di circa 40°.
 
 Questa struttura presenta
 - Resistenza maggiore lungo i fianchi
@@ -83,7 +83,7 @@ Minore aderenza
 
 ##### Pneumatico radiale
 
-Le tele dello [[#Pneumatico]] radiale sono tese tra i due talloni con andamento radiale. Solo nella parte corrispondente alla fascia di rotolamento è disposta un'ordinatura composta da tele incrociate a un angolo di circa 20°.
+Le tele dello [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Pneumatico\|#Pneumatico]] radiale sono tese tra i due talloni con andamento radiale. Solo nella parte corrispondente alla fascia di rotolamento è disposta un'ordinatura composta da tele incrociate a un angolo di circa 20°.
 
 Questa struttura presenta
 - Più estesa area di contatto
@@ -106,9 +106,9 @@ Il **cerchione** è un disco o cerchione metallico che fa da supporto allo pneum
 ```ad-Definizione
 title: Deriva
 
-In presenza di **forze trasversali** che agiscono su uno [[#Pneumatico]], come in curva, l'**impronta** in presenza di strisciamento laterale assume una **forma asimmetrica**, deformata rispetto al piano della ruota ed ingobbita nel verso della forza trasversale.
+In presenza di **forze trasversali** che agiscono su uno [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Pneumatico\|#Pneumatico]], come in curva, l'**impronta** in presenza di strisciamento laterale assume una **forma asimmetrica**, deformata rispetto al piano della ruota ed ingobbita nel verso della forza trasversale.
 
-Le particelle della parte anteriore della ruota avanzano con una traiettoria inclinata di un angolo $\alpha$ rispetto al piano della ruota. Questo angolo prende il nome di [[#Angolo di deriva]].
+Le particelle della parte anteriore della ruota avanzano con una traiettoria inclinata di un angolo $\alpha$ rispetto al piano della ruota. Questo angolo prende il nome di [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Angolo di deriva\|#Angolo di deriva]].
 
 ```
 
@@ -124,13 +124,13 @@ Le particelle della parte anteriore della ruota avanzano con una traiettoria inc
 		allowfullscreen>
 </iframe>
 
-Si dice quindi che uno [[#Pneumatico]] marcia in deriva quando la velocità del suo centro non è diretta secondo l'asse longitudinale dello pneumatico stesso
-Viene quindi naturale la definizione di [[#Angolo di deriva]] $\alpha$ come l'angolo formato dalla direzione della velocità del centro della ruota e l'asse $x$.
+Si dice quindi che uno [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Pneumatico\|#Pneumatico]] marcia in deriva quando la velocità del suo centro non è diretta secondo l'asse longitudinale dello pneumatico stesso
+Viene quindi naturale la definizione di [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Angolo di deriva\|#Angolo di deriva]] $\alpha$ come l'angolo formato dalla direzione della velocità del centro della ruota e l'asse $x$.
 
 La deriva fa si che il veicolo in curva risulti:
-- [[#Sterzatura cinematica]]
-- [[#Sottosterzante]]
-- [[#Sovrasterzante]]
+- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Sterzatura cinematica\|#Sterzatura cinematica]]
+- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Sottosterzante\|#Sottosterzante]]
+- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Sovrasterzante\|#Sovrasterzante]]
 
 #### Sterzatura cinematica
 
@@ -143,10 +143,10 @@ Nel caso di velocità molto basse, gli pneumatici mantengono angoli di deriva mo
 
 ![Schermata 2024-02-04 alle 18.40.40.png](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202024-02-04%20alle%2018.40.40.png)
 
-In queste condizioni, il movimento degli [[#Pneumatico|pneumatici]] coincide con la direzione del loro piano medio.
+In queste condizioni, il movimento degli [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Pneumatico\|pneumatici]] coincide con la direzione del loro piano medio.
 Esiste inoltre un **angolo d'assetto** $\beta$ tra l'asse del veicolo e la traiettoria del suo baricentro. $\beta$ inoltre è tale che la parte anteriore del veicolo si trovi all'esterno della traiettoria appena menzionata.
 
-Quando invece il veicolo viaggia a velocità medio-alte, il fenomeno della [[#Deriva]] non è più trascurabile.
+Quando invece il veicolo viaggia a velocità medio-alte, il fenomeno della [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Deriva\|#Deriva]] non è più trascurabile.
 Gli pneumatici devono generare delle forze trasversali capaci di bilanciare la [[Forza centrifuga\|Forza centrifuga]] $F_{c}$.
 L'angolo di assetto $\beta$ sarà pertanto opposto al caso precedente e la parte anteriore del veicolo si trova internamente alla traiettoria descritta dal baricentro.
 
@@ -173,7 +173,7 @@ Quello che risponde in modo instabile, tendendo a diminuire il raggio di curvatu
 
 ## Sospensioni
 
-[[2. Architettura Veicoli Stradali - VIT.pdf#page=11&selection=42,0,42,18|Dispensa: Le sospensioni]]
+[Dispensa: Le sospensioni](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/2.%20Architettura%20Veicoli%20Stradali%20-%20VIT.pdf)
 
 
 
@@ -209,8 +209,8 @@ $$
 Attraverso la sospensione faccio si che la forza di inerzia dipenda solo dalla ruota (massa non sospesa) e non dall'intero carico (massa sospesa).
 
 I principali tipi di sospensione sono:
-- [[#Sospensioni a molla]]
-- [[#Sospensioni pneumatiche]]
+- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Sospensioni a molla\|#Sospensioni a molla]]
+- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Sospensioni pneumatiche\|#Sospensioni pneumatiche]]
 
 ❗❗❗❗❗❗❗❗❗❗❗❗❗
 ❗❗❗ COMPLETARE ❗❗❗
@@ -251,28 +251,28 @@ Generalmente ad essere sterzanti sono l'asse o gli assi anteriori. In casi più 
 Talvolta si accoppia la sterzatura dell'asse anteriore e posteriore insieme, così da agevolare le manovre.
 
 La sterzatura può avvenire principalmente in due modi:
-- [[#Sterzatura ad assale girevole]]
-- [[#Sterzatura ad assale rigido e ruote orientabili]]
+- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Sterzatura ad assale girevole\|#Sterzatura ad assale girevole]]
+- [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Sterzatura ad assale rigido e ruote orientabili\|#Sterzatura ad assale rigido e ruote orientabili]]
 
 ### Sterzatura ad assale girevole
 
-Le ruote rimangono sempre parallele tra di loro. L'assale è collegato al telaio mediante una cerniera detta [[#ralla]] posta nella mezzeria dell'assale. 
+Le ruote rimangono sempre parallele tra di loro. L'assale è collegato al telaio mediante una cerniera detta [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#ralla\|#ralla]] posta nella mezzeria dell'assale. 
 
 Con questo sistema si dice che la sterzatura è **corretta**: l'asse dell'assale anteriore girevole e dell'assale posteriore fisso individuano alla loro intersezione un centro di istantanea rotazione $O$ del veicolo.
 
-![Immagine JPEG-44E7-BAD7-B6-0.jpeg|Sterzatura ad assale girevole](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Immagine%20JPEG-44E7-BAD7-B6-0.jpeg)
+![Immagine JPEG-44E7-BAD7-B6-0.jpeg\|Sterzatura ad assale girevole](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Immagine%20JPEG-44E7-BAD7-B6-0.jpeg)
 
 Per via della geometria di questo sistema, in curva la superficie di appoggio si riduce notevolmente e può provocare fenomeni di instabilità. Viene pertanto applicato a casi limitati come quello dei rimorchi.
 
 ### Sterzatura ad assale rigido e ruote orientabili
 
-Si può ottenere la [[#Sterzatura]] mantenendo rigido l'assale e orientando esclusivamente le ruote.
+Si può ottenere la [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Sterzatura\|#Sterzatura]] mantenendo rigido l'assale e orientando esclusivamente le ruote.
 
-![Schermata 2023-10-17 alle 20.00.02.png|Sterzatura a ruote orientabili|700](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/allegati/Schermata%202023-10-17%20alle%2020.00.02.png)
+![Schermata 2023-10-17 alle 20.00.02.png\|Sterzatura a ruote orientabili\|700](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/allegati/Schermata%202023-10-17%20alle%2020.00.02.png)
 
 Al fine di evitare eccessivi strisciamenti le perpendicolari ai piani delle ruote devono tutte convergere in $O$. Vien da se che quelle delle ruote anteriori non possono essere parallele e così le ruote rotanti non possono ruotare dello stesso angolo.
 
-È necessario un meccanismo per far girare di un angolo diverso le 2 ruote: il [[#Quadrilatero di Jeantaud]]
+È necessario un meccanismo per far girare di un angolo diverso le 2 ruote: il [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Quadrilatero di Jeantaud\|#Quadrilatero di Jeantaud]]
 
 #### Quadrilatero di Jeantaud
 
@@ -288,12 +288,12 @@ Inoltre, sempre al fine di limitare gli strisciamenti ci sono alcune modifiche a
 
 ##### Campanatura
 
-![Schermata 2024-02-04 alle 19.21.13.png|600](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202024-02-04%20alle%2019.21.13.png)
+![Schermata 2024-02-04 alle 19.21.13.png\|600](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202024-02-04%20alle%2019.21.13.png)
 
-La campanatura consiste nell'inclinare il piano di rotolamento delle ruote al fine di limitare gli slittamenti indotti dal [[#Quadrilatero di Jeantaud]].
+La campanatura consiste nell'inclinare il piano di rotolamento delle ruote al fine di limitare gli slittamenti indotti dal [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Quadrilatero di Jeantaud\|#Quadrilatero di Jeantaud]].
 Si forma così un angolo tra il piano verticale e il piano ruota detto **angolo di campanatura**.
 
-Questa modifica però porta le traiettorie degli pneumatici a divergere da quella dell'asse del veicolo. Si può ovviare a ciò per mezzo della [[#Convergenza]]
+Questa modifica però porta le traiettorie degli pneumatici a divergere da quella dell'asse del veicolo. Si può ovviare a ciò per mezzo della [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/02 - L'architettura del veicolo stradale - VIT#Convergenza\|#Convergenza]]
 
 ##### Convergenza
 

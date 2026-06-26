@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q2/smart-healthy-urban-environments/smart-healthy-urban-environments/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q2/smart-healthy-urban-environments/smart-healthy-urban-environments/","tags":["UNI"],"dg-note-properties":{"aliases":["🛰️ SHUE","SHUE"],"Materia":null,"Professore":null,"Tipo":"Corso","Stato":"🟢","Voto":"7.9","Anno":2,"Semestre":1.2,"Laurea":"Master","Parents":["[[Esami]]"],"Children":null,"Siblings":null,"Cover":null,"tags":["UNI"]}}
 ---
 
 
@@ -67,7 +67,7 @@ Groups:
 | Assgm 2   | [[2025-12-02]] | 9.1  |
 | Assgm 3   | [[2025-12-16]] | 5.95 |
 | Assgm 4   | [[2026-01-21]] | 7.45 |
-| **Final** |                |      |
+| **Final** |                | 7.93 |
 
 
 
@@ -95,7 +95,25 @@ ___
 
 # 👉🏻 Course Index
 
-![[SHUE - Theory.base]]
+
+```base
+filters:
+  and:
+    - Materia == "SHUE"
+    - Tipo == "T"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Stato
+      - Slide
+    columnSize:
+      file.name: 427
+      note.Stato: 83
+
+```
+
 
 
 
@@ -106,5 +124,49 @@ ___
 ## ✍️ Assignments
 
 
-![[SHUE - Assgms.base]]
+
+```base
+summaries: {}
+filters:
+  and:
+    - Materia == "SHUE"
+    - Tipo == "Assgm"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Stato
+      - Voto
+      - Data
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Voto
+        direction: ASC
+      - property: formula.Untitled
+        direction: ASC
+      - property: Data
+        direction: ASC
+      - property: Stato
+        direction: ASC
+    summaries: {}
+    columnSize:
+      file.name: 396
+      note.Stato: 76
+      note.Voto: 77
+      note.Data: 161
+  - type: list
+    name: View
+    order:
+      - file.name
+    indentProperties: true
+  - type: cards
+    name: View 2
+    order:
+      - file.name
+      - Data
+
+```
+
 

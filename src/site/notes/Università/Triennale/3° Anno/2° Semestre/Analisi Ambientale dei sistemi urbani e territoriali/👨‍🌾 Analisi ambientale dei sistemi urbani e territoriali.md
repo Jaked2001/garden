@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/triennale/3-anno/2-semestre/analisi-ambientale-dei-sistemi-urbani-e-territoriali/analisi-ambientale-dei-sistemi-urbani-e-territoriali/"}
+{"dg-publish":true,"permalink":"/universita/triennale/3-anno/2-semestre/analisi-ambientale-dei-sistemi-urbani-e-territoriali/analisi-ambientale-dei-sistemi-urbani-e-territoriali/","dg-note-properties":{"aliases":["Analisi Ambientale","ANASUT"],"Materia":"ANASUT","Tipo":"Corso","Voto":"30","Stato":"🟢","Anno":3,"Semestre":2,"Professore":"[[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]","Parents":["[[Esami]]"],"Children":null,"Siblings":["[[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/🧑‍🌾📔 Diario di Analisi Ambientale dei sistemi urbani e territoriali\|🧑‍🌾📔 Diario di Analisi Ambientale dei sistemi urbani e territoriali]]"],"Laurea":"Triennale"}}
 ---
 
 
@@ -122,7 +122,7 @@ ___
 
 | File                                                                                                                                                                                  | Stato    | PDF                                                                                                                                                                              | Data          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/Progetto Orti urbani - (P)orto felicità\|Progetto Orti urbani - (P)orto felicità]] | 🟢 Fatto | <ul><li>[[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/allegati/Porto felicità_testo.pdf\\|Porto felicità_testo.pdf]]</li></ul> | June 05, 2024 |
+| [Progetto Orti urbani - (P)orto felicità]] | 🟢 Fatto | <ul><li>[[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/allegati/Porto felicità_testo.pdf\\|Porto felicità_testo.pdf](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/2%C2%B0%20Semestre/Analisi%20Ambientale%20dei%20sistemi%20urbani%20e%20territoriali/Progetto%20Orti%20urbani%20-%20(P)orto%20felicit%C3%A0.md)</li></ul> | June 05, 2024 |
 
 { .block-language-dataview}
 
@@ -131,13 +131,13 @@ ___
 
 # 🗺 Mappe
 
-- [[2024-03-05 - Conoscenza e Orti urbani - Mappa ANASUT.excalidraw.png]]
+- [2024-03-05 - Conoscenza e Orti urbani - Mappa ANASUT.excalidraw.png](/img/user/Excalidraw/2024-03-05%20-%20Conoscenza%20e%20Orti%20urbani%20-%20Mappa%20ANASUT.excalidraw.png)
 - 7 marzo: assente
-- [[2024-03-12 - Urbanistica Territorio e Suolo.excalidraw.png]]
-- [[2024-03-14 - Il suolo Minacciato - Mappa ANASUT.excalidraw.png]]
-- [[2024-03-19 - Oltre il Catastrofismo - Mappa ANASUT.excalidraw.png]]
-- [[2024-03-21 - Gli orti urbani - Mappa ANASUT.excalidraw.png]]
-- [[2024-04-11 - Questa non è una mappa - Mappa ANASUT.excalidraw.png]]
-- [[2024-04-18 - Il Piano Regolatore Generale - Mappa ANASUT.excalidraw.png]]
+- [2024-03-12 - Urbanistica Territorio e Suolo.excalidraw.png](/img/user/Excalidraw/2024-03-12%20-%20Urbanistica%20Territorio%20e%20Suolo.excalidraw.png)
+- [2024-03-14 - Il suolo Minacciato - Mappa ANASUT.excalidraw.png](/img/user/Excalidraw/2024-03-14%20-%20Il%20suolo%20Minacciato%20-%20Mappa%20ANASUT.excalidraw.png)
+- [2024-03-19 - Oltre il Catastrofismo - Mappa ANASUT.excalidraw.png](/img/user/Excalidraw/2024-03-19%20-%20Oltre%20il%20Catastrofismo%20-%20Mappa%20ANASUT.excalidraw.png)
+- [2024-03-21 - Gli orti urbani - Mappa ANASUT.excalidraw.png](/img/user/Excalidraw/2024-03-21%20-%20Gli%20orti%20urbani%20-%20Mappa%20ANASUT.excalidraw.png)
+- [2024-04-11 - Questa non è una mappa - Mappa ANASUT.excalidraw.png](/img/user/Excalidraw/2024-04-11%20-%20Questa%20non%20%C3%A8%20una%20mappa%20-%20Mappa%20ANASUT.excalidraw.png)
+- [2024-04-18 - Il Piano Regolatore Generale - Mappa ANASUT.excalidraw.png](/img/user/Excalidraw/2024-04-18%20-%20Il%20Piano%20Regolatore%20Generale%20-%20Mappa%20ANASUT.excalidraw.png)
 - MANCANTI...
-- [[2024-05-16 - Tecniche di coinvolgimento - Mappa ANASUT.excalidraw.png]]
+- [2024-05-16 - Tecniche di coinvolgimento - Mappa ANASUT.excalidraw.png](/img/user/Excalidraw/2024-05-16%20-%20Tecniche%20di%20coinvolgimento%20-%20Mappa%20ANASUT.excalidraw.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/sustainable-mobility/diario-sustainable-mobility/"}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/sustainable-mobility/diario-sustainable-mobility/","dg-note-properties":{"aliases":["🚲📔 Diario SM"],"Tipo":"Diario","Materia":"SM","Parents":["[[🚲 Sustainable Mobility|🚲 SM]]"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/🚲📔 Diario Sustainable Mobility\|🚲📔 Diario Sustainable Mobility]]

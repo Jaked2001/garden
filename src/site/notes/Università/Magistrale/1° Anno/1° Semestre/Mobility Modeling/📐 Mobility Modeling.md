@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/mobility-modeling/mobility-modeling/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/mobility-modeling/mobility-modeling/","tags":["UNI"],"dg-note-properties":{"aliases":["📐 Mobility Modeling","📐 MM"],"Materia":"MM","Professore":"[[Esteve Codina Sancho\|Esteve Codina Sancho]]","Tipo":"Corso","Stato":"🟢","Voto":"9","Anno":1,"Semestre":1,"Laurea":"Master","Parents":["[[Esami]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 
@@ -14,8 +14,8 @@
 **🌐 WebSite:** 
 
 **🅿️ Program:**
-- [[1.1 - Mobility Modeling - M5.pdf]]
-- [[Classes calendar - MM.pdf]]
+- [1.1 - Mobility Modeling - M5.pdf](/img/user/1.1%20-%20Mobility%20Modeling%20-%20M5.pdf)
+- [Classes calendar - MM.pdf](/img/user/Classes%20calendar%20-%20MM.pdf)
 
 
 **🔑 Atenea:** https://atenea.upc.edu/course/search.php  250MUM011 - Bull$de!Tonyina!
@@ -134,16 +134,16 @@ ___
 
 | File                                                                                                                                                                                  | Stato       | dg-publish |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------- |
-| [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/0 - Introduction to Mobility Modeling.md\|0 - Introduction to Mobility Modeling]]                                 | 🟡 Finire   | true       |
+| [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/0 - Introduction to Mobility Modeling\|0 - Introduction to Mobility Modeling]]                                 | 🟡 Finire   | true       |
 | [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/00 - Graph - MM\|00 - Graph - MM]]                                                                             | 🟠 Studiare | true       |
-| [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/01.1 - Network flows - MM.md\|01.1 - Network flows - MM]]                                                         | 🟡 Finire   | true       |
-| [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/01.2 - The min-cost flow problem - from slides - MM.md\|01.2 - The min-cost flow problem - from slides - MM]]     | 🪶 Scrivere | true       |
-| [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/01.2 - The minimum cost flow problem - From book - MM.md\|01.2 - The minimum cost flow problem - From book - MM]] | 🪶 Scrivere | true       |
+| [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/01.1 - Network flows - MM\|01.1 - Network flows - MM]]                                                         | 🟡 Finire   | true       |
+| [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/01.2 - The min-cost flow problem - from slides - MM\|01.2 - The min-cost flow problem - from slides - MM]]     | 🪶 Scrivere | true       |
+| [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/01.2 - The minimum cost flow problem - From book - MM\|01.2 - The minimum cost flow problem - From book - MM]] | 🪶 Scrivere | true       |
 | [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/02 - Traffic Assignment Problem - MM\|02 - Traffic Assignment Problem - MM]]                                   | 🟢 Fatto    | true       |
-| [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/04 - Vehicle Routing problem - MM.md\|04 - Vehicle Routing problem - MM]]                                         | 🪶 Scrivere | true       |
-| [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/LAB - AMPL/Lab 1 - Introduction to AMPL.md\|Lab 1 - Introduction to AMPL]]                                              | 🪶 Scrivere | true       |
-| [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/The SIMPLEX Method.md\|The SIMPLEX Method]]                                                                       | 🪶 Scrivere | true       |
-| [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/Traveling Salesman Problem.md\|Traveling Salesman Problem]]                                                       | 🟡 Finire   | true       |
+| [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/04 - Vehicle Routing problem - MM\|04 - Vehicle Routing problem - MM]]                                         | 🪶 Scrivere | true       |
+| [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/LAB - AMPL/Lab 1 - Introduction to AMPL\|Lab 1 - Introduction to AMPL]]                                              | 🪶 Scrivere | true       |
+| [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/The SIMPLEX Method\|The SIMPLEX Method]]                                                                       | 🪶 Scrivere | true       |
+| [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/Traveling Salesman Problem\|Traveling Salesman Problem]]                                                       | 🟡 Finire   | true       |
 
 { .block-language-dataview}
 
@@ -157,7 +157,7 @@ ___
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ---------- |
 | [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Assgm - MM/Assgm 0 - Introductory Excercise - MM\|Assgm 0 - Introductory Excercise - MM]]                   | 🟢 Fatto  | true       |
 | [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Assgm - MM/Assgm 2 - Traffic Assignment problem - MM\|Assgm 2 - Traffic Assignment problem - MM]]           | 🟢 Fatto  | true       |
-| [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Assgm - MM/Assgm 3 - Vehicle Routing Problem - MM.md\|Assgm 3 - Vehicle Routing Problem - MM]]                 | 🟡 Finire | true       |
+| [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Assgm - MM/Assgm 3 - Vehicle Routing Problem - MM\|Assgm 3 - Vehicle Routing Problem - MM]]                 | 🟡 Finire | true       |
 | [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Problems/P00 - Introduction to Network flows problems\|P00 - Introduction to Network flows problems]]       | 🟢 Fatto  | true       |
 | [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Problems/P01 - Min-cost problems and SIMPLEX method - MM\|P01 - Min-cost problems and SIMPLEX method - MM]] | 🟢 Fatto  | true       |
 
@@ -172,7 +172,7 @@ ___
 | File                                                                                                                             | Stato    | dg-publish |
 | -------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------- |
 | [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Past Exams/2020 - Final Exam - MM 1\|2020 - Final Exam - MM 1]] | 🟢 Fatto | true       |
-| [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Past Exams/2021 - Final Exam - MM.md\|2021 - Final Exam - MM]]     | 🔴 Fare  | true       |
+| [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Past Exams/2021 - Final Exam - MM\|2021 - Final Exam - MM]]     | 🔴 Fare  | true       |
 | [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Past Exams/2022 - Final Exam - MM\|2022 - Final Exam - MM]]     | 🟢 Fatto | true       |
 | [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Past Exams/2023 - Final Exam - MM\|2023 - Final Exam - MM]]     | 🟢 Fatto | true       |
 

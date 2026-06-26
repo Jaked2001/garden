@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q1/sustainable-transitions-and-responsible-innovation/teoria/03-responsible-research-and-innovation-stri/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q1/sustainable-transitions-and-responsible-innovation/teoria/03-responsible-research-and-innovation-stri/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"STRI","Tipo":"T","Stato":"🟠 Studiare","Slide":["[L3 - Responsible Research and Innovation - Slides - STRI.pdf](/img/user/Universit%C3%A0/Magistrale/2%C2%B0%20Anno/Q1/Sustainable%20Transitions%20&%20Responsible%20Innovation/Teoria/Allegati/L3%20-%20Responsible%20Research%20and%20Innovation%20-%20Slides%20-%20STRI.pdf)"],"PDF":null,"Parents":["[🌞 STRI]]"],"Children":null,"Siblings":null,"Cover":"[[Image-3.png](/img/user/Universit%C3%A0/Magistrale/2%C2%B0%20Anno/Q1/Sustainable%20Transitions%20&%20Responsible%20Innovation/%F0%9F%8C%9E%20Sustainable%20Transitions%20&%20Responsible%20Innovation.md)","tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/2° Anno/Q1/Sustainable Transitions & Responsible Innovation/Teoria/03 - Responsible Research and Innovation - STRI\|03 - Responsible Research and Innovation - STRI]]
@@ -238,10 +238,10 @@ It's based on perspective notion.
 AIRR: it has 4 dimensions.
 
 It's a framework for doing RRI.
-- [[#Anticipation]]
-- [[#Reflexivity]]
-- [[#Inclusion]]
-- [[#Responsiveness]]
+- [[Università/Magistrale/2° Anno/Q1/Sustainable Transitions & Responsible Innovation/Teoria/03 - Responsible Research and Innovation - STRI#Anticipation\|#Anticipation]]
+- [[Università/Magistrale/2° Anno/Q1/Sustainable Transitions & Responsible Innovation/Teoria/03 - Responsible Research and Innovation - STRI#Reflexivity\|#Reflexivity]]
+- [[Università/Magistrale/2° Anno/Q1/Sustainable Transitions & Responsible Innovation/Teoria/03 - Responsible Research and Innovation - STRI#Inclusion\|#Inclusion]]
+- [[Università/Magistrale/2° Anno/Q1/Sustainable Transitions & Responsible Innovation/Teoria/03 - Responsible Research and Innovation - STRI#Responsiveness\|#Responsiveness]]
 
 #### Anticipation
 
@@ -280,7 +280,7 @@ CRITIQUE:
 
 ### Responsiveness: agenda setting
 
-We've said [[#Responsiveness]] should not only be about changing circumstances but also in terms of setting and framing of the policy agendas and challenges technoscience and innovation should address.
+We've said [[Università/Magistrale/2° Anno/Q1/Sustainable Transitions & Responsible Innovation/Teoria/03 - Responsible Research and Innovation - STRI#Responsiveness\|#Responsiveness]] should not only be about changing circumstances but also in terms of setting and framing of the policy agendas and challenges technoscience and innovation should address.
 
 Focus on governance of intent is contested. Challenges principles of market governance and scientific autonomy.
 

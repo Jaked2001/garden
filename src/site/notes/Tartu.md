@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tartu/"}
+{"dg-publish":true,"permalink":"/tartu/","dg-note-properties":{"aliases":null,"Tipo":"Città","Stato":"[[🇪🇪 Estonia\|🇪🇪 Estonia]]","Parents":null,"Children":null,"Siblings":null,"Cover":null,"tags":null,"locations":""}}
 ---
 
 # [[Tartu\|Tartu]]

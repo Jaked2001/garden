@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/triennale/3-anno/2-semestre/analisi-ambientale-dei-sistemi-urbani-e-territoriali/06-metodologie-di-analisi-anasut/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/triennale/3-anno/2-semestre/analisi-ambientale-dei-sistemi-urbani-e-territoriali/06-metodologie-di-analisi-anasut/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Tipo":"T","Materia":"ANASUT","Stato":"🟢 Fatto","Parents":["[[👨‍🌾 Analisi ambientale dei sistemi urbani e territoriali]]"],"Children":null,"Siblings":null,"Slide":["[[06 - Metodologie di analisi - slide - ANASUT.pdf]]"],"PDF":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/06 - Metodologie di analisi - ANASUT\|06 - Metodologie di analisi - ANASUT]]
@@ -15,7 +15,7 @@ Ma tale oggetto, o specie di cose, non costituisce a mio avviso, una base per di
 
 Qual è il punto di partenza? Ritenerci ingegneri, oppure nasce dai problemi che dobbiamo investigare. Noi siamo risolutori di problemi.
 
-[[Popper]] ci invita non tanto ad aderire ad uno sguardo conformato rispetto ad un unico campo di sapere ma ci invita ad attraversare diversi campi di sapere.
+[[Popper\|Popper]] ci invita non tanto ad aderire ad uno sguardo conformato rispetto ad un unico campo di sapere ma ci invita ad attraversare diversi campi di sapere.
 
 Studiamo problematiche e la complessità dell'oggetto di studio passa attraverso i confini di diverse discipline.
 

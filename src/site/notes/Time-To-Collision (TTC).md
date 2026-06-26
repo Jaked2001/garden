@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/time-to-collision-ttc/"}
+{"dg-publish":true,"permalink":"/time-to-collision-ttc/","dg-note-properties":{"aliases":["TTC"],"Tipo":"Definizione","Stato":null,"Parents":null,"Children":["[[Risk of Conflict (ROC)|ROC]]"],"Siblings":["[[Time To Accident (TA)|TA]]"],"Cover":null,"tags":null}}
 ---
 
 # [[Time-To-Collision (TTC)\|Time-To-Collision (TTC)]]
@@ -7,10 +7,11 @@
 ```ad-Definizione
 title: Time To Collision (TTC)
 
-The time that remains until a collision between two vehicles would have occured if the collision course and speed difference are maintained (https://resolver.tudelft.nl/uuid:8fb40be7-fae1-4481-bc37-12a7411b85c7: a time-based analysis of read user behaviour in normal and critical encounters)
+The time that remains until a collision between two vehicles would have occured if the collision course and speed difference are maintained ([a time-based analysis of read user behaviour in normal and critical encounters](https://resolver.tudelft.nl/uuid:8fb40be7-fae1-4481-bc37-12a7411b85c7))
 
 **TTC** is the time until a colllision between the vehicles would occur if they kept their present course at their present rates ([[Università/Magistrale/Master Thesis/Literature/Intersection Safety Assessment Using Video-Based Traffic Conflict Analysis - The Case Study of Thailand\|Intersection Safety Assessment Using Video-Based Traffic Conflict Analysis - The Case Study of Thailand]])
 ```
+
 
 Source: 
 - 
@@ -37,6 +38,20 @@ where:
 - $S:$ conflict distance - relative distance from the position of vehicle taking the evasive action to the potential conflict point
 - $CS:$ conflict speed - speed of the relevant vehicle while taking the evasive action
 
+TTC = 0 --> the vehicles have collided
+
+```ad-example
+
+Car travelling at 90km/h (25 m/s). Approaching a truck at 36 km/h (10 m/s). Distance is 50 m. 
+
+$\Delta v = 15 \frac{m}{s}$
+$
+TTC = \frac{D}{\Delta v} = \frac{50}{15} = 3.3 \rm{s}
+$
+
+```
+
+
 
 ## Critical TTC values
 
@@ -44,7 +59,7 @@ Generally, TTC lower than the perception and reaction time should be considered 
 
 ![Screenshot 2026-02-11 at 12.25.29.png](/img/user/allegati/Screenshot%202026-02-11%20at%2012.25.29.png)
 
-Thresholds values according to [[Intersection Safety Assessment Using Video-Based Traffic Conflict Analysis - The Case Study of Thailand]]
+Thresholds values according to [[Università/Magistrale/Master Thesis/Literature/Intersection Safety Assessment Using Video-Based Traffic Conflict Analysis - The Case Study of Thailand\|Intersection Safety Assessment Using Video-Based Traffic Conflict Analysis - The Case Study of Thailand]]
 
 ![Screenshot 2026-02-12 at 11.35.31.png](/img/user/allegati/Screenshot%202026-02-12%20at%2011.35.31.png)
 

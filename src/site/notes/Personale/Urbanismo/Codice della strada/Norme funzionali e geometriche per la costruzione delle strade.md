@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/urbanismo/codice-della-strada/norme-funzionali-e-geometriche-per-la-costruzione-delle-strade/"}
+{"dg-publish":true,"permalink":"/personale/urbanismo/codice-della-strada/norme-funzionali-e-geometriche-per-la-costruzione-delle-strade/","dg-note-properties":{"aliases":["D. Min. 5 novembre 2001, n. 6792"],"Tipo":"Legge","Stato":null,"PDF":["[Norme Funzionali e geometriche per la costruzione delle strade - D. Min. 5-11-2001 n. 6792.pdf](/img/user/Personale/Urbanismo/Codice%20della%20strada/Allegati/Norme%20Funzionali%20e%20geometriche%20per%20la%20costruzione%20delle%20strade%20-%20D.%20Min.%205-11-2001%20n.%206792.pdf)"],"Parents":null,"Children":null,"Siblings":null,"Nome":"Decreto Ministeriale 5 novembre 2001, n. 6792","Tipologia":"[[Decreto Ministeriale]]","tags":null}}
 ---
 
 # [[Personale/Urbanismo/Codice della strada/Norme funzionali e geometriche per la costruzione delle strade\|Norme funzionali e geometriche per la costruzione delle strade]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/data-analysis-in-transport-systems/notes/lab-sess-1-2024-10-03-introduction-to-r-studio-dats/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/data-analysis-in-transport-systems/notes/lab-sess-1-2024-10-03-introduction-to-r-studio-dats/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"DATS","Tipo":"Lab","Stato":"🟢 Fatto","Slide":null,"PDF":["[MUM DATS Exercises.pdf](/img/user/MUM%20DATS%20Exercises.pdf)"],"Parents":["[[📊 Data Analysis in Transport Systems|📊 DATS]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/LabSess 1 - 2024-10-03 - Introduction to RStudio - DATS\|LabSess 1 - 2024-10-03 - Introduction to RStudio - DATS]]

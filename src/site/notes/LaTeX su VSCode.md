@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/la-te-x-su-vs-code/"}
+{"dg-publish":true,"permalink":"/la-te-x-su-vs-code/","dg-note-properties":{"aliases":["Download LaTeX","Come uso LaTeX","Usare LaTeX","LaTeX offline"],"Tipo":"Tutorial","Stato":null,"Parents":["[[LaTeX\|LaTeX]]"],"Children":null,"Siblings":["[[VSCode\|VSCode]]"],"tags":null}}
 ---
 
 # [[LaTeX su VSCode\|LaTeX su VSCode]]

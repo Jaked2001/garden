@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/traffic-simulation-models/notes/02-dynamic-network-loading-tsm/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/traffic-simulation-models/notes/02-dynamic-network-loading-tsm/","tags":["UNI"],"dg-note-properties":{"aliases":["DNL"],"Materia":"TSM","Tipo":"T","Stato":"🟢 Fatto","Slide":["[2 - Dynamic Network Loading - Slides - TSM.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Traffic%20Simulation%20Models/Notes/Allegati/2%20-%20Dynamic%20Network%20Loading%20-%20Slides%20-%20TSM.pdf)"],"PDF":null,"Parents":["[[🖥 Traffic Simulation Models|🖥 TSM]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/02 - Dynamic Network Loading - TSM\|02 - Dynamic Network Loading - TSM]]
@@ -133,7 +133,7 @@ Time is discretised. Links are divided into cells which can be either occupied b
 
 #### Iterated coupled maps
 
-**Iterated coupled maps** models fall in between [[#Time-continuous models]] and [[#Cellular automation]] models.
+**Iterated coupled maps** models fall in between [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/02 - Dynamic Network Loading - TSM#Time-continuous models\|#Time-continuous models]] and [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/02 - Dynamic Network Loading - TSM#Cellular automation\|#Cellular automation]] models.
 - **discrete** time
 - **continuous** space
 The update time is considered as an explicit model parameter rather than an auxiliary parameter needed for numerical integration

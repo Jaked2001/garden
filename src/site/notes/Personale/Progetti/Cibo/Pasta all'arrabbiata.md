@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/progetti/cibo/pasta-all-arrabbiata/","tags":["Ricetta/Primo/Pasta"]}
+{"dg-publish":true,"permalink":"/personale/progetti/cibo/pasta-all-arrabbiata/","tags":["Ricetta/Primo/Pasta"],"dg-note-properties":{"Tipo":"Ricetta","Autore":["[[GialloZafferano\|GialloZafferano]]"],"Portata":"Primo","TempoPreparazione":"15 min","TempoCottura":"25 min","Difficoltà":"🟢","Porzioni":"1","tags":["Ricetta/Primo/Pasta"],"Ultima_cucinata":"2024-11-16","Ingredienti":["[[Pasta]]","[[Pomodori pelati]]","[[Peperoncino secco]]","[[Prezzemolo]]"]}}
 ---
 
 # [[Personale/Progetti/Cibo/Pasta all'arrabbiata\|Pasta all'arrabbiata]]

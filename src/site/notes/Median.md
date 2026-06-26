@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/median/"}
+{"dg-publish":true,"permalink":"/median/","dg-note-properties":{"aliases":null,"Tipo":null,"Stato":null,"Parents":["[[Quartile]]","[[Percentile]]"],"Children":null,"Siblings":["[[Università/Triennale/3° Anno/2° Semestre/Idrologia/Appunti/04 - Statistica - Idro#Mediana\|04 - Statistica - Idro#Mediana]]","[[Università/Triennale/3° Anno/2° Semestre/Topografia e Positioning/Appunti/03 - Statistica in Topografia - TP#Mediana\|03 - Statistica in Topografia - TP#Mediana]]","[[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS#Median\|02 - Exploratory Data Analysis - DATS#Median]]"],"tags":null}}
 ---
 
 # [[Median\|Median]]

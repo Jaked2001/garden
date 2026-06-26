@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/progetti/cibo/ricette/ravioli-burro-e-salvia/"}
+{"dg-publish":true,"permalink":"/personale/progetti/cibo/ricette/ravioli-burro-e-salvia/","dg-note-properties":{"Tipo":"Ricetta","Autore":null,"Portata":"Primo","TempoPreparazione":"5 min","TempoCottura":"5 min","Difficoltà":"🟢","Porzioni":null,"Ingredienti":["[[Personale/Progetti/Cibo/Ingredienti/Ravioli di carne\|Ravioli di carne]]","[[Burro\|Burro]]","[[Salvia\|Salvia]]","[[Personale/Progetti/Cibo/Ingredienti/Parmigiano\|Parmigiano]]"],"Parents":["[[_Ricette]]"],"Children":null,"Siblings":null,"Ultima_cucinata":"2024-11-05"}}
 ---
 
 # [[Personale/Progetti/Cibo/Ricette/Ravioli burro e salvia\|Ravioli burro e salvia]]

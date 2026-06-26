@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/piano-regolatore-generale-di-roma/"}
+{"dg-publish":true,"permalink":"/piano-regolatore-generale-di-roma/","dg-note-properties":{"aliases":["PRG di Roma","PRG Roma"],"Tipo":null,"Stato":null,"Parents":["[[Piano Regolatore Generale|PRG]]"],"Children":null,"Siblings":null,"tags":null}}
 ---
 
 # [[Piano Regolatore Generale di Roma\|Piano Regolatore Generale di Roma]]

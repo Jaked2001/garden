@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/mobility-modeling/diario-mobility-modeling/"}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/mobility-modeling/diario-mobility-modeling/","dg-note-properties":{"aliases":["Diario MM"],"Tipo":"Diario","Materia":"MM","Parents":["[[📐 Mobility Modeling|📐 MM]]"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/📐📔 Diario Mobility Modeling\|📐📔 Diario Mobility Modeling]]
@@ -45,8 +45,8 @@ Updated calendar:
 - Min cost Flow Problem (exercise on pdf: Netflows Simplex)
 	- Problem P5
 	- Problem P6
-- Problem from slides: [[1.2 - The min-cost problem & the SIMPLEX algoritm - MM.pdf]] at page 37
-- Problem from slides: [[1.2 - The min-cost problem & the SIMPLEX algoritm - MM.pdf]] at page 41
+- Problem from slides: [1.2 - The min-cost problem & the SIMPLEX algoritm - MM.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Mobility%20Modeling/Notes/Allegati/1.2%20-%20The%20min-cost%20problem%20&%20the%20SIMPLEX%20algoritm%20-%20MM.pdf) at page 37
+- Problem from slides: [1.2 - The min-cost problem & the SIMPLEX algoritm - MM.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Mobility%20Modeling/Notes/Allegati/1.2%20-%20The%20min-cost%20problem%20&%20the%20SIMPLEX%20algoritm%20-%20MM.pdf) at page 41
 
 
 

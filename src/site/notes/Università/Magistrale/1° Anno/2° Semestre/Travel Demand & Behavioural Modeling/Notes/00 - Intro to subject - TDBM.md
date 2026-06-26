@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/travel-demand-and-behavioural-modeling/notes/00-intro-to-subject-tdbm/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/travel-demand-and-behavioural-modeling/notes/00-intro-to-subject-tdbm/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"TDBM","Tipo":"T","Stato":"🟢 Fatto","Slide":["[0 - Intro to the subject - TDBM.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Travel%20Demand%20&%20Behavioural%20Modeling/Notes/Allegati/0%20-%20Intro%20to%20the%20subject%20-%20TDBM.pdf)"],"PDF":null,"Parents":["[[🧠 Travel Demand & Behavioural Modeling|🧠 TDBM]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/00 - Intro to subject - TDBM\|00 - Intro to subject - TDBM]]
@@ -123,7 +123,7 @@ The stage 4 includes the evaluation of every scenario and alternatives
 
 ## Activity-based modeling
 
-This is an alternative approach from the [[#Classic 4 stage framework]], where the base unit of analysis is shifted from the trip and the **person** becomes the center of the modeling. In this approach we basically consider the whole day of a person and all the activity they do
+This is an alternative approach from the [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/00 - Intro to subject - TDBM#Classic 4 stage framework\|#Classic 4 stage framework]], where the base unit of analysis is shifted from the trip and the **person** becomes the center of the modeling. In this approach we basically consider the whole day of a person and all the activity they do
 
 ![Schermata 2025-02-19 alle 11.23.43.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Travel%20Demand%20&%20Behavioural%20Modeling/Notes/Allegati/Schermata%202025-02-19%20alle%2011.23.43.png)
 

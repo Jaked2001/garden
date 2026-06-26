@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nudging/"}
+{"dg-publish":true,"permalink":"/nudging/","dg-note-properties":{"aliases":null,"Tipo":"Definizione","Stato":null,"Parents":null,"Children":null,"Siblings":null,"tags":null}}
 ---
 
 # [[Nudging\|Nudging]]

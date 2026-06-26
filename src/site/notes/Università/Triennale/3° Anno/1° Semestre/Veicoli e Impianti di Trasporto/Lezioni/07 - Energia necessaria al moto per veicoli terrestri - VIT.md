@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/triennale/3-anno/1-semestre/veicoli-e-impianti-di-trasporto/lezioni/07-energia-necessaria-al-moto-per-veicoli-terrestri-vit/"}
+{"dg-publish":true,"permalink":"/universita/triennale/3-anno/1-semestre/veicoli-e-impianti-di-trasporto/lezioni/07-energia-necessaria-al-moto-per-veicoli-terrestri-vit/","dg-note-properties":{"aliases":null,"Materia":"VIT","Tipo":"T","Stato":"🟢 Fatto","Slide":["[7. Energia necessaria al moto per veicoli terrestri - VIT.pdf](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/7.%20Energia%20necessaria%20al%20moto%20per%20veicoli%20terrestri%20-%20VIT.pdf)"],"PDF":["[7. Il moto dei veicoli terrestri - VIT.pdf](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/7.%20Il%20moto%20dei%20veicoli%20terrestri%20-%20VIT.pdf)"],"Backlink":["[[🚲 Veicoli e impianti di trasporto]]"]}}
 ---
 
 # [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/07 - Energia necessaria al moto per veicoli terrestri - VIT\|07 - Energia necessaria al moto per veicoli terrestri - VIT]]
@@ -19,125 +19,35 @@ Altri libri di riferimento:
 - Leuzzi V., Fondamenti di trasporti - Appunti delle lezioni, facoltà di ingegneria di Roma
 - Scarponi P., Malavasi G., Fondamenti di trasporti - Applicazioni, Facoltà di Ingegneria di Roma
 
-
-
-# Diagramma Elementare del Moto
-
-Forze sul veicolo in movimento
-- [Forze motrici]
-- [Forze Frenanti]
-- [[Università/Triennale/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/03. Sostentazione e locomozione#Resistenze ordinarie\|Resistenze ordinarie]]
-- [[Università/Triennale/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/03. Sostentazione e locomozione#Resistenze Addizionali\|Resistenze addizionali]]
-
-## Fasi di sosta
-
-Si hanno quando
-$
-\begin{cases}
-v = 0 \\
-T- R = 0
-\end{cases}
-$
-## Fasi di movimento
-
-![Schermata 2024-02-08 alle 10.53.29.png](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Tecnica%20ed%20Economia%20dei%20Trasporti/Appunti/allegati/Schermata%202024-02-08%20alle%2010.53.29.png)
-
-Si hanno quando 
-$
-v \ne 0
-$
-Possono quindi verificarsi 4 casi:
-$
-\begin{cases}
-T - R = 0 &\quad v = \rm cost \\
-T - R < 0 &\quad v \searrow  \\
-T - R > 0 &\quad v \nearrow \\
-R > 0, T = 0 &\quad \rm Deriva
-\end{cases}
-$
-L'obiettivo è quello di risolvere l'[[Università/Triennale/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/03. Sostentazione e locomozione#Equazione generale del moto\|equazione generale del moto]]:
-$
-T(v) - R(v) - R(s) = m_{e}a = m_{e}\frac{dv}{dt}
-$
-dove:
-- $v, a =$ Velocità e Accelerazione
-- $T(v) =$ Sforzo di trazione
-- $R(v) =$ Resistenze ordinarie (rotolamento e aerodinamica)
-- $R(s) =$ Resistenze addizionali (livelletta e curva)
-- $m_{e} =$ Massa equivalente (che tiene conto di tutte le inerzie)
-- $\delta =$ Coefficiente di maggiorazione delle masse rotanti
-$
-m_{e} = m_{\rm tara} (1 + \delta) + m_{\rm carico} \approx m (1+\delta)
-$
-
-
-
-
-
-```ad-question
-- Perché dalla slide 92 non c'è più $R(s)$ ma poi ricompare nella 96??
-	- Formule prese da fonti diverse con diverse approx. Dovrebbe esserci semrpe.
-- Nella slide 96, la trazione e la resistenza sono calcolate in $v_{m}$? Se no, come posso levarle dall'integrale?????????
-	- Esatto
-
-```
-
-
-## Soluzione dell'equazione generale del moto
-
-Per conoscere il moto di un veicolo dobbiamo risolvere l'[[Università/Triennale/3° Anno/1° Semestre/Tecnica ed Economia dei Trasporti/Appunti/03. Sostentazione e locomozione#Equazione generale del moto\|equazione generale del moto]]. Per farlo la riscriviamo nella forma:
-$
-\frac{T(v) - R(v) - R(s)}{m_{e}}= \frac{dv}{dt}
-$
-che si può risolvere per separazione di variabili:
-$
-{dt}= m_{e} \frac{dv}{T(v) - R(v) - R(s)}
-$
-Questa andrebbe quindi integrata analiticamente restituendoci la funzione $v(t)$.
-In realtà è di nostro interesse conoscere la funzione $s(t)$ quindi, tenendo a mente la relazione
-$
-v dt = ds \Longrightarrow dt = \frac{ds}{v}
-$
-possiamo riscrivere
-$
-ds = m_{e} \frac{vdv}{T(v) - R(v) - R(s)}
-$
-Poiché però le resistenze e la trazione dipendono dalla velocità e di solito non conosciamo analiticamente questa dipendenza, dovremo fare uso di alcuni metodi numerici per risolvere l'equazione non analiticamente ma sfruttando metodi di risoluzione alle differenze finite.
-Potremmo principalmente adoperare 3 metodi distinti:
-- [[#Metodo $ Delta v$]]
-- [[#Metodo $ Delta s$]]
-- [[#Metodo $ Delta t$]]
-
-È infatti noto il diagramma $T-R$ su $V$:
-
-![Caratteristica meccanica e resistenza al moto - 04. Diagramma Elementare del Moto e Prestazioni del Veicolo Isolato 2023-10-22 19.46.55.excalidraw.png](/img/user/Excalidraw/Caratteristica%20meccanica%20e%20resistenza%20al%20moto%20-%2004.%20Diagramma%20Elementare%20del%20Moto%20e%20Prestazioni%20del%20Veicolo%20Isolato%202023-10-22%2019.46.55.excalidraw.png)
-
+ [[_Giornaliera/2023-10-16\|2023-10-16]] - [[Personale/Contatti/Luca Rizzetto\|Luca Rizzetto]]
+![[Recording 20231016185602.webm\|Recording 20231016185602.webm]]
+[🖋 Edit in Excalidraw]], and the [[04. Diagramma Elementare del Moto e Prestazioni del Veicolo Isolato 2023-10-22 19.46.55.excalidraw.dark.png\|dark exported image](/img/user/Excalidraw/Caratteristica%20meccanica%20e%20resistenza%20al%20moto%20-%2004.%20Diagramma%20Elementare%20del%20Moto%20e%20Prestazioni%20del%20Veicolo%20Isolato%202023-10-22%2019.46.55.excalidraw.md)%%
 
 ### Metodo $\Delta v$
 
 Consiste nel partire da intervalli finiti di velocità.
 Si scelgono $\Delta v$ abbastanza piccoli in modo che tra $v_{i}$ e $v_{f}$ non vi siano variazioni troppo marcate della grandezza $T(v)-R(v)$.
 Si hanno quindi le seguenti grandezze:
-$
+$$
 \begin{cases}
 v_i \\
 v_{f} = v_{i}+ \Delta v \\
 v_{m} = v_{i} + \frac{1}{2} \Delta v
 \end{cases}
-$
+$$
 Possiamo quindi ricavare il valore medio dell'accelerazione nell'intervallo 
-$
+$$
 \frac{\Delta v}{\Delta t} = a_{m} = \frac{T(v_{m})- R(v_{m})-R(s_{m})}{m(1+\delta)}
-$
+$$
 Una volta ricavata la $a_{m}$ si può facilmente trovare l'intervallo di tempo corrispondente:
-$
+$$
 \Delta t = \frac{{\Delta v}}{3.6 \cdot a_{m} }
-$
+$$
 dove il fattore $3.6$ è aggiunto per convertire da ore a secondi (Essendo la velocità espressa in $\rm \frac{km}{h}$)
 Si ricava quindi anche lo spazio percorso nell'intervallo di tempo considerato:
-$
+$$
 \Delta s = \frac{v_{m} \Delta t}{3.6}
-$
+$$
 
 ```ad-attention
 title: Attenzione
@@ -145,12 +55,12 @@ Facendo questa operazione si sta considerando la velocità costante e pari a $v_
 
 Siccome ho già supposto che l'accelerazione sia costante quando ho calcolato l'intervallo di tempo, posso pensare di trovare l'intervallo spaziale in un modo alternativo per ridurre gli errori commessi.
 A partire dall'equazione generale del moto posso scrivere
-$
+$$
 \begin{align}
 \int \Delta s &=  \frac{m_{e}}{T(v_{m})-R(v_{m})-R(s_{m})} \int_{v_{i}}^{v_{f}} \Delta v \\
 \Delta s &= \frac{ m_{e}}{T(v_{m})-R(v_{m})-R(s_{m})} \frac{v_{f}^{2}-v_{i}^{2}}{2 \cdot 3.6^{2}}
 \end{align}
-$
+$$
 
 ```
 
@@ -159,23 +69,23 @@ Il procedimento si ripete andando via via avanti nel moto. Nel farlo, dobbiamo c
 
 ### Metodo $\Delta s$
 
-Per ovviare al fatto che nel [[#Metodo $ Delta v$]] occorra ricalibrare gli intervalli in modo da evitare le variazioni di condizioni che si verificano lungo il tracciato, posso pensare di [[#Soluzione dell'equazione generale del moto|risolvere l'equazione generale del moto]] a partire proprio dai $\Delta s$.
-$
+Per ovviare al fatto che nel [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/07 - Energia necessaria al moto per veicoli terrestri - VIT#Metodo $ Delta v$\|#Metodo $ Delta v$]] occorra ricalibrare gli intervalli in modo da evitare le variazioni di condizioni che si verificano lungo il tracciato, posso pensare di [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/07 - Energia necessaria al moto per veicoli terrestri - VIT#Soluzione dell'equazione generale del moto\|risolvere l'equazione generale del moto]] a partire proprio dai $\Delta s$.
+$$
 \begin{cases}
 s_{i} \\
 s_{f} = s_{i} + \Delta s \\
 \end{cases}
-$
+$$
 Comincio con il trovare l'accelerazione iniziale da:
-$
+$$
 a_{i}= \frac{T(v_{i})-R(v_{i})}{m(1+\delta)}
-$
+$$
 
 È evidente che il metodo non è applicabile se parto con velocità iniziale nulla!!
 otterrei infatti:
-$
+$$
 \Delta t(1) = \frac{3.6\Delta s}{v_{i}}
-$
+$$
 che non posso calcolare se $v_{i} = 0$.
 
 
@@ -243,11 +153,11 @@ Per ovviare a questo problema gli organi di regolazione cercano di approssimare 
 
 ### Caratteristica di trazione artificiale
 
-Nei [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/08 - Motori - VIT\|motori endotermici]] la [[#Caratteristica di trazione ideale]] è ottenuta mediante l'utilizzo del **cambio di velocità**, il quale consente di modificare il rapporto di riduzione tra il motore e le ruote.
+Nei [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/08 - Motori - VIT\|motori endotermici]] la [[Università/Triennale/3° Anno/1° Semestre/Veicoli e Impianti di Trasporto/Lezioni/07 - Energia necessaria al moto per veicoli terrestri - VIT#Caratteristica di trazione ideale\|#Caratteristica di trazione ideale]] è ottenuta mediante l'utilizzo del **cambio di velocità**, il quale consente di modificare il rapporto di riduzione tra il motore e le ruote.
 
 In figura, è riportato l'andamento di una caratteristica di trazione per un veicolo con cambio a 4 marce:
 
-![Schermata 2024-02-08 alle 11.14.33.png|650](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202024-02-08%20alle%2011.14.33.png)
+![Schermata 2024-02-08 alle 11.14.33.png\|650](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/1%C2%B0%20Semestre/Veicoli%20e%20Impianti%20di%20Trasporto/Lezioni/allegati/Schermata%202024-02-08%20alle%2011.14.33.png)
 
 ### Stabilità della caratteristica di trazione
 

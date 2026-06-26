@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-center/"}
+{"dg-publish":true,"permalink":"/data-center/","dg-note-properties":{"aliases":null,"Tipo":"Definizione","Stato":null,"Parents":null,"Children":["[[W1 - Case selection - STRI]]"],"Siblings":null,"tags":null}}
 ---
 
 # [[Data Center\|Data Center]]

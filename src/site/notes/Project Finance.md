@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/project-finance/"}
+{"dg-publish":true,"permalink":"/project-finance/","dg-note-properties":{"aliases":null,"Tipo":"Definizione","Stato":null,"Parents":null,"Children":["[[Project Finance VS Corporate Finance]]"],"Siblings":["[[Corporate Finance]]"],"tags":null}}
 ---
 
 # [[Project Finance\|Project Finance]]

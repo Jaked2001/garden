@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/sustainable-mobility/notes/amb-bike-lanes-sm/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/sustainable-mobility/notes/amb-bike-lanes-sm/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"SM","Tipo":"T","Stato":"🟢 Fatto","Slide":null,"PDF":null,"Parents":["[[🚲 Sustainable Mobility|🚲 SM]]"],"Children":null,"Siblings":null,"tags":["UNI"],"Data":"2025-05-08","Con":null}}
 ---
 
 # [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/AMB Bike lanes - SM\|AMB Bike lanes - SM]]

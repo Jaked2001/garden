@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q1/large-scale-optimization-for-transport-and-mobility/diario-innovation-and-entrepreneurship-study/"}
+{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q1/large-scale-optimization-for-transport-and-mobility/diario-innovation-and-entrepreneurship-study/","dg-note-properties":{"aliases":null,"Tipo":"Diario","Materia":"IES","Parents":["[[🚀 Innovation & Entrepreneurship Study|🚀 IES]]"]}}
 ---
 
 

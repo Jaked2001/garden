@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/progetti/cibo/ricette/scaloppine-semplici/"}
+{"dg-publish":true,"permalink":"/personale/progetti/cibo/ricette/scaloppine-semplici/","dg-note-properties":{"Tipo":"Ricetta","Autore":null,"Portata":"Secondo","TempoPreparazione":"10 min","TempoCottura":"25 min","Difficoltà":"🟢","Porzioni":null,"Ingredienti":["[[Fettina di vitello]]","[[Vino bianco]]","[[Farina 00]]"]}}
 ---
 
 # [[Personale/Progetti/Cibo/Ricette/Scaloppine semplici\|Scaloppine semplici]]

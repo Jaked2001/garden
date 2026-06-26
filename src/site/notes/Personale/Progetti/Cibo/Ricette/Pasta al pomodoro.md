@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/progetti/cibo/ricette/pasta-al-pomodoro/"}
+{"dg-publish":true,"permalink":"/personale/progetti/cibo/ricette/pasta-al-pomodoro/","dg-note-properties":{"Tipo":"Ricetta","Autore":null,"Portata":"Primo","TempoPreparazione":"5 min","TempoCottura":"20 min","Difficoltà":"🟢","Porzioni":null,"Ingredienti":["[[Personale/Progetti/Cibo/Ingredienti/Salsa di pomodoro\|Salsa di pomodoro]]","[[Personale/Progetti/Cibo/Ingredienti/Pasta\|Pasta]]","[[Aglio\|Aglio]]","[[Sale]]","[[Personale/Progetti/Cibo/Ingredienti/Peperoncino secco\|Peperoncino secco]]","[[Personale/Progetti/Cibo/Ingredienti/Carota\|Carota]]"],"Parents":["[[_Ricette]]"],"Children":null,"Siblings":null,"Ultima_cucinata":"2024-11-17"}}
 ---
 
 # [[Personale/Progetti/Cibo/Ricette/Pasta al pomodoro\|Pasta al pomodoro]]

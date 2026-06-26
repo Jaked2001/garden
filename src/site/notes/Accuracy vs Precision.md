@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/accuracy-vs-precision/"}
+{"dg-publish":true,"permalink":"/accuracy-vs-precision/","dg-note-properties":{"aliases":["Accuratezza vs Precisione"],"Tipo":"Definizione","Stato":null,"Parents":["[[Accuracy\|Accuracy]]","[[Precision\|Precision]]"],"Children":null,"Siblings":null,"tags":null}}
 ---
 
 # [[Accuracy vs Precision\|Accuracy vs Precision]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/urbanismo/umx/designing-the-cycling-city-umx/designing-the-cycling-city-umx/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/personale/urbanismo/umx/designing-the-cycling-city-umx/designing-the-cycling-city-umx/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"DCC-UMX","Professore":null,"Tipo":"Corso","Stato":"🟣","Voto":null,"Anno":2025,"Semestre":null,"Parents":["[[Esami]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 

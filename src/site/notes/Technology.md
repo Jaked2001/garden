@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/"}
+{"dg-publish":true,"permalink":"/technology/","dg-note-properties":{"aliases":null,"Tipo":"Definizione","Stato":null,"Parents":["[[01 - Intro - STRI]]"],"Children":null,"Siblings":null,"Cover":null,"tags":null}}
 ---
 
 # [[Technology\|Technology]]

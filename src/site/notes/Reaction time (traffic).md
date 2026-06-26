@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reaction-time-traffic/"}
+{"dg-publish":true,"permalink":"/reaction-time-traffic/","dg-note-properties":{"aliases":null,"Tipo":null,"Stato":null,"Parents":null,"Children":["[[04 - Microscopic traffic flow modeling - OMT]]"],"Siblings":null,"tags":null}}
 ---
 
 # [[Reaction time (traffic)\|Reaction time (traffic)]]

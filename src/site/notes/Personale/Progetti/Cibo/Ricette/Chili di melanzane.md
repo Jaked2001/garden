@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/progetti/cibo/ricette/chili-di-melanzane/"}
+{"dg-publish":true,"permalink":"/personale/progetti/cibo/ricette/chili-di-melanzane/","dg-note-properties":{"aliases":null,"Tipo":"Ricetta","Autore":["[[@Cotto al Dente\|@Cotto al Dente]]"],"URL":"https://youtu.be/9PVnoh4LmmY?si=buu8FwGzigdSS2gr&t=340","Portata":"Unica","TempoPreparazione":"15 min","TempoCottura":"30 min","Difficoltà":"🟢","Porzioni":"4","Ingredienti":null,"Parents":["[[_Ricette]]"],"Children":null,"Siblings":null,"Ultimo_cucinato":null,"Cover":"[[Screenshot 2025-09-22 at 17.06.17.png]]"}}
 ---
 
 # [[Personale/Progetti/Cibo/Ricette/Chili di melanzane\|Chili di melanzane]]

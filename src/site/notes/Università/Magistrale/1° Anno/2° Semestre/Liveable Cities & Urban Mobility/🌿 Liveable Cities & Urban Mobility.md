@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/liveable-cities-and-urban-mobility/liveable-cities-and-urban-mobility/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/liveable-cities-and-urban-mobility/liveable-cities-and-urban-mobility/","tags":["UNI"],"dg-note-properties":{"aliases":["🌿 LC","LC"],"Materia":"LC","Professore":null,"Tipo":"Corso","Stato":"🟢","Voto":"8.20","Anno":1,"Semestre":2,"Laurea":"Master","Parents":["[[Esami]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 

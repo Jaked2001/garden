@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/operation-and-management-of-transport-systems/notes/00-course-introduction-omt/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/operation-and-management-of-transport-systems/notes/00-course-introduction-omt/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"OMT","Tipo":"T","Stato":"🟢 Fatto","Slide":null,"PDF":null,"Parents":["[[🚦 Operation & Management of Transport Systems|🚦 OMT]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/00 - Course introduction - OMT\|00 - Course introduction - OMT]]

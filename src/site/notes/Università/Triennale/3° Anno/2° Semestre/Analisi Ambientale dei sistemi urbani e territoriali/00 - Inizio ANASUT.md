@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/triennale/3-anno/2-semestre/analisi-ambientale-dei-sistemi-urbani-e-territoriali/00-inizio-anasut/"}
+{"dg-publish":true,"permalink":"/universita/triennale/3-anno/2-semestre/analisi-ambientale-dei-sistemi-urbani-e-territoriali/00-inizio-anasut/","dg-note-properties":{"aliases":["00 - Inizio ANASUT"],"Materia":"ANASUT","Tipo":"T","Stato":"🟢 Fatto","Slide":["[0 - Intro Corso Analisi - ANASUT.pdf](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/2%C2%B0%20Semestre/Analisi%20Ambientale%20dei%20sistemi%20urbani%20e%20territoriali/allegati/0%20-%20Intro%20Corso%20Analisi%20-%20ANASUT.pdf)"],"PDF":null,"Parents":["[[👨‍🌾 Analisi ambientale dei sistemi urbani e territoriali]]"],"Children":null}}
 ---
 
 # [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT\|00 - Inizio ANASUT]]
@@ -9,8 +9,8 @@
 # Conoscenza
 
 Ci sono 2 tipologia di conoscenza differenti:
-- [[#Conoscenza professionale]]
-- [[#Conoscenza ordinaria]]
+- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT#Conoscenza professionale\|#Conoscenza professionale]]
+- [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT#Conoscenza ordinaria\|#Conoscenza ordinaria]]
 
 ## Conoscenza ordinaria e professionale
 ### Conoscenza professionale
@@ -40,10 +40,10 @@ La conoscenza ordinaria è di tutti, anche i professionisti vi ricorrono.
 
 ## Chi è portatore di quale conoscenza?
 
-Un professionista è portatore di [[#Conoscenza professionale]]. È portatore anche di [[#Conoscenza ordinaria]].
+Un professionista è portatore di [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT#Conoscenza professionale\|#Conoscenza professionale]]. È portatore anche di [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT#Conoscenza ordinaria\|#Conoscenza ordinaria]].
 L'ingegnere che interpelliamo è anche portatore di conoscenza ordinaria.
 
-Gli abitanti di un luogo, sono portatori **solo** di una [[#Conoscenza ordinaria]]? No, possono anche loro avere competenze tecnico-scientifiche.
+Gli abitanti di un luogo, sono portatori **solo** di una [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT#Conoscenza ordinaria\|#Conoscenza ordinaria]]? No, possono anche loro avere competenze tecnico-scientifiche.
 
 ## Friedmann's Mutual Learning
 
@@ -54,15 +54,15 @@ Individua una crisi duale nella società [[post-industriale\|post-industriale]]:
 - Crisi dei valori
 - Crisi della conoscenza
 	- Polarizzazione tra esperti e attori (pianificatori e abitanti).
-	- Mancanza di riconoscimento e legittimazione di forme di [[#Conoscenza ordinaria]] nella pianificazione
+	- Mancanza di riconoscimento e legittimazione di forme di [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT#Conoscenza ordinaria\|#Conoscenza ordinaria]] nella pianificazione
 	- Autoreferenzialità del mondo tecnico-scientifico: parla un linguaggio inaccessibile per i fruitori di un progetto di trasformazione
 		- Più il linguaggio diventa tecnico e più si perde il contatto con gli attori di un progetto
 
-[[John Friedmann\|John Friedmann]] ritiene che né la [[#Conoscenza ordinaria]] né la [[#Conoscenza professionale]] possano portare da sole tutte le risposte necessarie alla risoluzione dei problemi. Teorizza quindi che la via per andare avanti sia di un [[#Apprendimento reciproco]]
+[[John Friedmann\|John Friedmann]] ritiene che né la [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT#Conoscenza ordinaria\|#Conoscenza ordinaria]] né la [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT#Conoscenza professionale\|#Conoscenza professionale]] possano portare da sole tutte le risposte necessarie alla risoluzione dei problemi. Teorizza quindi che la via per andare avanti sia di un [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT#Apprendimento reciproco\|#Apprendimento reciproco]]
 
 ### Apprendimento reciproco
 
-Produttori di una [[#Conoscenza professionale]] **devono imparare** da portatori di [[#Conoscenza ordinaria]] e **viceversa**.
+Produttori di una [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT#Conoscenza professionale\|#Conoscenza professionale]] **devono imparare** da portatori di [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/00 - Inizio ANASUT#Conoscenza ordinaria\|#Conoscenza ordinaria]] e **viceversa**.
 
 Il contesto che abbiamo l'ambizione di costruire prevede che qualcuno impari da qualcun altro.
 

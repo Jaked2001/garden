@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/personale/progetti/cibo/maionese-vegana/"}
+{"dg-publish":true,"permalink":"/personale/progetti/cibo/maionese-vegana/","dg-note-properties":{"Tipo":"Ricetta","Portata":"Salsa","TempoPreparazione":"7 min","TempoCottura":null,"Difficoltà":"🟢"}}
 ---
 
 # Maionese Vegana
 Fonte: https://www.instagram.com/reel/CqvmVp1oZ8C/?igshid=MzRlODBiNWFlZA==
 [[@amicavegetariana\|@amicavegetariana]]
 
-![Schermata 2024-10-30 alle 15.06.04.png|350](/img/user/Schermata%202024-10-30%20alle%2015.06.04.png)
+![Schermata 2024-10-30 alle 15.06.04.png\|350](/img/user/Schermata%202024-10-30%20alle%2015.06.04.png)
 
 ### Ingredienti
 

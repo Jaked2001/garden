@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/travel-demand-and-behavioural-modeling/diario-travel-demand-and-behavioural-modeling/"}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/travel-demand-and-behavioural-modeling/diario-travel-demand-and-behavioural-modeling/","dg-note-properties":{"aliases":["Diario TDBM","🧠📔 Diario TDBM"],"Tipo":"Diario","Materia":"TDBM","Parents":["[[🧠 Travel Demand & Behavioural Modeling|🧠 TDBM]]"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/🧠📔 Diario Travel Demand & Behavioural Modeling\|🧠📔 Diario Travel Demand & Behavioural Modeling]]

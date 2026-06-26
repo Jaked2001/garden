@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hamiltonian-path/"}
+{"dg-publish":true,"permalink":"/hamiltonian-path/","dg-note-properties":{"aliases":null,"Tipo":"Definizione","Stato":null,"Parents":["[[Heuristic]]"],"Children":null,"Siblings":["[[Hamiltonian circuit|Hamiltonian cycle]]"],"tags":null}}
 ---
 
 # [[Hamiltonian path\|Hamiltonian path]]

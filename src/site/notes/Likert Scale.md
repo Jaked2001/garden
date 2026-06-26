@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/likert-scale/"}
+{"dg-publish":true,"permalink":"/likert-scale/","dg-note-properties":{"aliases":null,"Tipo":"Definizione","Stato":null,"Parents":["[[02 - Data and Space - TDBM#Transit operator - satisfaction surveys]]"],"Children":null,"Siblings":null,"tags":null}}
 ---
 
 # [[Likert Scale\|Likert Scale]]

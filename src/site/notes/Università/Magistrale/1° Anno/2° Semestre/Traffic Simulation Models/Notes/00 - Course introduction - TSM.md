@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/traffic-simulation-models/notes/00-course-introduction-tsm/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/traffic-simulation-models/notes/00-course-introduction-tsm/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"TSM","Tipo":"T","Stato":"🟢 Fatto","Slide":["[0 - Course introduction - TSM.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Traffic%20Simulation%20Models/Notes/Allegati/0%20-%20Course%20introduction%20-%20TSM.pdf)"],"PDF":null,"Parents":["[[🖥 Traffic Simulation Models|🖥 TSM]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/Notes/00 - Course introduction - TSM\|00 - Course introduction - TSM]]

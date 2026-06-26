@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/operation-and-management-of-transport-systems/operation-and-management-of-transport-systems/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/operation-and-management-of-transport-systems/operation-and-management-of-transport-systems/","tags":["UNI"],"dg-note-properties":{"aliases":["Operation & Management of Transport Systems","🚦 OMT"],"Materia":"OMT","Professore":"[[Francesc Soriguera\|Francesc Soriguera]]","Tipo":"Corso","Stato":"🟢","Voto":"9","Anno":1,"Semestre":1,"Laurea":"Master","Parents":["[[Esami]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/🚦 Operation & Management of Transport Systems\|🚦 Operation & Management of Transport Systems]]
@@ -15,7 +15,7 @@
 - https://atenea.upc.edu/course/view.php?id=94494
 - There is one with just figures to better follow in class
 - Deeper (not needed): [[Fundamentals of transportation and traffic operations\|Fundamentals of transportation and traffic operations]], Daganzo, C.
-**🅿️ Programma:** [[1.1 - Operation & Management of Transport Systems - M5.pdf]]
+**🅿️ Programma:** [1.1 - Operation & Management of Transport Systems - M5.pdf](/img/user/1.1%20-%20Operation%20&%20Management%20of%20Transport%20Systems%20-%20M5.pdf)
 **🔑 Atenea:** https://atenea.upc.edu/course/search.php 250MUM012 - Soriguera24
 
 **🕰 Orario:**
@@ -121,7 +121,6 @@ ___
 | File                                                                                                                                                                                          | Tipo     | Stato       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------- |
 | [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Mini-Project/Mini Project presentation - OMT.md\|Mini Project presentation - OMT]]                    | Discorso | 🟡 Finire   |
-| [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Mini-Project/Mini Project - OMT.md\|Mini Project - OMT]]                                              | Progetto | 🟡 Finire   |
 | [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/04 - Microscopic traffic flow modeling - OMT\|04 - Microscopic traffic flow modeling - OMT]] | T        | 🪶 Scrivere |
 
 { .block-language-dataview}
@@ -149,7 +148,7 @@ ___
 | [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/01 - Introduction to trajectories Analysis - OMT\|01 - Introduction to trajectories Analysis - OMT]] | 🟢 Fatto    |
 | [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/02 - Fundamentals fo Queuing Theory - OMT\|02 - Fundamentals fo Queuing Theory - OMT]]               | 🟢 Fatto    |
 | [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/03 - Fundamentals of traffic flow modeling - OMT\|03 - Fundamentals of traffic flow modeling - OMT]] | 🟢 Fatto    |
-| [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/04 - Microscopic traffic flow modeling - OMT.md\|04 - Microscopic traffic flow modeling - OMT]]         | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/1° Semestre/Operation & Management of Transport Systems/Notes/04 - Microscopic traffic flow modeling - OMT\|04 - Microscopic traffic flow modeling - OMT]]         | 🪶 Scrivere |
 
 { .block-language-dataview}
  

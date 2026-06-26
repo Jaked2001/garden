@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/project-based-on-an-innovation-challenge/diario-project-based-on-an-innovation-challenge/"}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/project-based-on-an-innovation-challenge/diario-project-based-on-an-innovation-challenge/","dg-note-properties":{"aliases":["💡📔 Diario IE"],"Tipo":"Diario","Materia":"PBIC","Parents":["[[💡 Project Based on an Innovation Challenge]]"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/💡📔 Diario Project Based on an Innovation Challenge\|💡📔 Diario Project Based on an Innovation Challenge]]

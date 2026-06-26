@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/innovation-and-entrepreneurship-for-world-challenges/challenges/challenge-1-reduce-contamination-to-cyclists/"}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/innovation-and-entrepreneurship-for-world-challenges/challenges/challenge-1-reduce-contamination-to-cyclists/","dg-note-properties":{"aliases":["Esercitazione"],"Materia":"IE","Tipo":"Es","Stato":"🟢 Fatto","PDF":null,"Data":"2024-10-11","Parents":["[[💡 Innovation & Entrepreneurship for world challenges|💡 IE]]","[[_Viaggi]]"],"Children":null,"Siblings":null,"tags":null}}
 ---
 
 

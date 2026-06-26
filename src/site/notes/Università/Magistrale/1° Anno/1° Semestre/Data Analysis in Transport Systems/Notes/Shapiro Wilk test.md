@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/data-analysis-in-transport-systems/notes/shapiro-wilk-test/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/data-analysis-in-transport-systems/notes/shapiro-wilk-test/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"DATS","Tipo":"T","Stato":"🟢 Fatto","Slide":null,"PDF":null,"Parents":["[[📊 Data Analysis in Transport Systems|📊 DATS]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/Shapiro Wilk test\|Shapiro Wilk test]]

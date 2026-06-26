@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/heuristic/"}
+{"dg-publish":true,"permalink":"/heuristic/","dg-note-properties":{"aliases":null,"Tipo":"Definizione","Stato":null,"Parents":["[[Introduzione Ricerca Operativa]]","[[04 - Vehicle Routing problem - MM]]","[[Traveling Salesman Problem]]"],"Children":null,"Siblings":null,"tags":null}}
 ---
 
 # [[Heuristic\|Heuristic]]

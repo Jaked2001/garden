@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/project-based-on-an-innovation-challenge/project-based-on-an-innovation-challenge/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/project-based-on-an-innovation-challenge/project-based-on-an-innovation-challenge/","tags":["UNI"],"dg-note-properties":{"aliases":["💡 PBIC","Project based on a innovation challenge"],"Materia":"PBIC","Professore":null,"Tipo":"Corso","Stato":"🟢","Voto":"8.5","Anno":1,"Semestre":2,"Laurea":"Master","Parents":["[[Esami]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 
@@ -73,7 +73,7 @@ ___
 | File                                                                                                                                                                                             | Tipo     | Stato       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ----------- |
 | [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Speech for final presentation\|Speech for final presentation]]                                           | Discorso | 🟢 Fatto    |
-| [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Project/Challenge - SmartRide - PBIC\|Challenge - SmartRide - PBIC]]                                     | Progetto | 🟡 Finire   |
+| [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Project/Challenge - SmartRide - PBIC\|Challenge - SmartRide - PBIC]]                                     | Progetto | 🟢 Fatto    |
 | [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/02 - Validating Ideas for Urban Mobility - PBIC\|02 - Validating Ideas for Urban Mobility - PBIC]] | T        | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/06 - Agustin Andujar - LC\|06 - Agustin Andujar - LC]]                                             | T        | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/Sustainability reporting - PBIC\|Sustainability reporting - PBIC]]                                 | T        | 🟢 Fatto    |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/frank-wolfe-method/"}
+{"dg-publish":true,"permalink":"/frank-wolfe-method/","dg-note-properties":{"aliases":null,"Tipo":"Metodo","Stato":null,"Parents":["[[📐 Mobility Modeling|📐 MM]]","[[02 - Traffic Assignment Problem - MM]]"],"Children":null,"Siblings":null,"tags":null}}
 ---
 
 # [[Frank-Wolfe Method\|Frank-Wolfe Method]]
@@ -91,4 +91,4 @@ $
 
 ## 4. Update
 
-After having found $\alpha^{*}$ is time to update the solution to the next step: $\mathbf{x}^{(k)}$ and repeat the method from step [[#0. Find a feasible solution]]
+After having found $\alpha^{*}$ is time to update the solution to the next step: $\mathbf{x}^{(k)}$ and repeat the method from step [[Frank-Wolfe Method#0. Find a feasible solution\|#0. Find a feasible solution]]

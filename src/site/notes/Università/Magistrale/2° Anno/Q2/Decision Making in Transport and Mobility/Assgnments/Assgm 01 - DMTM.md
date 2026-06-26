@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q2/decision-making-in-transport-and-mobility/assgnments/assgm-01-dmtm/"}
+{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q2/decision-making-in-transport-and-mobility/assgnments/assgm-01-dmtm/","dg-note-properties":{"aliases":[],"Materia":"DMTM","Tipo":"Assgm","Stato":"🟢 Fatto","PDF":["[Assgm 01 - DMTM.pdf](/img/user/Universit%C3%A0/Magistrale/2%C2%B0%20Anno/Q2/Decision%20Making%20in%20Transport%20and%20Mobility/Assgnments/Allegati/Assgm%2001%20-%20DMTM.pdf)"],"Data":"2025-11-27T13:00:00","Parents":["[[🧩 Decision Making in Transport and Mobility|🧩 DMTM]]"],"Children":null,"Siblings":null,"tags":null,"Voto":"88/100"}}
 ---
 
 

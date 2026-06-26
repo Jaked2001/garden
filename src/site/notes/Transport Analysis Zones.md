@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transport-analysis-zones/"}
+{"dg-publish":true,"permalink":"/transport-analysis-zones/","dg-note-properties":{"aliases":["TAZ"],"Tipo":"Definizione","Stato":null,"Parents":["[[00 - Intro to subject - TDBM]]"],"Children":null,"Siblings":null,"tags":null}}
 ---
 
 # [[Transport Analysis Zones\|Transport Analysis Zones]]

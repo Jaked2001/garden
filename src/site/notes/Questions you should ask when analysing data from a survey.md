@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/questions-you-should-ask-when-analysing-data-from-a-survey/"}
+{"dg-publish":true,"permalink":"/questions-you-should-ask-when-analysing-data-from-a-survey/","dg-note-properties":{"aliases":null,"Tipo":null,"Stato":null,"Parents":["[[02 - Data and Space - TDBM]]"],"Children":null,"Siblings":null,"tags":null}}
 ---
 
 # [[Questions you should ask when analysing data from a survey\|Questions you should ask when analysing data from a survey]]

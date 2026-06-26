@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/mobility-modeling/assgm-mm/assgm-3-vehicle-routing-problem-mm/"}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/mobility-modeling/assgm-mm/assgm-3-vehicle-routing-problem-mm/","dg-note-properties":{"aliases":null,"Materia":"MM","Tipo":"Es","Stato":"🟡 Finire","PDF":null,"Data":"2025-01-10","Parents":["[[📐 Mobility Modeling|📐 MM]]"],"Children":null,"Siblings":null,"tags":null}}
 ---
 
 

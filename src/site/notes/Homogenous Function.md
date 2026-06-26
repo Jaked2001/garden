@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homogenous-function/"}
+{"dg-publish":true,"permalink":"/homogenous-function/","dg-note-properties":{"aliases":null,"Tipo":"Definizione","Stato":null,"Parents":null,"Siblings":null,"Children":["[[01 - Production and cost functions in transport - DME#Homogeneity of the cost function]]"],"tags":null}}
 ---
 
 # [[Homogenous Function\|Homogenous Function]]

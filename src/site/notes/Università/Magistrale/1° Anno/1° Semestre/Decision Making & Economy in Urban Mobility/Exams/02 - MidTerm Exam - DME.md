@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/decision-making-and-economy-in-urban-mobility/exams/02-mid-term-exam-dme/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/decision-making-and-economy-in-urban-mobility/exams/02-mid-term-exam-dme/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Tipo":"Esame","Data":null,"Materia":"DME","Stato":"🟢 Fatto","PDF":["[2 - MidTerm - DME.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Decision%20Making%20&%20Economy%20in%20Urban%20Mobility/Exams/Allegati/2%20-%20MidTerm%20-%20DME.pdf)"],"Parents":["[[💼 Decision making & Economy in Urban Mobility|💼 DME]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 

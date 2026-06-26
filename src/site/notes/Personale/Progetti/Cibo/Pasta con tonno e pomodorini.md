@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/progetti/cibo/pasta-con-tonno-e-pomodorini/"}
+{"dg-publish":true,"permalink":"/personale/progetti/cibo/pasta-con-tonno-e-pomodorini/","dg-note-properties":{"Tipo":"Ricetta","Autore":["[[GialloZafferano]]"],"Portata":"Primo","TempoPreparazione":"10 min","TempoCottura":"25 min","Difficoltà":"🟢","Porzioni":"1"}}
 ---
 
 # [[Personale/Progetti/Cibo/Pasta con tonno e pomodorini\|Pasta con tonno e pomodorini]]

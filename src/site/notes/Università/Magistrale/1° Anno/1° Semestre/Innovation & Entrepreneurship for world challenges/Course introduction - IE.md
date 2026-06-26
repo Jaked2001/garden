@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/innovation-and-entrepreneurship-for-world-challenges/course-introduction-ie/"}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/innovation-and-entrepreneurship-for-world-challenges/course-introduction-ie/","dg-note-properties":{"aliases":null,"Tipo":null,"Materia":"IE","Stato":"🟢 Fatto","Parents":["[[💡 Innovation & Entrepreneurship for world challenges|💡 IE]]"],"Children":null,"Siblings":null,"tags":null}}
 ---
 
 # [[Università/Magistrale/1° Anno/1° Semestre/Innovation & Entrepreneurship for world challenges/Course introduction - IE\|Course introduction - IE]]

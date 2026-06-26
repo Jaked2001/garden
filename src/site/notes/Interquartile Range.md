@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/interquartile-range/"}
+{"dg-publish":true,"permalink":"/interquartile-range/","dg-note-properties":{"aliases":["IQR"],"Tipo":null,"Stato":null,"Parents":["[[Quartile]]"],"Children":null,"Siblings":null,"tags":null}}
 ---
 
 # [[Interquartile Range\|Interquartile Range]]

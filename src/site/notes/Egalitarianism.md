@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/egalitarianism/"}
+{"dg-publish":true,"permalink":"/egalitarianism/","dg-note-properties":{"aliases":null,"Tipo":"Definizione","Stato":null,"Parents":null,"Children":null,"Siblings":null,"Cover":null,"tags":null}}
 ---
 
 # [[Egalitarianism\|Egalitarianism]]

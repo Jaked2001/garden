@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q1/innovation-and-entrepreneurship-study/innovation-and-entrepreneurship-study/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q1/innovation-and-entrepreneurship-study/innovation-and-entrepreneurship-study/","tags":["UNI"],"dg-note-properties":{"aliases":["🚀 IES"],"Materia":"IES","Professore":null,"Tipo":"Corso","Stato":"🟢","Voto":"7.1","Anno":2,"Semestre":1.1,"Laurea":"Master","Parents":["[[Esami]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 
@@ -128,7 +128,7 @@ ___
 | [[Università/Magistrale/2° Anno/Q1/Innovation and Entrepreneurship Study/2025-09-24 - Interview to Jaimie about biking - IES\|2025-09-24 - Interview to Jaimie about biking - IES]] | 🟢 Fatto  |
 | [[Università/Magistrale/2° Anno/Q1/Innovation and Entrepreneurship Study/Competitors analysis - MoreMovement\|Competitors analysis - MoreMovement]]                                 | 🟡 Finire |
 | [[Università/Magistrale/2° Anno/Q1/Innovation and Entrepreneurship Study/Cycling pain points for MoreMovement\|Cycling pain points for MoreMovement]]                               | 🟢 Fatto  |
-| [[Università/Magistrale/2° Anno/Q1/Innovation and Entrepreneurship Study/Project - MoreMovement\|Project - MoreMovement]]                                                           | 🟡 Finire |
+| [[Università/Magistrale/2° Anno/Q1/Innovation and Entrepreneurship Study/Project - MoreMovement\|Project - MoreMovement]]                                                           | 🟢 Fatto  |
 
 { .block-language-dataview}
 

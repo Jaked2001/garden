@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/progetti/cibo/spaghetti-aglio-e-olio/","tags":["Ricetta/Primo/Pasta"]}
+{"dg-publish":true,"permalink":"/personale/progetti/cibo/spaghetti-aglio-e-olio/","tags":["Ricetta/Primo/Pasta"],"dg-note-properties":{"Tipo":"Ricetta","Autore":null,"Portata":"Primo","TempoPreparazione":null,"TempoCottura":null,"Difficoltà":"🟢","Porzioni":null,"tags":["Ricetta/Primo/Pasta"],"Parents":["[[_Ricette]]"]}}
 ---
 
 # [[Personale/Progetti/Cibo/Spaghetti aglio e olio\|Spaghetti aglio e olio]]

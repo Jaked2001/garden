@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/qgis/"}
+{"dg-publish":true,"permalink":"/qgis/","dg-note-properties":{"aliases":null,"Tipo":"Software","Stato":null,"Parents":null,"Children":["[[🌍 GIS 1 & 2]]"],"Siblings":null,"tags":null}}
 ---
 
  # [[QGIS\|QGIS]]

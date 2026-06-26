@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/sustainable-mobility/notes/00-course-introduction-sm/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/sustainable-mobility/notes/00-course-introduction-sm/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"SM","Tipo":"T","Stato":"🟢 Fatto","Slide":["[0 - Course introduction - SM.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Sustainable%20Mobility/Notes/Allegati/0%20-%20Course%20introduction%20-%20SM.pdf)"],"PDF":null,"Parents":["[[🚲 Sustainable Mobility|🚲 SM]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/00 - Course introduction - SM\|00 - Course introduction - SM]]
@@ -98,7 +98,7 @@ It should also disclose the **limitations** of our study and explain how/what to
 
 ### How to present the work
 
-read slides: [[0 - Course introduction - SM.pdf#page=16&selection=0,0,9,4|0 - Course introduction - SM, page 16]]
+read slides: [0 - Course introduction - SM, page 16](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Sustainable%20Mobility/Notes/Allegati/0%20-%20Course%20introduction%20-%20SM.pdf)
 
 ### Some past examples
 

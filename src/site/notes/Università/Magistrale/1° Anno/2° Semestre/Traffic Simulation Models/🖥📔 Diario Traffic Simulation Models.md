@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/traffic-simulation-models/diario-traffic-simulation-models/"}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/traffic-simulation-models/diario-traffic-simulation-models/","dg-note-properties":{"aliases":["Diario TSM","🖥📔 Diario TSM"],"Tipo":"Diario","Materia":"TSM","Parents":["[[🖥 Traffic Simulation Models|🖥 TSM]]"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/2° Semestre/Traffic Simulation Models/🖥📔 Diario Traffic Simulation Models\|🖥📔 Diario Traffic Simulation Models]]

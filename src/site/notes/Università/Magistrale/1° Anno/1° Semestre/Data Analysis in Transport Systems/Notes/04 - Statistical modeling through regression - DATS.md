@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/data-analysis-in-transport-systems/notes/04-statistical-modeling-through-regression-dats/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/data-analysis-in-transport-systems/notes/04-statistical-modeling-through-regression-dats/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"DATS","Tipo":"T","Stato":"🪶 Scrivere","Slide":["[4.1 - Modeling through Regression - DATS.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Data%20Analysis%20in%20Transport%20Systems/Notes/Allegati/4.1%20-%20Modeling%20through%20Regression%20-%20DATS.pdf)"],"PDF":null,"Parents":["[[📊 Data Analysis in Transport Systems|📊 DATS]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/04 - Statistical modeling through regression - DATS\|04 - Statistical modeling through regression - DATS]]
@@ -52,51 +52,7 @@ summary(m1)
 Then we do a summary of the model
 
 ![04 - Statistical modeling through regression - DATS 2025-01-09 16.54.29.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Data%20Analysis%20in%20Transport%20Systems/Notes/Allegati/04%20-%20Statistical%20modeling%20through%20regression%20-%20DATS%202025-01-09%2016.54.29.excalidraw.png)
-
-
-**FISHER-ANOVA:**
-We can try making a new model with less variables. 
-Let $M$ be the original complete model. Then we can make $m$ a nested model of $M$ (It has the same form of $M$ but with less variables).
-
-We can use the **FISHER** test to verify if the 2 models are equivalent. If they are, it's better to use the smaller one.
-
-Fisher test: H0 = Models m and M are equivalent
-- $p\gg0.05$ Accept H0
-- $p\ll0.05$ Reject H0 --> Need to use big model M
-
-In R studio this test is done using the function `anova(m1,m2)`
-
-```{R}
-anova(m1, m2)
-```
-
-Read p-value of the test.
-
-If using glm(), then use the Wald test
-
-## Unusual and influential data
-
-**Regression outlier**: observation with unusual value of the outcome variable Y, conditioned by the value of the explanatory variable X.
-
-**LEVERAGE**
-- An observation with high leverage has an unusual X value and has leverage on the regression line.
-- Leverage is higher for an observation further away from the mean of X
-- If the value has high leverage but still fall onto the regression line, this is not a problem as it does not influence the regressio coefficients
-
-**INFLUENTIAL OBSERVATIONS:**
-- If an observation has high leverage and also falls far from the regression line, then is considered influential.
-- It has unsual X value and Y value
-
-`influencePlot()` can give what are the most influential observations:
-
-```{R}
-influencePlot(m1, pch=19, id = list(method="noteworthy", n=3))
-```
-
-OUTPUT:
-
-![04 - Statistical modeling through regression - DATS 2025-01-11 17.04.16.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Data%20Analysis%20in%20Transport%20Systems/Notes/Allegati/04%20-%20Statistical%20modeling%20through%20regression%20-%20DATS%202025-01-11%2017.04.16.excalidraw.png)
-
+[[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/Allegati/04 - Statistical modeling through regression - DATS 2025-01-11 17.04.16.excalidraw\|🖋 Edit in Excalidraw]]%%
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/mobility-modeling/notes/02-traffic-assignment-problem-mm/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/mobility-modeling/notes/02-traffic-assignment-problem-mm/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"MM","Tipo":"T","Stato":"🟢 Fatto","Slide":["[2.2 - Traffic Assignment problem - MM.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Mobility%20Modeling/Notes/Allegati/2.2%20-%20Traffic%20Assignment%20problem%20-%20MM.pdf)","[2.3 - TAP formulation - MM.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Mobility%20Modeling/Notes/Allegati/2.3%20-%20TAP%20formulation%20-%20MM.pdf)"],"PDF":null,"Parents":["[[📐 Mobility Modeling|📐 MM]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/02 - Traffic Assignment Problem - MM\|02 - Traffic Assignment Problem - MM]]
@@ -27,27 +27,9 @@ It is considered useful to visualize the problem through an example.
 The simple network below is given:
 
 ![02 - Traffic Assignment Problem - MM 2024-11-24 11.50.51.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Mobility%20Modeling/Notes/Allegati/02%20-%20Traffic%20Assignment%20Problem%20-%20MM%202024-11-24%2011.50.51.excalidraw.png)
+[[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/Allegati/02 - Traffic Assignment Problem - MM 2024-11-24 12.08.01.excalidraw\|🖋 Edit in Excalidraw]]%%
 
-
-There is a demand $T$ to go from node $A$ to node $B$. There are 2 possible paths. The flows of the 2 paths are $v_{1}$ and $v_{2}$.
-
-The flows have to follow the condition:
-$$
-v_{1}+v_{2} = T \qquad v_{1},v_{2}\ge 0
-$$
-The [[Volume delay function\|Volume delay functions]] are:
-$$
-\begin{cases}
-s_{1}(v_{1}) = 1+v_{1}^{2} \\
-s_{2}(v_{2}) = 2+v_{2}^{2}
-\end{cases}
-$$
-We can try an intuitive visualization of the problem:
-
-![02 - Traffic Assignment Problem - MM 2024-11-24 12.08.01.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Mobility%20Modeling/Notes/Allegati/02%20-%20Traffic%20Assignment%20Problem%20-%20MM%202024-11-24%2012.08.01.excalidraw.png)
-
-
-The [[#Wardrop's equilibrium principle]] is reached when both delay function are equal. At that point in fact, the last user could choose link indifferently, as its cost would be the same.
+The [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/02 - Traffic Assignment Problem - MM#Wardrop's equilibrium principle\|#Wardrop's equilibrium principle]] is reached when both delay function are equal. At that point in fact, the last user could choose link indifferently, as its cost would be the same.
 $$
 s_{1}(v_{1}^{*}) = s_{2}(v_{2}^{*})
 $$
@@ -59,7 +41,7 @@ And
 $$
 s_{1}(v_{1}^{*}) = s_{2}(v_{2}^{*}) = 5.51
 $$
-Keep in mind that if this was a [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/01.2 - The minimum cost flow problem - From book - MM\|min-cost flow problem]], the total cost would be lower. but there would be some users with a much higher cost and some with a much lower cost, going against the [[#Wardrop's equilibrium principle]].
+Keep in mind that if this was a [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/01.2 - The minimum cost flow problem - From book - MM\|min-cost flow problem]], the total cost would be lower. but there would be some users with a much higher cost and some with a much lower cost, going against the [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/02 - Traffic Assignment Problem - MM#Wardrop's equilibrium principle\|#Wardrop's equilibrium principle]].
 
 ## The traffic assignment problem
 
@@ -92,13 +74,13 @@ The TAP can be solved through the [[Frank-Wolfe Method\|Frank-Wolfe Method]].
 # [[Frank-Wolfe Method\|Frank-Wolfe Method]]
 
 The following problem is given:
-$
+$$
 \min_{\mathbf{x}} f(\mathbf{x})
-$
+$$
 subjet to
-$
+$$
 \mathbf{A} \mathbf{x} = \mathbf{b}, \quad \mathbf{x} \ge 0
-$
+$$
 from which we get the solution $\mathbf{\hat{x}}$.
 
 where:
@@ -120,30 +102,30 @@ This solution has to meet the condition $\mathbf{A} \mathbf{x} = \mathbf{b}, \qu
 The Frank-Wolfe method works generating a new problem, called a subproblem. This is still an optimization problem but is allegedly easier to solve.
 
 In order to define the new problem, we first need to find the [[Gradient\|Gradient]] of $f(\mathbf{x})$. Then, the subproblem is:
-$
+$$
 \min_{\mathbf{y}} \boldsymbol{\nabla f}\left(\mathbf{x}^{(k)} \right)^T \cdot \mathbf{y}
-$
+$$
 subj to:
-$
+$$
 \mathbf{A} \mathbf{y} = \mathbf{b}, \quad \mathbf{y} \ge 0
-$
+$$
 from which we get the value $\mathbf{\hat{y}}$.
 
 ### Calculate the descent direction
 
 The, we need to calculate a new vector, called the direction, that will allow us to get the solution for the next step of the algorithm.
 
-$
+$$
 \mathbf{d}^{(k)} = \mathbf{\hat{y}} - \mathbf{x}^{(k)}
-$
+$$
 ## 2. Stopping criteria
 
 We need some sort of stopping criteria to know if the solution $\mathbf{x}^{(k)}$ is close enough to the actual solution $\mathbf{\hat{x}}$ of the original problem.
 
 We calculate a relative gap, $r$ as
-$
+$$
 r = - \frac{\mathbf{\nabla f} \left(\mathbf{x}^{(k)} \right)^{T} \cdot \mathbf{d}^{(k)} }{\mathbf{\nabla f} \left(\mathbf{x}^{(k)} \right)^{T} \cdot \mathbf{x}^{(k)}}
-$
+$$
 
 We define a relative gap that we find suitable. This is going to be a very small value, $\varepsilon$ ($= 10^{-2}, 10^{-4},...$)
 
@@ -152,25 +134,25 @@ If $r < \varepsilon$ than we stop and accept $\mathbf{x}^{(k)}$ as a solution ($
 ## 3. Line search
 
 The new solution will be given by
-$
+$$
 \mathbf{x}^{(k+1)} = \mathbf{x}^{(k)} + \alpha^* \mathbf{d}^{(k)}
-$
+$$
 where $\alpha^{*}$ is the solution to the problem:
-$
+$$
 \min_{0\le\alpha\le 1} h(\alpha ) = \min_{0\le\alpha\le 1} f\left( \mathbf{x}^{(k)} + \alpha \mathbf{d}^{(k)} \right)
-$
+$$
 This can be solved finding the first derivative of $h(\alpha)$, imposing it equal to 0 and then solving for $\alpha$. This last step is often impossible to do analitically, so we rely on numeric methods to find $\alpha^{*}$ (like: [[Università/Triennale/2° anno/2° Semestre/Analisi Numerica/Appunti/03.2 Il metodo delle Tangenti\|Metodo di Newton]] o [[Università/Triennale/2° anno/2° Semestre/Analisi Numerica/Appunti/03.2 Il metodo delle Tangenti\|Il metodo delle Tangenti]], [[Università/Triennale/2° anno/2° Semestre/Analisi Numerica/Appunti/03.1 Metodo di Bisezione\|Metodo di Bisezione]], [[Università/Triennale/2° anno/2° Semestre/Analisi Numerica/Appunti/03.3 Il metodo delle Secanti\|Il metodo delle Secanti]]).
 
 ```ad-note
 
 In the particular case that all elements of $\boldsymbol{\nabla} \mathbf{f} \left( \mathbf{x}^{(k)} \right) \stackrel{\triangle}{=} \mathbf{s}(\mathbf{x}^{(k)})$ are in the form $a+bx$, then $\alpha^{*}$ can be taken equal to
-$
+$$
 \min\{1, \tilde{\alpha } \}
-$
+$$
 where:
-$
+$$
 \tilde{\alpha} = \frac{\sum\limits_{i} s_{i}(x_{i}) \cdot d_{i}^{(k)}}{\sum\limits_{i} b_{i}\cdot \left(d_{i}^{(k)}\right)^{2}}
-$
+$$
 
 
 ```
@@ -178,7 +160,7 @@ $
 
 ## 4. Update
 
-After having found $\alpha^{*}$ is time to update the solution to the next step: $\mathbf{x}^{(k)}$ and repeat the method from step [[#0. Find a feasible solution]]
+After having found $\alpha^{*}$ is time to update the solution to the next step: $\mathbf{x}^{(k)}$ and repeat the method from step [[Università/Magistrale/1° Anno/1° Semestre/Mobility Modeling/Notes/02 - Traffic Assignment Problem - MM#0. Find a feasible solution\|#0. Find a feasible solution]]
 
 
 </div></div>

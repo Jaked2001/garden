@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/la-te-x/"}
+{"dg-publish":true,"permalink":"/la-te-x/","dg-note-properties":{"aliases":null,"Tipo":"Definizione","Stato":null,"Parents":null,"Children":null,"Siblings":null,"tags":null}}
 ---
 
 # [[LaTeX\|LaTeX]]

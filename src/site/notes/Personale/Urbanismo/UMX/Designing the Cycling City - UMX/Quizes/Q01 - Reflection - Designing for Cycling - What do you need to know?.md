@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/urbanismo/umx/designing-the-cycling-city-umx/quizes/q01-reflection-designing-for-cycling-what-do-you-need-to-know/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/personale/urbanismo/umx/designing-the-cycling-city-umx/quizes/q01-reflection-designing-for-cycling-what-do-you-need-to-know/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"DCC-UMX","Tipo":"Esame","Stato":"🟢 Fatto","Slide":null,"PDF":null,"Parents":["[[Designing the Cycling City - UMX]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Personale/Urbanismo/UMX/Designing the Cycling City - UMX/Quizes/Q01 - Reflection - Designing for Cycling - What do you need to know?\|Q01 - Reflection - Designing for Cycling - What do you need to know?]]

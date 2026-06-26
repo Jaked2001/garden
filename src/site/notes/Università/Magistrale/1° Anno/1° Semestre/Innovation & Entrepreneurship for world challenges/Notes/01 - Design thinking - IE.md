@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/innovation-and-entrepreneurship-for-world-challenges/notes/01-design-thinking-ie/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/innovation-and-entrepreneurship-for-world-challenges/notes/01-design-thinking-ie/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"IE","Tipo":"T","Stato":"🟢 Fatto","Slide":null,"PDF":null,"Parents":["[[💡 Innovation & Entrepreneurship for world challenges|💡 IE]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/1° Semestre/Innovation & Entrepreneurship for world challenges/Notes/01 - Design thinking - IE\|01 - Design thinking - IE]]
@@ -36,15 +36,15 @@ Design Thinking is a problem solving framework (it's a toolbox) that is:
 Session agenda:
 - Quick bite about DT History
 - DT framewirk
-- [[#Design Thinking in the making]]
-- [[#A selection of useful links/templates]]
-- [[#Next steps]]
+- [[Università/Magistrale/1° Anno/1° Semestre/Innovation & Entrepreneurship for world challenges/Notes/01 - Design thinking - IE#Design Thinking in the making\|#Design Thinking in the making]]
+- [[Università/Magistrale/1° Anno/1° Semestre/Innovation & Entrepreneurship for world challenges/Notes/01 - Design thinking - IE#A selection of useful links/templates\|#A selection of useful links/templates]]
+- [[Università/Magistrale/1° Anno/1° Semestre/Innovation & Entrepreneurship for world challenges/Notes/01 - Design thinking - IE#Next steps\|#Next steps]]
 
 
 ## Design Thinking History
 
 
-Origins of [[#Design Thinking]]
+Origins of [[Università/Magistrale/1° Anno/1° Semestre/Innovation & Entrepreneurship for world challenges/Notes/01 - Design thinking - IE#Design Thinking\|#Design Thinking]]
 
 - [[Herbert A. Simon\|Herbert A. Simon]]
 - [[Robert McKim\|Robert McKim]]
@@ -64,7 +64,7 @@ Origins of [[#Design Thinking]]
 
 Get in the client shoes.
 
-Steps for [[#Design Thinking]]:
+Steps for [[Università/Magistrale/1° Anno/1° Semestre/Innovation & Entrepreneurship for world challenges/Notes/01 - Design thinking - IE#Design Thinking\|#Design Thinking]]:
 - Empathize
 - Define
 - Ideate
@@ -90,32 +90,10 @@ What's different in DT from classical designing:
 
 ![01 - Design thinking - IE 2024-10-25 11.49.04.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/01%20-%20Design%20thinking%20-%20IE%202024-10-25%2011.49.04.excalidraw.png)
 
+[[_Giornaliera/2024-11-08\|2024-11-08]]
+%%
 
-#### Persona-Scenario
-
-One of the first thing to do is to focus on what are the **personas** and what is the **scenario**.
-##### Persona
-- Creation of *virtual profiles of individuals* which represent the type of user, customers or agents that are related to a given opportunity for innovation
-- If the profiles are defined in depth, the members of the team can *think and act persons would*, thus directly generating relevant information about preferences, needs, problems, ...
-- ???
-
-##### Scenario
-
-- Scenario describes both stories and context for each persona developed to reflect the real, major user groups
-- ???
-- ???
-- Good scenarios are **concise** but answer the following key questions:
-	- Who is the user?
-		- User personas that have been developed to ???
-	- Why does the user needs/expects
-	- What goals does he/she have
-
-
-## A selection of useful links/templates
-
-
-
-[[4 - Session 4 - IE.pdf]]
+[4 - Session 4 - IE.pdf](/img/user/4%20-%20Session%204%20-%20IE.pdf)
 
 ### Lotus Blossom
 

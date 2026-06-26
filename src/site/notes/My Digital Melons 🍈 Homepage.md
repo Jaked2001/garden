@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-digital-melons-homepage/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/my-digital-melons-homepage/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 # [[My Digital Melons 🍈 Homepage\|My Digital Melons 🍈 Homepage]]
@@ -43,11 +43,11 @@ ___
 
 ## [[Appunti Triennale - DM\|Appunti Triennale - DM]]
 
-![SapienzaLogo.png|450](/img/user/SapienzaLogo.png)
+![SapienzaLogo.png\|450](/img/user/SapienzaLogo.png)
 
 ## [[Master Notes - DM\|Master Notes - DM]]
 
-![Schermata 2024-10-11 alle 23.00.16.png|450](/img/user/Schermata%202024-10-11%20alle%2023.00.16.png)
+![Schermata 2024-10-11 alle 23.00.16.png\|450](/img/user/Schermata%202024-10-11%20alle%2023.00.16.png)
 
 
 

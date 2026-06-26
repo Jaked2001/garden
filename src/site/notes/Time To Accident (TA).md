@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/time-to-accident-ta/"}
+{"dg-publish":true,"permalink":"/time-to-accident-ta/","dg-note-properties":{"aliases":["TA"],"Tipo":"Definizione","Stato":null,"Parents":null,"Children":["[[Risk of Conflict (ROC)|ROC]]"],"Siblings":["[[Time-To-Collision (TTC)]]"],"Cover":null,"tags":null}}
 ---
 
 # [[Time To Accident (TA)\|Time To Accident (TA)]]
@@ -17,3 +17,9 @@ Source:
 It's used to determine the scale of conflict.
 
 The desired TA is 1.5s in urban areas or serious conflict, and lower than 1.5 for rural areas where speed is higher.
+
+$$
+TA = \frac{D_{c}}{V_{c}}
+$$
+- $D_{c}:$ Distance to collision
+- $V_{c}:$ Conflicting speed

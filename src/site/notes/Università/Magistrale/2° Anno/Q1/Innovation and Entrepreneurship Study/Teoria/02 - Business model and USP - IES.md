@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q1/innovation-and-entrepreneurship-study/teoria/02-business-model-and-usp-ies/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q1/innovation-and-entrepreneurship-study/teoria/02-business-model-and-usp-ies/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"IES","Tipo":"T","Stato":"🟢 Fatto","Slide":null,"PDF":null,"Parents":["[[🚀 Innovation & Entrepreneurship Study|🚀 IES]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/2° Anno/Q1/Innovation and Entrepreneurship Study/Teoria/02 - Business model and USP - IES\|02 - Business model and USP - IES]]

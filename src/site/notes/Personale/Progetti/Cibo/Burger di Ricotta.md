@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/progetti/cibo/burger-di-ricotta/","tags":["Ricetta/Secondo"]}
+{"dg-publish":true,"permalink":"/personale/progetti/cibo/burger-di-ricotta/","tags":["Ricetta/Secondo"],"dg-note-properties":{"Tipo":"Ricetta","Portata":"Secondo","TempoPreparazione":"40 min","TempoCottura":"20 min","Difficoltà":"🟢","tags":["Ricetta/Secondo"]}}
 ---
 
 # Burger di Ricotta

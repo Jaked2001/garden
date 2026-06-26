@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q2/smart-healthy-urban-environments/00-introduction-shue/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q2/smart-healthy-urban-environments/00-introduction-shue/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"SHUE","Tipo":"T","Stato":"🟢 Fatto","Slide":null,"PDF":null,"Parents":null,"Children":null,"Siblings":null,"Cover":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/2° Anno/Q2/Smart Healthy Urban Environments/00 - Introduction - SHUE\|00 - Introduction - SHUE]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/introduction-to-supply-chain/notes/03-logistics-isc/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/introduction-to-supply-chain/notes/03-logistics-isc/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"ISC","Tipo":"T","Stato":"🪶 Scrivere","Slide":["[03 - Logistics.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Introduction%20to%20Supply%20Chain/Notes/Allegati/03%20-%20Logistics.pdf)"],"PDF":null,"Parents":["[[🚚 Introduction to Supply Chain|🚚 SC]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/03 - Logistics - ISC\|03 - Logistics - ISC]]
@@ -57,7 +57,7 @@ Preparations
 	- Administrative control
 - Preparations
 	- Reception
-	- [[#Order preparation]]
+	- [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/03 - Logistics - ISC#Order preparation\|#Order preparation]]
 	- Load & unloading
 - Transport
 	- Long distance
@@ -100,36 +100,8 @@ Main activities
 
 ![Warehouse diagram - 03 - Logistics - SC 2024-10-21 19.16.42.excalidraw.png](/img/user/Excalidraw/Excalidraw-2/Warehouse%20diagram%20-%2003%20-%20Logistics%20-%20SC%202024-10-21%2019.16.42.excalidraw.png)
 
-
-## Distribution models
-
-![Schermata 2024-10-21 alle 19.19.55.png](/img/user/Schermata%202024-10-21%20alle%2019.19.55.png)
-
-- [[#Direct distribution]]
-- [[#Staggered distribution]]
-- [[#Central warehouses]]
-
-### Direct distribution
-
-- Direct from factory to consumer
-- Avoid intermediate products
-- Requires high flexibility to have a quick & reliable response to customers
-
-### Staggered distribution
-
-- Based in one or some central warehouses thar receive product from factories / suppliers and deliver to second raw of regional warehouses
-- Requires high investment on infrastructure & duplicated stock
-- Give a **very quick response** to customers
-
-### Central warehouses
-
-- Eliminates the need of regional warehouses and uses Cross-docking platforms to deliver
-- The product can be delivered to this Cross-Dock platforms from different locations and there it occurs the group preparation
-- Less infrastructure even big spaces are needed
-
-Cross-dock platform is a place where the product is not stopped or stored. Funge tipo smistamento treni.
-
-
+[[_Giornaliera/2024-11-18\|2024-11-18]]
+%%
 # Reverse Logistics
 
 - What is reverse logistic

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q2/smart-healthy-urban-environments/teoria/05-social-and-inclusive-city-shue/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q2/smart-healthy-urban-environments/teoria/05-social-and-inclusive-city-shue/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"SHUE","Tipo":"T","Stato":"🟢 Fatto","Slide":null,"PDF":null,"Parents":["[[🛰️ Smart Healthy Urban Environments|🛰️ SHUE]]"],"Children":null,"Siblings":null,"Cover":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/2° Anno/Q2/Smart Healthy Urban Environments/Teoria/05 - Social & inclusive city - SHUE\|05 - Social & inclusive city - SHUE]]

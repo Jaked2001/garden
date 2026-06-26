@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/public-transport/notes/02-network-design-pt/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/public-transport/notes/02-network-design-pt/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"PT","Tipo":"T","Stato":"🪶 Scrivere","Slide":["[0 - Course introduction - SM.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Sustainable%20Mobility/Notes/Allegati/0%20-%20Course%20introduction%20-%20SM.pdf)"],"PDF":null,"Parents":["[[Public Transport]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/2° Semestre/Public Transport/Notes/02 - Network Design?? - PT\|02 - Network Design?? - PT]]

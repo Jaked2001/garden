@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/legge-17-agosto-1942-n-1150/","tags":["Legge","Urbanistica","Norma","Legge/Legge"]}
+{"dg-publish":true,"permalink":"/legge-17-agosto-1942-n-1150/","tags":["Legge","Urbanistica","Norma","Legge/Legge"],"dg-note-properties":{"aliases":["L. 1150/1942","Legge PRG","Legge Urbanistica"],"Tipo":"Legge","Stato":null,"PDF":["[Legge 17 agosto 1942 n. 1150.pdf](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/2%C2%B0%20Semestre/Analisi%20Ambientale%20dei%20sistemi%20urbani%20e%20territoriali/allegati/Legge%2017%20agosto%201942%20n.%201150.pdf)"],"Parents":null,"Children":["[[Piano Regolatore Generale di Roma]]","[[Decreto Presidente della Repubblica 6 giugno 2001, n. 380\|Decreto Presidente della Repubblica 6 giugno 2001, n. 380]]"],"Siblings":null,"Link":"https://it.wikipedia.org/wiki/Legge_17_agosto_1942,_n._1150","tags":["Legge","Urbanistica","Norma","Legge/Legge"]}}
 ---
 
 
@@ -14,7 +14,7 @@ Legge 17 agosto 1942, n. 1150 riguardante il [[Piano Urbano Regolatore\|Piano Ur
 
 
 Il testo della legge:
-- [[Legge 17 agosto 1942 n. 1150.pdf]]
+- [Legge 17 agosto 1942 n. 1150.pdf](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/2%C2%B0%20Semestre/Analisi%20Ambientale%20dei%20sistemi%20urbani%20e%20territoriali/allegati/Legge%2017%20agosto%201942%20n.%201150.pdf)
 
 
 #### Correlati

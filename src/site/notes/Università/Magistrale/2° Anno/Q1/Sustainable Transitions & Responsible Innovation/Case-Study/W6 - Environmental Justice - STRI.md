@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q1/sustainable-transitions-and-responsible-innovation/case-study/w6-environmental-justice-stri/"}
+{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q1/sustainable-transitions-and-responsible-innovation/case-study/w6-environmental-justice-stri/","dg-note-properties":{"aliases":[],"Materia":"STRI","Tipo":"Assgm","Stato":"🟢 Fatto","PDF":null,"Data":"2025-10-10T12:00:00","Parents":["[[06 - Environmental Justice - STRI]]"],"Children":null,"Siblings":null,"tags":null}}
 ---
 
 

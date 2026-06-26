@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/progetti/cibo/meal-planning/"}
+{"dg-publish":true,"permalink":"/personale/progetti/cibo/meal-planning/","dg-note-properties":{"aliases":null,"Tipo":"Calendario","Stato":null,"Parents":null,"Children":null,"Siblings":["[[_Ricette]]"],"tags":null}}
 ---
 
 # [[Personale/Progetti/Cibo/Meal planning\|Meal planning]]
@@ -20,7 +20,7 @@
 | [[Personale/Progetti/Cibo/Ricette/Spaghetti alla carbonara\|Spaghetti alla carbonara]]             | [[_Giornaliera/2024-11-05\|2024-11-05]]  | Primo   |
 | [[Personale/Progetti/Cibo/Burger di Ricotta\|Burger di Ricotta]]                                   | \-              | Secondo |
 | [[Personale/Progetti/Cibo/Maionese Vegana\|Maionese Vegana]]                                       | \-              | Salsa   |
-| [[Personale/Progetti/Cibo/Pasta con tonno e pomodorini\|Pasta con tonno e pomodorini]]             | \-              | Primo   |
+| [[Personale/Progetti/Cibo/Nuggets di Ceci\|Nuggets di Ceci]]                                       | \-              | Secondo |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/decision-making-and-economy-in-urban-mobility/workshop/workshop-dme/"}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/decision-making-and-economy-in-urban-mobility/workshop/workshop-dme/","dg-note-properties":{"aliases":null,"Tipo":null,"Materia":"DME","Stato":null,"Parents":["[[💼 Decision making & Economy in Urban Mobility|💼 DME]]"],"Children":null,"Siblings":[],"tags":null}}
 ---
 
 

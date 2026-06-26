@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q1/large-scale-optimization-for-transport-and-mobility/large-scale-optimization-for-transport-and-mobility/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q1/large-scale-optimization-for-transport-and-mobility/large-scale-optimization-for-transport-and-mobility/","tags":["UNI"],"dg-note-properties":{"aliases":["🔢 LSO"],"Materia":"LSO","Professore":"[[Rolf van Lieshout\|Rolf van Lieshout]]","Tipo":"Corso","Stato":"🟢","Voto":"8.25","Anno":2,"Semestre":1.1,"Laurea":"Master","Parents":["[[Esami]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 
@@ -88,8 +88,8 @@ ___
 
 | File                                                                                                                                                                                  | Stato       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Università/Magistrale/2° Anno/Q1/Large-Scale Optimization for Transport & Mobility/Teoria/00 - Large Scale Optimization Intro - LSO.md\|00 - Large Scale Optimization Intro - LSO]] | 🪶 Scrivere |
-| [[Università/Magistrale/2° Anno/Q1/Large-Scale Optimization for Transport & Mobility/Teoria/03 - Evolutionary Algorithms - LSO.md\|03 - Evolutionary Algorithms - LSO]]               | 🪶 Scrivere |
+| [[Università/Magistrale/2° Anno/Q1/Large-Scale Optimization for Transport & Mobility/Teoria/00 - Large Scale Optimization Intro - LSO\|00 - Large Scale Optimization Intro - LSO]] | 🪶 Scrivere |
+| [[Università/Magistrale/2° Anno/Q1/Large-Scale Optimization for Transport & Mobility/Teoria/03 - Evolutionary Algorithms - LSO\|03 - Evolutionary Algorithms - LSO]]               | 🪶 Scrivere |
 
 { .block-language-dataview}
 

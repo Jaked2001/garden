@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/decision-making-and-economy-in-urban-mobility/diario-decision-making-and-economy-in-urban-mobilty/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/decision-making-and-economy-in-urban-mobility/diario-decision-making-and-economy-in-urban-mobilty/","tags":["UNI"],"dg-note-properties":{"aliases":["Diario DME"],"Tipo":"Diario","Materia":"DME","Parents":["[[💼 Decision making & Economy in Urban Mobility|💼 DME]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/💼📔 Diario Decision making & Economy in Urban Mobilty\|💼📔 Diario Decision making & Economy in Urban Mobilty]]

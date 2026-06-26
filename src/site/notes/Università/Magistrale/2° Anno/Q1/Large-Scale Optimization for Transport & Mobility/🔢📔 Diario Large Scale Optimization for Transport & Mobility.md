@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q1/large-scale-optimization-for-transport-and-mobility/diario-large-scale-optimization-for-transport-and-mobility/"}
+{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q1/large-scale-optimization-for-transport-and-mobility/diario-large-scale-optimization-for-transport-and-mobility/","dg-note-properties":{"aliases":null,"Tipo":"Diario","Materia":"LSO","Parents":["[[🔢 Large Scale Optimization for Transport & Mobility|🔢 LSO]]"]}}
 ---
 
 

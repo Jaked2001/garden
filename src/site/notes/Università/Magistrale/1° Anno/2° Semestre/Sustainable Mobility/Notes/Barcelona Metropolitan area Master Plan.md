@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/sustainable-mobility/notes/barcelona-metropolitan-area-master-plan/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/sustainable-mobility/notes/barcelona-metropolitan-area-master-plan/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"SM","Tipo":"T","Stato":"🟢 Fatto","Slide":null,"PDF":null,"Parents":["[[🚲 Sustainable Mobility|🚲 SM]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/2° Semestre/Sustainable Mobility/Notes/Barcelona Metropolitan area Master Plan\|Barcelona Metropolitan area Master Plan]]

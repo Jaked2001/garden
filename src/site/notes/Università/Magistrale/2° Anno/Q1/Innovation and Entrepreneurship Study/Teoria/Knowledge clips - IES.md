@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q1/innovation-and-entrepreneurship-study/teoria/knowledge-clips-ies/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q1/innovation-and-entrepreneurship-study/teoria/knowledge-clips-ies/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"IES","Tipo":"T","Stato":"🪶 Scrivere","Slide":null,"PDF":["[Knowledge clips - Problem identification, quantification & validation - IES.pdf](/img/user/Universit%C3%A0/Magistrale/2%C2%B0%20Anno/Q1/Innovation%20and%20Entrepreneurship%20Study/Teoria/Allegati/Knowledge%20clips%20-%20Problem%20identification,%20quantification%20&%20validation%20-%20IES.pdf)"],"Parents":["[[🚀 Innovation & Entrepreneurship Study|🚀 IES]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/2° Anno/Q1/Innovation and Entrepreneurship Study/Teoria/Knowledge clips - IES\|Knowledge clips - IES]]

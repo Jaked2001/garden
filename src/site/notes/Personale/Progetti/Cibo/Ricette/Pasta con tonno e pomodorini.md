@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/progetti/cibo/ricette/pasta-con-tonno-e-pomodorini/"}
+{"dg-publish":true,"permalink":"/personale/progetti/cibo/ricette/pasta-con-tonno-e-pomodorini/","dg-note-properties":{"Tipo":"Ricetta","Autore":["[[GialloZafferano]]"],"Portata":"Primo","TempoPreparazione":"10 min","TempoCottura":"25 min","Difficoltà":"🟢","Porzioni":"1","Ingredienti":["[[Tonno in scatola]]","[[Pomodorini]]","[[Pasta]]"],"Ultima_cucinata":"2024-11-15"}}
 ---
 
 

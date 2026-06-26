@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/innovation-and-entrepreneurship-for-world-challenges/innovation-and-entrepreneurship-for-world-challenges/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/innovation-and-entrepreneurship-for-world-challenges/innovation-and-entrepreneurship-for-world-challenges/","tags":["UNI"],"dg-note-properties":{"aliases":["💡 IE","Innovation & Entrepreneurship for world challenges"],"Materia":"IE","Professore":"[[Saul Garcia\|Saul Garcia]]","Tipo":"Corso","Stato":"🟢","Voto":"8.3","Anno":1,"Semestre":1,"Laurea":"Master","Parents":["[[Esami]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 
@@ -13,7 +13,7 @@
 **📔 Diario del corso:** [[Università/Magistrale/1° Anno/1° Semestre/Innovation & Entrepreneurship for world challenges/💡📔 Diario Innovation & Entrepreneurship for world challenges\|💡📔 Diario Innovation & Entrepreneurship for world challenges]]
 **🌐 WebSite:** 
 
-**🅿️ Program:** [[e1.1 - Innovation and Entrepreneurship for World Challenges - I&E5.pdf]]
+**🅿️ Program:** [e1.1 - Innovation and Entrepreneurship for World Challenges - I&E5.pdf](/img/user/e1.1%20-%20Innovation%20and%20Entrepreneurship%20for%20World%20Challenges%20-%20I&E5.pdf)
 **🔑 Atenea:** https://atenea.upc.edu/course/search.php - 250MUM0?? - ???
 
 **🕰 Schedule:**
@@ -117,7 +117,7 @@ ___
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [[Università/Magistrale/1° Anno/1° Semestre/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 1 - Reduce contamination to cyclists\|Challenge 1 - Reduce contamination to cyclists]]                                           | 🟢 Fatto  |
 | [[Università/Magistrale/1° Anno/1° Semestre/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 2 - Pedestrian un-safety caused by their distraction - IE\|Challenge 2 - Pedestrian un-safety caused by their distraction - IE]] | 🟢 Fatto  |
-| [[Università/Magistrale/1° Anno/1° Semestre/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 3 - Reimagine autonomous driving vehicles interior - IE.md\|Challenge 3 - Reimagine autonomous driving vehicles interior - IE]]     | 🟡 Finire |
+| [[Università/Magistrale/1° Anno/1° Semestre/Innovation & Entrepreneurship for world challenges/Challenges/Challenge 3 - Reimagine autonomous driving vehicles interior - IE\|Challenge 3 - Reimagine autonomous driving vehicles interior - IE]]     | 🟡 Finire |
 
 { .block-language-dataview}
 

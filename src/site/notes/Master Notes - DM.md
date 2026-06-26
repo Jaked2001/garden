@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/master-notes-dm/"}
+{"dg-publish":true,"permalink":"/master-notes-dm/","dg-note-properties":{"aliases":null,"Tipo":"DigitalMelons","Stato":null,"Parents":null,"Children":null,"Siblings":null,"tags":null}}
 ---
 
 # [[Master Notes - DM\|Master Notes - DM]]

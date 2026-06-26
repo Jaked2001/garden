@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q1/urban-planning-ii/01-spatial-planning-in-the-netherlands-and-eu-up/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q1/urban-planning-ii/01-spatial-planning-in-the-netherlands-and-eu-up/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"UP","Tipo":"T","Stato":"🟠 Studiare","Slide":["[01 - Spatial Planning in the Netherlands and EU - Slides - UP.pdf](/img/user/Universit%C3%A0/Magistrale/2%C2%B0%20Anno/Q1/Urban%20Planning%20II/Allegati/01%20-%20Spatial%20Planning%20in%20the%20Netherlands%20and%20EU%20-%20Slides%20-%20UP.pdf)"],"PDF":null,"Parents":["[[🏙 Urban Planning II|🏙 UP]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/2° Anno/Q1/Urban Planning II/01 - Spatial Planning in the Netherlands and EU - UP\|01 - Spatial Planning in the Netherlands and EU - UP]]

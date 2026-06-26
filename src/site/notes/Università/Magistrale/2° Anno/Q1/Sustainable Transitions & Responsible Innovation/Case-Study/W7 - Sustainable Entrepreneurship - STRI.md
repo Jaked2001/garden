@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q1/sustainable-transitions-and-responsible-innovation/case-study/w7-sustainable-entrepreneurship-stri/"}
+{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q1/sustainable-transitions-and-responsible-innovation/case-study/w7-sustainable-entrepreneurship-stri/","dg-note-properties":{"aliases":[],"Materia":"STRI","Tipo":"Assgm","Stato":"🟢 Fatto","PDF":null,"Data":"2025-10-17T12:00:00","Parents":null,"Children":null,"Siblings":null,"tags":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/liveable-cities-and-urban-mobility/diario-liveable-cities-and-urban-mobility/"}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/liveable-cities-and-urban-mobility/diario-liveable-cities-and-urban-mobility/","dg-note-properties":{"aliases":["🌿📔 Diario LC"],"Tipo":"Diario","Materia":"LC","Parents":["[[🌿 Liveable Cities & Urban Mobility|🌿 LC]]"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/2° Semestre/Liveable Cities & Urban Mobility/🌿📔 Diario Liveable Cities & Urban Mobility\|🌿📔 Diario Liveable Cities & Urban Mobility]]

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/innovation-and-entrepreneurship-for-world-challenges/notes/04-session-4-ie/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/innovation-and-entrepreneurship-for-world-challenges/notes/04-session-4-ie/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"IE","Tipo":"T","Stato":"🟢 Fatto","Slide":["[4 - Session 4 - IE.pdf](/img/user/4%20-%20Session%204%20-%20IE.pdf)"],"PDF":null,"Parents":["[[💡 Innovation & Entrepreneurship for world challenges|💡 IE]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 
 
 
-[[4 - Session 4 - IE.pdf]]
+[4 - Session 4 - IE.pdf](/img/user/4%20-%20Session%204%20-%20IE.pdf)
 
 ### Lotus Blossom
 

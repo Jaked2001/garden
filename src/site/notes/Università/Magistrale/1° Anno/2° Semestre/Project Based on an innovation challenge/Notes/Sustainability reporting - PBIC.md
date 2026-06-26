@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/project-based-on-an-innovation-challenge/notes/sustainability-reporting-pbic/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/project-based-on-an-innovation-challenge/notes/sustainability-reporting-pbic/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"PBIC","Tipo":"T","Stato":"🟢 Fatto","Slide":null,"PDF":null,"Parents":["[[💡 Project Based on an Innovation Challenge|💡 PBIC]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/2° Semestre/Project Based on an innovation challenge/Notes/Sustainability reporting - PBIC\|Sustainability reporting - PBIC]]

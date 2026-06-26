@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/triennale/3-anno/1-semestre/ingegneria-sanitaria-ambientale/diario-ingegneria-sanitaria-ambientale/"}
+{"dg-publish":true,"permalink":"/universita/triennale/3-anno/1-semestre/ingegneria-sanitaria-ambientale/diario-ingegneria-sanitaria-ambientale/","dg-note-properties":{"aliases":["Diario ISA","Diario ingegneria sanitaria ambientale"],"Tipo":"Diario","Materia":"ISA"}}
 ---
 
 

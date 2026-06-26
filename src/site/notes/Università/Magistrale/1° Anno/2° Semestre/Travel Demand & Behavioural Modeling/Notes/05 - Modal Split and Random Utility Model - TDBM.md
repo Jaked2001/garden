@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/travel-demand-and-behavioural-modeling/notes/05-modal-split-and-random-utility-model-tdbm/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/2-semestre/travel-demand-and-behavioural-modeling/notes/05-modal-split-and-random-utility-model-tdbm/","tags":["UNI"],"dg-note-properties":{"aliases":["5 - Modal Split and RUM","RUM"],"Materia":"TDBM","Tipo":"T","Stato":"🪶 Scrivere","Slide":["[5 - Modal Split and Random Utility Function - TDBM.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Travel%20Demand%20&%20Behavioural%20Modeling/Notes/Allegati/5%20-%20Modal%20Split%20and%20Random%20Utility%20Function%20-%20TDBM.pdf)","[5 - Modal Split and Random Utility Models - Francesc Robusté.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/2%C2%B0%20Semestre/Travel%20Demand%20&%20Behavioural%20Modeling/Notes/Allegati/5%20-%20Modal%20Split%20and%20Random%20Utility%20Models%20-%20Francesc%20Robust%C3%A9.pdf)"],"PDF":null,"Parents":["[[🧠 Travel Demand & Behavioural Modeling|🧠 TDBM]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/05 - Modal Split and Random Utility Model - TDBM\|05 - Modal Split and Random Utility Model - TDBM]]
@@ -57,7 +57,7 @@ $
 where:
 - $i=1...m:$ the transport modes
 - $U:$ the perceived utility
-- $V:$ the [[#measurable utility]]. Deterministic
+- $V:$ the [[Università/Magistrale/1° Anno/2° Semestre/Travel Demand & Behavioural Modeling/Notes/05 - Modal Split and Random Utility Model - TDBM#measurable utility\|#measurable utility]]. Deterministic
 - $\xi:$ the random part of the utility
 ```
 

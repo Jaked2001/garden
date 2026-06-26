@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eulerian-path/"}
+{"dg-publish":true,"permalink":"/eulerian-path/","dg-note-properties":{"aliases":null,"Tipo":"Definizione","Stato":null,"Parents":null,"Children":null,"Siblings":["[[Hamiltonian circuit]]","[[Hamiltonian path]]","[[Eulerian cycle]]"],"tags":null}}
 ---
 
 # [[Eulerian path\|Eulerian path]]

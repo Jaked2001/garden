@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/urbanismo/codice-della-strada/art-002-cds/"}
+{"dg-publish":true,"permalink":"/personale/urbanismo/codice-della-strada/art-002-cds/","dg-note-properties":{"aliases":["Art. 2 - D. Lgs. 30 aprile 1992, n. 285","Art. 2"],"Tipo":"Articolo di Legge","Nome":"Definizione e classificazione delle strade","Stato":null,"Parents":["[[Personale/Urbanismo/Codice della strada/Codice della Strada|CdS]]"],"Children":null,"Siblings":null,"tags":null,"Gruppo":["CDS"],"Numero":"2","Titolo":"Titolo I - Disposizioni generali"}}
 ---
 
 # [[Personale/Urbanismo/Codice della strada/Art. 002 - CDS\|Art. 002 - CDS]]
@@ -40,7 +40,7 @@ Le strade di cui al [[Personale/Urbanismo/Codice della strada/Art. 002 - CDS#Com
 
 ## Comma 5
 
-Per le esigenze di carattere amministrativo e con riferimento all'uso e alle tipologie dei collegamenti svolti, , le strade, come classificate ai sensi del [[#Art. 002 - CDS#Comma 2|comma 2]], si distinguono in strade "statali", "regionali", "provinciali", "comunali", secondo le indicazioni che seguono. Enti proprietari delle dette strade sono rispettivamente lo Stato, la regione, la provincia, il comune.
+Per le esigenze di carattere amministrativo e con riferimento all'uso e alle tipologie dei collegamenti svolti, , le strade, come classificate ai sensi del [[Personale/Urbanismo/Codice della strada/Art. 002 - CDS#Art. 002 - CDS\|comma 2]], si distinguono in strade "statali", "regionali", "provinciali", "comunali", secondo le indicazioni che seguono. Enti proprietari delle dette strade sono rispettivamente lo Stato, la regione, la provincia, il comune.
 PERIODO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66).
 
 ## Comma 6

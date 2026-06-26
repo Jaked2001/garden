@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web-map-service/"}
+{"dg-publish":true,"permalink":"/web-map-service/","dg-note-properties":{"aliases":["WMS"],"Tipo":"Definizione","Stato":null,"Parents":["[[GIS]]"],"Children":null,"Siblings":null,"tags":null}}
 ---
 
 # [[Web Map Service\|Web Map Service]]

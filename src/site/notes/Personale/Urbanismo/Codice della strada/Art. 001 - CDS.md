@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/urbanismo/codice-della-strada/art-001-cds/"}
+{"dg-publish":true,"permalink":"/personale/urbanismo/codice-della-strada/art-001-cds/","dg-note-properties":{"aliases":["Art. 1 - D. Lgs. 30 aprile 1992, n. 285","Art. 1"],"Tipo":"Articolo di Legge","Stato":null,"Parents":["[[Personale/Urbanismo/Codice della strada/Codice della Strada|CdS]]"],"Children":null,"Siblings":null,"tags":null,"Gruppo":["CDS"],"Numero":"1","Titolo":"Titolo I - Disposizioni generali"}}
 ---
 
 # [[Personale/Urbanismo/Codice della strada/Art. 001 - CDS\|Art. 001 - CDS]] - Principi generali

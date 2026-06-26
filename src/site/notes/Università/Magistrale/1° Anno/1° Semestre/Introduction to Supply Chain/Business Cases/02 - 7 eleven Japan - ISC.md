@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/introduction-to-supply-chain/business-cases/02-7-eleven-japan-isc/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/introduction-to-supply-chain/business-cases/02-7-eleven-japan-isc/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Tipo":"Es","Materia":"ISC","Stato":"🟢 Fatto","Data":"2024-10-21","Parents":["[[🚚 Introduction to Supply Chain|🚚 SC]]"],"Children":null,"Siblings":null,"tags":["UNI"],"PDF":null}}
 ---
 
 # [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Business Cases/02 - 7 eleven Japan - ISC\|02 - 7 eleven Japan - ISC]]

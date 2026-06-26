@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/progetti/cibo/nuggets-di-ceci/"}
+{"dg-publish":true,"permalink":"/personale/progetti/cibo/nuggets-di-ceci/","dg-note-properties":{"Tipo":"Ricetta","Autore":["[[@amicavegetariana\|@amicavegetariana]]"],"Portata":"Secondo","TempoPreparazione":"20 min","TempoCottura":"10 min","Difficoltà":"🟢","Porzioni":"12 nuggets"}}
 ---
 
 # Nuggets di Ceci

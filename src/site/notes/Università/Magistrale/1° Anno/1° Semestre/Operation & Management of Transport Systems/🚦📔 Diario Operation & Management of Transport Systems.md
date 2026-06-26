@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/operation-and-management-of-transport-systems/diario-operation-and-management-of-transport-systems/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/operation-and-management-of-transport-systems/diario-operation-and-management-of-transport-systems/","tags":["UNI"],"dg-note-properties":{"aliases":["🚦📔 Diario OMT"],"Tipo":"Diario","Materia":"OMT","Stato":null,"Parents":["[[🚦 Operation & Management of Transport Systems|🚦 OMT]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 

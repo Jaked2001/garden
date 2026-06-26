@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/media/libri/civita-senza-aggettivi-e-senza-altre-specificazioni/","tags":["daProcessare"]}
+{"dg-publish":true,"permalink":"/personale/media/libri/civita-senza-aggettivi-e-senza-altre-specificazioni/","tags":["daProcessare"],"dg-note-properties":{"Titolo":"Civita - Senza aggettivi e senza altre specificazioni","Tipo":"Libro","Autore":"[[Personale/Contatti/Giovanni Attili\|Giovanni Attili]]","Genere":null,"tags":["daProcessare"],"anno":2022}}
 ---
 
 
@@ -156,7 +156,7 @@ Questo è un [[luogo\|luogo]] dove si può vivere benissimo in contatto con il m
 
 [...]
 ```
-Far si che questa libertà e dualità di velocità la si possa trovare solo in luoghi come Cività è stata una nostra scelta. Non deve essere così! Possiamo trasformare le nostre città! Possiamo e dobbiamo essere [[liberi\|liberi]] dove siamo, e NON scappare alla ricerca della [[libertà]].
+Far si che questa libertà e dualità di velocità la si possa trovare solo in luoghi come Cività è stata una nostra scelta. Non deve essere così! Possiamo trasformare le nostre città! Possiamo e dobbiamo essere [[liberi\|liberi]] dove siamo, e NON scappare alla ricerca della [[libertà\|libertà]].
 
 ```ad-quote
 title: (p. 163)
@@ -181,7 +181,7 @@ E se invece è necessario un certo cambiamento ma le persone non vogliono accett
 
 
 # Terra di spettacolo
-Si parla della museificazione e mercificazione di Civita. Come il turismo di massa sia dannoso per l'essenza di un [[luogo]] trasformandolo semplicemente in uno [[spazio\|spazio]], un [[museo]], in cui i turisti vengono a scattare foto come prova di esserci stati e i commercianti adattano le loro attività per massimizzare il profitto.
+Si parla della museificazione e mercificazione di Civita. Come il turismo di massa sia dannoso per l'essenza di un [[luogo\|luogo]] trasformandolo semplicemente in uno [[spazio\|spazio]], un [[museo\|museo]], in cui i turisti vengono a scattare foto come prova di esserci stati e i commercianti adattano le loro attività per massimizzare il profitto.
 
 ## Per rimanere uguale a se stessa
 ```ad-quote

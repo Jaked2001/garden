@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q2/smart-healthy-urban-environments/assgm/assgm-01a-active-transport-in-built-environment-shue/"}
+{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q2/smart-healthy-urban-environments/assgm/assgm-01a-active-transport-in-built-environment-shue/","dg-note-properties":{"aliases":[],"Materia":"SHUE","Tipo":"Assgm","Stato":"🟢 Fatto","PDF":null,"Data":"2025-11-17T23:59:00","Parents":["[[🛰️ Smart Healthy Urban Environments|🛰️ SHUE]]"],"Children":null,"Siblings":null,"tags":null,"Voto":"30/30"}}
 ---
 
 

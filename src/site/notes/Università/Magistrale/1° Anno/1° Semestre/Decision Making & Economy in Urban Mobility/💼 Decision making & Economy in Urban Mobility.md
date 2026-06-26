@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/decision-making-and-economy-in-urban-mobility/decision-making-and-economy-in-urban-mobility/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/decision-making-and-economy-in-urban-mobility/decision-making-and-economy-in-urban-mobility/","tags":["UNI"],"dg-note-properties":{"aliases":["💼 DME","Decision making & Economy in Urban Mobility"],"Materia":"DME","Professore":null,"Tipo":"Corso","Stato":"🟢","Voto":"7.3","Anno":1,"Semestre":1,"Laurea":"Master","Parents":["[[Esami]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 
@@ -14,7 +14,7 @@
 **📔 Diario del corso:** [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/💼📔 Diario Decision making & Economy in Urban Mobilty\|💼📔 Diario Decision making & Economy in Urban Mobilty]]
 **🌐 WebSite:** 
 
-**🅿️ Program:** [[e1 - Decision Making and Economy in Urban Mobility - I&E5.pdf]]
+**🅿️ Program:** [e1 - Decision Making and Economy in Urban Mobility - I&E5.pdf](/img/user/e1%20-%20Decision%20Making%20and%20Economy%20in%20Urban%20Mobility%20-%20I&E5.pdf)
 **🔑 Atenea:** https://atenea.upc.edu/course/search.php - 250MUM014 - URBAN
 
 **🕰 Schedule:** 
@@ -87,13 +87,12 @@ Evaluate the case from a double perspective:
 
 
 ___
-| File                                                                                                                                                                                                            | Tipo     | Stato       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------- |
-| [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Workshop/Grand Paris Express Line 15 - DME\|Grand Paris Express Line 15 - DME]]                                      | Progetto | 🔴 Fare     |
-| [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME\|01 - Production and cost functions in transport - DME]] | T        | 🟠 Studiare |
-| [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME\|02 - Appraisal and Cost-Benefit Analysis - DME]]               | T        | 🟠 Studiare |
-| [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME\|03 - Utility Demand function and Pricing - DME]]               | T        | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/06 - Public Private Partnership - DME\|06 - Public Private Partnership - DME]]                                 | T        | 🪶 Scrivere |
+| File                                                                                                                                                                                                            | Tipo | Stato       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- |
+| [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME\|01 - Production and cost functions in transport - DME]] | T    | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME\|02 - Appraisal and Cost-Benefit Analysis - DME]]               | T    | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME\|03 - Utility Demand function and Pricing - DME]]               | T    | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/06 - Public Private Partnership - DME\|06 - Public Private Partnership - DME]]                                 | T    | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -113,11 +112,11 @@ ___
 
 | File                                                                                                                                                                                                                | Stato       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME.md\|01 - Production and cost functions in transport - DME]]     | 🟠 Studiare |
-| [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME.md\|02 - Appraisal and Cost-Benefit Analysis - DME]]                   | 🟠 Studiare |
-| [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME.md\|03 - Utility Demand function and Pricing - DME]]                   | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/01 - Production and cost functions in transport - DME\|01 - Production and cost functions in transport - DME]]     | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/02 - Appraisal and Cost-Benefit Analysis - DME\|02 - Appraisal and Cost-Benefit Analysis - DME]]                   | 🟠 Studiare |
+| [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/03 - Utility Demand function and Pricing - DME\|03 - Utility Demand function and Pricing - DME]]                   | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/04 - Theory of Organization and Supply Regulation - DME\|04 - Theory of Organization and Supply Regulation - DME]] | 🟢 Fatto    |
-| [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/06 - Public Private Partnership - DME.md\|06 - Public Private Partnership - DME]]                                     | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Notes/06 - Public Private Partnership - DME\|06 - Public Private Partnership - DME]]                                     | 🪶 Scrivere |
 
 { .block-language-dataview}
 
@@ -128,9 +127,9 @@ ___
 ## ✍️ Workshop
 
 
-| File                                                                                                                                                                       | Stato   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Workshop/Grand Paris Express Line 15 - DME.md\|Grand Paris Express Line 15 - DME]] | 🔴 Fare |
+| File                                                                                                                                                                       | Stato    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Workshop/Grand Paris Express Line 15 - DME\|Grand Paris Express Line 15 - DME]] | 🟢 Fatto |
 
 { .block-language-dataview}
 

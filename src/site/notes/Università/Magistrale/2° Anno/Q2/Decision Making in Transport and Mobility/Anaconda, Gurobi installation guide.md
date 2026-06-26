@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q2/decision-making-in-transport-and-mobility/anaconda-gurobi-installation-guide/"}
+{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q2/decision-making-in-transport-and-mobility/anaconda-gurobi-installation-guide/","dg-note-properties":{"aliases":null,"Tipo":"Tutorial","Stato":null,"Parents":["[[🧩 Decision Making in Transport and Mobility|🧩 DMTM]]"],"Children":null,"Siblings":null,"Cover":null,"tags":null}}
 ---
 
 # [[Università/Magistrale/2° Anno/Q2/Decision Making in Transport and Mobility/Anaconda, Gurobi installation guide\|Anaconda, Gurobi installation guide]]

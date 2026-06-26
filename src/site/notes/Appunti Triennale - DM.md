@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/appunti-triennale-dm/"}
+{"dg-publish":true,"permalink":"/appunti-triennale-dm/","dg-note-properties":{"aliases":null,"Tipo":null,"Stato":null,"Parents":null,"Children":null,"Siblings":null,"tags":null}}
 ---
 
 

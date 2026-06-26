@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eulerian-cycle/"}
+{"dg-publish":true,"permalink":"/eulerian-cycle/","dg-note-properties":{"aliases":["Eulerian circuit"],"Tipo":"Definizione","Stato":null,"Parents":null,"Children":null,"Siblings":["[[Eulerian path]]"],"tags":null}}
 ---
 
 # [[Eulerian cycle\|Eulerian cycle]]

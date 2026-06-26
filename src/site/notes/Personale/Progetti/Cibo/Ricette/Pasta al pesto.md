@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/progetti/cibo/ricette/pasta-al-pesto/"}
+{"dg-publish":true,"permalink":"/personale/progetti/cibo/ricette/pasta-al-pesto/","dg-note-properties":{"Tipo":"Ricetta","Autore":null,"Portata":"Primo","TempoPreparazione":"10 min","TempoCottura":"10 min","Difficoltà":"🟢","Ingredienti":["[[Pasta]]","[[Pesto]]","[[Personale/Progetti/Cibo/Ingredienti/Parmigiano\|Parmigiano]]"],"Porzioni":"1","Ultima_cucinata":"2024-11-21","Parents":null,"Siblings":null,"Children":["[[Pasta al pesto e pomodorini - fredda]]","[[Pasta al pesto e pomodorini - calda]]"],"Cover":"[[Pasta al pesto Obsidian Cover.png]]"}}
 ---
 
 # [[Personale/Progetti/Cibo/Ricette/Pasta al pesto\|Pasta al pesto]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/triennale/3-anno/2-semestre/analisi-ambientale-dei-sistemi-urbani-e-territoriali/08-partecipazione/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/triennale/3-anno/2-semestre/analisi-ambientale-dei-sistemi-urbani-e-territoriali/08-partecipazione/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"ANASUT","Tipo":"T","Stato":"🟢 Fatto","Slide":null,"PDF":null,"Parents":["[[👨‍🌾 Analisi ambientale dei sistemi urbani e territoriali]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/08 - Partecipazione\|08 - Partecipazione]]
@@ -77,7 +77,7 @@ La numerosità degli incontri è immaginata in un'ottica incrementale di produzi
 
 #### Planning for real
 
-A differenza del [[#Microplanning]] si costruisce in pochissimi incontri. Tendenzialmente è realizzabile in un incontro. Potenzialmente, molte più persone sono coinvolgibili
+A differenza del [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/08 - Partecipazione#Microplanning\|#Microplanning]] si costruisce in pochissimi incontri. Tendenzialmente è realizzabile in un incontro. Potenzialmente, molte più persone sono coinvolgibili
 
 Si può creare un plastico che gli abitanti possono modificare fisicamente. Non è tanto una tecnica verbale ma restituisce centralità all'azione, al gesto.
 
@@ -137,7 +137,7 @@ Nello shadowing non si interagisce verbalmente.
 
 #### Osservazione diretta con le persone
 
-Come [[#Osservazione diretta]] che però prevede il coinvolgimento anche delle persone che frequentano i luoghi. 
+Come [[Università/Triennale/3° Anno/2° Semestre/Analisi Ambientale dei sistemi urbani e territoriali/08 - Partecipazione#Osservazione diretta\|#Osservazione diretta]] che però prevede il coinvolgimento anche delle persone che frequentano i luoghi. 
 
 ![2024-05-16 - Tecniche di coinvolgimento - Mappa ANASUT.excalidraw.png](/img/user/Excalidraw/2024-05-16%20-%20Tecniche%20di%20coinvolgimento%20-%20Mappa%20ANASUT.excalidraw.png)
 

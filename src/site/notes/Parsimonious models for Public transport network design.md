@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/parsimonious-models-for-public-transport-network-design/"}
+{"dg-publish":true,"permalink":"/parsimonious-models-for-public-transport-network-design/","dg-note-properties":{"aliases":["Parsimonious models"],"Tipo":"Definizione","Stato":null,"Parents":["[[02 - Public Transport - SM]]"],"Children":null,"Siblings":null,"tags":null}}
 ---
 
 # [[Parsimonious models for Public transport network design\|Parsimonious models for Public transport network design]]
@@ -15,11 +15,11 @@ Parsimonious models carry various advantages:
 
 for these reasons they are often used to analyse large transportation systems and can be physically realistic and accurate
 
-They rely on a [[#Continuous approximation method]]:
+They rely on a [[Parsimonious models for Public transport network design#Continuous approximation method\|#Continuous approximation method]]:
 
 ## Continuous approximation method
 
-This method allows for the development of [[#Parsimonious models]].
+This method allows for the development of [[Parsimonious models for Public transport network design#Parsimonious models\|#Parsimonious models]].
 
 It consists in solving an optimisation problem in which we try to minimise the total cost defined as:
 $$
@@ -49,17 +49,17 @@ We will start by considering a 1 dimensional system with the following character
 - $H:$ vehicles headway (time distance between 2 consecutive vehicles)
 
 We need to find the total cost of travelling along the line. We have to distinguish:
-- [[#User cost]]
-- [[#Operator cost]]
+- [[Parsimonious models for Public transport network design#User cost\|#User cost]]
+- [[Parsimonious models for Public transport network design#Operator cost\|#Operator cost]]
 
 #### User cost
 
 The user cost can be decomposed in 3 components, relating to time:
-- $A$ - [[#Access time]]
-- $W$ - [[#Waiting time]]
-- $IVTT$ - [[#In Vehicle Travel Time]]
+- $A$ - [[Parsimonious models for Public transport network design#Access time\|#Access time]]
+- $W$ - [[Parsimonious models for Public transport network design#Waiting time\|#Waiting time]]
+- $IVTT$ - [[Parsimonious models for Public transport network design#In Vehicle Travel Time\|#In Vehicle Travel Time]]
 
-From that we will calculate the [[#User Generalised Cost]], as:
+From that we will calculate the [[Parsimonious models for Public transport network design#User Generalised Cost\|#User Generalised Cost]], as:
 $$
 GC = \beta [A + W + IVTT] + \theta
 $$
@@ -76,55 +76,7 @@ The **Access time** is the time it take the passenger to get from their origin t
 Imagine we have a stretch of line like in the diagram:
 
 ![Parsimonious models for Public transport network design 2025-03-12 18.04.16.excalidraw.png](/img/user/allegati/Parsimonious%20models%20for%20Public%20transport%20network%20design%202025-03-12%2018.04.16.excalidraw.png)
-
-
-Ignoring the transversal distance between the start of the jurney and the closest stop (which cannot be influenced by changing the decision variable), we are interested in the distance that a passenger has to travel to reach the closest stop.
-
-This distance could have any value between $0$ and $\dfrac{s}{2}$. 
-
-Considering the worst case, in which every user has to walk at least $\frac{s}{2}$, the Access time is:
-
-```ad-Teo
-title: Access Time (A)
-
-$
-A = \frac{s}{2v_{w}}
-$
-
-```
-
-
-###### Waiting time
-
-The **waiting time** is the time a generic passenger has to wait at a bus stop before the bus arrives. 
-
-The extreme cases are:
-- The bus arrives exactly at the same time as the user, then the waiting time is $W =0$
-- The bus leaves exactly as the user arrives, than they have to wait for the next bus: $W = H$
-
-The average waiting time is:
-```ad-Teo
-title: Waiting time (W)
-
-$
-W = \frac{H}{2}
-$
-
-```
-
-
-
-###### In Vehicle Travel time
-
-The in vehicle travel time is the time that the generic passenger spends in the vehicle for their trip. It accounts for dwell times and acceleration. It can be divided in 3 components:
-1. Time spent travelling at constant speed
-2. Time spent accelerating and decelerating
-3. Time spent for passengers boarding and alighting
-
-To evaluate these, it's useful to keep in mind a generic trajectory for a bus stopping at a bus stop:
-
-![Parsimonious models for Public transport network design 2025-03-12 18.21.30.excalidraw.png](/img/user/allegati/Parsimonious%20models%20for%20Public%20transport%20network%20design%202025-03-12%2018.21.30.excalidraw.png)
-
+[[allegati/Parsimonious models for Public transport network design 2025-03-12 18.21.30.excalidraw\|🖋 Edit in Excalidraw]]%%
 
 **1 - Time spent travelling at constant speed**
 
@@ -198,7 +150,7 @@ $$
 
 ###### Time perception
 
-The calculations done in the previous sections does not account for the fact that users perceive time differently depending on what they're doing. Therefore, when calculating the [[#User Generalised Cost]] we should account for this factor. The following table shows average and ranges values for time perception at different phases of the trip:
+The calculations done in the previous sections does not account for the fact that users perceive time differently depending on what they're doing. Therefore, when calculating the [[Parsimonious models for Public transport network design#User Generalised Cost\|#User Generalised Cost]] we should account for this factor. The following table shows average and ranges values for time perception at different phases of the trip:
 
 ![Schermata 2025-03-12 alle 18.49.30.png](/img/user/allegati/Schermata%202025-03-12%20alle%2018.49.30.png)
 
@@ -206,9 +158,9 @@ The calculations done in the previous sections does not account for the fact tha
 #### Operator costs
 
 The operator costs include mainly these components:
-- $L$ - [[#Corridor length]]
-- V - Distance travelled by the fleet per hour ([[#Operation]])
-- M - [[#Fleet size]] (number of vehicles) and Work force per hour
+- $L$ - [[Parsimonious models for Public transport network design#Corridor length\|#Corridor length]]
+- V - Distance travelled by the fleet per hour ([[Parsimonious models for Public transport network design#Operation\|#Operation]])
+- M - [[Parsimonious models for Public transport network design#Fleet size\|#Fleet size]] (number of vehicles) and Work force per hour
 
 After having calculated every one of the mentioned components, we can calculate the generalised operator cost:
 $$
@@ -239,7 +191,7 @@ $$
 
 ##### Fleet size
 
-The fleet size is given by the total amount of vehicles. In order to get this, we need the time spent by one vehicle to travel the whole corridor and divide it by the headway. The time spent by one vehicle is given by the corridor length over the [[#Commercial speed]].
+The fleet size is given by the total amount of vehicles. In order to get this, we need the time spent by one vehicle to travel the whole corridor and divide it by the headway. The time spent by one vehicle is given by the corridor length over the [[Parsimonious models for Public transport network design#Commercial speed\|#Commercial speed]].
 $$
 M = \frac{\frac{2L}{v_{c}}}{H} = \frac{V}{v_{c}}
 $$
@@ -249,7 +201,7 @@ $$
 
 The commercial speed is the average speed of a vehicle in a transportation line, accounting for each slow down.
 
-It's given by the total distance in the corridor over the time spent in the corridor (the [[#In Vehicle Travel time]] calculated for a trip length of $l =2L$).
+It's given by the total distance in the corridor over the time spent in the corridor (the [[Parsimonious models for Public transport network design#In Vehicle Travel time\|#In Vehicle Travel time]] calculated for a trip length of $l =2L$).
 
 $$
 v_{c} = \frac{2L}{IVTT(l=2L)} = \frac{2L}{\dfrac{2L}{v} + \dfrac{2L}{s} \tau + \Lambda H \tau'}
@@ -273,7 +225,7 @@ where
 
 #### 2D line
 
-A similar problem to the [[#1D line]] can be defined for a 2D line, where transfers between lines are possible.
+A similar problem to the [[Parsimonious models for Public transport network design#1D line\|#1D line]] can be defined for a 2D line, where transfers between lines are possible.
 
 The easiest example is a grid system:
 

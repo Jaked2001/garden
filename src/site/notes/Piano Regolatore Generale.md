@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/piano-regolatore-generale/","tags":["Urbanistica"]}
+{"dg-publish":true,"permalink":"/piano-regolatore-generale/","tags":["Urbanistica"],"dg-note-properties":{"aliases":["PRG"],"Tipo":null,"Stato":null,"PDF":["[5. Piano Urbano Regolatore - Salzano.pdf](/img/user/Universit%C3%A0/Triennale/3%C2%B0%20Anno/2%C2%B0%20Semestre/Analisi%20Ambientale%20dei%20sistemi%20urbani%20e%20territoriali/allegati/5.%20Piano%20Urbano%20Regolatore%20-%20Salzano.pdf)"],"Parents":["[[Legge 17 agosto 1942, n. 1150\|Legge 17 agosto 1942, n. 1150]]"],"Children":null,"Siblings":null,"tags":["Urbanistica"]}}
 ---
 
 # [[Piano Regolatore Generale\|Piano Regolatore Generale]]
@@ -35,7 +35,7 @@ Il PRG è attuato secondo 2 strade:
 
 ## Altri piani
 
-Oltre al PRG, esistono tutta una serie di altri strumenti a vari livelli. Ci sono infatti piani di livello territoriale (regionale) che sono [[#Piani generali]] oppure [[#Piani settoriali]]
+Oltre al PRG, esistono tutta una serie di altri strumenti a vari livelli. Ci sono infatti piani di livello territoriale (regionale) che sono [[Piano Regolatore Generale#Piani generali\|#Piani generali]] oppure [[Piano Regolatore Generale#Piani settoriali\|#Piani settoriali]]
 
 Un piano comunale non può contraddire un piano territoriale secondo un principio gerarchico.
 
@@ -87,8 +87,8 @@ Le cartografie sono chiaramente essenziali: il PRG si riferisce a un territorio 
 Allo stesso tempo però è necessario a supporto delle cartografie una forma testuale che detti i contenuti normativi relativamente alle aree individuate nella cartografia.
 
 In particolare contiene:
-- [[#Elaborati prescrittivi]]
-- [[#Norme tecniche di attuazione]]
+- [[Piano Regolatore Generale#Elaborati prescrittivi\|#Elaborati prescrittivi]]
+- [[Piano Regolatore Generale#Norme tecniche di attuazione\|#Norme tecniche di attuazione]]
 
 Per maggiori riferimenti sul [[Piano Regolatore Generale\|PRG]] di Roma, consultare [[Piano Regolatore Generale di Roma\|Piano Regolatore Generale di Roma]].
 
@@ -98,4 +98,4 @@ Si tratta della raccolta cartografica del [[Piano Regolatore Generale\|PRG]]
 
 ### Norme tecniche di attuazione
 
-Si tratta di un documento testuale che esplicita tutti i contenuti normativi del [[Piano Regolatore Generale|PRG]].
+Si tratta di un documento testuale che esplicita tutti i contenuti normativi del [[Piano Regolatore Generale\|PRG]].

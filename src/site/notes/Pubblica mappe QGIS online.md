@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pubblica-mappe-qgis-online/"}
+{"dg-publish":true,"permalink":"/pubblica-mappe-qgis-online/","dg-note-properties":{"aliases":null,"Tipo":"Tutorial","Stato":null,"Parents":["[[QGIS]]"],"Children":null,"Siblings":null,"tags":null}}
 ---
 
 # [[Pubblica mappe QGIS online\|Pubblica mappe QGIS online]]

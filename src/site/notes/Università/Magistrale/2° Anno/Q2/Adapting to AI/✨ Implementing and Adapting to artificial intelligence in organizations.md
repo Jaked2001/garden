@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q2/adapting-to-ai/implementing-and-adapting-to-artificial-intelligence-in-organizations/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/2-anno/q2/adapting-to-ai/implementing-and-adapting-to-artificial-intelligence-in-organizations/","tags":["UNI"],"dg-note-properties":{"aliases":["✨ IAAIO"],"Materia":"IAAIO","Professore":null,"Tipo":"Corso","Stato":"🟢","Voto":"6.2","Anno":2,"Semestre":1.2,"Laurea":"Master","Parents":["[[Esami]]"],"Children":null,"Siblings":null,"Cover":null,"tags":["UNI"]}}
 ---
 
 
@@ -69,8 +69,8 @@ Find out more about their motivation to introduce AI and their current challenge
 | --------------- | ---- | ---- |
 | Exam            |      | 5.5  |
 | Presentation    |      | 8.6  |
-| Report          |      |      |
-| **Final grade** |      |      |
+| Report          |      | 6.8  |
+| **Final grade** |      | 6.2  |
 
 
 # ✔️ To-Do
@@ -96,7 +96,24 @@ ___
 
 # 👉🏻 Course Index
 
-![[IAAIO Teoria.base]]
+
+```base
+filters:
+  and:
+    - Materia == "IAAIO"
+    - Tipo == "T"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Stato
+    sort:
+      - property: file.name
+        direction: ASC
+
+```
+
 
 
 
@@ -106,10 +123,10 @@ ___
 
 ## ✍️ Assignments
 
-| File                                                                                                                            | Stato    |
-| ------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [[Università/Magistrale/2° Anno/Q2/Adapting to AI/Assgm - Implement AI - IAAIO\|Assgm - Implement AI - IAAIO]]               | 🟢 Fatto |
-| [[Università/Magistrale/2° Anno/Q2/Adapting to AI/Assgm - Report Presentation - IAAIO\|Assgm - Report Presentation - IAAIO]] | 🟢 Fatto |
+| File                                                                                                                            | Stato    | Voto    |
+| ------------------------------------------------------------------------------------------------------------------------------- | -------- | ------- |
+| [[Università/Magistrale/2° Anno/Q2/Adapting to AI/Assgm - Implement AI - IAAIO\|Assgm - Implement AI - IAAIO]]               | 🟢 Fatto | 58/85   |
+| [[Università/Magistrale/2° Anno/Q2/Adapting to AI/Assgm - Report Presentation - IAAIO\|Assgm - Report Presentation - IAAIO]] | 🟢 Fatto | 12.9/15 |
 
 { .block-language-dataview}
 

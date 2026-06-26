@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/introduction-to-supply-chain/notes/02-procurement-and-planning-isc/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/introduction-to-supply-chain/notes/02-procurement-and-planning-isc/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Materia":"ISC","Tipo":"T","Stato":"🟠 Studiare","Slide":["[2 - Supply planning - SC.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Introduction%20to%20Supply%20Chain/Notes/Allegati/2%20-%20Supply%20planning%20-%20SC.pdf)"],"PDF":null,"Parents":["[[🚚 Introduction to Supply Chain|🚚 SC]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/02 - Procurement and Planning - ISC\|02 - Procurement and Planning - ISC]]
 
-[[2 - Supply planning - SC.pdf]]
+[2 - Supply planning - SC.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Introduction%20to%20Supply%20Chain/Notes/Allegati/2%20-%20Supply%20planning%20-%20SC.pdf)
 
 ## Customization and Postponement
 
@@ -213,10 +213,10 @@ Characteristics:
 ## S&OP Meetings
 
 It's carried out through 4 meetings per month:
-- Week 1 - [[#S&OP - Initiatives]]
-- Week 2 - [[#S&OP - Consolidation]]
-- Week 3 - [[#S&OP - Supply]]
-- Week 4 - [[#S&OP - Category review]]
+- Week 1 - [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/02 - Procurement and Planning - ISC#S&OP - Initiatives\|#S&OP - Initiatives]]
+- Week 2 - [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/02 - Procurement and Planning - ISC#S&OP - Consolidation\|#S&OP - Consolidation]]
+- Week 3 - [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/02 - Procurement and Planning - ISC#S&OP - Supply\|#S&OP - Supply]]
+- Week 4 - [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/Notes/02 - Procurement and Planning - ISC#S&OP - Category review\|#S&OP - Category review]]
 
 ### S&OP - Initiatives
 
@@ -233,7 +233,7 @@ Every one should be on the same page, but everyone is separated
 
 Meeting 2: **CONSOLIDATION** meetings:
 
-![Schermata 2024-10-21 alle 18.55.21.png|450](/img/user/Schermata%202024-10-21%20alle%2018.55.21.png)
+![Schermata 2024-10-21 alle 18.55.21.png\|450](/img/user/Schermata%202024-10-21%20alle%2018.55.21.png)
 
 It's the moment to take decisions. 
 
@@ -243,14 +243,14 @@ We bring information together and come out with numbers. Then we reach an agreem
 
 Meeting 3: **SUPPLY**
 
-![Schermata 2024-10-21 alle 18.56.31.png|450](/img/user/Schermata%202024-10-21%20alle%2018.56.31.png)
+![Schermata 2024-10-21 alle 18.56.31.png\|450](/img/user/Schermata%202024-10-21%20alle%2018.56.31.png)
 
 
 ### S&OP - Category review
 
 Meeting 4: **CATEGORY REVIEW**
 
-![Schermata 2024-10-21 alle 18.57.19.png|450](/img/user/Schermata%202024-10-21%20alle%2018.57.19.png)
+![Schermata 2024-10-21 alle 18.57.19.png\|450](/img/user/Schermata%202024-10-21%20alle%2018.57.19.png)
 
 
 summary:

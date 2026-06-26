@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personale/progetti/cibo/filetto-di-salmone-in-padella/"}
+{"dg-publish":true,"permalink":"/personale/progetti/cibo/filetto-di-salmone-in-padella/","dg-note-properties":{"aliases":null,"Tipo":"Ricetta","URL":"https://ricette.giallozafferano.it/Filetto-di-salmone-in-padella.html","Autore":["[[GialloZafferano]]"],"Portata":"Secondo","TempoPreparazione":"10 min","TempoCottura":"5 min","Difficoltà":"🟢","Porzioni":"2","Ingredienti":null,"Parents":["[[_Ricette]]"],"Children":null,"Siblings":null,"Ultimo_cucinato":null}}
 ---
 
 # [[Personale/Progetti/Cibo/Filetto di salmone in padella\|Filetto di salmone in padella]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/introduction-to-supply-chain/diario-introduction-to-supply-chain/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/introduction-to-supply-chain/diario-introduction-to-supply-chain/","tags":["UNI"],"dg-note-properties":{"aliases":["🚚📔 Diario ISC"],"Tipo":"Diario","Materia":"SC","Parents":["[[🚚 Introduction to Supply Chain|🚚 ISC]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 # [[Università/Magistrale/1° Anno/1° Semestre/Introduction to Supply Chain/🚚📔 Diario Introduction to Supply Chain\|🚚📔 Diario Introduction to Supply Chain]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/data-analysis-in-transport-systems/data-analysis-in-transport-systems/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/data-analysis-in-transport-systems/data-analysis-in-transport-systems/","tags":["UNI"],"dg-note-properties":{"aliases":["📊 DATS","Data Analysis in Transport Systems","DATS"],"Materia":"DATS","Professore":"[[Lídia Montero\|Lídia Montero]]","Tipo":"Corso","Stato":"🟢","Voto":"7.6","Anno":1,"Semestre":1,"Laurea":"Master","Parents":["[[Esami]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 
@@ -18,10 +18,10 @@
 - factominer book < husson, http://factominer.free.fr/
 
 A book that may actually be useful (in Italian):
-- [[Dispensa di Analisi dei Dati - Stefano Bussolon.pdf]]
+- [Dispensa di Analisi dei Dati - Stefano Bussolon.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Data%20Analysis%20in%20Transport%20Systems/Allegati/Dispensa%20di%20Analisi%20dei%20Dati%20-%20Stefano%20Bussolon.pdf)
 
 
-**🅿️ Program:** [[1.1 - Data Analysis in Transport Systems - M5.pdf]]
+**🅿️ Program:** [1.1 - Data Analysis in Transport Systems - M5.pdf](/img/user/1.1%20-%20Data%20Analysis%20in%20Transport%20Systems%20-%20M5.pdf)
 **🔑 Atenea:** https://atenea.upc.edu/course/search.php 250MUM013 - DATS2425
 
 **🕰 Schedule:**
@@ -126,11 +126,11 @@ ___
 
 | File                                                                                                                                                                                               | Stato       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS.md\|02 - Exploratory Data Analysis - DATS]]                             | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02.1 - Input Data Analysis - DATS.md\|02.1 - Input Data Analysis - DATS]]                                     | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02.2 - Missing Data Treatment - DATS.md\|02.2 - Missing Data Treatment - DATS]]                               | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/03 - Computational Statistical Inference - DATS.md\|03 - Computational Statistical Inference - DATS]]         | 🪶 Scrivere |
-| [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/04 - Statistical modeling through regression - DATS.md\|04 - Statistical modeling through regression - DATS]] | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02 - Exploratory Data Analysis - DATS\|02 - Exploratory Data Analysis - DATS]]                             | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02.1 - Input Data Analysis - DATS\|02.1 - Input Data Analysis - DATS]]                                     | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/02.2 - Missing Data Treatment - DATS\|02.2 - Missing Data Treatment - DATS]]                               | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/03 - Computational Statistical Inference - DATS\|03 - Computational Statistical Inference - DATS]]         | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/04 - Statistical modeling through regression - DATS\|04 - Statistical modeling through regression - DATS]] | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/Outlier\|Outlier]]                                                                                         | 🟢 Fatto    |
 | [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/Shapiro Wilk test\|Shapiro Wilk test]]                                                                     | 🟢 Fatto    |
 
@@ -169,7 +169,7 @@ Distributions we will see:
 | File                                                                                                                                                                                                                               | Stato       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/LabSess 1 - 2024-10-03 - Introduction to RStudio - DATS\|LabSess 1 - 2024-10-03 - Introduction to RStudio - DATS]]                         | 🟢 Fatto    |
-| [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/LabSess 2 - 2024-10-24 - - DATS.md\|LabSess 2 - 2024-10-24 - - DATS]]                                                                         | 🪶 Scrivere |
+| [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/LabSess 2 - 2024-10-24 - - DATS\|LabSess 2 - 2024-10-24 - - DATS]]                                                                         | 🪶 Scrivere |
 | [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Notes/LabSess 3 - 2024-10-31 - Computational Statistical Inference - DATS\|LabSess 3 - 2024-10-31 - Computational Statistical Inference - DATS]] | 🟢 Fatto    |
 
 { .block-language-dataview}
@@ -183,7 +183,7 @@ ___
 | File                                                                                                                                                                                                                                         | Stato    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Assgn/Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS\|Assgm 1 - Input Data Analysis and Univariant Distribution Fitting - DATS]] | 🟢 Fatto |
-| [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Assgn/Assgm 2 - BOH - DATS.md\|Assgm 2 - BOH - DATS]]                                                                                                         | 🔴 Fare  |
+| [[Università/Magistrale/1° Anno/1° Semestre/Data Analysis in Transport Systems/Assgn/Assgm 2 - BOH - DATS\|Assgm 2 - BOH - DATS]]                                                                                                         | 🔴 Fare  |
 
 { .block-language-dataview}
 

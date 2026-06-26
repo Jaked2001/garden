@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/confidence-interval/"}
+{"dg-publish":true,"permalink":"/confidence-interval/","dg-note-properties":{"aliases":["CI"],"Tipo":"Definizione","Stato":null,"Parents":null,"Children":["[[Standard Normal Distribution\|Standard Normal Distribution]]"],"Siblings":null,"tags":null}}
 ---
 
 # [[Confidence Interval\|Confidence Interval]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/decision-making-and-economy-in-urban-mobility/exams/01-midterm-exam-dme/","tags":["UNI"]}
+{"dg-publish":true,"permalink":"/universita/magistrale/1-anno/1-semestre/decision-making-and-economy-in-urban-mobility/exams/01-midterm-exam-dme/","tags":["UNI"],"dg-note-properties":{"aliases":null,"Tipo":"Esame","Data":null,"Materia":"DME","Stato":"🟢 Fatto","PDF":["[1 - MidTerm - DME 1.pdf](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Decision%20Making%20&%20Economy%20in%20Urban%20Mobility/Exams/Allegati/1%20-%20MidTerm%20-%20DME%201.pdf)"],"Parents":["[[💼 Decision making & Economy in Urban Mobility|💼 DME]]"],"Children":null,"Siblings":null,"tags":["UNI"]}}
 ---
 
 
@@ -25,34 +25,7 @@ No is not. With increasing return of scale, production grows faster than the pro
 ##### 1.d) Represent the short-term average cost curve and marginal cost curve.
 
 ![01 - Midterm Exam - DME 2024-12-04 11.47.19.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Decision%20Making%20&%20Economy%20in%20Urban%20Mobility/Exams/Allegati/01%20-%20Midterm%20Exam%20-%20DME%202024-12-04%2011.47.19.excalidraw.png)
-
-
-
-## Problem 2
-
-**Let’s suppose an economy with only two types of goods, $x_{1}$ (with a market price of $p_{1}$) and $x_{2}$ (a market price of $p_{2}$). The utility function of a consumer is as follows: $u(x_{1}, x_{2})$ and can not spend more than $m$. Indicate graphically the solution of his/her election (Theory of Election).**
-
-![01 - Midterm Exam - DME 2024-12-04 11.51.32.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Decision%20Making%20&%20Economy%20in%20Urban%20Mobility/Exams/Allegati/01%20-%20Midterm%20Exam%20-%20DME%202024-12-04%2011.51.32.excalidraw.png)
-
-
-In the graph, the black straight line represent the budget. The curved lines represent 3 possible utility functions such that:
-$$
-u_{1} < u^{*} < u_{2}
-$$
-The optimal condition is given by utility function $u^{*}$. The election of the user will be: $(x_{1}^{*}, x_{2}^{*})$
-
-
-## Problem 3 - Road pricing
-
-##### 3.a) Let’s suppose a road without congestion. “g” is the generalized cost per user, “q” is the traffic flow, “AC” the average cost and “c” the marginal cost. Indicate in the graph the optimal price of the road to maximize the social welfare, the consumer surplus and the producer surplus.
-
-![01 - Midterm Exam - DME 2024-12-04 11.59.42.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Decision%20Making%20&%20Economy%20in%20Urban%20Mobility/Exams/Allegati/01%20-%20Midterm%20Exam%20-%20DME%202024-12-04%2011.59.42.excalidraw.png)
-
-
-##### Let’s assume now a road with congestion problems. Represent graphically 1) the average cost, marginal cost, social marginal cost and the optimum level of traffic flow and user’s cost to maximize the social welfare and 2) the toll (or tax) to charge to road user’s in order to reach this optimal point
-
-![01 - Midterm Exam - DME 2024-12-04 12.03.29.excalidraw.png](/img/user/Universit%C3%A0/Magistrale/1%C2%B0%20Anno/1%C2%B0%20Semestre/Decision%20Making%20&%20Economy%20in%20Urban%20Mobility/Exams/Allegati/01%20-%20Midterm%20Exam%20-%20DME%202024-12-04%2012.03.29.excalidraw.png)
-
+[[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Exams/Allegati/01 - Midterm Exam - DME 2024-12-04 11.51.32.excalidraw\|🖋 Edit in Excalidraw]][[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Exams/Allegati/01 - Midterm Exam - DME 2024-12-04 11.59.42.excalidraw\|🖋 Edit in Excalidraw]][[Università/Magistrale/1° Anno/1° Semestre/Decision Making & Economy in Urban Mobility/Exams/Allegati/01 - Midterm Exam - DME 2024-12-04 12.03.29.excalidraw\|🖋 Edit in Excalidraw]]%%
 
 
 ## Problem 4

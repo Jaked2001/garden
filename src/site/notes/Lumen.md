@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lumen/"}
+{"dg-publish":true,"permalink":"/lumen/","dg-note-properties":{"aliases":null,"Tipo":"Note","Stato":null,"Parents":null,"Children":["[[Lumen vs Lux]]"],"Siblings":["[[Lux]]"],"tags":null}}
 ---
 
 # [[Lumen\|Lumen]]
